@@ -6,8 +6,6 @@ function toggleMateria(card){
 }
 
 function renderHeader(){
-  document.getElementById('topo-data').textContent = content.topoData;
-
   document.getElementById('logo').innerHTML =
     content.logoPrimeiroNome + ' <span>' + content.logoSobrenome + '</span>';
 

@@ -139,7 +139,6 @@ function addRedeItem(item){
 function renderInit(){
   document.getElementById('f-logo-primeiro').value = content.logoPrimeiroNome;
   document.getElementById('f-logo-sobrenome').value = content.logoSobrenome;
-  document.getElementById('f-topo-data').value = content.topoData;
 
   document.getElementById('f-hero-kicker').value = content.hero.kicker;
   document.getElementById('f-hero-titulo').value = content.hero.titulo;
@@ -289,7 +288,6 @@ async function publicar(){
 
   try{
     var payload = {
-      topoData: document.getElementById('f-topo-data').value,
       logoPrimeiroNome: document.getElementById('f-logo-primeiro').value,
       logoSobrenome: document.getElementById('f-logo-sobrenome').value,
       nav: content.nav,

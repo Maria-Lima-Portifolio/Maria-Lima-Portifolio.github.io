@@ -26,16 +26,6 @@ header{
   background:var(--papel);
   position:sticky;top:0;z-index:50;
 }
-.topo-data{
-  font-family:'Inter',sans-serif;
-  font-size:11px;
-  letter-spacing:1.5px;
-  text-transform:uppercase;
-  color:var(--cinza-medio);
-  text-align:center;
-  padding:8px 0;
-  border-bottom:1px solid var(--cinza-claro);
-}
 .header-main{
   display:flex;justify-content:space-between;align-items:center;
   padding:20px 24px;

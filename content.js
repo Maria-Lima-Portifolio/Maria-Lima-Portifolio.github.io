@@ -7,8 +7,6 @@
 
 const content = {
 
-  topoData: "Portfólio Jornalístico — Atualizado em Julho de 2026",
-
   logoPrimeiroNome: "Nome",
   logoSobrenome: "Sobrenome",
 
