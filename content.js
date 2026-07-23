@@ -422,17 +422,17 @@ const content = {
     }
   ],
   "curriculo": {
-    "tituloSecao": "Currículo & Experiência",
+    "tituloSecao": "Currículo & Experiências",
     "itens": [
       {
-        "data": "2024 — Atual",
-        "titulo": "Cargo atual, Empresa/Veículo",
-        "descricao": "Descrição breve das responsabilidades e principais entregas nessa posição."
+        "data": "07/2025 - atual",
+        "titulo": "Associação Paulista de Medicina (APM) - Estagiária de Jornalismo",
+        "descricao": "Responsável pela cobertura de eventos e do campeonato esportivo da instituição, além da produção de matérias e entrevistas para site e revista. Minhas atividades incluem também a criação das newsletters semanais, atualização do site e suporte nas redes sociais."
       },
       {
-        "data": "2022 — 2024",
-        "titulo": "Cargo anterior, Empresa/Veículo",
-        "descricao": "Descrição breve das responsabilidades e principais entregas nessa posição."
+        "data": "05/2024 - 07/2025",
+        "titulo": "Cultura10 Núcleo de Apoio ao Estudante - Estagiária de redação",
+        "descricao": "Redação e adaptação de notícias e textos educativos voltados para crianças de escolas municipais. Conteúdos pautados de acordo com as competências da Base Nacional Comum Curricular (BNCC)."
       },
       {
         "data": "Formação",
