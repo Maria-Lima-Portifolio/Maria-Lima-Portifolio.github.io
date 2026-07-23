@@ -459,7 +459,7 @@ const content = {
     "itens": [
       {
         "titulo": " Jornalismo Esportivo ",
-        "instituicao": "Curso EDC Comunica - curso extracurricular com foco em jornalismo esportivo.",
+        "instituicao": " EDC Comunica - Curso extracurricular com foco em jornalismo esportivo.",
         "ano": "2025"
       },
       {
