@@ -14,9 +14,9 @@ function toggleMateria(card){
 
 function toggleVerTodas(btn){
   var secaoEl = btn.closest('.secao');
-  var ocultos = secaoEl.querySelectorAll('.materia.oculta');
+  var extras = secaoEl.querySelectorAll('.materia.extra');
   var estaMostrandoTudo = btn.dataset.aberto === '1';
-  ocultos.forEach(function(c){ c.classList.toggle('oculta', estaMostrandoTudo); });
+  extras.forEach(function(c){ c.classList.toggle('oculta', estaMostrandoTudo); });
   btn.dataset.aberto = estaMostrandoTudo ? '0' : '1';
   btn.textContent = estaMostrandoTudo ? btn.dataset.verTexto : 'Ver menos';
 }
@@ -49,7 +49,7 @@ function renderHero(){
 function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
   var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
   return (
-    '<div class="materia' + (oculta ? ' oculta' : '') + '" onclick="toggleMateria(this)">' +
+    '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)">' +
       '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' +
       '<div class="materia-corpo">' +
         '<span class="materia-tag">' + escapeHtml(item.tag) + '</span>' +
