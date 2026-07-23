@@ -129,6 +129,28 @@ const content = {
           "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
         ],
         "link": "https://www.apm.org.br/cenario-atual-do-trabalho-medico-na-saude-suplementar-e-destaque-no-congresso-da-amb/"
+      },
+      {
+        "tag": "APM - TERTÚLIA",
+        "capaUrl": "https://www.apm.org.br/wp-content/uploads/1-170.png",
+        "capaAlt": "Tertúlia de junho da AMSP traz curiosidades pitorescas da história da Medicina",
+        "titulo": "Tertúlia de junho da AMSP traz curiosidades pitorescas da história da Medicina",
+        "resumo": "Apresentação foi realizada pelo 2° ocupante da cadeira 71, Lybio José Martire Júnior",
+        "textoCompleto": [
+          "Na última quarta-feira, 10 de junho, a Academia de Medicina de São Paulo (AMSP) promoveu mais uma edição da sua tradicional tertúlia. O evento ocorreu de maneira híbrida, realizado na sede da Associação Paulista de Medicina. O convidado desta edição foi o acadêmico Lybio José Martire Júnior, que abordou o tema “Curiosidades Pitorescas da História da Medicina”.",
+          "Hélio Begliomini, presidente da AMSP, deu início à sessão fazendo uma breve apresentação do palestrante. Segundo ocupante da cadeira 71, Lybio nasceu em São Paulo e graduou-se em 1980 pela Faculdade de Medicina de Itajubá (FMIt). Exerceu diversas funções na Sociedade Brasileira de Cirurgia Plástica – Regional de São Paulo (SBCP-SP), como membro da Comissão de Ética (1990–1993) e coordenador do curso oficial de médicos residentes (1995–1999).",
+          "Durante os anos de 1995 a 1999, Lybio também foi presidente do Departamento Científico da FMIt. Nessa instituição, idealizou e criou o “Acervo Histórico”, museu da faculdade disposto em vitrines. O médico é autor de vários trabalhos científicos apresentados em congressos no Brasil e no exterior, com artigos publicados em revistas nacionais e internacionais; e também proferiu, a convite, conferências em universidades brasileiras e estrangeiras.",
+          "O palestrante explicou que a história da Medicina é rica em curiosidades e fatos pitorescos, uma vez que a área acompanha toda a evolução do ser humano. E destacou que a cirurgia mais antiga descrita na história médica também tem seu lado peculiar, sendo um procedimento relatado na Índia por Sushruta Samhita, no século VI a.C. Naquela época, era comum aplicar a amputação do nariz como pena para os vencidos em batalhas ou para pessoas acusadas de prevaricação e outras faltas morais, deixando-as estigmatizadas pelo resto da vida.",
+          "Diante disso, os cirurgiões locais acabaram desenvolvendo uma técnica de transplante utilizando tecidos da região frontal para a reconstrução nasal, que ficou conhecida como “retalho indiano”. O palestrante ressaltou que esse tipo de mutilação ainda acontece nos dias de hoje, trazendo como exemplo o caso da jovem afegã Bibi Aisha, que teve o nariz e as orelhas arrancados pelo marido em 2009. Após a grande repercussão do caso, ela viajou para os Estados Unidos, onde passou pela colocação de uma prótese temporária e, posteriormente, pela reconstrução do nariz. Curiosamente, a base técnica para fazer a reconstrução permanece a mesma até hoje.",
+          "*Museu de Cera de Madame Tussauds e autocirurgia*",
+          "O Madame Tussauds é o museu de cera mais famoso do mundo, mas poucos sabem de sua origem ligada à Medicina. Por volta do século XVIII, era comum fazer modelos anatômicos de cera para estudos. Havia um médico suíço chamado Philippe Curtius que possuía grande habilidade na confecção desses moldes. Com o tempo, ele largou a Medicina para se dedicar exclusivamente à produção e exposição das peças.",
+          "Uma de suas funcionárias tinha uma filha chamada Anne-Marie Grosholtz, que futuramente viria a ser a Madame Tussauds. A jovem passou a se aperfeiçoar na arte com o médico, tornando-se ainda mais habilidosa do que ele. Ela chegou a modelar em vida figuras como o Rei Luís XVI, Maria Antonieta e outros nobres.",
+          "Tempos depois, durante a Revolução Francesa, Anne-Marie foi forçada a usar seu talento para criar máscaras mortuárias a partir das cabeças decepadas de aristocratas – incluindo seus antigos conhecidos da realeza, como a Princesa de Lamballe, além dos próprios reis já citados anteriormente.",
+          "Com a morte de Philippe Curtius, ela herdou o museu. Em 1795, casou-se com François Tussauds, tornando-se a Madame Tussauds e dando seu nome ao famoso museu localizado em Londres, no Reino Unido.",
+          "Ubaldino Gusmão Figueira, nascido em Vitória da Conquista (BA), formou-se no ano de 1932 pela Faculdade de Medicina de Minas Gerais. O fato pitoresco narrado por Lybio é que Ubaldino mudou-se para a cidade de Patos de Minas e, pouco tempo depois, em 1941, aos 34 anos, foi acometido por uma apendicite. Diante da urgência, ele próprio se operou, contando apenas com o auxílio de outro colega médico e de espelhos posicionados estrategicamente na sala de cirurgia. Foi uma autocirurgia realizada sob anestesia local, utilizando procaína.",
+          "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+        ],
+        "link": "https://www.apm.org.br/tertulia-de-junho-da-amsp-traz-curiosidades-pitorescas-da-historia-da-medicina/"
       }
     ]
   },
