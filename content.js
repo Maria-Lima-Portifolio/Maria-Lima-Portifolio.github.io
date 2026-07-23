@@ -46,7 +46,7 @@ const content = {
       "toggleTexto": "Ler matéria completa",
       "linkTexto": "Ver publicação original →",
       "verTodasTexto": "Ver todas as matérias",
-      "visiveis": 4,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -271,46 +271,62 @@ const content = {
     },
     {
       "id": "campeonatos",
-      "titulo": "Textos Campeonatos",
+      "titulo": "Futebol ",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todos os textos",
-      "visiveis": 4,
+      "visiveis": 3,
       "fundo": "campo",
       "fundoImagemUrl": "",
       "itens": [
         {
-          "tag": "Projeto / Programa",
-          "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+do+Projeto",
-          "capaAlt": "Nome do projeto ou programa apresentado",
-          "titulo": "Nome do projeto ou programa apresentado",
-          "resumo": "Descreva o projeto, seu papel (apresentação, roteiro, edição) e o contexto.",
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/1-3.png",
+          "capaAlt": "Guarulhos vence Taubaté e conquista título inédito do Campeonato de Futebol da AP",
+          "titulo": "Guarulhos vence Taubaté e conquista título inédito do Campeonato de Futebol da AP",
+          "resumo": "",
           "textoCompleto": [
-            "Detalhes completos sobre o projeto: contexto, papel desempenhado, resultados alcançados."
+            "No último sábado, 10 de janeiro, o cenário do futebol médico paulista ganhou um novo campeão. Em duelo realizado às 9h, Guarulhos e Taubaté decidiram a final da 10ª edição do Campeonato de Futebol da Associação Paulista de Medicina. O confronto colocava frente a frente a tradição do Taubaté, que buscava o tricampeonato, e a ansiedade de Guarulhos, que fazia sua estreia em uma final.",
+            "O primeiro tempo foi intenso e com muitas faltas, tendo domínio parcial da equipe de Guarulhos, que pressionou muito o time adversário, conseguindo criar chances claras de abrir o placar. A pressão surtiu efeito nos minutos finais do primeiro tempo, quando aos 42 minutos, após cruzamento preciso de Daniel Bernardes Junior, camisa 20, Gustavo Lustosa Neves, camisa 35, balançou as redes de cabeça, indo para o intervalo com vantagem no placar.",
+            "No segundo tempo, Guarulhos manteve a intensidade e ampliou a vantagem logo cedo. Luiz Felipe Bizareli, camisa 10, demonstrou categoria ao servir Enzo Crispiano Calheiros, camisa 22, com um passe de Trivela, que sem dificuldades, empurrou a bola para o fundo das redes, ampliando o placar.",
+            "Precisando do resultado, o Taubaté adiantou suas linhas e passou a pressionar, mas encontrou dificuldades para furar o bloqueio defensivo adversário. O golpe final veio após uma falha na saída de bola do Taubaté. Com a defesa exposta, o camisa 80, Lucas Kaczmarczyk do Carmo, recuperou a posse e acionou o camisa 18, José William Borges Osorio, que, com visão de jogo, colocou uma bola enfiada para Daniel Bernardes Junior, que com o gol aberto, carimbou a vitória do time de Guarulhos por 3 a 0, garantindo o título inédito.",
+            "Enzo Crispino Calheiros, da equipe vencedora, foi eleito o melhor jogador da final após uma atuação de gala, registrando um gol e uma assistência. O prêmio de melhor jogador do campeonato ficou com Lucas Vendas Maluf, do Taubaté. A artilharia ficou por conta de Bruno de Lazari, do ABC, isolado com 18 gols. João Vitor Machado Lara, da MED9, foi considerado o melhor goleiro da competição."
           ],
-          "link": "#"
+          "link": "https://www.hotelfazendaapm.com.br/blog/guarulhos-vence-taubate-e-conquista-titulo-inedito-do-campeonato-de-futebol-da-apm/"
         },
         {
-          "tag": "Colaboração",
-          "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+do+Projeto",
-          "capaAlt": "Outro trabalho ou parceria recente",
-          "titulo": "Outro trabalho ou parceria recente",
-          "resumo": "Descreva o projeto, seu papel e o contexto em que foi produzido.",
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/abc-x-sorocaba.png",
+          "capaAlt": "8ª rodada: Med9 vence por W.O e dispara na liderança, enquanto Santa Casa se isola na lanterna ",
+          "titulo": "8ª rodada: Med9 vence por W.O e dispara na liderança, enquanto Santa Casa se isola na lanterna ",
+          "resumo": "",
           "textoCompleto": [
-            "Detalhes completos sobre o projeto: contexto, papel desempenhado, resultados alcançados."
+            "No último sábado, 27 de junho, às 9h, a equipe de Bragança Paulista venceu a de Mogi das Cruzes por 2 a 1. Os gols foram marcados pelo camisa 23, Yuri Rodrigues Almeida (2x). Já do lado de Mogi, o gol foi marcado por Fábio Ferrari Nassar, camisa 70.",
+            "Em simultâneo, ABC e Sorocaba se enfrentaram e a partida terminou em 3 a 2 para o time do ABC. Os gols foram marcados por Lucas Ciaravolo Gaspar, camisa 43; Felipe Aragão da Silva, camisa 90; e por Fauze Camargo Maluf, camisa 10. Cauê Gasparotto, camisa 32; e Marcelo Hun Archer, camisa 31, balançaram as redes para o lado de Sorocaba.",
+            "Mais tarde, às 11h, Santa Casa e MedBolívia ficaram empatados em 1 a 1. Lucas Yuki Otsubo Hayasida, camisa 31, foi o autor do gol da Santa Casa. Já Leandro Josué Uzqueda Burgos, camisa 17, balançou a rede para os bolivianos.",
+            "Já na manhã do domingo, às 9h, Anhembi Morumbi goleou a equipe do Boto Cabano por 5 a 1. Gabriel Vargas Laprovera Boechat, camisa 15; Gabriel Perone G. Monteiro, camisa 25; Bruno Ribeiro, camisa 4; Bruni Sorrentino Parmegiani, camisa 16; e Henrique Guimarães, camisa 13, foram os autores dos gols da Anhembi Morumbi. O gol de honra da equipe do Boto Cabano foi marcado pelo camisa 23, Arthur Licio Rocha Bezerra Junior.",
+            "No mesmo horário, Santos venceu Taubaté por 3 a 1. Os gols santistas foram marcados por João Balla Guedes Frei, camisa 58; e por Rodrigo Reis Donnangelo (2x), camisa 8. O gol de Taubaté foi marcado pelo camisa 52, Guilherme Sartori Stocco.",
+            "Mais tarde, às 11h, Unimes e Santo Amaro se enfrentaram e o jogo terminou com vitória da equipe da Unimes por 2 a 0. Os gols foram marcados por Matheus Vieira Mulero, camisa 54; e por Nicola Jorge Carneiro Neto, camisa 10.",
+            "Para fechar a rodada, a Med9 venceu a equipe de Guarulhos por W.O. O placar estava em 2 a 1 para Guarulhos quando, aos 80 minutos de jogo, a equipe ficou com um número insuficiente de jogadores em campo. Com a vitória decretada pelo regulamento, a Med9 garantiu os 3 pontos."
           ],
-          "link": "#"
+          "link": "https://www.hotelfazendaapm.com.br/blog/8a-rodada-med9-vence-por-w-o-e-dispara-na-lideranca-enquanto-santa-casa-se-isola-na-lanterna/"
         },
         {
-          "tag": "Produção",
-          "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+do+Projeto",
-          "capaAlt": "Terceiro trabalho em destaque",
-          "titulo": "Terceiro trabalho em destaque",
-          "resumo": "Descreva o projeto, seu papel e o contexto em que foi produzido.",
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/morumbi-x-braganca-paulista.png",
+          "capaAlt": "7ª rodada do Campeonato de Futebol da APM tem liderança isolada, empates e muitos gols",
+          "titulo": "7ª rodada do Campeonato de Futebol da APM tem liderança isolada, empates e muitos gols",
+          "resumo": "",
           "textoCompleto": [
-            "Detalhes completos sobre o projeto: contexto, papel desempenhado, resultados alcançados."
+            "No último sábado, 30 de maio, às 9h, Anhembi Morumbi e Bragança Paulista deram início à sétima rodada do Campeonato de Futebol da Associação Paulista de Medicina, com um empate amargo em 0 a 0.",
+            "Mais tarde, às 11h, Unimes e Santos terminaram a partida em 3 a 3. Os gols foram marcados por Gabriel Pires, camisa 9; Matheus Vieira Mulero, camisa 48; e por Lucca Cordeiro Vicentino, camisa 37. Já do lado da equipe santista, José Matheus Frizzo Lopes Moço (2x), camisa 20; e Rodrigo Reis Donnangelo, camisa 8, foram os autores dos gols.",
+            "Na manhã de domingo, 31 de maio, às 9h, Med9 venceu a equipe do ABC por 1 a 0. Resultado que faz a equipe do Med9 se isolar na liderança do Campeonato. O único gol da partida foi marcado pelo camisa 7, Pedro Scatuzzi Filho.",
+            "Em simultâneo, MedBolívia venceu a equipe de Santo Amaro por 5 a 3. Os gols foram marcados por Saul Alexi (2x), camisa 9; Kassio Andreoli Claudio Figueiredo (2x), camisa 21; e por Mario Hernandez, camisa 19. Rafael Chain Fontoura, camisa 43; Rafael Reibescheid, camisa 9; e Gustavo Figueiredo Pinto, camisa 19, balançaram as redes para a equipe de Santo Amaro.",
+            "Mais tarde, às 11h, Mogi das Cruzes venceu a equipe da Santa Casa por 3 a 1. Matheus Cunha Brunini Patto, camisa 20; e Eduardo Costa Frontera (2x), camisa 19, foram os autores dos gols da equipe de Mogi das Cruzes. Já do lado da Santa Casa, Paulo Henrique do Amor Divino, camisa 37, foi o autor do único gol.",
+            "No mesmo horário, Taubaté goleou a equipe de Guarulhos por 4 a 1. O único gol da equipe foi marcado por Marcelo Marcato, camisa 66. Já do lado do time vencedor, os gols foram marcados por Bruno Dal Sasso Begliomini, camisa 11; Lucas Franklin Rocha de Souza, camisa 27; Francisco Gratão M. de Carvalho, camisa 53; e por Lucas Vendas Maluf Braga, camisa 5.",
+            "Em partida atrasada, Sorocaba goleou a equipe do Boto Cabano por 10 a 1, no último sábado, 4 de julho. Os gols foram marcados por Matheus Anholetti Teixeira, camisa 88; Bruno A. Muzel Santos (3x), camisa 29; Lucas Deperon Toldo (2x), camisa 11; Diandro Mota, camisa 15; Bruno Severo de Castro Lippe, camisa 34; e por Matheus Lorenzetti Peron, camisa 77. O autor do único gol da equipe do Boto Cabano foi marcado Breno Gonçalves, camisa 37."
           ],
-          "link": "#"
+          "link": "https://www.hotelfazendaapm.com.br/blog/7a-rodada-do-campeonato-de-futebol-da-apm-tem-lideranca-isolada-empates-e-muitos-gols/"
         }
       ]
     },
