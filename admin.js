@@ -9,6 +9,14 @@ function escapeAttr(str){
   return escapeHtml(str).replace(/"/g,'&quot;');
 }
 
+async function mensagemErroGithub(resp){
+  if(resp.status === 401) return 'chave de acesso inválida ou expirada. Gere uma nova em github.com/settings/personal-access-tokens e salve de novo no painel.';
+  if(resp.status === 403) return 'a chave de acesso não tem permissão para editar este site. Confira se ela foi criada com "Contents: Read and write" para este repositório.';
+  if(resp.status === 409) return 'o site foi alterado em outro lugar enquanto você editava. Atualize a página (F5) e tente publicar de novo.';
+  var corpo = await resp.json().catch(function(){ return {}; });
+  return 'erro ' + resp.status + ': ' + (corpo.message || 'erro desconhecido');
+}
+
 function githubUrl(caminho){
   return 'https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/contents/' + caminho;
 }
@@ -239,8 +247,7 @@ async function enviarImagem(file, slug, token){
     })
   });
   if(!resp.ok){
-    var erro = await resp.json().catch(function(){ return {}; });
-    throw new Error('falha ao enviar imagem (' + resp.status + '): ' + (erro.message || 'erro desconhecido'));
+    throw new Error('falha ao enviar imagem: ' + (await mensagemErroGithub(resp)));
   }
   return caminho;
 }
@@ -253,7 +260,7 @@ async function publicarContentJs(payload, token){
   if(getResp.ok){
     shaAtual = (await getResp.json()).sha;
   } else if(getResp.status !== 404){
-    throw new Error('não consegui ler o content.js atual (' + getResp.status + ')');
+    throw new Error('não consegui ler o content.js atual: ' + (await mensagemErroGithub(getResp)));
   }
 
   var texto = 'const content = ' + JSON.stringify(payload, null, 2) + ';\n';
@@ -270,8 +277,7 @@ async function publicarContentJs(payload, token){
     body: JSON.stringify(body)
   });
   if(!putResp.ok){
-    var erroPut = await putResp.json().catch(function(){ return {}; });
-    throw new Error('falha ao salvar (' + putResp.status + '): ' + (erroPut.message || 'erro desconhecido'));
+    throw new Error('falha ao salvar: ' + (await mensagemErroGithub(putResp)));
   }
 }
 
