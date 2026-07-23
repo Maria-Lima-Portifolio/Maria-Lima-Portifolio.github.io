@@ -1,5 +1,5 @@
-const GITHUB_OWNER = "guiisilva18-cpu";
-const GITHUB_REPO = "Maria-Lima-Portifolio";
+const GITHUB_OWNER = "Maria-Lima-Jornalista";
+const GITHUB_REPO = "Maria-Lima-Jornalista.github.io";
 const GITHUB_BRANCH = "main";
 
 function escapeHtml(str){
@@ -11,6 +11,12 @@ function escapeAttr(str){
 
 function githubUrl(caminho){
   return 'https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/contents/' + caminho;
+}
+function siteUrl(){
+  var ehRepoDeUsuario = GITHUB_REPO.toLowerCase() === (GITHUB_OWNER.toLowerCase() + '.github.io');
+  return ehRepoDeUsuario
+    ? 'https://' + GITHUB_OWNER.toLowerCase() + '.github.io/'
+    : 'https://' + GITHUB_OWNER.toLowerCase() + '.github.io/' + GITHUB_REPO + '/';
 }
 function githubHeaders(token){
   return {
@@ -350,7 +356,7 @@ async function publicar(){
     await publicarContentJs(payload, token);
 
     mostrarStatus('ok', 'Publicado! As mudanças aparecem no site em cerca de 1 minuto. ' +
-      '<a href="https://' + GITHUB_OWNER + '.github.io/' + GITHUB_REPO + '/" target="_blank">Ver o site</a>');
+      '<a href="' + siteUrl() + '" target="_blank">Ver o site</a>');
   } catch(err){
     mostrarStatus('erro', 'Não foi possível publicar: ' + err.message);
   } finally {
