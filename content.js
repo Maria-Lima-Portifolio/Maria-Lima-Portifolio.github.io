@@ -448,9 +448,9 @@ const content = {
         "descricao": "Redação e adaptação de notícias e textos educativos voltados para crianças de escolas municipais. Conteúdos pautados de acordo com as competências da Base Nacional Comum Curricular (BNCC)."
       },
       {
-        "data": "Graduação em Jornalismo ",
-        "titulo": "Centro Universitário das Américas - FAM ",
-        "descricao": "Conclusão prevista para junho de 2027"
+        "data": "FORMAÇÃO",
+        "titulo": "Centro Universitário das Américas - FAM | Graduação em Jornalismo",
+        "descricao": "Conclusão prevista:  Junho de 2027 \nAtualmente: 7° Semestre - Noturno\n"
       }
     ]
   },
