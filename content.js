@@ -31,7 +31,7 @@ const content = {
     "kicker": "Jornalista & Comunicadora",
     "titulo": "Conheça mais sobre mim",
     "paragrafos": [
-      "Olá, sou [Seu Nome], jornalista formada em [Universidade]. Atuo há [X] anos como redatora e produtora de conteúdo, com foco em [temas: política, cultura, esportes, sociedade].",
+      "Olá sou a Maria namoro um homem lindo inteligente e gostoso, o nome dele é guilherme meu futuro noivo",
       "Minha paixão pelo jornalismo nasceu em [contexto de origem] e se transformou em uma carreira dedicada a dar voz a narrativas relevantes e ampliar o protagonismo de vozes sub-representadas."
     ],
     "botaoTexto": "Entre em contato",
@@ -220,5 +220,5 @@ const content = {
       }
     ]
   },
-  "footer": "© 2026 [Seu Nome] — Portfólio Jornalístico"
+  "footer": "© 2026 [Maria Lima] — Portfólio Jornalístico"
 };
