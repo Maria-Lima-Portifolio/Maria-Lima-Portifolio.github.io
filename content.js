@@ -364,12 +364,12 @@ const content = {
     ]
   },
   "blog": {
-    "tituloSecao": "Blog & Artigos",
+    "tituloSecao": "Blog La Pelota",
     "itens": [
       {
-        "data": "12 Jul 2026",
-        "titulo": "Título do artigo ou post do blog",
-        "resumo": "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar."
+        "data": "18 nov 2024",
+        "titulo": "ENTRE O CAOS E O RENASCIMENTO",
+        "resumo": "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir. Confira o texto completo em https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento"
       },
       {
         "data": "28 Jun 2026",
@@ -385,21 +385,21 @@ const content = {
   },
   "contato": {
     "tituloSecao": "Contato & Redes Sociais",
-    "texto": "Se você quiser compartilhar algo comigo, propor um projeto, uma pauta ou apenas bater um papo, envie um e-mail:",
-    "email": "seuemail@exemplo.com",
-    "redesTexto": "Acompanhe meu trabalho também nas redes sociais:",
+    "texto": "",
+    "email": "egmaari.a@gmail.com",
+    "redesTexto": "",
     "redes": [
       {
         "nome": "LinkedIn",
-        "url": "#"
+        "url": "www.linkedin.com/in/maria-gomes-337877345"
       },
       {
-        "nome": "Instagram",
-        "url": "#"
+        "nome": "Instagram pessoal",
+        "url": "https://www.instagram.com/_maari.a/?hl=en"
       },
       {
-        "nome": "TikTok",
-        "url": "#"
+        "nome": "Instagram profissional",
+        "url": "https://www.instagram.com/maadusports/?hl=en"
       }
     ]
   },
