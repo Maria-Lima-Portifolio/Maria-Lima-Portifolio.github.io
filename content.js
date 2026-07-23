@@ -45,16 +45,32 @@ const content = {
     "linkTexto": "Ver publicação original →",
     "itens": [
       {
-        "tag": "Veículo A",
-        "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+da+Mat%C3%A9ria",
-        "capaAlt": "Título da matéria ou reportagem publicada",
-        "titulo": "Título da matéria ou reportagem publicada",
-        "resumo": "Breve resumo de uma ou duas linhas sobre o conteúdo da matéria e sua relevância.",
+        "tag": "APM",
+        "capaUrl": "https://www.apm.org.br/wp-content/uploads/3-161.png",
+        "capaAlt": "“Cirurgia de Cabeça e Pescoço: De Billroth à Robótica” é tema da Tertúlia de julho da AMSP",
+        "titulo": "“Cirurgia de Cabeça e Pescoço: De Billroth à Robótica” é tema da Tertúlia de julho da AMSP",
+        "resumo": "Apresentação foi realizada pelo presidente da APM, Antonio José Gonçalves",
         "textoCompleto": [
-          "Aqui entra o texto completo da matéria, ou um trecho maior dela. Pode colar vários parágrafos — o card expande e o leitor rola a página normalmente para acompanhar.",
-          "Segundo parágrafo com mais contexto, detalhes da apuração ou da entrevista."
+          "Na última quarta-feira, 8 de julho, a Academia de Medicina de São Paulo (AMSP) realizou mais uma edição da sua tertúlia. O evento acontece mensalmente de maneira híbrida, na sede da Associação Paulista de Medicina. Nesta edição, o convidado foi o presidente da APM, Antonio José Gonçalves, que fez a apresentação com o tema “Cirurgia de Cabeça e Pescoço: De Billroth à Robótica”.",
+          "O presidente da AMSP, Helio Begliomini, saudou todos os presentes e fez uma pequena apresentação do acadêmico. Graduou-se em 1975, pela Faculdade de Ciências Médicas da Santa Casa de São Paulo (FCMSCSP), onde fez residência em Cirurgia Geral. Em 1991, foi convidado a estruturar a disciplina de Cirurgia de Cabeça e Pescoço no Hospital Central e na Faculdade, com ajuda de muitas pessoas de dentro e fora da Santa Casa de São Paulo.",
+          "Durante as décadas de 1980 e 1990, ajudou a implantar o SAMU, praticamente em todo o território nacional, desde o projeto de ambulâncias para o pré-hospitalar como o início da organização do sistema hospitalar. Fez estágios internacionais no Toronto Metropolitan Albulance Service, no Canadá, e no SAMU de Paris, na França, o que ajudou muito a desenhar um modelo de SAMU que mais se adaptasse ao Brasil, e que perdura até hoje e é essencial ao Sistema Único de Saúde (SUS).",
+          "Marcos da especialidade",
+          "Em sua apresentação, Antonio José Gonçalves resgatou os marcos da especialidade, lembrando que a primeira laringectomia total bem-sucedida foi realizada por Theodor Billroth, em 1873. Já no início do século XX, surgiu a cirurgia conhecida como COMMANDO (Combined Mandibulectomy and Neck Dissection Operation), um procedimento combinado para o câncer de boca que envolvia a remoção de parte da mandíbula e o esvaziamento cervical, cuja reconstrução dependia do tamanho da área retirada.",
+          "Em 1951, Heinz Martin desenvolveu e divulgou o esvaziamento cervical radical clássico. “Esse era o padrão de tratamento no século passado. Era um procedimento extremamente agressivo, nos moldes da mastectomia radical da época. Martin defendeu e apresentou 1.450 casos de esvaziamentos radicais com a ressecção de estruturas inteiras do pescoço que, hoje em dia, não são mais retiradas”, explicou Gonçalves.",
+          "A mudança desse paradigma começou a ganhar força na segunda metade do século XX. O avanço da anestesia moderna, dos antibióticos, do controle de infecções e da engenharia hospitalar criaram as condições para cirurgias mais seguras e efetivas. Com isso, surgiram os protocolos de preservação de órgãos no câncer de laringe, por exemplo, e a laringectomia total passou a ser uma intervenção indicada primordialmente quando o tratamento inicial de radioquimioterapia não funcionava.",
+          "Outro marco fundamental para a reabilitação dos pacientes foi a introdução do retalho do músculo peitoral maior na década de 1970, descrito por Stefano Mariano em Florença, na Itália. Esse avanço revolucionou o pós-operatório em termos de estética, deglutição e fala.",
+          "A Era da Robótica",
+          "O presidente da APM ponderou que, no início dos anos 2000, houve uma queda temporária na sobrevida de pacientes com câncer de laringe, possivelmente devido ao uso indiscriminado da quimioterapia sem critérios claros de seleção.",
+          "“A quimioterapia preservava a voz, o que era um ganho enorme, mas não sabíamos exatamente quais pacientes se beneficiavam de fato da quimio e quais deveriam ir direto para a cirurgia. Com o tempo e os estudos, entendemos que o candidato ideal para o protocolo de preservação é o paciente classificado como T3, mesmo com metástase no pescoço, desde que a doença não tenha comprometido as cartilagens – o que já seria um caso T4. Essa seleção criteriosa melhorou drasticamente os resultados e a sobrevida”, complementou o especialista.",
+          "O início do século XXI também consolidou a era da Cirurgia Robótica Transoral (TORS), aprovada em 2009 pelo FDA. O acadêmico destacou que a TORS oferece uma visão 3D magnificada e movimentos extremamente precisos. Por ser minimamente invasiva e realizada totalmente pela boca, sem incisões externas na face, ela evita as sequelas estéticas e funcionais das cirurgias convencionais antigas, preservando muito melhor a fala e a capacidade de reprodução da voz.",
+          "Para o palestrante, a cirurgia endoscópica e robótica mudou completamente a história dos tratamentos da base do crânio, da cavidade oral e nasal.",
+          "Acessibilidade no SUS e Cirurgias Parciais",
+          "Atualmente, o foco da especialidade une tecnologia e qualidade de vida. Antonio Gonçalves destacou como uma grande vitória da Saúde pública a inclusão das próteses vocais na tabela do SUS. O dispositivo, que tem durabilidade de seis meses a um ano e pode ser trocado em ambiente ambulatorial, devolveu a voz e a dignidade aos pacientes da rede pública.",
+          "Por fim, ele detalhou a importância das cirurgias parciais da laringe, técnicas cirúrgicas que retiram apenas a parte afetada pelo tumor e preservam as estruturas saudáveis. “É possível realizar ressecções retirando apenas a porção supraglótica e preservando as cordas vocais, ou fazer laringectomias supracricóides e supratraqueais. Entre elas, a que apresenta melhor resultado é a supraglótica — realizada em casos selecionados, onde se corta metade da cartilagem tireoide, preservando as cordas vocais e fixando a cartilagem na base da língua, garantindo uma reabilitação altamente satisfatória.”",
+          "Para o futuro da especialidade, o cirurgião de cabeça e pescoço projeta uma Medicina com tratamentos e indicações personalizadas, o que ajudará a reduzir custos, além de exigir um investimento contínuo no treinamento rigoroso dos cirurgiões e em hospitais devidamente equipados.",
+          "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
         ],
-        "link": "#"
+        "link": "#https://www.apm.org.br/cirurgia-de-cabeca-e-pescoco-de-billroth-a-robotica-e-tema-da-tertulia-de-julho-da-amsp/"
       },
       {
         "tag": "Veículo B",
