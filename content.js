@@ -45,7 +45,7 @@ const content = {
     "linkTexto": "Ver publicação original →",
     "itens": [
       {
-        "tag": "APM - TERTÚLIA",
+        "tag": "APM",
         "capaUrl": "https://www.apm.org.br/wp-content/uploads/3-161.png",
         "capaAlt": "“Cirurgia de Cabeça e Pescoço: De Billroth à Robótica” é tema da Tertúlia de julho da AMSP",
         "titulo": "“Cirurgia de Cabeça e Pescoço: De Billroth à Robótica” é tema da Tertúlia de julho da AMSP",
@@ -73,7 +73,7 @@ const content = {
         "link": "https://www.apm.org.br/cirurgia-de-cabeca-e-pescoco-de-billroth-a-robotica-e-tema-da-tertulia-de-julho-da-amsp/"
       },
       {
-        "tag": "APM - GERAIS",
+        "tag": "APM",
         "capaUrl": "https://www.apm.org.br/wp-content/uploads/Captura-de-tela-2026-07-07-105213.jpg",
         "capaAlt": "Cine Debate da APM traz análise da obra “Fale com Ela”",
         "titulo": "Cine Debate da APM traz análise da obra “Fale com Ela”",
@@ -97,38 +97,15 @@ const content = {
         "link": "https://www.apm.org.br/cine-debate-da-apm-traz-analise-da-obra-fale-com-ela/"
       },
       {
-        "tag": "APM - CMBG26",
-        "capaUrl": "https://www.apm.org.br/wp-content/uploads/1-168.png",
-        "capaAlt": "Cenário atual do trabalho médico na Saúde suplementar é destaque no Congresso da AMB",
-        "titulo": "Cenário atual do trabalho médico na Saúde suplementar é destaque no Congresso da AMB",
-        "resumo": "Mesa foi coordenada pelo diretor de Patrimônio e Finanças da APM, Florisval Meinão",
+        "tag": "Veículo C",
+        "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+da+Mat%C3%A9ria",
+        "capaAlt": "Entrevista ou reportagem especial",
+        "titulo": "Entrevista ou reportagem especial",
+        "resumo": "Breve resumo de uma ou duas linhas sobre o conteúdo da matéria e sua relevância.",
         "textoCompleto": [
-          "O primeiro dia da 4ª edição do Congresso Brasileiro de Medicina Geral, promovido pela Associação Médica Brasileira (AMB), em São Paulo, foi marcado por debates intensos sobre o cenário atual do trabalho médico na saúde suplementar.",
-          "Realizada nesta quinta-feira, 11 de junho, a mesa redonda foi coordenada por Florisval Meinão, diretor de Patrimônio e Finanças da Associação Paulista de Medicina (APM) e secretário geral da AMB, e Carlos Henrique Mascarenhas Silva, diretor de Defesa Profissional da AMB.",
-          "Incorporação de novos procedimentos",
-          "Miyuki Goto, assessora técnica da AMB, iniciou as apresentações destacando o funcionamento e a importância da inclusão de novos procedimentos na área. Ela relembrou que a 5ª edição da Classificação Brasileira Hierarquizada de Procedimentos Médicos (CBHPM), de 2008, é a base da tabela 22 da TUSS (Tecnologia Unificada na Saúde Suplementar), que integra o padrão das guias TISS, hoje digitalizadas.",
-          "“A tabela 22 engloba procedimentos médicos e de outros profissionais da Saúde. É fundamental mantê-la atualizada conforme novas práticas são incluídas na CBHPM. Mas vale lembrar: estar na TUSS não significa entrada automática no Rol de Procedimentos da ANS, que define a cobertura mínima obrigatória. Um procedimento pode estar na TUSS e não no Rol, dependendo do contrato com a operadora”, explicou Miyuki.",
-          "A assessora ressaltou que a CBHPM é uma ferramenta essencial para as sociedades médicas fundamentarem solicitações e contestarem negativas de autorização. As interpretações sobre o uso de cada recurso cabem à AMB e às respectivas sociedades de especialidades, lembrando que não há exclusividade de uso quando o procedimento atende a mais de uma especialidade, desde que o profissional seja devidamente habilitado.",
-          "Miyuki Goto explicou ainda que a incorporação de tecnologias pode ocorrer por demanda das sociedades ou via Conitec (Comissão Nacional de Incorporação de Tecnologias no SUS). Quando há recomendação favorável da Conitec, publicada no Diário Oficial, o procedimento pode migrar para a Saúde suplementar, embora existam exceções, como medicamentos de uso domiciliar não oncológicos, que ficam fora do Rol da ANS.",
-          "Para ilustrar o dinamismo e os desafios desse processo, ela relembrou casos práticos de incorporação anteriores às regras atuais, como o do cross-linking corneano e da elastografia hepática ultrassônica. Ambos enfrentaram dificuldades no início para o ajuste das diretrizes de utilização e critérios de exclusão. No caso da elastografia, a falta de codificação gerou uma",
-          "situação emblemática: muitos hospitais receberam os equipamentos por doação e realizavam os exames de forma cientificamente correta, mas ficaram anos sem um código para faturar o procedimento, o que inviabilizava a manutenção dos aparelhos.",
-          "Da mesma forma, demandas epidemiológicas específicas como a do Zika Vírus exigiram respostas rápidas da CBHPM, assim como o avanço tecnológico recente. Exemplos disso foram a inclusão de procedimentos como o dispositivo de assistência ventricular — o coração artificial — e o tratamento de câncer de próstata por robótica, que demandou a criação de novos códigos específicos, como o de ablação percutânea por criobalação, para cobrir técnicas minimamente invasivas.",
-          "“A CBHPM é uma classificação extremamente dinâmica. Precisamos aprimorá-la constantemente para que continue sendo referência não apenas de codificação, mas também de valoração, buscando o cenário ideal para a remuneração médica”, concluiu.",
-          "Honorários médicos",
-          "A segunda apresentação abordou a remuneração na Saúde suplementar, com apresentação de Raquel Medeiros Lisboa, gerente de Estímulo à Inovação e Avaliação da Qualidade dos Prestadores de Serviços da Agência Nacional de Saúde Suplementar (ANS).",
-          "Raquel apresentou o panorama do setor, que conta com mais de 900 operadoras de planos de saúde médico-hospitalares e odontológicas, movimentando mais de R$ 300 bilhões e realizando 1,5 bilhão de procedimentos anualmente, segundo dados de dezembro de 2025. Ela reforçou que o papel da ANS é regular essas operadoras e que o principal instrumento para garantir segurança jurídica e transparência é o contrato.",
-          "A consolidação da obrigatoriedade dos contratos veio com a Lei 13.003/2014, um marco histórico que contou com forte mobilização da classe médica no Congresso Nacional. A norma exige que os contratos tragam de forma explícita a descrição dos serviços, valores, prazos de faturamento, procedimentos que exigem autorização prévia e penalidades para o descumprimento das obrigações.",
-          "Ela revelou que o foco da fiscalização mudou nos últimos anos: “O problema regulatório inicial era a falta de contratos; o setor operava sem eles. Hoje, as operadoras entenderam a obrigação, mas o problema mudou, a maior demanda dos prestadores atualmente envolve o descumprimento de cláusulas, inadimplência e atrasos nos pagamentos”.",
-          "Para corrigir essas falhas, a ANS desenvolveu uma nova proposta normativa que está em consulta pública até julho. A resolução irá unificar as regras de estrutura contratual e gestão de reajustes em um único texto, trazendo modernizações como a validação de contratos digitais, previsão de serviços de Telessaúde e maior alinhamento com órgãos de defesa da concorrência e conselhos de ética profissional.",
-          "Por fim, a gerente criticou o modelo de remuneração predominante no mercado, o fee-for-service (pagamento por item). “Atualmente, o modelo dominante paga item por item. O auditor contabiliza desde a bolinha de algodão até o procedimento. Esse formato remunera quem faz mais, estimulando a quantidade e não a qualidade. Uma cirurgia simples e sem intercorrências gera menos custos e honorários menores do que um caso que evoluiu com complicações. Esse modelo hegemônico não traz o paciente para o centro do cuidado, que é o verdadeiro objetivo dos médicos”, finalizou.",
-          "Parecer médico",
-          "Dando sequência aos debates, Marcos Eurípedes Pimenta, assessor da Diretoria da APM, destacou que a Saúde suplementar atende 25% da população e gerou um lucro operacional de 6,2% para as operadoras em 2025. Apesar de ser um negócio altamente lucrativo, o setor enfrenta a chamada “inflação da Saúde”, impulsionada pelo envelhecimento populacional, novas tecnologias, judicialização e fraudes.",
-          "Para os médicos, o maior gargalo é a redução drástica de seus honorários, que encolheram para apenas 12% dos custos totais em modelos de planos verticalizados. Há também uma imensa assimetria de forças nas negociações, já que apenas 10 operadoras concentram mais de 70% dos usuários do País. Segundo Pimenta, essa disparidade resulta em reajustes irrisórios e descredenciamentos imotivados.",
-          "O especialista ressaltou que a classe médica não se opõe a novos modelos de remuneração, mas condena a precarização dos vínculos e os contratos abusivos. Um exemplo criticado foi o uso de Sociedades em Conta de Participação (SCP), na qual o médico vira “sócio” com 0,0001% da empresa apenas para ter seus direitos trabalhistas retirados. Para equilibrar o cenário, a APM e a AMB buscam um reajuste de 15% para 2026/2027 e realizam mesas de negociação coletiva diretamente na FIESP, já que as indústrias são as maiores compradoras dos planos empresariais do mercado.",
-          "Por fim, foram destacadas duas novas ferramentas jurídicas de proteção à classe médica, a exemplo da Resolução CFM 2.462, que agora pune severamente operadoras e OSs que atrasarem pagamentos, proibindo a desculpa de reter o dinheiro do médico enquanto aguardam repasses.",
-          "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          "Texto completo ou trecho maior da matéria aqui."
         ],
-        "link": "https://www.apm.org.br/cenario-atual-do-trabalho-medico-na-saude-suplementar-e-destaque-no-congresso-da-amb/"
+        "link": "#"
       }
     ]
   },
