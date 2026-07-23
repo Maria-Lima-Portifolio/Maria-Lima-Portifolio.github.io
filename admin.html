@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Editar Site — Painel</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<h1>Editar o site</h1>
+<p class="subtitulo">Preencha os campos abaixo e clique em "Publicar alterações" no final da página. O site fica atualizado em cerca de 1 minuto.</p>
+
+<div id="painel-token" class="painel">
+  <h2>Acesso para publicar</h2>
+  <div id="token-oculto">
+    <p class="ajuda">
+      Para publicar, você precisa colar aqui uma "chave de acesso" (token) do GitHub, gerada uma única vez.
+      <br>1. Acesse <a href="https://github.com/settings/personal-access-tokens/new" target="_blank">github.com/settings/personal-access-tokens/new</a> e faça login.
+      <br>2. Em "Repository access", escolha "Only select repositories" e selecione o repositório deste site.
+      <br>3. Em "Permissions", abra "Repository permissions" → "Contents" → selecione "Read and write".
+      <br>4. Clique em "Generate token" e copie o código gerado (começa com "github_pat_...").
+      <br>5. Cole o código abaixo e clique em Salvar. Ele fica guardado só neste navegador.
+    </p>
+    <div class="campo">
+      <label for="input-token">Chave de acesso (token)</label>
+      <input type="password" id="input-token" placeholder="github_pat_...">
+    </div>
+    <button class="btn-secundario" id="btn-salvar-token">Salvar chave neste navegador</button>
+  </div>
+  <div id="token-visivel" class="token-ok" style="display:none;">
+    <span>Chave de acesso salva neste navegador.</span>
+    <button class="btn-secundario" id="btn-esquecer-token">Esquecer chave</button>
+  </div>
+</div>
+
+<div class="painel">
+  <h2>Cabeçalho</h2>
+  <div class="linha-2">
+    <div class="campo">
+      <label for="f-logo-primeiro">Primeiro nome (no topo do site)</label>
+      <input type="text" id="f-logo-primeiro">
+    </div>
+    <div class="campo">
+      <label for="f-logo-sobrenome">Sobrenome (destacado em laranja)</label>
+      <input type="text" id="f-logo-sobrenome">
+    </div>
+  </div>
+  <div class="campo">
+    <label for="f-topo-data">Texto pequeno no topo da página</label>
+    <input type="text" id="f-topo-data">
+  </div>
+</div>
+
+<div class="painel">
+  <h2>Sobre mim</h2>
+  <div class="campo">
+    <label for="f-hero-kicker">Chamada pequena (acima do título)</label>
+    <input type="text" id="f-hero-kicker">
+  </div>
+  <div class="campo">
+    <label for="f-hero-titulo">Título</label>
+    <input type="text" id="f-hero-titulo">
+  </div>
+  <div class="campo">
+    <label for="f-hero-paragrafos">Texto sobre você (separe parágrafos deixando uma linha em branco entre eles)</label>
+    <textarea id="f-hero-paragrafos" style="min-height:160px;"></textarea>
+  </div>
+  <div class="campo">
+    <label for="f-hero-botao">Texto do botão</label>
+    <input type="text" id="f-hero-botao">
+  </div>
+  <div class="campo">
+    <img class="capa-preview" id="f-hero-foto-preview" src="">
+    <label for="f-hero-foto-url">Link da sua foto (ou envie um arquivo abaixo)</label>
+    <input type="url" id="f-hero-foto-url" placeholder="https://...">
+    <label style="margin-top:8px;">Ou escolha um arquivo de foto do seu computador</label>
+    <input type="file" id="f-hero-foto-arquivo" accept="image/*">
+  </div>
+</div>
+
+<div class="painel">
+  <h2>Redação</h2>
+  <div class="campo"><label for="f-redacao-titulo">Título da seção</label><input type="text" id="f-redacao-titulo"></div>
+  <div id="redacao-itens"></div>
+  <button class="btn-adicionar" data-secao="redacao">+ Adicionar matéria</button>
+</div>
+
+<div class="painel">
+  <h2>Trabalhos recentes</h2>
+  <div class="campo"><label for="f-recentes-titulo">Título da seção</label><input type="text" id="f-recentes-titulo"></div>
+  <div id="recentes-itens"></div>
+  <button class="btn-adicionar" data-secao="recentes">+ Adicionar trabalho</button>
+</div>
+
+<div class="painel">
+  <h2>Trabalhos da faculdade</h2>
+  <div class="campo"><label for="f-faculdade-titulo">Título da seção</label><input type="text" id="f-faculdade-titulo"></div>
+  <div id="faculdade-itens"></div>
+  <button class="btn-adicionar" data-secao="faculdade">+ Adicionar trabalho</button>
+</div>
+
+<div class="painel">
+  <h2>Currículo</h2>
+  <div class="campo"><label for="f-curriculo-titulo">Título da seção</label><input type="text" id="f-curriculo-titulo"></div>
+  <div id="curriculo-itens"></div>
+  <button class="btn-adicionar" data-secao="curriculo">+ Adicionar experiência</button>
+</div>
+
+<div class="painel">
+  <h2>Blog</h2>
+  <div class="campo"><label for="f-blog-titulo">Título da seção</label><input type="text" id="f-blog-titulo"></div>
+  <div id="blog-itens"></div>
+  <button class="btn-adicionar" data-secao="blog">+ Adicionar artigo</button>
+</div>
+
+<div class="painel">
+  <h2>Contato</h2>
+  <div class="campo"><label for="f-contato-titulo">Título da seção</label><input type="text" id="f-contato-titulo"></div>
+  <div class="campo"><label for="f-contato-texto">Texto de contato</label><textarea id="f-contato-texto"></textarea></div>
+  <div class="campo"><label for="f-contato-email">E-mail</label><input type="email" id="f-contato-email"></div>
+  <div class="campo"><label for="f-contato-redes-texto">Texto acima das redes sociais</label><input type="text" id="f-contato-redes-texto"></div>
+  <div id="contato-redes-itens"></div>
+  <button class="btn-adicionar" data-secao="redes">+ Adicionar rede social</button>
+</div>
+
+<div class="painel">
+  <h2>Rodapé</h2>
+  <div class="campo"><label for="f-footer">Texto do rodapé</label><input type="text" id="f-footer"></div>
+</div>
+
+<button class="btn-publicar" id="btn-publicar">Publicar alterações</button>
+<div class="status" id="status"></div>
+
+<script src="content.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>
