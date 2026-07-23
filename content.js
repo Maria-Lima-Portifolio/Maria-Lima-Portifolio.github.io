@@ -70,18 +70,30 @@ const content = {
           "Para o futuro da especialidade, o cirurgião de cabeça e pescoço projeta uma Medicina com tratamentos e indicações personalizadas, o que ajudará a reduzir custos, além de exigir um investimento contínuo no treinamento rigoroso dos cirurgiões e em hospitais devidamente equipados.",
           "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
         ],
-        "link": "#https://www.apm.org.br/cirurgia-de-cabeca-e-pescoco-de-billroth-a-robotica-e-tema-da-tertulia-de-julho-da-amsp/"
+        "link": "https://www.apm.org.br/cirurgia-de-cabeca-e-pescoco-de-billroth-a-robotica-e-tema-da-tertulia-de-julho-da-amsp/"
       },
       {
-        "tag": "Veículo B",
-        "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+da+Mat%C3%A9ria",
-        "capaAlt": "Título de outra matéria de destaque",
-        "titulo": "Título de outra matéria de destaque",
-        "resumo": "Breve resumo de uma ou duas linhas sobre o conteúdo da matéria e sua relevância.",
+        "tag": "APM",
+        "capaUrl": "https://www.apm.org.br/wp-content/uploads/Captura-de-tela-2026-07-07-105213.jpg",
+        "capaAlt": "Cine Debate da APM traz análise da obra “Fale com Ela”",
+        "titulo": "Cine Debate da APM traz análise da obra “Fale com Ela”",
+        "resumo": "O drama espanhol conta com trilha sonora de Elis Regina e Tom Jobim",
         "textoCompleto": [
-          "Texto completo ou trecho maior da matéria aqui."
+          "Na noite da última sexta-feira, 3 de julho, a Associação Paulista de Medicina realizou mais uma edição do seu tradicional Cine Debate. O filme escolhido foi o drama espanhol “Fale com Ela” (2002), dirigido por Pedro Almodóvar. A obra, considerada um clássico, rendeu a Almodóvar o Oscar de Melhor Roteiro Original em 2003, sendo um feito inédito para um roteiro em língua espanhola, além de uma indicação ao prêmio de Melhor Diretor.",
+          "O enredo acompanha Benigno (Javier Cámara), um enfermeiro que vive em Madrid. Da janela de sua casa, ele observa os ensaios de Alicia (Leonor Watling), uma jovem estudante de balé. Após sofrer um grave acidente de carro, Alicia entra em coma e acaba internada justamente no hospital onde Benigno trabalha. Ele passa, então, a cuidar dela com uma dedicação obsessiva.",
+          "Com o tema “Há males que vêm para o bem”, o debate foi conduzido pelo psiquiatra e coordenador do Cine Debate, Wimer Bottura Junior, e contou com as participações do jornalista Paulo Gustavo e do psiquiatra Vitor Afonso.",
+          "O universo feminino de Pedro Almodóvar",
+          "Paulo Gustavo iniciou a sua análise dizendo que Pedro Almodóvar é um desses cineastas muito curiosos. “Me chamou a atenção que a obra dele é para mulheres, em que teve toda uma história de vida relacionada com a família”. Ele destacou ainda a sensibilidade do diretor em retratar o poder feminino na sociedade espanhola pós-franquismo. E explicou que Almodóvar constrói personagens complexos e humanos, figuras que se aproximam de pessoas reais do nosso cotidiano, como a nossa própria mãe.",
+          "Para o jornalista, o protagonista Benigno reflete a própria vivência do diretor, que cresceu cercado por sua mãe e irmãs. Embora o filme dê grande destaque às mulheres, é a figura ambígua do enfermeiro que move a trama. Gustavo definiu Benigno como um personagem marcado pela timidez e por uma pureza rara no cinema. E apontou que a força do roteiro premiado está justamente nessa simplicidade: Benigno passou a vida cuidando da mãe e, após a morte dela, transferiu esse desejo de dedicação para a bailarina em coma.",
+          "Análise psiquiátrica",
+          "Vitor Afonso apontou que o filme desafia o espectador ao não trazer respostas fáceis, mergulhando em uma zona cinzenta da moralidade. Inicialmente, a premissa de dois homens cuidando de mulheres em coma remeteu o psiquiatra ao conceito de melancolia de Freud, defendido no ensaio Luto e Melancolia (1917). Nesse estado, a dor é muito mais profunda e complexa porque o objeto de afeto continua fisicamente presente, embora sem consciência.",
+          "Contudo, Almodóvar quebra o clima fúnebre do hospital ao usar cores vibrantes, dança e música. O cuidado de Benigno com Alicia, que inclui hidratar sua pele, escovar seus cabelos e contar sobre os filmes que assistiu, cria uma atmosfera hipnótica de ternura que esconde um grave perigo ético.",
+          "Para Afonso, o ápice desse dilema ocorre na sequência em preto e branco do “homem encolhido”, uma metáfora poética usada pelo diretor para mascarar um crime brutal: o abuso sexual de Alicia. O psiquiatra alertou que a violação de uma mulher vulnerável é retratada com uma beleza visual tão singela que chega a parecer compatível com um amor sublime. Essa é a armadilha do diretor, que expõe o ato e a ingenuidade do personagem, mas se recusa a condená-lo explicitamente na tela.",
+          "Dessa forma, o filme transfere para o público a incômoda pergunta se o amor, por mais genuíno que pareça, pode justificar a perda total da autonomia do outro. Afonso concluiu questionando a sanidade mental de Benigno, dividida entre o delírio de acreditar que vivia uma relação recíproca e a plena consciência do crime, lembrando que o próprio personagem se reconhece classificado como psicopata pelo perito judicial e pelo pai da vítima.",
+          "Por fim, Wimer Bottura encerrou a sessão destacando a força da trilha sonora, que inclui Elis Regina cantando Tom Jobim, e a dramaticidade corporal do filme, que carrega a intensidade da cultura espanhola.",
+          "Do ponto de vista clínico, Bottura avalia que Benigno sofre de um transtorno mental grave. O psiquiatra propôs uma reflexão provocativa sobre o conflito de sentimentos gerado no público: por que sentimos compaixão e dó de um personagem que cometeu um abuso sexual? Para o médico, a genialidade e o perigo da obra residem justamente quando a narrativa é conduzida de forma tão envolvente que faz com que o espectador desenvolva empatia por Benigno, apesar da gravidade de seus atos."
         ],
-        "link": "#"
+        "link": "https://www.apm.org.br/cine-debate-da-apm-traz-analise-da-obra-fale-com-ela/"
       },
       {
         "tag": "Veículo C",
