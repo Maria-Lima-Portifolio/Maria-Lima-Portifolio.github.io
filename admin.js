@@ -1,5 +1,5 @@
-const GITHUB_OWNER = "Maria-Lima-Jornalista";
-const GITHUB_REPO = "Maria-Lima-Jornalista.github.io";
+const GITHUB_OWNER = "Maria-Lima-Portifolio";
+const GITHUB_REPO = "Maria-Lima-Portifolio.github.io";
 const GITHUB_BRANCH = "main";
 
 function escapeHtml(str){
