@@ -377,7 +377,7 @@ const content = {
     },
     {
       "id": "blog",
-      "titulo": "Blog La Pelota",
+      "titulo": "Blog - La Pelota",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver publicação →",
       "verTodasTexto": "Ver todos os artigos",
@@ -387,25 +387,38 @@ const content = {
       "itens": [
         {
           "tag": "18 nov 2024",
-          "capaUrl": "",
-          "capaAlt": "ENTRE O CAOS E O RENASCIMENTO",
-          "titulo": "ENTRE O CAOS E O RENASCIMENTO",
-          "resumo": "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir. Confira o texto completo em https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento",
+          "capaUrl": "https://static.wixstatic.com/media/f8e57f_10574007d3224161b096f9260708976e~mv2.jpeg/v1/fill/w_454,h_284,fp_0.50_0.50,q_90,enc_avif,quality_auto/f8e57f_10574007d3224161b096f9260708976e~mv2.jpeg",
+          "capaAlt": "Entre o caos e o renascimento ",
+          "titulo": "Entre o caos e o renascimento ",
+          "resumo": "",
           "textoCompleto": [
-            "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir. Confira o texto completo em https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento"
+            "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir.",
+            "O dia 06/12/23 martela até hoje na mente do torcedor do Santos. A cada rodada da Série B, esse fatídico dia vinha sempre à tona. Há quem diga que estávamos reclamando de barriga cheia, afinal, o Santos passou grande parte do campeonato na liderança, mas só quem viu todos ou grande parte dos jogos, sabe o quão angustiante foi assistir às 38 rodadas deste campeonato. O quão desesperador era fazer um gol e ter a certeza de que logo tomaria o empate ou a virada. O quão desesperador e doloroso foi ver um time apático, sem brilho, sem emoção, sem vontade, sem o DNA santista e sem noção da camisa que estava vestindo.",
+            "Um time da grandeza do Santos, jamais deveria ter passado pelo o que passou. 2023 foi um ano complicado, mas 2024 foi ainda pior… viver o que vivemos neste ano só foi possível graças à incompetência de diversas pessoas que passaram pelo Santos ao longo dos anos, em especial ao presidente do último mandato que se esforçou e se dedicou ao máximo para colocar o Santos no lugar que se encontrou neste ano de 2024.",
+            "Nós vivemos tardes e noites sombrias. Mas que agora, voltarão a brilhar! O santista volta a respirar, a viver e a sorrir. No apito final do jogo contra o Vila Nova pela trigésima quinta rodada, passou um filme na cabeça, trazendo à tona tudo o que passamos desde o jogo contra o Fortaleza. Pensar que agora podemos respirar aliviados traz um conforto que não sentíamos há tempos.",
+            "MAS NÓS VOLTAMOS! Voltamos para o lugar de onde nunca deveríamos ter saído.",
+            "Sabemos que 2025 não será fácil, não podemos cometer os mesmos erros e nem as mesmas insistências. Mas nós, torcedores, continuaremos lutando, apoiando e levando o nome do Santos Futebol Clube por onde for.",
+            "Nascer, viver e no Santos morrer é um orgulho que nem todos podem ter!",
+            "VOLTAMOS! A 10 VOLTOU E A BANDEIRA VIROU!"
           ],
-          "link": "https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento"
+          "link": "https://lapelota.wixsite.com/lapelota/post/entre-o-caos-e-o-renascimento"
         },
         {
-          "tag": "28 Jun 2026",
-          "capaUrl": "",
-          "capaAlt": "Outro título de artigo relevante",
-          "titulo": "Outro título de artigo relevante",
-          "resumo": "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar.",
+          "tag": "3 Out 2024",
+          "capaUrl": "https://static.wixstatic.com/media/f8e57f_383c92167aa84d1a92fa3b3762602ba8~mv2.jpg/v1/fill/w_454,h_255,fp_0.50_0.50,q_90,enc_avif,quality_auto/f8e57f_383c92167aa84d1a92fa3b3762602ba8~mv2.jpg",
+          "capaAlt": "O último verso da poesia ",
+          "titulo": "O último verso da poesia ",
+          "resumo": "",
           "textoCompleto": [
-            "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar."
+            "Não tenho uma memória muito clara, somente flashes. Eu era muito nova, mas o pouco que me lembro é de estar em casa naquele 11 de julho de 2010, sentada no sofá assistindo à final da Copa do Mundo, Holanda x Espanha, um jogo repleto de craques e de cartões amarelos.",
+            "Os 90 minutos de jogo terminaram sem gols, levando aquela partida para a prorrogação. Fim de primeiro tempo de prorrogação, nenhum gol marcado. A partida se encaminhava para as penalidades quando, aos 11 minutos da segunda etapa da prorrogação, Iniesta recebeu um passe de Fábregas, dominou a bola e mandou para o gol, levando a torcida à loucura com o título inédito da La Roja em Copas do Mundo.",
+            "Nem foi uma das melhores partidas de Iniesta, mas aquele jogo me encantou. A  leveza com que ele conduzia a bola e, claro, o gol marcado me deixaram fascinada! Isso me fez querer saber mais sobre o jogador em questão. Descobri que jogava em um time catalão: o Barcelona! Desde então, passei a acompanhar fielmente o clube, para admirar o espetáculo e a magia de Andrés Iniesta Luján.",
+            "Assistindo aos jogos do Barça, eu ficava vidrada e achava o máximo quando ele fazia a “la croqueta” para escapar dos adversários. Na seleção, Iniesta usava a 6; no Barcelona, a 8. E cá pra nós, a camisa 8 sempre foi a cara do Iniesta, que na horizontal, simboliza o infinito, assim como o legado deixado por ele no futebol mundial.",
+            "Com a cabeça sempre erguida, o drible curto, passe preciso e perfeita leitura de jogo. Era assim que Andrés escrevia poesias no meio de campo catalão e espanhol. E toda poesia precisa de um ponto final. Iniesta escolheu o dia 8 para finalizar a sua poesia, que foi escrita ao longo de 22 anos.",
+            "Foi incrível. Eu fui feliz e sabia!",
+            "Obrigada, Andrés. O futebol agradece!"
           ],
-          "link": "#"
+          "link": "https://lapelota.wixsite.com/lapelota/post/o-último-verso-da-poesia"
         },
         {
           "tag": "05 Jun 2026",
@@ -435,9 +448,9 @@ const content = {
         "descricao": "Redação e adaptação de notícias e textos educativos voltados para crianças de escolas municipais. Conteúdos pautados de acordo com as competências da Base Nacional Comum Curricular (BNCC)."
       },
       {
-        "data": "Formação",
-        "titulo": "Graduação em Jornalismo — Universidade",
-        "descricao": "Ano de conclusão e eventuais especializações, cursos ou certificações relevantes."
+        "data": "Graduação em Jornalismo ",
+        "titulo": "Centro Universitário das Américas - FAM ",
+        "descricao": "Conclusão prevista para junho de 2027"
       }
     ]
   },
