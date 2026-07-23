@@ -123,12 +123,59 @@ nav a:hover{color:var(--destaque);}
   content:"";flex:1;height:2px;background:var(--linha);
 }
 
+/* FUNDOS ESPECIAIS DE SEÇÃO */
+.secao[data-fundo="campo"]{
+  background:
+    radial-gradient(circle at center, transparent 58px, rgba(255,255,255,.5) 60px, rgba(255,255,255,.5) 62px, transparent 64px),
+    linear-gradient(90deg, transparent calc(50% - 1px), rgba(255,255,255,.5) calc(50% - 1px), rgba(255,255,255,.5) calc(50% + 1px), transparent calc(50% + 1px)),
+    repeating-linear-gradient(0deg, #3b8a49 0px, #3b8a49 60px, #347b41 60px, #347b41 120px);
+  border-top:3px solid #fff;
+  border-bottom:3px solid #fff;
+}
+.secao[data-fundo="campo"] .secao-titulo h2,
+.secao[data-fundo="imagem"] .secao-titulo h2{color:#fff;}
+.secao[data-fundo="campo"] .secao-titulo::after,
+.secao[data-fundo="imagem"] .secao-titulo::after{background:#fff;}
+.secao[data-fundo="imagem"]{
+  position:relative;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+.secao[data-fundo="imagem"]::before{
+  content:"";position:absolute;inset:0;
+  background:rgba(20,15,10,.5);
+}
+.secao[data-fundo="imagem"] > .container{position:relative;z-index:1;}
+
 /* PORTFÓLIO / REDAÇÃO - cards estilo quadrinho/revista, interativos */
 .grid-materias{
   display:grid;
   grid-template-columns:repeat(3,1fr);
   gap:32px;
 }
+.materia.oculta{display:none;}
+.btn-ver-todas{
+  display:block;
+  width:fit-content;
+  margin:32px auto 0;
+  padding:12px 28px;
+  background:transparent;
+  color:var(--preto);
+  font-family:'Inter',sans-serif;
+  font-size:13px;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  font-weight:600;
+  border:1px solid var(--preto);
+  cursor:pointer;
+  transition:.2s;
+}
+.btn-ver-todas:hover{background:var(--preto);color:#fff;}
+.secao[data-fundo="campo"] .btn-ver-todas,
+.secao[data-fundo="imagem"] .btn-ver-todas{border-color:#fff;color:#fff;}
+.secao[data-fundo="campo"] .btn-ver-todas:hover,
+.secao[data-fundo="imagem"] .btn-ver-todas:hover{background:#fff;color:var(--preto);}
 .materia{
   background:#fff;
   border:2px solid var(--linha);

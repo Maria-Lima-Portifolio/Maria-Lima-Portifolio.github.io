@@ -54,6 +54,13 @@
 </div>
 
 <div class="painel">
+  <h2>Menu de navegação (abas do topo)</h2>
+  <p class="ajuda">O link "Sobre" aponta pro topo do site e os outros apontam pras seções abaixo. Se criar uma seção nova, pode adicionar uma aba aqui apontando pra ela (o endereço da seção aparece no editor dela mais abaixo, algo como "#nome-da-secao").</p>
+  <div id="nav-itens"></div>
+  <button class="btn-adicionar" id="btn-adicionar-nav">+ Adicionar aba</button>
+</div>
+
+<div class="painel">
   <h2>Sobre mim</h2>
   <div class="campo">
     <label for="f-hero-kicker">Chamada pequena (acima do título)</label>
@@ -80,26 +87,8 @@
   </div>
 </div>
 
-<div class="painel">
-  <h2>Redação</h2>
-  <div class="campo"><label for="f-redacao-titulo">Título da seção</label><input type="text" id="f-redacao-titulo"></div>
-  <div id="redacao-itens"></div>
-  <button class="btn-adicionar" data-secao="redacao">+ Adicionar matéria</button>
-</div>
-
-<div class="painel">
-  <h2>Trabalhos recentes</h2>
-  <div class="campo"><label for="f-recentes-titulo">Título da seção</label><input type="text" id="f-recentes-titulo"></div>
-  <div id="recentes-itens"></div>
-  <button class="btn-adicionar" data-secao="recentes">+ Adicionar trabalho</button>
-</div>
-
-<div class="painel">
-  <h2>Trabalhos da faculdade</h2>
-  <div class="campo"><label for="f-faculdade-titulo">Título da seção</label><input type="text" id="f-faculdade-titulo"></div>
-  <div id="faculdade-itens"></div>
-  <button class="btn-adicionar" data-secao="faculdade">+ Adicionar trabalho</button>
-</div>
+<div id="secoes-painel-container"></div>
+<button class="btn-adicionar" id="btn-nova-secao" style="margin-bottom:28px;">+ Nova seção (tipo Redação/Faculdade)</button>
 
 <div class="painel">
   <h2>Currículo</h2>

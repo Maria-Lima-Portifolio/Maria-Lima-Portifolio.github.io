@@ -8,6 +8,13 @@ function escapeHtml(str){
 function escapeAttr(str){
   return escapeHtml(str).replace(/"/g,'&quot;');
 }
+function slugify(str){
+  var s = String(str || '').toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+  return s || ('secao-' + Date.now());
+}
 
 async function mensagemErroGithub(resp){
   if(resp.status === 401) return 'chave de acesso inválida ou expirada. Gere uma nova em github.com/settings/personal-access-tokens e salve de novo no painel.';
@@ -64,13 +71,13 @@ function atualizarEstadoToken(){
   document.getElementById('token-visivel').style.display = tem ? 'flex' : 'none';
 }
 
-// ---------- criação dos blocos repetíveis (itens) ----------
+// ---------- itens repetíveis dentro de uma seção (matérias/trabalhos) ----------
 
-function wireRemover(div, containerSelector){
+function wireRemover(div){
   div.querySelector('.btn-remover').addEventListener('click', function(){ div.remove(); });
 }
 
-function addMateriaItem(containerId, item){
+function addMateriaItem(container, item){
   var div = document.createElement('div');
   div.className = 'item-editor';
   div.innerHTML =
@@ -98,8 +105,150 @@ function addMateriaItem(containerId, item){
   });
   urlInput.addEventListener('input', function(){ preview.src = urlInput.value; });
 
-  document.getElementById(containerId).appendChild(div);
+  container.appendChild(div);
 }
+
+function lerMaterias(container){
+  return Array.from(container.querySelectorAll(':scope > .item-editor')).map(function(div){
+    var titulo = div.querySelector('.f-titulo').value;
+    return {
+      tag: div.querySelector('.f-tag').value,
+      capaUrl: div.querySelector('.f-capa-url').value,
+      capaAlt: titulo,
+      titulo: titulo,
+      resumo: div.querySelector('.f-resumo').value,
+      textoCompleto: div.querySelector('.f-texto').value.split(/\n\s*\n/).map(function(p){ return p.trim(); }).filter(Boolean),
+      link: div.querySelector('.f-link').value,
+      _capaFile: div.querySelector('.f-capa-file').files[0] || null
+    };
+  });
+}
+
+// ---------- seções (Redação, Faculdade, Campeonatos, e as que ela criar) ----------
+
+function criarSecaoPainel(secao){
+  var div = document.createElement('div');
+  div.className = 'painel secao-painel';
+  div.dataset.secaoId = secao.id || slugify(secao.titulo || 'nova-secao');
+
+  div.innerHTML =
+    '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap;">' +
+      '<h2 style="border-bottom:none;padding-bottom:0;margin-bottom:0;">Seção</h2>' +
+      '<div style="display:flex;gap:8px;flex-wrap:wrap;">' +
+        '<button class="btn-secundario btn-mover-cima" type="button">▲ Mover</button>' +
+        '<button class="btn-secundario btn-mover-baixo" type="button">▼ Mover</button>' +
+        '<button class="btn-secundario btn-remover-secao" type="button">Remover seção</button>' +
+      '</div>' +
+    '</div>' +
+    '<p class="ajuda">Endereço desta seção (use no menu de navegação acima se quiser uma aba pra ela): <strong>#' + escapeHtml(div.dataset.secaoId) + '</strong></p>' +
+    '<div class="campo"><label>Nome da seção (aparece como título)</label><input type="text" class="f-secao-titulo" value="' + escapeAttr(secao.titulo || '') + '"></div>' +
+    '<div class="linha-2">' +
+      '<div class="campo"><label>Texto do botão "ler mais" de cada card</label><input type="text" class="f-secao-toggle" value="' + escapeAttr(secao.toggleTexto || 'Ler mais') + '"></div>' +
+      '<div class="campo"><label>Texto do link dentro do card expandido</label><input type="text" class="f-secao-link" value="' + escapeAttr(secao.linkTexto || 'Ver mais →') + '"></div>' +
+    '</div>' +
+    '<div class="linha-2">' +
+      '<div class="campo"><label>Quantos cards aparecem antes do botão "ver todas"</label><input type="text" inputmode="numeric" class="f-secao-visiveis" value="' + escapeAttr(secao.visiveis || 4) + '"></div>' +
+      '<div class="campo"><label>Texto do botão "ver todas"</label><input type="text" class="f-secao-vertodas" value="' + escapeAttr(secao.verTodasTexto || 'Ver todas') + '"></div>' +
+    '</div>' +
+    '<div class="campo">' +
+      '<label>Fundo da seção</label>' +
+      '<select class="f-secao-fundo">' +
+        '<option value="nenhum">Nenhum (fundo normal do site)</option>' +
+        '<option value="campo">Campo de futebol (desenhado)</option>' +
+        '<option value="imagem">Foto enviada por mim</option>' +
+      '</select>' +
+    '</div>' +
+    '<div class="campo f-secao-fundo-imagem-campos">' +
+      '<img class="capa-preview f-secao-fundo-preview" src="' + escapeAttr(secao.fundoImagemUrl || '') + '">' +
+      '<label>Link da imagem de fundo (ou envie um arquivo abaixo)</label>' +
+      '<input type="url" class="f-secao-fundo-url" value="' + escapeAttr(secao.fundoImagemUrl || '') + '">' +
+      '<label style="margin-top:8px;">Ou escolha um arquivo do computador</label>' +
+      '<input type="file" class="f-secao-fundo-file" accept="image/*">' +
+    '</div>' +
+    '<div class="secao-itens"></div>' +
+    '<button class="btn-adicionar btn-adicionar-item" type="button">+ Adicionar item</button>';
+
+  div.querySelector('.f-secao-fundo').value = secao.fundo || 'nenhum';
+
+  var itensContainer = div.querySelector('.secao-itens');
+  (secao.itens || []).forEach(function(item){ addMateriaItem(itensContainer, item); });
+
+  div.querySelector('.btn-adicionar-item').addEventListener('click', function(){
+    addMateriaItem(itensContainer, { textoCompleto: [''] });
+  });
+
+  div.querySelector('.btn-remover-secao').addEventListener('click', function(){
+    if(confirm('Remover esta seção inteira e todos os itens dentro dela?')) div.remove();
+  });
+  div.querySelector('.btn-mover-cima').addEventListener('click', function(){
+    var anterior = div.previousElementSibling;
+    if(anterior) div.parentNode.insertBefore(div, anterior);
+  });
+  div.querySelector('.btn-mover-baixo').addEventListener('click', function(){
+    var proximo = div.nextElementSibling;
+    if(proximo) div.parentNode.insertBefore(proximo, div);
+  });
+
+  var fundoSelect = div.querySelector('.f-secao-fundo');
+  var camposImagem = div.querySelector('.f-secao-fundo-imagem-campos');
+  function atualizarVisibilidadeFundo(){
+    camposImagem.style.display = fundoSelect.value === 'imagem' ? 'block' : 'none';
+  }
+  fundoSelect.addEventListener('change', atualizarVisibilidadeFundo);
+  atualizarVisibilidadeFundo();
+
+  var fundoPreview = div.querySelector('.f-secao-fundo-preview');
+  var fundoUrl = div.querySelector('.f-secao-fundo-url');
+  var fundoFile = div.querySelector('.f-secao-fundo-file');
+  fundoUrl.addEventListener('input', function(){ fundoPreview.src = fundoUrl.value; });
+  fundoFile.addEventListener('change', function(){
+    if(fundoFile.files[0]) fundoPreview.src = URL.createObjectURL(fundoFile.files[0]);
+  });
+
+  return div;
+}
+
+function lerSecoes(){
+  return Array.from(document.querySelectorAll('#secoes-painel-container .secao-painel')).map(function(div){
+    return {
+      id: div.dataset.secaoId,
+      titulo: div.querySelector('.f-secao-titulo').value,
+      toggleTexto: div.querySelector('.f-secao-toggle').value,
+      linkTexto: div.querySelector('.f-secao-link').value,
+      verTodasTexto: div.querySelector('.f-secao-vertodas').value,
+      visiveis: parseInt(div.querySelector('.f-secao-visiveis').value, 10) || 4,
+      fundo: div.querySelector('.f-secao-fundo').value,
+      fundoImagemUrl: div.querySelector('.f-secao-fundo-url').value,
+      _fundoFile: div.querySelector('.f-secao-fundo-file').files[0] || null,
+      itens: lerMaterias(div.querySelector('.secao-itens'))
+    };
+  });
+}
+
+// ---------- menu de navegação ----------
+
+function addNavItem(item){
+  var div = document.createElement('div');
+  div.className = 'item-editor';
+  div.innerHTML =
+    '<button class="btn-remover" type="button">Remover</button>' +
+    '<div class="linha-2">' +
+      '<div class="campo"><label>Texto da aba</label><input type="text" class="f-nav-texto" value="' + escapeAttr(item.texto || '') + '"></div>' +
+      '<div class="campo"><label>Link (ex: #contato)</label><input type="text" class="f-nav-href" value="' + escapeAttr(item.href || '') + '"></div>' +
+    '</div>';
+  wireRemover(div);
+  document.getElementById('nav-itens').appendChild(div);
+}
+function lerNav(){
+  return Array.from(document.querySelectorAll('#nav-itens .item-editor')).map(function(div){
+    return {
+      texto: div.querySelector('.f-nav-texto').value,
+      href: div.querySelector('.f-nav-href').value
+    };
+  });
+}
+
+// ---------- itens repetíveis simples (currículo, blog, redes) ----------
 
 function addCurriculoItem(item){
   var div = document.createElement('div');
@@ -142,66 +291,6 @@ function addRedeItem(item){
   document.getElementById('contato-redes-itens').appendChild(div);
 }
 
-// ---------- carregar dados atuais (vindos de content.js) no formulário ----------
-
-function renderInit(){
-  document.getElementById('f-logo-primeiro').value = content.logoPrimeiroNome;
-  document.getElementById('f-logo-sobrenome').value = content.logoSobrenome;
-
-  document.getElementById('f-hero-kicker').value = content.hero.kicker;
-  document.getElementById('f-hero-titulo').value = content.hero.titulo;
-  document.getElementById('f-hero-paragrafos').value = content.hero.paragrafos.join('\n\n');
-  document.getElementById('f-hero-botao').value = content.hero.botaoTexto;
-  document.getElementById('f-hero-foto-url').value = content.hero.fotoUrl;
-  document.getElementById('f-hero-foto-preview').src = content.hero.fotoUrl;
-  document.getElementById('f-hero-foto-url').addEventListener('input', function(e){
-    document.getElementById('f-hero-foto-preview').src = e.target.value;
-  });
-  document.getElementById('f-hero-foto-arquivo').addEventListener('change', function(e){
-    if(e.target.files[0]) document.getElementById('f-hero-foto-preview').src = URL.createObjectURL(e.target.files[0]);
-  });
-
-  document.getElementById('f-redacao-titulo').value = content.redacao.tituloSecao;
-  content.redacao.itens.forEach(function(item){ addMateriaItem('redacao-itens', item); });
-
-  document.getElementById('f-recentes-titulo').value = content.trabalhosRecentes.tituloSecao;
-  content.trabalhosRecentes.itens.forEach(function(item){ addMateriaItem('recentes-itens', item); });
-
-  document.getElementById('f-faculdade-titulo').value = content.faculdade.tituloSecao;
-  content.faculdade.itens.forEach(function(item){ addMateriaItem('faculdade-itens', item); });
-
-  document.getElementById('f-curriculo-titulo').value = content.curriculo.tituloSecao;
-  content.curriculo.itens.forEach(addCurriculoItem);
-
-  document.getElementById('f-blog-titulo').value = content.blog.tituloSecao;
-  content.blog.itens.forEach(addBlogItem);
-
-  document.getElementById('f-contato-titulo').value = content.contato.tituloSecao;
-  document.getElementById('f-contato-texto').value = content.contato.texto;
-  document.getElementById('f-contato-email').value = content.contato.email;
-  document.getElementById('f-contato-redes-texto').value = content.contato.redesTexto;
-  content.contato.redes.forEach(addRedeItem);
-
-  document.getElementById('f-footer').value = content.footer;
-}
-
-// ---------- ler os dados do formulário de volta ----------
-
-function lerMaterias(containerId){
-  return Array.from(document.querySelectorAll('#' + containerId + ' .item-editor')).map(function(div){
-    var titulo = div.querySelector('.f-titulo').value;
-    return {
-      tag: div.querySelector('.f-tag').value,
-      capaUrl: div.querySelector('.f-capa-url').value,
-      capaAlt: titulo,
-      titulo: titulo,
-      resumo: div.querySelector('.f-resumo').value,
-      textoCompleto: div.querySelector('.f-texto').value.split(/\n\s*\n/).map(function(p){ return p.trim(); }).filter(Boolean),
-      link: div.querySelector('.f-link').value,
-      _capaFile: div.querySelector('.f-capa-file').files[0] || null
-    };
-  });
-}
 function lerCurriculo(){
   return Array.from(document.querySelectorAll('#curriculo-itens .item-editor')).map(function(div){
     return {
@@ -227,6 +316,47 @@ function lerRedes(){
       url: div.querySelector('.f-url').value
     };
   });
+}
+
+// ---------- carregar dados atuais (vindos de content.js) no formulário ----------
+
+function renderInit(){
+  document.getElementById('f-logo-primeiro').value = content.logoPrimeiroNome;
+  document.getElementById('f-logo-sobrenome').value = content.logoSobrenome;
+
+  content.nav.forEach(addNavItem);
+
+  document.getElementById('f-hero-kicker').value = content.hero.kicker;
+  document.getElementById('f-hero-titulo').value = content.hero.titulo;
+  document.getElementById('f-hero-paragrafos').value = content.hero.paragrafos.join('\n\n');
+  document.getElementById('f-hero-botao').value = content.hero.botaoTexto;
+  document.getElementById('f-hero-foto-url').value = content.hero.fotoUrl;
+  document.getElementById('f-hero-foto-preview').src = content.hero.fotoUrl;
+  document.getElementById('f-hero-foto-url').addEventListener('input', function(e){
+    document.getElementById('f-hero-foto-preview').src = e.target.value;
+  });
+  document.getElementById('f-hero-foto-arquivo').addEventListener('change', function(e){
+    if(e.target.files[0]) document.getElementById('f-hero-foto-preview').src = URL.createObjectURL(e.target.files[0]);
+  });
+
+  var secoesContainer = document.getElementById('secoes-painel-container');
+  content.secoes.forEach(function(secao){
+    secoesContainer.appendChild(criarSecaoPainel(secao));
+  });
+
+  document.getElementById('f-curriculo-titulo').value = content.curriculo.tituloSecao;
+  content.curriculo.itens.forEach(addCurriculoItem);
+
+  document.getElementById('f-blog-titulo').value = content.blog.tituloSecao;
+  content.blog.itens.forEach(addBlogItem);
+
+  document.getElementById('f-contato-titulo').value = content.contato.tituloSecao;
+  document.getElementById('f-contato-texto').value = content.contato.texto;
+  document.getElementById('f-contato-email').value = content.contato.email;
+  document.getElementById('f-contato-redes-texto').value = content.contato.redesTexto;
+  content.contato.redes.forEach(addRedeItem);
+
+  document.getElementById('f-footer').value = content.footer;
 }
 
 // ---------- publicar no GitHub ----------
@@ -296,7 +426,7 @@ async function publicar(){
     var payload = {
       logoPrimeiroNome: document.getElementById('f-logo-primeiro').value,
       logoSobrenome: document.getElementById('f-logo-sobrenome').value,
-      nav: content.nav,
+      nav: lerNav(),
       hero: {
         kicker: document.getElementById('f-hero-kicker').value,
         titulo: document.getElementById('f-hero-titulo').value,
@@ -306,24 +436,7 @@ async function publicar(){
         fotoUrl: document.getElementById('f-hero-foto-url').value,
         fotoAlt: content.hero.fotoAlt
       },
-      redacao: {
-        tituloSecao: document.getElementById('f-redacao-titulo').value,
-        toggleTexto: content.redacao.toggleTexto,
-        linkTexto: content.redacao.linkTexto,
-        itens: lerMaterias('redacao-itens')
-      },
-      trabalhosRecentes: {
-        tituloSecao: document.getElementById('f-recentes-titulo').value,
-        toggleTexto: content.trabalhosRecentes.toggleTexto,
-        linkTexto: content.trabalhosRecentes.linkTexto,
-        itens: lerMaterias('recentes-itens')
-      },
-      faculdade: {
-        tituloSecao: document.getElementById('f-faculdade-titulo').value,
-        toggleTexto: content.faculdade.toggleTexto,
-        linkTexto: content.faculdade.linkTexto,
-        itens: lerMaterias('faculdade-itens')
-      },
+      secoes: lerSecoes(),
       curriculo: {
         tituloSecao: document.getElementById('f-curriculo-titulo').value,
         itens: lerCurriculo()
@@ -347,11 +460,17 @@ async function publicar(){
       payload.hero.fotoUrl = await enviarImagem(heroFile, 'hero', token);
     }
 
-    for (const secaoKey of ['redacao', 'trabalhosRecentes', 'faculdade']){
-      for (let i = 0; i < payload[secaoKey].itens.length; i++){
-        var item = payload[secaoKey].itens[i];
+    for (let s = 0; s < payload.secoes.length; s++){
+      var secao = payload.secoes[s];
+      if(secao.fundo === 'imagem' && secao._fundoFile){
+        secao.fundoImagemUrl = await enviarImagem(secao._fundoFile, secao.id + '-fundo', token);
+      }
+      delete secao._fundoFile;
+
+      for (let i = 0; i < secao.itens.length; i++){
+        var item = secao.itens[i];
         if(item._capaFile){
-          item.capaUrl = await enviarImagem(item._capaFile, secaoKey + '-' + i, token);
+          item.capaUrl = await enviarImagem(item._capaFile, secao.id + '-' + i, token);
         }
         delete item._capaFile;
       }
@@ -384,14 +503,30 @@ document.addEventListener('DOMContentLoaded', function(){
     atualizarEstadoToken();
   });
 
-  document.querySelectorAll('.btn-adicionar').forEach(function(btn){
+  document.getElementById('btn-adicionar-nav').addEventListener('click', function(){
+    addNavItem({ texto: 'Nova aba', href: '#' });
+  });
+
+  document.getElementById('btn-nova-secao').addEventListener('click', function(){
+    var titulo = 'Nova seção';
+    var id = slugify(titulo + '-' + Date.now());
+    document.getElementById('secoes-painel-container').appendChild(criarSecaoPainel({
+      id: id,
+      titulo: titulo,
+      toggleTexto: 'Ler mais',
+      linkTexto: 'Ver mais →',
+      verTodasTexto: 'Ver todas',
+      visiveis: 4,
+      fundo: 'nenhum',
+      itens: []
+    }));
+  });
+
+  document.querySelectorAll('.btn-adicionar[data-secao]').forEach(function(btn){
     btn.addEventListener('click', function(e){
       e.preventDefault();
       var secao = btn.dataset.secao;
-      if(secao === 'redacao') addMateriaItem('redacao-itens', {textoCompleto: ['']});
-      else if(secao === 'recentes') addMateriaItem('recentes-itens', {textoCompleto: ['']});
-      else if(secao === 'faculdade') addMateriaItem('faculdade-itens', {textoCompleto: ['']});
-      else if(secao === 'curriculo') addCurriculoItem({});
+      if(secao === 'curriculo') addCurriculoItem({});
       else if(secao === 'blog') addBlogItem({});
       else if(secao === 'redes') addRedeItem({});
     });
