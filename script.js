@@ -48,9 +48,10 @@ function renderHero(){
 
 function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
   var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
+  var capa = item.capaUrl ? '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' : '';
   return (
     '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)">' +
-      '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' +
+      capa +
       '<div class="materia-corpo">' +
         '<span class="materia-tag">' + escapeHtml(item.tag) + '</span>' +
         '<h3>' + escapeHtml(item.titulo) + '</h3>' +
@@ -107,18 +108,14 @@ function renderCurriculo(){
       '</div>'
     );
   }).join('');
-}
 
-function renderBlog(){
-  document.getElementById('titulo-blog').textContent = content.blog.tituloSecao;
-  document.getElementById('lista-blog').innerHTML = content.blog.itens.map(function(item){
+  document.getElementById('titulo-certificados').textContent = content.certificados.tituloSecao;
+  document.getElementById('lista-certificados').innerHTML = content.certificados.itens.map(function(item){
     return (
-      '<div class="blog-item">' +
-        '<div class="blog-data">' + escapeHtml(item.data) + '</div>' +
-        '<div>' +
-          '<h3>' + escapeHtml(item.titulo) + '</h3>' +
-          '<p>' + escapeHtml(item.resumo) + '</p>' +
-        '</div>' +
+      '<div class="certificado-item">' +
+        '<h4>' + escapeHtml(item.titulo) + '</h4>' +
+        '<div class="certificado-instituicao">' + escapeHtml(item.instituicao) + '</div>' +
+        '<div class="certificado-ano">' + escapeHtml(item.ano) + '</div>' +
       '</div>'
     );
   }).join('');
@@ -148,7 +145,6 @@ document.addEventListener('DOMContentLoaded', function(){
   renderHero();
   renderSecoes();
   renderCurriculo();
-  renderBlog();
   renderContato();
   renderFooter();
 

@@ -358,6 +358,51 @@ const content = {
           "link": "#"
         }
       ]
+    },
+    {
+      "id": "blog",
+      "titulo": "Blog La Pelota",
+      "toggleTexto": "Ler mais",
+      "linkTexto": "Ver publicação →",
+      "verTodasTexto": "Ver todos os artigos",
+      "visiveis": 4,
+      "fundo": "nenhum",
+      "fundoImagemUrl": "",
+      "itens": [
+        {
+          "tag": "18 nov 2024",
+          "capaUrl": "",
+          "capaAlt": "ENTRE O CAOS E O RENASCIMENTO",
+          "titulo": "ENTRE O CAOS E O RENASCIMENTO",
+          "resumo": "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir. Confira o texto completo em https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento",
+          "textoCompleto": [
+            "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir. Confira o texto completo em https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento"
+          ],
+          "link": "https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento"
+        },
+        {
+          "tag": "28 Jun 2026",
+          "capaUrl": "",
+          "capaAlt": "Outro título de artigo relevante",
+          "titulo": "Outro título de artigo relevante",
+          "resumo": "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar.",
+          "textoCompleto": [
+            "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar."
+          ],
+          "link": "#"
+        },
+        {
+          "tag": "05 Jun 2026",
+          "capaUrl": "",
+          "capaAlt": "Terceiro artigo do blog",
+          "titulo": "Terceiro artigo do blog",
+          "resumo": "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar.",
+          "textoCompleto": [
+            "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar."
+          ],
+          "link": "#"
+        }
+      ]
     }
   ],
   "curriculo": {
@@ -380,23 +425,18 @@ const content = {
       }
     ]
   },
-  "blog": {
-    "tituloSecao": "Blog La Pelota",
+  "certificados": {
+    "tituloSecao": "Certificados & Cursos",
     "itens": [
       {
-        "data": "18 nov 2024",
-        "titulo": "ENTRE O CAOS E O RENASCIMENTO",
-        "resumo": "O ano de 2023 foi um ano repleto de incertezas, contas, angústias e medos. Foi um ano que o santista gostaria de esquecer. Na verdade, deve sempre ser lembrado, para nunca mais se repetir. Confira o texto completo em https://lapelota-lapelota.editor.wix.com/html/editor/web/renderer/render/document/133c4170-5623-49b0-9506-baefac8ead0d/post/entre-o-caos-e-o-renascimento"
+        "titulo": "Nome do certificado ou curso",
+        "instituicao": "Instituição / plataforma",
+        "ano": "2025"
       },
       {
-        "data": "28 Jun 2026",
-        "titulo": "Outro título de artigo relevante",
-        "resumo": "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar."
-      },
-      {
-        "data": "05 Jun 2026",
-        "titulo": "Terceiro artigo do blog",
-        "resumo": "Um parágrafo curto introduzindo o tema do artigo, convidando o leitor a continuar."
+        "titulo": "Outro certificado relevante",
+        "instituicao": "Instituição / plataforma",
+        "ano": "2024"
       }
     ]
   },

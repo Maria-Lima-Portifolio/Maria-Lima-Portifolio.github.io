@@ -248,7 +248,7 @@ function lerNav(){
   });
 }
 
-// ---------- itens repetíveis simples (currículo, blog, redes) ----------
+// ---------- itens repetíveis simples (currículo, certificados, redes) ----------
 
 function addCurriculoItem(item){
   var div = document.createElement('div');
@@ -264,18 +264,18 @@ function addCurriculoItem(item){
   document.getElementById('curriculo-itens').appendChild(div);
 }
 
-function addBlogItem(item){
+function addCertificadoItem(item){
   var div = document.createElement('div');
   div.className = 'item-editor';
   div.innerHTML =
     '<button class="btn-remover" type="button">Remover</button>' +
+    '<div class="campo"><label>Nome do certificado / curso</label><input type="text" class="f-titulo" value="' + escapeAttr(item.titulo || '') + '"></div>' +
     '<div class="linha-2">' +
-      '<div class="campo"><label>Data</label><input type="text" class="f-data" value="' + escapeAttr(item.data || '') + '"></div>' +
-      '<div class="campo"><label>Título</label><input type="text" class="f-titulo" value="' + escapeAttr(item.titulo || '') + '"></div>' +
-    '</div>' +
-    '<div class="campo"><label>Resumo</label><textarea class="f-resumo" style="min-height:60px;">' + escapeHtml(item.resumo || '') + '</textarea></div>';
+      '<div class="campo"><label>Instituição</label><input type="text" class="f-instituicao" value="' + escapeAttr(item.instituicao || '') + '"></div>' +
+      '<div class="campo"><label>Ano / período</label><input type="text" class="f-ano" value="' + escapeAttr(item.ano || '') + '"></div>' +
+    '</div>';
   wireRemover(div);
-  document.getElementById('blog-itens').appendChild(div);
+  document.getElementById('certificados-itens').appendChild(div);
 }
 
 function addRedeItem(item){
@@ -300,12 +300,12 @@ function lerCurriculo(){
     };
   });
 }
-function lerBlog(){
-  return Array.from(document.querySelectorAll('#blog-itens .item-editor')).map(function(div){
+function lerCertificados(){
+  return Array.from(document.querySelectorAll('#certificados-itens .item-editor')).map(function(div){
     return {
-      data: div.querySelector('.f-data').value,
       titulo: div.querySelector('.f-titulo').value,
-      resumo: div.querySelector('.f-resumo').value
+      instituicao: div.querySelector('.f-instituicao').value,
+      ano: div.querySelector('.f-ano').value
     };
   });
 }
@@ -347,8 +347,8 @@ function renderInit(){
   document.getElementById('f-curriculo-titulo').value = content.curriculo.tituloSecao;
   content.curriculo.itens.forEach(addCurriculoItem);
 
-  document.getElementById('f-blog-titulo').value = content.blog.tituloSecao;
-  content.blog.itens.forEach(addBlogItem);
+  document.getElementById('f-certificados-titulo').value = content.certificados.tituloSecao;
+  content.certificados.itens.forEach(addCertificadoItem);
 
   document.getElementById('f-contato-titulo').value = content.contato.tituloSecao;
   document.getElementById('f-contato-texto').value = content.contato.texto;
@@ -441,9 +441,9 @@ async function publicar(){
         tituloSecao: document.getElementById('f-curriculo-titulo').value,
         itens: lerCurriculo()
       },
-      blog: {
-        tituloSecao: document.getElementById('f-blog-titulo').value,
-        itens: lerBlog()
+      certificados: {
+        tituloSecao: document.getElementById('f-certificados-titulo').value,
+        itens: lerCertificados()
       },
       contato: {
         tituloSecao: document.getElementById('f-contato-titulo').value,
@@ -527,7 +527,7 @@ document.addEventListener('DOMContentLoaded', function(){
       e.preventDefault();
       var secao = btn.dataset.secao;
       if(secao === 'curriculo') addCurriculoItem({});
-      else if(secao === 'blog') addBlogItem({});
+      else if(secao === 'certificados') addCertificadoItem({});
       else if(secao === 'redes') addRedeItem({});
     });
   });
