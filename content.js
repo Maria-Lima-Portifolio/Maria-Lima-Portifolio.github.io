@@ -482,7 +482,7 @@ const content = {
       "itens": [
         {
           "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785450640200.png",
+          "capaUrl": "images/faculdade-0-1785450793723.png",
           "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
           "titulo": "E-zine Basquete feminino (Medusa Sports)",
           "resumo": "",
@@ -495,7 +495,7 @@ const content = {
         },
         {
           "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785450642438.jpg",
+          "capaUrl": "images/faculdade-1-1785450795926.jpg",
           "capaAlt": "Revista corporativa PepsiCo",
           "titulo": "Revista corporativa PepsiCo",
           "resumo": "",
@@ -511,7 +511,7 @@ const content = {
         },
         {
           "tag": "Documentário",
-          "capaUrl": "images/faculdade-2-1785450643952.png",
+          "capaUrl": "images/faculdade-2-1785450797621.png",
           "capaAlt": "Invisíveis à margem",
           "titulo": "Invisíveis à margem",
           "resumo": "",
@@ -522,7 +522,7 @@ const content = {
         },
         {
           "tag": "Telejornal ",
-          "capaUrl": "images/faculdade-3-1785450646355.png",
+          "capaUrl": "images/faculdade-3-1785450800484.png",
           "capaAlt": "Radar Dário",
           "titulo": "Radar Dário",
           "resumo": "",
@@ -531,7 +531,7 @@ const content = {
         },
         {
           "tag": "Portal ",
-          "capaUrl": "images/faculdade-4-1785450648517.png",
+          "capaUrl": "images/faculdade-4-1785450802999.png",
           "capaAlt": "Máquina do Tempo",
           "titulo": "Máquina do Tempo",
           "resumo": "",
@@ -577,7 +577,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785450650520.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785450805189.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
@@ -586,7 +586,7 @@ const content = {
         },
         {
           "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-1-1785450653136.png",
+          "capaUrl": "images/nova-secao-1784841780645-1-1785450808451.png",
           "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
           "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
           "resumo": "",
@@ -597,7 +597,7 @@ const content = {
         },
         {
           "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-2-1785450655164.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-2-1785450811593.jpg",
           "capaAlt": "Guia para o Super Mundial de Clubes FIFA",
           "titulo": "Guia para o Super Mundial de Clubes FIFA",
           "resumo": "",
