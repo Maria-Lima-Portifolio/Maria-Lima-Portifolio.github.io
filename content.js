@@ -482,7 +482,7 @@ const content = {
       "itens": [
         {
           "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785448158091.png",
+          "capaUrl": "images/faculdade-0-1785449046751.png",
           "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
           "titulo": "E-zine Basquete feminino (Medusa Sports)",
           "resumo": "",
@@ -495,7 +495,7 @@ const content = {
         },
         {
           "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785448160505.jpg",
+          "capaUrl": "images/faculdade-1-1785449049763.jpg",
           "capaAlt": "Revista corporativa PepsiCo",
           "titulo": "Revista corporativa PepsiCo",
           "resumo": "",
@@ -511,7 +511,7 @@ const content = {
         },
         {
           "tag": "Documentário",
-          "capaUrl": "images/faculdade-2-1785448162206.png",
+          "capaUrl": "images/faculdade-2-1785449051229.png",
           "capaAlt": "Invisíveis à margem",
           "titulo": "Invisíveis à margem",
           "resumo": "",
@@ -522,12 +522,46 @@ const content = {
         },
         {
           "tag": "Telejornal ",
-          "capaUrl": "images/faculdade-3-1785448164739.png",
+          "capaUrl": "images/faculdade-3-1785449052929.png",
           "capaAlt": "Radar Dário",
           "titulo": "Radar Dário",
           "resumo": "",
           "textoCompleto": [],
           "link": "https://youtu.be/ghuWgUzKrVw?si=6ZpYejxkGG3EoliK"
+        },
+        {
+          "tag": "Portal ",
+          "capaUrl": "images/faculdade-4-1785449054793.png",
+          "capaAlt": "Máquina do Tempo",
+          "titulo": "Máquina do Tempo",
+          "resumo": "",
+          "textoCompleto": [
+            "O Máquina do Tempo é um portal jornalístico universitário que propõe olhar para o presente a partir das marcas do passado e das transformações que apontam para o futuro. Nosso conteúdo nasce da curiosidade, da investigação e do compromisso em traduzir temas sociais, culturais e tecnológicos de forma acessível, crítica e informativa.",
+            "Mais do que noticiar fatos, buscamos conectar épocas, comportamentos e mudanças que moldam a sociedade. Em nossas reportagens, entrevistas, podcasts e conteúdos multimídia, mostramos que entender o ontem é essencial para compreender o hoje e imaginar o amanhã."
+          ],
+          "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/sobre-nos"
+        },
+        {
+          "tag": "Entrevista - Portal Máquina do Tempo",
+          "capaUrl": "https://static.wixstatic.com/media/f6a9ba_4d8a4902b63e4a04b43fd736bbc03a3b~mv2.jpeg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/f6a9ba_4d8a4902b63e4a04b43fd736bbc03a3b~mv2.jpeg",
+          "capaAlt": "A evolução dos distúrbios alimentares e a ditadura da estética nas redes sociais ",
+          "titulo": "A evolução dos distúrbios alimentares e a ditadura da estética nas redes sociais ",
+          "resumo": "",
+          "textoCompleto": [
+            "A relação com a comida, que antigamente se desenhava como um ato cultural e intuitivo moldado pelas tradições familiares, passa por uma transformação profunda. O corpo, antes aceito como uma realidade física vivida sem a vigilância constante de padrões globais, deu lugar à era do \"corpo como projeto\". Com a ascensão das redes sociais e de aplicativos de monitoramento, o ato de comer deixou de ser sensorial para se tornar uma tarefa puramente matemática.",
+            "A pressão pelo chamado \"comer limpo\" e a busca incessante pela perfeição digital estão forjando uma epidemia silenciosa. No Brasil, cerca de 15 milhões de pessoas já convivem com transtornos alimentares, e o acesso frequente às redes sociais atua como um combustível para essa insatisfação corporal. O que antes era encarado apenas como cuidado, hoje beira a obsessão, fazendo com que uma geração troque o prazer da mesa pelo controle absoluto de dados.",
+            "Para compreender como essa transição de uma alimentação intuitiva para uma monitorada afeta a nossa autonomia, a nutricionista comportamental Maria Alice Nogueira traz pontos fundamentais sobre as ferramentas que usamos no dia a dia. Ao ser questionada sobre o uso de aplicativos de contagem de calorias, ela pondera que é preciso avaliar o contexto de cada pessoa. Embora possam servir de auxílio para alguns, o problema surge quando a consciência sobre o que se come se torna rígida e culposa.",
+            "“O foco passa a ser o número de calorias, os macronutrientes e se os alimentos são permitidos ou proibidos. A comida vira uma moeda de troca, como se o organismo fosse um banco recebendo dinheiro. Os sinais internos, como a fome e a saciedade, ficam em segundo plano. Isso enfraquece a autonomia alimentar com o passar do tempo, desrespeitando toda uma construção de vida sobre o que e como se come”, explica Maria Alice.",
+            "Essa perda de autonomia também é visível nos corredores do supermercado, em meio ao mercado de suplementos e produtos \"fit\". A nutricionista observa que, embora esse setor aumente as opções nas prateleiras, as promessas milagrosas de saúde e estética despertam um tom julgador nos consumidores. Associações entre esses produtos e uma suposta alimentação perfeita acabam levando ao pensamento equivocado de que alimentos simples e tradicionais não são adequados, limitando a nossa real liberdade de escolha.",
+            "Essa busca pela perfeição estética migrou também para a forma como compartilhamos nossas refeições. O hábito moderno de fotografar o prato pode, sim, alterar a satisfação sensorial. Maria Alice explica que, se o foco está exclusivamente em performar um prato bonito, a experiência de comer é deslocada para fora do momento presente, prejudicando a percepção de sabor e textura. No entanto, o equilíbrio é a chave: “Se o ato for apenas uma forma carinhosa e descontraída de registrar o momento, o visual do prato pode até aumentar a vontade de se alimentar, sem prejuízos”.",
+            "Manter o convívio social diante de tantas \"dietas de nicho\" ditadas pela internet tornou-se outro desafio. Ainda assim, a profissional defende que é possível sustentar uma alimentação coletiva através do diálogo e da flexibilidade. Ela reforça que comer junto não precisa significar comer igual, e que a diversidade de hábitos à mesa deve ser encarada como uma oportunidade de respeitar individualidades e exercer o afeto.",
+            "Essa complexidade à mesa, no entanto, é apenas uma parte de um cenário que envolve questões profundas da mente. Para entender como essa pressão impacta o emocional, a psicóloga especialista em transtornos alimentares, Claudia Rodrigues de Aguiar explica que o corpo passou a ser visto como uma construção feita para o olhar do outro.",
+            "Segundo a especialista, vivemos a era do \"corpo postável\", onde a identidade digital depende diretamente da aprovação externa. “Sob a ótica da psicanálise, o corpo é uma construção simbólica atravessada pelo olhar do outro. O medo da ausência de “likes” pode ser compreendido como angústia de exclusão simbólica, articulada ao desejo de reconhecimento pelo outro. Já a ausência de validação digital atua como uma punição subjetiva, reatualizando experiências de desamparo e não reconhecimento”, explica.",
+            "Nesse ambiente, a realidade física perde espaço para o mundo dos filtros. A psicóloga alerta que a exposição constante a imagens perfeitas cria uma distorção na forma como nos enxergamos, ampliando a distância entre quem realmente somos e quem acreditamos que deveríamos ser. É nesse intervalo que os distúrbios alimentares ganham novas formas. Claudia observa, por exemplo, que a anorexia tradicional vem dando lugar à ascensão da ortorexia, onde a obsessão não é apenas emagrecer, mas manter um controle rígido sobre a pureza da comida para atingir um ideal inalcançável.",
+            "Outro ponto fundamental destacado pela psicóloga é o papel dos algoritmos. Diferente das mídias de antigamente, as redes sociais aprendem o que o usuário consome e oferecem conteúdos semelhantes sem parar. Claudia explica que, se alguém interage com posts de dietas restritivas, passa a ser bombardeada pelo tema, o que prende a pessoa em um ciclo repetitivo. Essa dinâmica reforça comportamentos autodestrutivos e dificulta o contato com realidades diferentes e corpos reais.",
+            "Assim, o caminho para recuperar a autonomia alimentar e a paz com o espelho envolve entender que o corpo real não cabe em um filtro. Entre as métricas das redes e a ditadura da estética, o desafio é resgatar a capacidade de olhar para si mesmo além do que os olhos do algoritmo podem capturar, devolvendo à comida o seu papel de prazer e ao corpo o seu papel de viver, e não apenas de ser exibido."
+          ],
+          "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/post/a-evolução-dos-distúrbios-alimentares-e-a-ditadura-da-estética-nas-redes-sociais"
         }
       ]
     },
@@ -543,12 +577,21 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785448169025.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785449056369.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
           "textoCompleto": [],
           "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
+        },
+        {
+          "tag": "Post Final UWCL",
+          "capaUrl": "images/nova-secao-1784841780645-1-1785449057692.png",
+          "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
+          "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "https://www.instagram.com/p/DJ-HiH7x48n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
         }
       ]
     },
