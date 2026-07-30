@@ -482,7 +482,7 @@ const content = {
       "itens": [
         {
           "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785450286553.png",
+          "capaUrl": "images/faculdade-0-1785450415691.png",
           "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
           "titulo": "E-zine Basquete feminino (Medusa Sports)",
           "resumo": "",
@@ -495,7 +495,7 @@ const content = {
         },
         {
           "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785450289880.jpg",
+          "capaUrl": "images/faculdade-1-1785450418681.jpg",
           "capaAlt": "Revista corporativa PepsiCo",
           "titulo": "Revista corporativa PepsiCo",
           "resumo": "",
@@ -511,7 +511,7 @@ const content = {
         },
         {
           "tag": "Documentário",
-          "capaUrl": "images/faculdade-2-1785450291512.png",
+          "capaUrl": "images/faculdade-2-1785450420230.png",
           "capaAlt": "Invisíveis à margem",
           "titulo": "Invisíveis à margem",
           "resumo": "",
@@ -522,7 +522,7 @@ const content = {
         },
         {
           "tag": "Telejornal ",
-          "capaUrl": "images/faculdade-3-1785450293695.png",
+          "capaUrl": "images/faculdade-3-1785450422601.png",
           "capaAlt": "Radar Dário",
           "titulo": "Radar Dário",
           "resumo": "",
@@ -531,7 +531,7 @@ const content = {
         },
         {
           "tag": "Portal ",
-          "capaUrl": "images/faculdade-4-1785450296014.png",
+          "capaUrl": "images/faculdade-4-1785450425447.png",
           "capaAlt": "Máquina do Tempo",
           "titulo": "Máquina do Tempo",
           "resumo": "",
@@ -543,7 +543,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Portal Máquina do Tempo",
-          "capaUrl": "",
+          "capaUrl": "https://static.wixstatic.com/media/f6a9ba_4d8a4902b63e4a04b43fd736bbc03a3b~mv2.jpeg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/f6a9ba_4d8a4902b63e4a04b43fd736bbc03a3b~mv2.jpeg",
           "capaAlt": "A evolução dos distúrbios alimentares e a ditadura da estética nas redes sociais ",
           "titulo": "A evolução dos distúrbios alimentares e a ditadura da estética nas redes sociais ",
           "resumo": "",
@@ -577,7 +577,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785450297762.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785450427588.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
@@ -586,7 +586,7 @@ const content = {
         },
         {
           "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-1-1785450298792.png",
+          "capaUrl": "images/nova-secao-1784841780645-1-1785450429145.png",
           "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
           "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
           "resumo": "",
@@ -597,7 +597,7 @@ const content = {
         },
         {
           "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-2-1785450300918.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-2-1785450431378.jpg",
           "capaAlt": "Guia para o Super Mundial de Clubes FIFA",
           "titulo": "Guia para o Super Mundial de Clubes FIFA",
           "resumo": "",
