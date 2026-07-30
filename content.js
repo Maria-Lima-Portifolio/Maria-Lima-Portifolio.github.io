@@ -517,6 +517,27 @@ const content = {
     },
     {
       "id": "nova-secao-1784841780645",
+      "titulo": "Freelas ",
+      "toggleTexto": "",
+      "linkTexto": "Ver mais →",
+      "verTodasTexto": "Ver todas",
+      "visiveis": 4,
+      "fundo": "nenhum",
+      "fundoImagemUrl": "",
+      "itens": [
+        {
+          "tag": "Jornaltop.esportes ",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785446718541.jpg",
+          "capaAlt": "Entrevista Bruno Fratus - COB+LA2028",
+          "titulo": "Entrevista Bruno Fratus - COB+LA2028",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
+        }
+      ]
+    },
+    {
+      "id": "nova-secao-1785446582110",
       "titulo": "Nova seção",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
