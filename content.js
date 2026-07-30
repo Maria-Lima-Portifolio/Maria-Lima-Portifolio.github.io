@@ -36,7 +36,7 @@ const content = {
     ],
     "botaoTexto": "Entre em contato",
     "botaoHref": "#contato",
-    "fotoUrl": "https://via.placeholder.com/500x625/e5e2dc/1a1a1a?text=Sua+Foto",
+    "fotoUrl": "https://instagram.fcgh2-1.fna.fbcdn.net/v/t51.82787-19/732070121_18604231951010198_7745720752722673367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcgh2-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gHJug4Zxzy_JEihnpxmuzSOI83iZkdtWn5NQDqt3aaXRxCfLl0dKm-chCjN7hIaVRPcMsFIVxDtw7VxmmO2JBis&_nc_ohc=ZHpOYLuVERMQ7kNvwHfabNk&_nc_gid=U0NMk8pnl1S5DcCF02KIng&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AQHcY4bDJ2pqiz344dUcx2rvDBYB677KRMP6L-kfLYSxow&oe=6A718A06&_nc_sid=22de04",
     "fotoAlt": "Foto da jornalista"
   },
   "secoes": [
@@ -476,13 +476,13 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver trabalho completo →",
       "verTodasTexto": "Ver todos os trabalhos",
-      "visiveis": 4,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
         {
           "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785449587810.png",
+          "capaUrl": "images/faculdade-0-1785450286553.png",
           "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
           "titulo": "E-zine Basquete feminino (Medusa Sports)",
           "resumo": "",
@@ -495,7 +495,7 @@ const content = {
         },
         {
           "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785449590019.jpg",
+          "capaUrl": "images/faculdade-1-1785450289880.jpg",
           "capaAlt": "Revista corporativa PepsiCo",
           "titulo": "Revista corporativa PepsiCo",
           "resumo": "",
@@ -511,7 +511,7 @@ const content = {
         },
         {
           "tag": "Documentário",
-          "capaUrl": "images/faculdade-2-1785449591476.png",
+          "capaUrl": "images/faculdade-2-1785450291512.png",
           "capaAlt": "Invisíveis à margem",
           "titulo": "Invisíveis à margem",
           "resumo": "",
@@ -522,7 +522,7 @@ const content = {
         },
         {
           "tag": "Telejornal ",
-          "capaUrl": "images/faculdade-3-1785449593432.png",
+          "capaUrl": "images/faculdade-3-1785450293695.png",
           "capaAlt": "Radar Dário",
           "titulo": "Radar Dário",
           "resumo": "",
@@ -531,7 +531,7 @@ const content = {
         },
         {
           "tag": "Portal ",
-          "capaUrl": "images/faculdade-4-1785449595887.png",
+          "capaUrl": "images/faculdade-4-1785450296014.png",
           "capaAlt": "Máquina do Tempo",
           "titulo": "Máquina do Tempo",
           "resumo": "",
@@ -577,7 +577,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785449597831.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785450297762.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
@@ -585,13 +585,26 @@ const content = {
           "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
         },
         {
-          "tag": "Post Final UWCL",
-          "capaUrl": "images/nova-secao-1784841780645-1-1785449599144.png",
+          "tag": "Instagram",
+          "capaUrl": "images/nova-secao-1784841780645-1-1785450298792.png",
           "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
           "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
           "resumo": "",
-          "textoCompleto": [],
+          "textoCompleto": [
+            "Post Final UWCL"
+          ],
           "link": "https://www.instagram.com/p/DJ-HiH7x48n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        },
+        {
+          "tag": "Instagram",
+          "capaUrl": "images/nova-secao-1784841780645-2-1785450300918.jpg",
+          "capaAlt": "Guia para o Super Mundial de Clubes FIFA",
+          "titulo": "Guia para o Super Mundial de Clubes FIFA",
+          "resumo": "",
+          "textoCompleto": [
+            "Post Super Mundial de Clubes FIFA"
+          ],
+          "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
         }
       ]
     },
