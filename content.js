@@ -266,6 +266,99 @@ const content = {
             "Texto e Fotos: Maria Lima"
           ],
           "link": "https://www.apm.org.br/tertulia-de-novembro-traz-trabalhos-vencedores-dos-premios-cientificos-da-amsp/"
+        },
+        {
+          "tag": "APM - GERAIS ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/CAPA-editada.png",
+          "capaAlt": "Voluntariado médico do Cangaíba comemora 50 anos com solenidade na Câmara Municipal de São Paulo",
+          "titulo": "Voluntariado médico do Cangaíba comemora 50 anos com solenidade na Câmara Municipal de São Paulo",
+          "resumo": "A APM foi representada por Jorge Curi, diretor de Responsabilidade Social da entidade",
+          "textoCompleto": [
+            "Na noite da última quarta-feira, 15 de outubro, a Câmara Municipal de São Paulo, em parceria com a Associação Popular da Saúde, realizou uma cerimônia para celebrar os 50 anos do Voluntariado Médico do Cangaíba.",
+            "Gilberto Natalini iniciou o evento fazendo um agradecimento a todos os presentes. Ele compartilhou brevemente a história do voluntariado, que surgiu de um desafio. Durante o período da ditadura no Brasil, Natalini foi preso e, na cadeia, conheceu o operário João Chile. Chile o questionou, dizendo que os médicos presos, após a formatura, cuidariam apenas dos ricos, se esquecendo do povo. Natalini prometeu reencontrá-lo após se formar, e assim o fez.",
+            "O projeto do voluntariado no Cangaíba foi criado em 1975 por ele, que também é ex-vereador de São Paulo, delegado e associado honorário da Associação Paulista de Medicina, junto com um grupo de estudantes da Escola Paulista de Medicina.",
+            "Nestes quase 50 anos, o projeto já realizou mais de 100 mil atendimentos e quase 3 mil cirurgias. O atendimento é realizado no ambulatório da Igreja Bom Jesus, onde Natalini atua com os médicos Nacime Mansur e Henrique Francé até os dias de hoje, além de outros profissionais da Saúde.",
+            "Henrique Francé, um dos médicos responsáveis pelo projeto, também esteve presente na solenidade. “Nós sempre vamos para ajudar. É uma satisfação enorme atender nas Unidades Básicas de Saúde (UBS) e depois poder ir trabalhar como voluntário em Cangaíba. Eu me sinto melhor como pessoa, mais humano e mais afetivo”, destacou.",
+            "O ex-presidente da Associação Paulista de Medicina José Luiz Gomes do Amaral também compareceu e relembrou sua entrada na faculdade, quando foi recepcionado por Gilberto Natalini: “Ter alguém como Gilberto Natalini como veterano é muito inspirador e ter alguém como Henrique Francé como colega de classe é um privilégio enorme”, afirmou.",
+            "A solenidade também contou com a presença do diretor de Responsabilidade Social da Associação Paulista de Medicina, Jorge Carlos Machado Curi, representando a instituição.",
+            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/voluntariado-medico-do-cangaiba-comemora-50-anos-com-solenidade-na-camara-municipal-de-sao-paulo/"
+        },
+        {
+          "tag": "APM - GERAIS ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/foto-site-1.png",
+          "capaAlt": "IV CPDor: Quando a dor começa – a importância do diagnóstico e tratamento precoce",
+          "titulo": "IV CPDor: Quando a dor começa – a importância do diagnóstico e tratamento precoce",
+          "resumo": "Simpósio satélite foi parte integrante do Congresso do Comitê Científico de Dor da APM",
+          "textoCompleto": [
+            "Na última sexta-feira, 15 de agosto, segundo dia da quarta edição do Congresso Paulista de Dor, o Simpósio Satélite da Zambon teve como palestrante a presidente do Comitê Científico de Dor da Associação Paulista de Medicina, Telma Zakka, para falar sobre “Quando a Dor Começa: A importância do Diagnóstico e Tratamento Precoce”.",
+            "A especialista iniciou a apresentação destacando que a dor aguda é o passo inicial para a dor crônica. Ela definiu a dor como uma experiência sensitiva e emocional desagradável, ressaltando que cada pessoa a sente de forma única. A dor crônica, em particular, afeta diversas áreas da vida, influenciando o humor, o sono e podendo gerar ansiedade e depressão, além de comprometer a mobilidade de pessoas que chegam a parar de viver por causa das dores.",
+            "Ao abordar a dor aguda, Telma a descreveu como um sintoma que começa de repente, como em casos de cólica renal ou menstrual, dor de dente ou dor lombar. As causas mais frequentes desse tipo de dor vêm de traumas, pós-operatórios, doenças ou lesões. A dor aguda tem duração limitada, podendo durar por até três meses, e geralmente é resolvida com o uso de anti-inflamatórios e analgésicos.",
+            "Em um estudo realizado, com foco em traumas e acidentes, 91% dos pacientes eram admitidos com dor, e 86% ainda sentiam dor no momento da alta. Destes, dois terços apresentavam dor de alta intensidade.",
+            "Desigualdade de gênero no tratamento da dor\nSe tratando de mulheres, estudo realizado em 2024, que incluiu 22 mil mulheres nos Estados Unidos e em Israel, revelou que as mulheres esperam cerca de 30 minutos a mais do que os homens para serem atendidas e recebem menos analgésicos. Enquanto isso, os homens recebem tratamentos mais eficazes, e suas queixas são mais valorizadas e ouvidas. Essa desigualdade indica que, para quadros clínicos semelhantes, o tratamento pode variar entre os gêneros.",
+            "A palestrante explicou também que as mulheres sentem mais dor que os homens devido a diferenças hormonais: a testosterona tem um efeito mais protetor contra a dor, enquanto o estrógeno funciona como um facilitador.",
+            "A apresentação continuou com uma revisão sistemática do atendimento de dor em emergências, destacando problemas no serviço de Saúde e na atuação dos profissionais. A pesquisa chegou a cinco conclusões principais: o manejo da dor é crucial em ambientes de emergência, a equipe de Saúde não reconhece a necessidade de melhorar o manejo de dor, o ambiente de emergência dificulta a melhoria do manejo da dor, o tratamento da dor baseia-se na experiência pessoal e não no conhecimento, e por fim, a equipe não confia nas queixas do paciente",
+            "Com base nesses pontos, Telma Zakka concluiu que a dor é, de modo geral, tratada de forma inadequada nos prontos-socorros.",
+            "IV Congresso Paulista de Dor\nEntre os dias 14 e 16 de agosto, o Comitê Científico de Dor da Associação Paulista de Medicina realizou a quarta edição do Congresso Paulista de Dor. O evento teve como tema central a integração entre conhecimento clínico especializado e a inteligência artificial no diagnóstico e tratamento da dor, reunindo especialistas renomados para a discussão de casos reais.",
+            "Os participantes vivenciaram três dias de aprendizados. No pré-congresso, o foco foi a “A Arte da Medicina: transformar a dor e o sofrimento”. Já nos dias seguintes, o evento se aprofundou na discussão de diferentes tipos de dor por meio de casos clínicos, com apresentações e debates sobre dor pélvica e musculoesquelética no segundo dia.",
+            "No terceiro último dia, os temas foram cefaleia e dor neuropática. Todas as discussões tiveram palestras que aprofundaram os assuntos, seguidas por ruma discussão entre os palestrantes e o público e depois o uso comparativo da Inteligência Artificial.  O Congresso foi uma excelente oportunidade para a troca de conhecimentos e experiências.",
+            "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/iv-cpdor-quando-a-dor-comeca-a-importancia-do-diagnostico-e-tratamento-precoce/"
+        },
+        {
+          "tag": "APM - GERAIS ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/pediatria-1-editada.png",
+          "capaAlt": "Fórum Conexão Jovem Pediatra discute IA, Residência Médica, Mídias sociais, direito médico e muito mais",
+          "titulo": "Fórum Conexão Jovem Pediatra discute IA, Residência Médica, Mídias sociais, direito médico e muito mais",
+          "resumo": "Evento focado nos jovens médicos aconteceu no dia 11 de agosto, na sede da APM",
+          "textoCompleto": [
+            "No último sábado, 11 de outubro, a Comissão Especial de Médicos Jovens da Associação Paulista de Medicina realizou o Fórum Conexão Jovem Pediatra, na sede da entidade, em parceria com a Sociedade de Pediatria de São Paulo (SPSP), a Comissão Estadual de Residência Médica de São Paulo (Cerem-SP), a Associação Médica Brasileira e a Medway.",
+            "O evento foi coordenado por Ana Cristina Ribeiro Zöllner, delegada da APM e membro da Diretoria da SPSP, que celebrou o dia como “um marco, o início de uma atividade para jovens médicos, preparado com muito carinho e cuidado”.",
+            "“Temos que renovar a novidade que a juventude traz, tem que mesclar com a gente, médicos de ‘certa idade’. Queremos passar o bastão e temos certeza de que a pediatria vai evoluir com a presença de vocês”, declarou o presidente da SPSP, Sulim Abramovici, durante a abertura. Além dele, compuseram a mesa solene o vice-presidente da APM João Sobreira de Moura Neto, os diretores adjuntos de Defesa Profissional e de Previdência e Mutualismo, Marun David Cury e Clóvis Constantino; o diretor geral da Comissão Especial de Médicos Jovens da APM, Gabriel Senise; e o presidente da Comissão Nacional do Jovem Médico da AMB, Zeus Tristão dos Santos.",
+            "Residência Médica: Desafios e Números",
+            "O primeiro painel teve a palestra “Residência Médica: Desafios do Aprendizado Cotidiano”, conduzida por Paulo Fernando Constâncio, presidente da Cerem-SP, que enfatizou que a residência médica é a melhor forma de se tornar especialista, pois assegura critérios como direito de atendimento, carga horária definida (cerca de 2.880 horas anuais) e financiamento de bolsa, entre outros.",
+            "O palestrante trouxe dados específicos sobre a residência de Pediatria: o Brasil dispõe de 2.139 vagas, sendo 662 apenas no estado de São Paulo. O ano de 2025 registrou crescimento nas vagas de R1 em comparação com o ano anterior. No entanto, Constâncio notou uma queda no número de residentes entre o R1 e o R3, cujos motivos ainda não são claros.",
+            "Ele aconselhou os futuros R1 a refletirem profundamente sobre a escolha profissional. Segundo o especialista, o aspirante deve tentar entender o processo inicial da vida, colocar-se no lugar do paciente e, antes de tudo, enxergar-se na profissão, sabendo que o sucesso dependerá unicamente do esforço individual. Após a apresentação, houve um debate conduzido por Enrico Stefano Suriano, diretor de Projetos da Comissão Especial de Médicos Jovens da APM.",
+            "Organizando o Tempo e Evitando o Burnout",
+            "O painel sobre carreira teve o tema “Administrando meu tempo como médico pediatra” conduzido por Lucas de Brito Costa, diretor Financeiro da Comissão Especial de Médicos Jovens da APM, com moderação de Ana Zollner. Ele destacou que o tempo é um recurso limitado e relativo, sendo organização a chave para a eficiência.",
+            "Costa listou erros comuns na gestão do tempo que devem ser evitados. O primeiro é não ter uma lista de afazeres, o que sobrecarrega o cérebro com a atribuição extra de listar e manter a memória atualizada. O segundo erro é não definir objetivos pessoais pois, especialmente durante a residência, o jovem médico pode acabar “comprando” objetivos de grupo que não se alinham com sua realidade sociodemográfica e familiar.",
+            "Outros erros incluem não definir prioridades, trabalhando sempre na urgência; não conseguir lidar com distrações; a própria procrastinação (que, embora saudável em medida coordenada, é prejudicial em excesso); e, por fim, a sobrecarga de responsabilidades e o vício em trabalho. O pediatra reforçou ainda que o cérebro precisa de descanso para funcionar de forma ideal, e que é fundamental evitar o burnout – um tema de grande preocupação e estudo na saúde mental do jovem médico.",
+            "Sucesso Digital: Ética e Ciência nas Mídias Sociais",
+            "No painel dedicado às Mídias Sociais, a infectologista Tassiana Rodrigues dos Santos Galvão, do @casal.infecto, abordou o tema “Sucesso nas Mídias Sociais: Ética e Ciência”, com moderação do diretor Executivo da Comissão Especial de Médicos Jovens da APM, Guilherme Marques dos Santos.",
+            "Ela destacou que a internet é a principal fonte de informação médica para a população atualmente. Mais da metade das pessoas busca as redes (TikTok, Instagram, X etc.) para obter informações de Saúde, e adolescentes já trocam o Google por plataformas como o TikTok para fazer pesquisas.",
+            "Tassiana Galvão notou que médicos com presença digital tendem a ter maior alcance e influência, e que pacientes frequentemente verificam o engajamento e a forma de comunicação do profissional nas redes antes de iniciar um tratamento. Para a médica, a chave para um bom conteúdo é originalidade e criatividade e, principalmente, a conformidade com a ética e a Ciência.",
+            "A especialista listou critérios essenciais antes de uma postagem: A informação tem base científica clara? Ela protege o sigilo dos pacientes? O conteúdo promove a Saúde da população e está em conformidade com as questões éticas?. E concluiu que as redes sociais, além de serem uma ferramenta de sucesso na carreira (atraindo hospitais e empresas), são um meio poderoso de fazer a diferença na vida de inúmeras pessoas, desde que utilizadas com responsabilidade e com foco em Medicina Baseada em evidências.",
+            "Direito Médico e Inovação na Carreira",
+            "O evento também incluiu painel sobre Direito Médico, com palestra da advogada Francine Curtolo sobre “Direito Médico e Defesa Profissional – Desafios na Pediatria” e moderação de Gabriel Senise. Compondo a assessoria jurídica da APM desde 2005, ela enfatizou a importância do conhecimento jurídico, que regula a relação entre profissionais, instituições, pacientes e Estado.",
+            "E destacou que o melhor meio de proteção é a capacidade de provar que agiu corretamente. Neste sentido, o prontuário completo e bem preenchido é uma obrigação ética e uma poderosa defesa jurídica. Além disso, o termo de consentimento informado comprova o cumprimento do dever de informação. A advogada ainda alertou para o perigo de usar as redes sociais para discutir ou trocar informações sobre casos clínicos, pois isso pode se tornar uma prova negativa.",
+            "A Medway, representada por seus fundadores, Alexandre Remor e João Vitor Fernando, abordou o tema “Empreender e inovar em início de carreira”, contando a trajetória da empresa, com moderação de Zeus Tristão.",
+            "Também houve um painel dedicado à Inteligência Artificial, destacando como essa ferramenta pode contribuir com o jovem pediatra. O debate foi conduzido por Daniel Ferraz de Campos Filhos, engenheiro Aeroespacial, e a médica Thays Yada Matias Ferraz de Campos, ambos da Medway, com moderação de Guilherme Marques.",
+            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/forum-conexao-jovem-pediatra-discute-ia-residencia-medica-midias-sociais-direito-medico-e-muito-mais/"
+        },
+        {
+          "tag": "APM - CBMG25",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/redes-sociais.jpg",
+          "capaAlt": "3º CMG/AMB: Diretores da APM debatem Medicina nas redes sociais",
+          "titulo": "3º CMG/AMB: Diretores da APM debatem Medicina nas redes sociais",
+          "resumo": "Antonio Carlos Endrigo foi o coordenador do painel e Walter Miyamoto um dos conferencistas",
+          "textoCompleto": [
+            "“Medicina nas Redes Sociais”, foi um dos assuntos abordados no primeiro dia da terceira edição do Congresso de Medicina Geral da Associação Médica Brasileira (AMB), que acontece em São Paulo de 24 a 26 de julho.",
+            "O painel foi coordenado pelo diretor de Previdência e Mutualismo da Associação Paulista de Medicina (APM) e presidente da Comissão de Saúde Digital da AMB, Antonio Carlos Endrigo, e pelo presidente da Associação Médica do Amazonas, Emanuel Jorge Akel Thomaz de Lima.",
+            "Como conferencistas, participaram Walter Miyamoto, diretor adjunto de Marketing da APM e presidente da APM São José dos Campos, e Juliana Hasse, presidente da Comissão de Direito Médico e de Saúde da OAB-SP. O painel contou também com a participação do diretor Executivo da Comissão Especial de Médicos Jovens da APM e membro da Comissão Nacional de Médicos Jovens da AMB, Guilherme Marques.",
+            "Em sua apresentação, Miyamoto contou que usa as redes sociais para falar sobre sua área de especialização, a Coloproctologia, e destacou sua evolução nas plataformas digitais, que ocorreu de forma gradativa, por meio de cursos relacionados à comunicação e marketing e treinamentos.",
+            "Ele também deu ênfase ao uso da comunicação digital, com ferramentas de humanização e crescimento, para ampliar o cuidado e o acolhimento com o paciente para além da consulta no consultório, com mensagens para saber como ele está após um procedimento e lembretes de retorno de consultas, além de pesquisas de satisfação para melhorar ainda mais os atendimentos.",
+            "Ações judiciais",
+            "Juliana Hasse, por sua vez, destacou o crescimento expressivo de ações judiciais contra médicos, com 34 mil processos só no ano de 2024. “Entre 2020 e 2024, houve um aumento de mais de 30% nas ações contra médicos em início de carreira. No SJT [Superior Tribunal de Justiça], o crescimento foi de 1.600% no período de 10 anos”, afirmou.",
+            "A especialista também destacou os principais motivadores de ações judiciais contra os profissionais da área da Saúde, como expectativas não atendidas, documentação, desgaste na relação médico-paciente e a falta de informação médica necessária ou obrigatória ao paciente.",
+            "Dentro das especialidades, as áreas que recebem mais processos judiciais são: Cirurgia Plástica, Ginecologia e Obstetrícia e Clínica Geral. “Desde 2020, o índice de condenação é de 60% dos casos. A ausência de provas é a maior fragilidade nos processos”, destaca Juliana.",
+            "Ao fim das apresentações, Endrigo deu espaço para os presentes fazerem perguntas aos convidados. O debate abordou temas sobre o que difere uma negligência informacional e dicas práticas de como realizar atendimentos particulares antes mesmo de se descredenciar de convênios médicos.",
+            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/3o-cmg-amb-diretores-da-apm-debatem-medicina-nas-redes-sociais/"
         }
       ]
     },
@@ -440,7 +533,7 @@ const content = {
       {
         "data": "07/2025 - atual",
         "titulo": "Associação Paulista de Medicina (APM) - Estagiária de Jornalismo",
-        "descricao": "Responsável pela cobertura de eventos e do campeonato esportivo da instituição, além da produção de matérias e entrevistas para site e revista. Minhas atividades incluem também a criação das newsletters semanais, atualização do site e suporte nas redes sociais.\n\nFerramentas utilizadas: RD Station, Pacote Office, WordPress, Notion, Google Workspace, Canva e Meta Business (Ads).\n"
+        "descricao": "Responsável pela cobertura de eventos e do campeonato esportivo da instituição, além da produção de matérias e entrevistas para site e revista. Minhas atividades incluem também a criação das newsletters semanais, atualização do site e suporte nas redes sociais.\n\nFerramentas utilizadas: RD Station, Pacote Office, WordPress, Google Workspace, Canva e Meta Business (Ads).\n"
       },
       {
         "data": "05/2024 - 07/2025",
