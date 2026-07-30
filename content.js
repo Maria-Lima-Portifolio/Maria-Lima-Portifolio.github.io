@@ -36,7 +36,7 @@ const content = {
     ],
     "botaoTexto": "Entre em contato",
     "botaoHref": "#contato",
-    "fotoUrl": "https://instagram.fcgh2-1.fna.fbcdn.net/v/t51.82787-19/732070121_18604231951010198_7745720752722673367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcgh2-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gHJug4Zxzy_JEihnpxmuzSOI83iZkdtWn5NQDqt3aaXRxCfLl0dKm-chCjN7hIaVRPcMsFIVxDtw7VxmmO2JBis&_nc_ohc=ZHpOYLuVERMQ7kNvwHfabNk&_nc_gid=U0NMk8pnl1S5DcCF02KIng&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AQHcY4bDJ2pqiz344dUcx2rvDBYB677KRMP6L-kfLYSxow&oe=6A718A06&_nc_sid=22de04",
+    "fotoUrl": "images/hero-1785450948170.jpg",
     "fotoAlt": "Foto da jornalista"
   },
   "secoes": [
@@ -482,7 +482,7 @@ const content = {
       "itens": [
         {
           "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785450793723.png",
+          "capaUrl": "images/faculdade-0-1785450949980.png",
           "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
           "titulo": "E-zine Basquete feminino (Medusa Sports)",
           "resumo": "",
@@ -495,7 +495,7 @@ const content = {
         },
         {
           "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785450795926.jpg",
+          "capaUrl": "images/faculdade-1-1785450952188.jpg",
           "capaAlt": "Revista corporativa PepsiCo",
           "titulo": "Revista corporativa PepsiCo",
           "resumo": "",
@@ -511,7 +511,7 @@ const content = {
         },
         {
           "tag": "Documentário",
-          "capaUrl": "images/faculdade-2-1785450797621.png",
+          "capaUrl": "images/faculdade-2-1785450953638.png",
           "capaAlt": "Invisíveis à margem",
           "titulo": "Invisíveis à margem",
           "resumo": "",
@@ -522,7 +522,7 @@ const content = {
         },
         {
           "tag": "Telejornal ",
-          "capaUrl": "images/faculdade-3-1785450800484.png",
+          "capaUrl": "images/faculdade-3-1785450955934.png",
           "capaAlt": "Radar Dário",
           "titulo": "Radar Dário",
           "resumo": "",
@@ -531,7 +531,7 @@ const content = {
         },
         {
           "tag": "Portal ",
-          "capaUrl": "images/faculdade-4-1785450802999.png",
+          "capaUrl": "images/faculdade-4-1785450958438.png",
           "capaAlt": "Máquina do Tempo",
           "titulo": "Máquina do Tempo",
           "resumo": "",
@@ -577,7 +577,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785450805189.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785450960145.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
@@ -586,7 +586,7 @@ const content = {
         },
         {
           "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-1-1785450808451.png",
+          "capaUrl": "images/nova-secao-1784841780645-1-1785450961618.png",
           "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
           "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
           "resumo": "",
@@ -597,7 +597,7 @@ const content = {
         },
         {
           "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-2-1785450811593.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-2-1785450963654.jpg",
           "capaAlt": "Guia para o Super Mundial de Clubes FIFA",
           "titulo": "Guia para o Super Mundial de Clubes FIFA",
           "resumo": "",
