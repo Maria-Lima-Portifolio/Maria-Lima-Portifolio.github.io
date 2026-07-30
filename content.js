@@ -472,7 +472,7 @@ const content = {
     },
     {
       "id": "faculdade",
-      "titulo": "Trabalhos da Faculdade",
+      "titulo": "Trabalhos Acadêmicos",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver trabalho completo →",
       "verTodasTexto": "Ver todos os trabalhos",
@@ -481,37 +481,53 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
-          "tag": "Disciplina / Curso",
-          "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+do+Trabalho",
-          "capaAlt": "Nome do trabalho acadêmico ou TCC",
-          "titulo": "Nome do trabalho acadêmico ou TCC",
-          "resumo": "Breve resumo sobre o trabalho, sua proposta e o contexto da disciplina.",
+          "tag": "Revista ",
+          "capaUrl": "images/faculdade-0-1785448158091.png",
+          "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
+          "titulo": "E-zine Basquete feminino (Medusa Sports)",
+          "resumo": "",
           "textoCompleto": [
-            "Texto completo sobre o trabalho: objetivo, metodologia, resultados ou aprendizados."
+            "Produzimos uma E-zine (revista de fã) dedicada ao basquete feminino, documentando o cotidiano do Ladies Basquete, equipe amadora em ascensão.",
+            "Nossa cobertura incluiu um dia de jogo e entrevistas exclusivas com Rafael Gouveia, fundador e proprietário do time; Vitória Hipólito, técnica e ex-jogadora do Ladies; Ana Caroline e Luana Barbosa, atletas do elenco atual",
+            "Complementamos o conteúdo com depoimentos de dois nomes importantes do esporte: Gabi Guimarães, ala do Sampaio Basquete; e Hortência, lenda do basquete brasileiro"
           ],
-          "link": "#"
+          "link": "https://drive.google.com/file/d/1QedksZyLlFeMxQ3RdJvF6L5X4op5whMW/view?usp=sharing"
         },
         {
-          "tag": "Disciplina / Curso",
-          "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+do+Trabalho",
-          "capaAlt": "Outro trabalho acadêmico relevante",
-          "titulo": "Outro trabalho acadêmico relevante",
-          "resumo": "Breve resumo sobre o trabalho, sua proposta e o contexto da disciplina.",
+          "tag": "Revista",
+          "capaUrl": "images/faculdade-1-1785448160505.jpg",
+          "capaAlt": "Revista corporativa PepsiCo",
+          "titulo": "Revista corporativa PepsiCo",
+          "resumo": "",
           "textoCompleto": [
-            "Texto completo sobre o trabalho: objetivo, metodologia, resultados ou aprendizados."
+            "Produzimos uma revista corporativa dedicada à PepsiCo, documentando aspectos essenciais da indústria de snacks e sua cultura organizacional.",
+            "Nossa cobertura incluiu três temas principais: \"A Análise Sensorial dos Snacks\", \"Psicologia e Flexibilidade Organizacional\"; e \"A Arquitetura do Snack Perfeito Por Trás da Textura\"",
+            "Complementamos o conteúdo com entrevistas exclusivas com:",
+            "Maria Eduarda Marafon, psicóloga organizacional",
+            "Luis Edmar, engenheiro de alimentos",
+            "Ana Carolina Conti, especialista em Análise Sensorial"
           ],
-          "link": "#"
+          "link": "https://drive.google.com/file/d/1QteklemJ2URAzHG5En2XzPEl6DbmtYsh/view?usp=sharing"
         },
         {
-          "tag": "Disciplina / Curso",
-          "capaUrl": "https://via.placeholder.com/400x300/e5e2dc/1a1a1a?text=Capa+do+Trabalho",
-          "capaAlt": "Terceiro trabalho da graduação",
-          "titulo": "Terceiro trabalho da graduação",
-          "resumo": "Breve resumo sobre o trabalho, sua proposta e o contexto da disciplina.",
+          "tag": "Documentário",
+          "capaUrl": "images/faculdade-2-1785448162206.png",
+          "capaAlt": "Invisíveis à margem",
+          "titulo": "Invisíveis à margem",
+          "resumo": "",
           "textoCompleto": [
-            "Texto completo sobre o trabalho: objetivo, metodologia, resultados ou aprendizados."
+            "Produção audiovisual realizada com base no projeto social “Banho pra Geral”, que oferece banho quente, roupas limpas, alimentação e dignidade para pessoas em situação de rua nas periferias de São Paulo. Acompanhamos a rotina da ONG por alguns dias, registrando de forma sensível e aprofundada a realidade dessas pessoas e o impacto direto da iniciativa em suas vidas."
           ],
-          "link": "#"
+          "link": "https://youtu.be/Ptzu8iSe9Go?si=LENAPdP5rdUIY_RN"
+        },
+        {
+          "tag": "Telejornal ",
+          "capaUrl": "images/faculdade-3-1785448164739.png",
+          "capaAlt": "Radar Dário",
+          "titulo": "Radar Dário",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "https://youtu.be/ghuWgUzKrVw?si=6ZpYejxkGG3EoliK"
         }
       ]
     },
@@ -527,7 +543,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785447023567.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785448169025.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
