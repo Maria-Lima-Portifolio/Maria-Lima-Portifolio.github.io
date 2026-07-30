@@ -527,7 +527,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785446827656.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785446891417.jpg",
           "capaAlt": "Entrevista Bruno Fratus - COB+LA2028",
           "titulo": "Entrevista Bruno Fratus - COB+LA2028",
           "resumo": "Cobertura de eventos para as redes sociais da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
