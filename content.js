@@ -482,7 +482,7 @@ const content = {
       "itens": [
         {
           "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785451595596.png",
+          "capaUrl": "images/faculdade-0-1785531570615.png",
           "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
           "titulo": "E-zine Basquete feminino (Medusa Sports)",
           "resumo": "",
@@ -495,7 +495,7 @@ const content = {
         },
         {
           "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785451597824.jpg",
+          "capaUrl": "images/faculdade-1-1785531572583.jpg",
           "capaAlt": "Revista corporativa PepsiCo",
           "titulo": "Revista corporativa PepsiCo",
           "resumo": "",
@@ -577,7 +577,7 @@ const content = {
       "itens": [
         {
           "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785451605607.jpg",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785531573939.jpg",
           "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
@@ -616,11 +616,13 @@ const content = {
       "itens": [
         {
           "tag": "Entrevista Uso/Aprovo",
-          "capaUrl": "images/nova-secao-1785446582110-0-1785531235208.png",
+          "capaUrl": "images/nova-secao-1785446582110-0-1785531575139.png",
           "capaAlt": "Luciano Wajman ",
           "titulo": "Luciano Wajman ",
-          "resumo": "A seção do \"EU USO, EU APROVO\" da Revista APM traz o depoimento do associados refente ao serviços oferecidos pela entidade. ",
-          "textoCompleto": [],
+          "resumo": "Revista edição 751 - Jul/Ago 2025",
+          "textoCompleto": [
+            "A seção do \"EU USO, EU APROVO\" da Revista APM traz o depoimento do associados refente ao serviços oferecidos pela entidade."
+          ],
           "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
         }
       ]
