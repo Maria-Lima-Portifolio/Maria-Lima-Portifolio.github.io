@@ -615,11 +615,11 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
-          "tag": "Entrevista Uso/Aprovo",
+          "tag": "",
           "capaUrl": "",
           "capaAlt": "",
           "titulo": "",
-          "resumo": "A seção do \"EU USO, EU APROVO\" da Revista APM traz o depoimento do associados referente ao serviços oferecidos pela entidade.",
+          "resumo": "",
           "textoCompleto": [],
           "link": ""
         },
@@ -643,7 +643,7 @@ const content = {
         },
         {
           "tag": "Serviços ",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785536314026.png",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785536407811.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
           "titulo": "Tradição também nas Revistas Científicas",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
