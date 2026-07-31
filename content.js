@@ -642,8 +642,8 @@ const content = {
           "link": "#"
         },
         {
-          "tag": "Serviços ",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785536510959.png",
+          "tag": "Serviços - 756",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785536929840.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
           "titulo": "Tradição também nas Revistas Científicas",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -662,13 +662,20 @@ const content = {
           "link": "https://drive.google.com/file/d/15dGygGGIE3_kBT-c7VhOYAttQJId94jm/view?usp=drive_link"
         },
         {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
+          "tag": "Club de Benefícios - 756",
+          "capaUrl": "images/nova-secao-1785446582110-4-1785536931297.png",
+          "capaAlt": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
+          "titulo": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Este ano está passando tão\nrápido que já chegamos à\nmelhor época: as Festas Juninas!\nPensando nessa tradição tão\nquerida em nosso País, o club|apm\nseparou ofertas imperdíveis para\nvocê aproveitar as festividades\nda melhor maneira possível.",
+            "Para quem está em busca do look\nperfeito para o arraial, a John\nJohn é uma excelente opção. A\nmarca oferece jeans premium de\nalta qualidade e feito à mão. Além\ndisso, os associados garantem\n7,5% de cashback em todas as\ncompras. Já a Maria Filó traz tudo\no que combina com a estação\ne a festividade: tricôs, cores e\ndetalhes encantadores, com um\nacervo que agrada a todos os\ngostos, além de cashback de 4%\nem todas as compras.",
+            "E que tal complementar o\nvisual de São João com uma marca\nnacional que exala brasilidade? A\nVult é amplamente conhecida por\noferecer maquiagens e produtos\nde skincare com foco em alta\nqualidade, preços acessíveis e\nótimo custo-benefício. E com\n9% de cashback.",
+            "Para os que adoram conciliar o\nclima frio com a boa gastronomia, o Paris 6 é a escolha ideal! O bistrô une\na gastronomia francesa à criatividade\ne personalidade brasileira, com uma\ncondição especial para os associados:\nno pagamento de um buffet completo,\no outro sai grátis. E, claro, uma das\nbebidas que mais combinam com o\ninverno é uma boa taça de vinho.\nSabendo disso, a Villa Cabianca\noferece um portfólio de vinhos\nselecionados, assistência técnica e\n10% de desconto contínuo em todos\nos itens do e-commerce, com entrega\nem qualquer lugar do País.",
+            "Além das festividades juninas, as\nférias escolares estão batendo\nà porta. Para quem quer fugir\nda rotina, do caos da cidade e\naproveitar esses dias para descansar\nem família, o Parque Hotel\nGuararema é o destino perfeito.\nEm meio à natureza, o local combina\ntranquilidade e diversão em uma\nestrutura completa, com descontos\nde 10% a 15% para os associados.",
+            "Outra opção é o Panorama\nHotel & SPA, localizado em\nÁguas de Lindóia. O hotel oferece\nacomodações aconchegantes e\nambientes arejados, com a missão\nde proporcionar uma maravilhosa\nexperiência de bem-estar. Para\nos associados da APM, 10% de\ndesconto durante todo o ano.\nAgora, se você busca um lugar\npara celebrar a época com toda a tradição gastronômica e cultural, o\nHotel Fazenda APM é o seu destino\ncerto! Com 164 hectares em meio à\nSerra da Cantareira, o espaço oferece\naconchego e um clima agradável\npara toda a família. Para melhorar,\nno dia 27 de junho, a partir das\n15h, realiza a sua tradicional Festa\nJunina. Associados da APM e seus\ndependentes são isentos da taxa de\ningresso, assim como as crianças com\naté 5 anos de idade e os idosos a\npartir dos 65 anos."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
         },
         {
           "tag": "",
