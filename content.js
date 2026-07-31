@@ -643,7 +643,7 @@ const content = {
         },
         {
           "tag": "Serviços ",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785536407811.png",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785536510959.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
           "titulo": "Tradição também nas Revistas Científicas",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -659,7 +659,7 @@ const content = {
             "A publicação é trimestral e traz,\na cada edição, uma média de\n5 artigos, que incluem textos\noriginais, relatos de casos, revisões\nnarrativas da literatura (artigos\nde atualização), cartas ao editor\ne seções ou colunas especiais em\ndiversas áreas da Medicina.",
             "A revista é produzida 100% em\nportuguês e não possui taxa\npara qualquer médico que deseje\npublicar nela, independentemente\nde ser associado ou não. Outro\ncharme da publicação é a arte das\ncapas, que trazem a cada edição a\nimagem de uma peça do acervo da\nPinacoteca da própria Associação\nPaulista de Medicina."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+          "link": "https://drive.google.com/file/d/15dGygGGIE3_kBT-c7VhOYAttQJId94jm/view?usp=drive_link"
         },
         {
           "tag": "",
