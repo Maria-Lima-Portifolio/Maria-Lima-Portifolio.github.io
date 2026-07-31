@@ -643,7 +643,7 @@ const content = {
         },
         {
           "tag": "Serviços - 756",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785536929840.png",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785537058274.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
           "titulo": "Tradição também nas Revistas Científicas",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -663,7 +663,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 756",
-          "capaUrl": "images/nova-secao-1785446582110-4-1785536931297.png",
+          "capaUrl": "images/nova-secao-1785446582110-4-1785537059755.png",
           "capaAlt": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
           "titulo": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
