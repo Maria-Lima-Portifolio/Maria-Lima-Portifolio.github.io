@@ -610,7 +610,7 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
-      "visiveis": 3,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -643,7 +643,7 @@ const content = {
         },
         {
           "tag": "Serviços - 756",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785537857585.png",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785538044281.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
           "titulo": "Tradição também nas Revistas Científicas",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -663,7 +663,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 756",
-          "capaUrl": "images/nova-secao-1785446582110-4-1785537861305.png",
+          "capaUrl": "images/nova-secao-1785446582110-4-1785538045746.png",
           "capaAlt": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
           "titulo": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -679,7 +679,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785537863139.png",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785538047428.png",
           "capaAlt": "Sergio Marques da Silva",
           "titulo": "Sergio Marques da Silva",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -693,7 +693,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 756",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785537864704.png",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785538048869.png",
           "capaAlt": "Agnaldo Nogueira Zorzeto",
           "titulo": "Agnaldo Nogueira Zorzeto",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -706,7 +706,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 754",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785537866485.png",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785538050356.png",
           "capaAlt": "Cumpra suas promessas de saúde e bem-estar com a ajuda da APM",
           "titulo": "Cumpra suas promessas de saúde e bem-estar com a ajuda da APM",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
