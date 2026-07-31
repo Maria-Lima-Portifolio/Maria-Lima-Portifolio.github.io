@@ -643,7 +643,7 @@ const content = {
         },
         {
           "tag": "Serviços - 756",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785537058274.png",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785537363182.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
           "titulo": "Tradição também nas Revistas Científicas",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -663,7 +663,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 756",
-          "capaUrl": "images/nova-secao-1785446582110-4-1785537059755.png",
+          "capaUrl": "images/nova-secao-1785446582110-4-1785537364702.png",
           "capaAlt": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
           "titulo": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -678,13 +678,18 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
         },
         {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
+          "tag": "Entrevista - Eu uso, eu aprovo | 754",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785537366181.png",
+          "capaAlt": "Sergio Marques da Silva",
+          "titulo": "Sergio Marques da Silva",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "O pneumologista Sergio Marques\nda Silva mantém um vínculo\ncom a APM desde a graduação.\nNa época, participava ativamente\nde aulas e seminários promovidos\npela entidade, tendo se associado à\ninstituição em diversos momentos\nde sua trajetória profissional.",
+            "Ao longo dos anos, usufruiu de\nvariados benefícios oferecidos\npela Associação Paulista de\nMedicina. Um dos seus favoritos\né o Hotel Fazenda APM, na Serra\nda Cantareira. Com uma área\nde 164 hectares, o espaço é\numa excelente opção para lazer,\ndescanso e eventos, dispondo\nde quadras, campos de futebol,\nparque aquático, churrasqueiras,\nplayground e muito mais.",
+            "O médico aproveita para elogiar\no atendimento oferecido pela equipe da APM. “Sempre\nfui muito bem atendido, os\nfuncionários oferecem total\nassistência ao associado, com\natualizações constantes via\ntelefone e e-mail”, destaca.",
+            "O pneumologista também foi\no primeiro a aderir à parceria\nrecente com a TotalPass e\nnão esconde o entusiasmo.\nEle alegava dificuldades de\npraticar atividades físicas\ndevido ao trânsito da cidade\nde São Paulo e a demora que\nteria para chegar na academia.\n“A TotalPass encaixou muito\nbem na minha rotina, como\nnão tenho um local fixo de\natendimento, consigo sair das\nconsultas e treinar em qualquer\nlugar, em vez de perder horas\nno trânsito. Eu estou gostando\nbastante”, conclui."
+          ],
+          "link": "https://drive.google.com/file/d/1ASt360Mg-xMd-LaHHC080070teE9fOv_/view?usp=sharing"
         }
       ]
     }
