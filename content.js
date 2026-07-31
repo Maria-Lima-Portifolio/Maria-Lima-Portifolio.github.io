@@ -606,7 +606,7 @@ const content = {
     },
     {
       "id": "nova-secao-1785446582110",
-      "titulo": "Publicações Revista APM ",
+      "titulo": "Publicações Revista APM Estadual | Regional Piracicaba ",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
@@ -616,14 +616,68 @@ const content = {
       "itens": [
         {
           "tag": "Entrevista Uso/Aprovo",
-          "capaUrl": "images/nova-secao-1785446582110-0-1785531575139.png",
-          "capaAlt": "Luciano Wajman ",
-          "titulo": "Luciano Wajman ",
-          "resumo": "Revista edição 751 - Jul/Ago 2025",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "A seção do \"EU USO, EU APROVO\" da Revista APM traz o depoimento do associados referente ao serviços oferecidos pela entidade.",
+          "textoCompleto": [],
+          "link": ""
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
+        },
+        {
+          "tag": "Serviços ",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785536314026.png",
+          "capaAlt": "Tradição também nas Revistas Científicas",
+          "titulo": "Tradição também nas Revistas Científicas",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
           "textoCompleto": [
-            "A seção do \"EU USO, EU APROVO\" da Revista APM traz o depoimento do associados refente ao serviços oferecidos pela entidade."
+            "Há mais de 95 anos, a\nAssociação Paulista de\nMedicina é sinônimo\nde representação\ndos médicos, de tradição e de\nconteúdos relevantes para a classe,\nseja por meio de seus eventos\ncientíficos e socioculturais, dos\ncanais de comunicação ou das\npublicações científicas.",
+            "Desde 1932, a São Paulo Medical\nJournal – Evidence for health care\né publicada pela APM, sendo\nconsiderada uma das revistas\ncientíficas mais tradicionais e\nimportantes de todo o Brasil.\nSeus artigos são indexados nas\nmelhores bases de dados do\nmundo, como Medline, Lilacs,\nSciELO, Science Citation Index\nExpanded, Journal Citation Reports/\nScience Edition (ISI), EBSCO\nPublishing e PubMed Central (PMC).",
+            "Atualmente, a revista possui um\nfator de impacto de 1.6, índice\nque reflete a quantidade de vezes que seus artigos foram citados\npor outros periódicos ao redor do\nmundo. Para Paulo Manuel Pêgo\nFernandes, diretor Científico da\nAPM e editor da São Paulo Medical\nJournal, ver esse periódico alcançar\ntal patamar representa uma\nsensação de dever cumprido e a\ncerteza de que todo o empenho\nestá sendo recompensado.",
+            "Bimestral, a revista aceita\ntrabalhos na área da Saúde em\nformato de artigos originais, revisões narrativas de literatura,\nrelatos de caso, comunicações\nbreves e cartas ao editor. Sua\nrelevância ultrapassa as fronteiras\nnacionais, tendo forte influência\nfora do País e contribuindo\nativamente para a projeção e\ndivulgação da Ciência brasileira.",
+            "Prova disso é que a São Paulo\nMedical Journal recebe um grande\nvolume de submissões vindas\nda China e da Turquia além do\npróprio Brasil. Por publicar artigos exclusivamente na língua\ninglesa, a revista consolida-se\ncomo uma grande oportunidade\npara médicos e pesquisadores do\nmundo inteiro.",
+            "Por ano, são recebidos entre\n450 e 500 artigos que, após\numa seleção minuciosa, cerca\nde 70 artigos são publicados\nnas seis edições. Enquanto para\nautores brasileiros o custo para\na publicação de artigos é de R$\n1.500,00 e para estrangeiros é\nde US$ 700,00, os associados da\nAPM com mais de três meses de\nadimplência contam com isenção\ndessa taxa.",
+            "Diagnóstico e Tratamento",
+            "Além da São Paulo Medical\nJournal, a Associação Paulista\nde Medicina também publica a\nrevista Diagnóstico e Tratamento.\nLançada em 1996 e indexada\nna base de dados Lilacs, ela tem\ncomo objetivo oferecer atualização\nmédica baseada nas melhores\nevidências científicas disponíveis.",
+            "A publicação é trimestral e traz,\na cada edição, uma média de\n5 artigos, que incluem textos\noriginais, relatos de casos, revisões\nnarrativas da literatura (artigos\nde atualização), cartas ao editor\ne seções ou colunas especiais em\ndiversas áreas da Medicina.",
+            "A revista é produzida 100% em\nportuguês e não possui taxa\npara qualquer médico que deseje\npublicar nela, independentemente\nde ser associado ou não. Outro\ncharme da publicação é a arte das\ncapas, que trazem a cada edição a\nimagem de uma peça do acervo da\nPinacoteca da própria Associação\nPaulista de Medicina."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
         }
       ]
     }
