@@ -621,7 +621,7 @@ const content = {
           "titulo": "",
           "resumo": "",
           "textoCompleto": [],
-          "link": ""
+          "link": "#"
         },
         {
           "tag": "",
