@@ -46,7 +46,7 @@ const content = {
       "toggleTexto": "Ler matéria completa",
       "linkTexto": "Ver publicação original →",
       "verTodasTexto": "Ver todas as matérias",
-      "visiveis": 6,
+      "visiveis": 3,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -568,7 +568,7 @@ const content = {
     {
       "id": "nova-secao-1784841780645",
       "titulo": "Freelas ",
-      "toggleTexto": "",
+      "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
       "visiveis": 4,
@@ -606,14 +606,24 @@ const content = {
     },
     {
       "id": "nova-secao-1785446582110",
-      "titulo": "Nova seção",
+      "titulo": "Publicações Revista APM ",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
-      "visiveis": 4,
+      "visiveis": 3,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
-      "itens": []
+      "itens": [
+        {
+          "tag": "Entrevista Uso/Aprovo",
+          "capaUrl": "images/nova-secao-1785446582110-0-1785531235208.png",
+          "capaAlt": "Luciano Wajman ",
+          "titulo": "Luciano Wajman ",
+          "resumo": "A seção do \"EU USO, EU APROVO\" da Revista APM traz o depoimento do associados refente ao serviços oferecidos pela entidade. ",
+          "textoCompleto": [],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+        }
+      ]
     }
   ],
   "curriculo": {
