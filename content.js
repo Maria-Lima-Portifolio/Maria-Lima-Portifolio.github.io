@@ -368,7 +368,7 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
-      "visiveis": 6,
+      "visiveis": 3,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -453,7 +453,7 @@ const content = {
         },
         {
           "tag": "Serviços - 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785702986987.png",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785703793602.png",
           "capaAlt": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "titulo": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -471,8 +471,58 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
         },
         {
+          "tag": "Club de Benefícios - 755",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785703795216.png",
+          "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
+          "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "As águas de março encerram o\nverão e dão início ao outono,\nestação marcada pela redução\ngradual das temperaturas, dias\nmais curtos e a fartura das frutas. Pensando na chegada da nova\nestação, o Clube de Benefícios da\nAssociação Paulista de Medicina\nselecionou ofertas especiais para\nseus associados. Confira a seguir.",
+            "Para os apreciadores de carnes,\no Le Bife é uma excelente\nopção. O restaurante combina\ncortes de alta qualidade com\nmolhos exclusivos, saladas leves\ne variado serviço de guarnições.\nAlém dos cortes tradicionais, o\ncliente pode optar por pratos\ncomo o Steak Tartare e o\nhambúrguer da casa. Associados\nda APM garantem descontos\nexclusivos no cardápio.",
+            "Outra opção gastronômica é o\nParis 6, bistrô inspirado nos\ncharmosos cafés parisienses\nque une a culinária francesa à\ncriatividade brasileira, oferecendo\npratos generosos em um\nambiente sofisticado e acolhedor,\ntambém com condições especiais\npara os associados da entidade.\nCom a mudança de estação, a\nModafetiva oferece consultoria de\nestilo para quem deseja renovar o\nvisual. A empresa acredita no vestir\ncomo expressão de identidade e\noferece até 25% de desconto para os\nassociados da APM.",
+            "Falando em beleza, a Eudora\ndisponibiliza um portfólio com\nmais de 600 itens, incluindo\nperfumaria, maquiagem e cuidados\npara cabelos e corpo. Já a M.A.C,\nreferência mundial em maquiagem\nprofissional e tendências, oferece\n12% de cashback aos associados da\nAPM. Seguindo a mesma proposta\nde praticidade, a Océane atua há\nmais de 15 anos, trazendo beleza\nespontânea e descomplicada com\nprodutos acessíveis, garantindo 5%\nde cashback.",
+            "Se você está pretendendo viajar\ne não sabe por onde começar a\norganizar, a Plena Turismo pode\nte ajudar. A agência é especializada\nem atendimento personalizado,\noferecendo orientação completa para\nque você viaje com tranquilidade e\nsegurança, indicando os melhores\ndestinos, hotéis e opções de\nlazer, sempre com os preços mais\natrativos e de acordo com o seu\nperfil e orçamento. Associados\ngarantem 10% de desconto, confira\nas condições no site.",
+            "Já para quem deseja aproveitar a\nestação ao ar livre, o Parque Hotel\nGuararema é uma escolha excelente.\nLocalizado em meio à natureza, o\nparque combina tranquilidade e\ndiversão em uma estrutura completa.\nPiscina ao ar livre e climatizada,\ntrilhas, pescas, quadras esportivas\ne recreação garantem momentos\ninesquecíveis para todas as idades.\nPara os associados da APM, o local\noferece 10% de desconto sobre a\ntarifa vigente em alta temporada.",
+            "Procurando um lugar tranquilo, leve e\nrelaxante? O Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol,\nparque aquático, lago para pesca\nesportiva, centro hípico, quadras\npoliesportiva, de tênis e de beach\ntennis, restaurante, churrasqueiras,\nacademia, salão de jogos e muita\nnatureza. Os associados podem\ndesfrutar do day use sem custo e têm\ndesconto exclusivo nas hospedagens."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+        },
+        {
+          "tag": "Entrevista - Eu uso, eu aprovo | 755",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785703796719.png",
+          "capaAlt": "Murillo Nogueira Viotti",
+          "titulo": "Murillo Nogueira Viotti",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Murillo Nogueira Viotti é psiquiatra\ne psicoterapeuta e soma mais de 20\nanos de vínculo com a Associação\nPaulista de Medicina, conhecendo\na entidade desde os tempos de\nuniversidade. “Quando você se\nforma, sente muito orgulho de ser\nmédico, e pertencer à APM passa a\nser uma consequência natural e um\ndesejo”, destaca.",
+            "O serviço de despachante é um dos\nmais utilizados pelo profissional. A\nAssociação disponibiliza aos médicos\ndiversos serviços relacionados ao\nDetran e a outros órgãos de trânsito\nde todo o estado de São Paulo.\nSão 32 modalidades disponíveis,\ncomo emplacamento, segunda via\nde carteira de habilitação, carteira\ninternacional, cartão DSV do idoso e\nlicenciamento anual, entre outros.",
+            "Além desse serviço, o associado\ntambém utilizou a Assessoria\nde Aposentadoria, que coloca\nà disposição dos membros ou\ndependentes profissionais\nqualificados e experientes para\nprestar esclarecimentos e dar\nentrada no requerimento de\nbenefícios do INSS. Assim, o médico\npode se aposentar com total\nsegurança e comodidade.",
+            "“Todas as vezes que precisei utilizar\nesses serviços, fui muito bem\natendido. Os atendimentos são\neficientes, resolvidos com muita\nagilidade e precisão”, conclui."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+        },
+        {
+          "tag": "Serviços - 755",
+          "capaUrl": "images/nova-secao-1785446582110-8-1785703797743.png",
+          "capaAlt": "Conquiste o sonho da Residência Médica com a APM e a Medway",
+          "titulo": "Conquiste o sonho da Residência Médica com a APM e a Medway",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
+          "textoCompleto": [
+            "Sabemos que a\nResidência Médica\né uma etapa\nfundamental na vida do médico\nrecém-formado que deseja se\nespecializar. Pensando neste\nperíodo desafiador e complexo, a\nAssociação Paulista de Medicina\nfirmou uma nova parceria com a\nMedway, empresa especialista\nem preparação para as provas de\nresidência médica. A união visa\nfortalecer a formação médica de\nqualidade, somando a expertise\neducacional da Medway à\nrepresentatividade da APM.",
+            "A Medway nasceu em 2017, a\npartir da iniciativa dos médicos\nAlexandre Remor, João Vitor\nFernando e Micael Hamra, que\nperceberam uma estagnação\nna educação médica. Foi assim\nque surgiu o propósito central\nda empresa: elevar o padrão da\nassistência à Saúde no Brasil.\n“A Medway nasceu para garantir que o médico não apenas passasse\nna prova, mas que o processo de\nestudo o tornasse um profissional\ntecnicamente superior e mais\nhumano”, explica Ana Carolina\nMiranda, analista de Comunicação\nda empresa.",
+            "Atualmente, a instituição conta\ncom um time de mais de 200\nmédicos especialistas e já impactou\nmais de 30 mil alunos. Em 2026,\natingiu a marca de mais de 20\nmil aprovações em todo o Brasil,\nregistrando mais de 3 mil aprovados\nem primeiros lugares. A empresa\noferece preparação para exames\nde residência de todo o País, para\no Exame Nacional de Avaliação da\nFormação Médica (Enamed), provas\nde títulos e cursos de atualização.\nA metodologia atende a qualquer\ngrande instituição, unindo o rigor\nacadêmico à tecnologia de ponta,\no que a tornou uma das maiores\nedtechs de Saúde do mundo,\nsegundo a Revista Time.",
+            "A plataforma conta com mais de\n150 aulas didáticas completas aulas flash, banco com mais de\n140 mil questões, simulados\noriginais, flashcards e apostilas\ndigitais. Também oferece revisões\nprogramadas com cronogramas\nestruturados para garantir o\ncontato contínuo com os temas.",
+            "Entre os diferenciais tecnológicos\nestão o MedBrain, uma\nferramenta de Inteligência\nArtificial que prescreve estudos\ncustomizados baseados na\nespecialidade desejada, nas\ninstituições alvo e no tempo\ndisponível do aluno; e a Análise\nde Prevalência, uma plataforma\nque mapeia estatísticas reais do\nque cai nas provas, direcionando\no estudo para os focos que\nrealmente impactam a nota.",
+            "Parceria Medway e APM",
+            "Por meio desta parceria, todos os\nassociados da APM garantem 20%\nde desconto nos cursos da Medway,\nválidos tanto para a primeira\nmatrícula quanto para as próximas,\nsem limite de uso. O desconto\nincide sobre o valor final do curso\nno momento da compra, mesmo\nque ele já esteja com algum preço\npromocional no site.",
+            "O benefício pode ser aplicado em\ncursos focados em diferentes\netapas da carreira, como os\nExtensivos, que oferecem\npreparação completa para provas\nde residência (Extensivo R1,\nExtensivo Enamed 4º, entre\noutros); Cursos Práticos, como\no CRMedway, focado na prova prática e simulações; e os\nEspecializados, voltados para a\npreparação para provas de título\ne reta final.",
+            "Para garantir o benefício, o\nassociado deve acessar a página\nda parceria e preencher os dados\npara solicitar o cupom exclusivo.\nApós a confirmação da condição\nde associado pela APM, o código\né enviado por e-mail em até\ncinco dias úteis. Para ativar o\ncupom, basta acessar o site da\nMedway, escolher o curso ideal\npara a jornada e fazer o login\ncom o mesmo e-mail informado\nno formulário. Por fim, o cupom\ndeve ser inserido no momento\ndo pagamento para validar\no desconto."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+        },
+        {
           "tag": "Regional Piracicaba - 192 ",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785702988563.png",
+          "capaUrl": "images/nova-secao-1785446582110-9-1785703799260.png",
           "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
           "titulo": "Diretores da APM debatem Medicina nas redes sociais",
           "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
@@ -490,35 +540,13 @@ const content = {
           "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
         },
         {
-          "tag": "Club de Benefícios - 755",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785702990136.png",
-          "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
-          "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
-          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
-          "textoCompleto": [
-            "As águas de março encerram o\nverão e dão início ao outono,\nestação marcada pela redução\ngradual das temperaturas, dias\nmais curtos e a fartura das frutas. Pensando na chegada da nova\nestação, o Clube de Benefícios da\nAssociação Paulista de Medicina\nselecionou ofertas especiais para\nseus associados. Confira a seguir.",
-            "Para os apreciadores de carnes,\no Le Bife é uma excelente\nopção. O restaurante combina\ncortes de alta qualidade com\nmolhos exclusivos, saladas leves\ne variado serviço de guarnições.\nAlém dos cortes tradicionais, o\ncliente pode optar por pratos\ncomo o Steak Tartare e o\nhambúrguer da casa. Associados\nda APM garantem descontos\nexclusivos no cardápio.",
-            "Outra opção gastronômica é o\nParis 6, bistrô inspirado nos\ncharmosos cafés parisienses\nque une a culinária francesa à\ncriatividade brasileira, oferecendo\npratos generosos em um\nambiente sofisticado e acolhedor,\ntambém com condições especiais\npara os associados da entidade.\nCom a mudança de estação, a\nModafetiva oferece consultoria de\nestilo para quem deseja renovar o\nvisual. A empresa acredita no vestir\ncomo expressão de identidade e\noferece até 25% de desconto para os\nassociados da APM.",
-            "Falando em beleza, a Eudora\ndisponibiliza um portfólio com\nmais de 600 itens, incluindo\nperfumaria, maquiagem e cuidados\npara cabelos e corpo. Já a M.A.C,\nreferência mundial em maquiagem\nprofissional e tendências, oferece\n12% de cashback aos associados da\nAPM. Seguindo a mesma proposta\nde praticidade, a Océane atua há\nmais de 15 anos, trazendo beleza\nespontânea e descomplicada com\nprodutos acessíveis, garantindo 5%\nde cashback.",
-            "Se você está pretendendo viajar\ne não sabe por onde começar a\norganizar, a Plena Turismo pode\nte ajudar. A agência é especializada\nem atendimento personalizado,\noferecendo orientação completa para\nque você viaje com tranquilidade e\nsegurança, indicando os melhores\ndestinos, hotéis e opções de\nlazer, sempre com os preços mais\natrativos e de acordo com o seu\nperfil e orçamento. Associados\ngarantem 10% de desconto, confira\nas condições no site.",
-            "Já para quem deseja aproveitar a\nestação ao ar livre, o Parque Hotel\nGuararema é uma escolha excelente.\nLocalizado em meio à natureza, o\nparque combina tranquilidade e\ndiversão em uma estrutura completa.\nPiscina ao ar livre e climatizada,\ntrilhas, pescas, quadras esportivas\ne recreação garantem momentos\ninesquecíveis para todas as idades.\nPara os associados da APM, o local\noferece 10% de desconto sobre a\ntarifa vigente em alta temporada.",
-            "Procurando um lugar tranquilo, leve e\nrelaxante? O Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol,\nparque aquático, lago para pesca\nesportiva, centro hípico, quadras\npoliesportiva, de tênis e de beach\ntennis, restaurante, churrasqueiras,\nacademia, salão de jogos e muita\nnatureza. Os associados podem\ndesfrutar do day use sem custo e têm\ndesconto exclusivo nas hospedagens."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
-        },
-        {
-          "tag": "Entrevista - Eu uso, eu aprovo | 755",
-          "capaUrl": "images/nova-secao-1785446582110-8-1785702991603.png",
-          "capaAlt": "Murillo Nogueira Viotti",
-          "titulo": "Murillo Nogueira Viotti",
-          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
-          "textoCompleto": [
-            "Murillo Nogueira Viotti é psiquiatra\ne psicoterapeuta e soma mais de 20\nanos de vínculo com a Associação\nPaulista de Medicina, conhecendo\na entidade desde os tempos de\nuniversidade. “Quando você se\nforma, sente muito orgulho de ser\nmédico, e pertencer à APM passa a\nser uma consequência natural e um\ndesejo”, destaca.",
-            "O serviço de despachante é um dos\nmais utilizados pelo profissional. A\nAssociação disponibiliza aos médicos\ndiversos serviços relacionados ao\nDetran e a outros órgãos de trânsito\nde todo o estado de São Paulo.\nSão 32 modalidades disponíveis,\ncomo emplacamento, segunda via\nde carteira de habilitação, carteira\ninternacional, cartão DSV do idoso e\nlicenciamento anual, entre outros.",
-            "Além desse serviço, o associado\ntambém utilizou a Assessoria\nde Aposentadoria, que coloca\nà disposição dos membros ou\ndependentes profissionais\nqualificados e experientes para\nprestar esclarecimentos e dar\nentrada no requerimento de\nbenefícios do INSS. Assim, o médico\npode se aposentar com total\nsegurança e comodidade.",
-            "“Todas as vezes que precisei utilizar\nesses serviços, fui muito bem\natendido. Os atendimentos são\neficientes, resolvidos com muita\nagilidade e precisão”, conclui."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
         }
       ]
     },
