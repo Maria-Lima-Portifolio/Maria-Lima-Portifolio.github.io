@@ -104,6 +104,39 @@ const content = {
         },
         {
           "tag": "APM - CBMG26",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/4-129.png",
+          "capaAlt": "CBMG: Diretor da APM coordena mesa sobre Residência Médica",
+          "titulo": "CBMG: Diretor da APM coordena mesa sobre Residência Médica",
+          "resumo": "Fernando Tallo detalhou a realidade estatística das vagas e a concorrência no País\n\n",
+          "textoCompleto": [
+            "Fernando Sabia Tallo, diretor de Eventos da Associação Paulista de Medicina e 2º tesoureiro da Associação Médica Brasileira, coordenou a mesa sobre a situação profissional do médico generalista frente à deficiência de vagas na residência médica, que também aconteceu nesta quinta-feira, 11 de junho, no 4º Congresso Brasileiro de Medicina Geral.",
+            "A primeira conferência foi conduzida por Alcindo Cerci Neto, diretor Clínico do Hospital Universitário de Londrina e conselheiro do Conselho Federal de Medicina, que abordou a complexa realidade enfrentada pelos recém-formados. Segundo ele, as decisões logo após a colação de grau são extremamente difíceis, divididas entre a necessidade imediata de trabalhar para quitar o financiamento estudantil – já que 71% dos cursos hoje são privados – ou enfrentar o desgaste da residência médica, cuja bolsa é incompatível com a exaustiva carga horária e o impacto na Saúde mental.",
+            "O problema, conforme apontou Cerci Neto, começa na própria raiz do ensino. A qualidade da formação médica no Brasil tornou-se profundamente heterogênea devido à mercantilização do setor, que prioriza o retorno financeiro em detrimento da excelência acadêmica, resultando em corpos docentes deficientes e campos de estágio inadequados. O crescimento do número de faculdades é alarmante, já que hoje o País tem cerca de 485 cursos de Medicina, com novas aberturas quase semanais.",
+            "Essa expansão geométrica inflou o contingente de médicos generalistas, que hoje representam 41% dos profissionais em atividade no Brasil. O palestrante alertou que essa proporção tende a superar a de especialistas em breve, gerando um sério problema estrutural. O gargalo se intensifica porque é materialmente impossível oferecer vagas de residência para todos os graduados.",
+            "A abertura de novos cursos exige uma infraestrutura de leitos do SUS que, na prática, muitas vezes não existe, gerando uma contagem dupla ou tripla de leitos virtuais entre diferentes faculdades. “Atualmente, apenas cerca de 50% dos formados encontram uma vaga de residência disponível de acesso direto no País”, destaca.",
+            "Em sua análise, o palestrante ressaltou que a residência médica acabou assumindo uma função distorcida, sendo buscada muitas vezes para suprir lacunas e procedimentos que deveriam ter sido aprendidos durante o internato. Além disso, o conceito de generalista no Brasil destoa do cenário internacional. Enquanto no exterior o termo designa um profissional com residência em Medicina de Família ou Clínica Médica, no mercado brasileiro basta ter o registro no CRM para atuar.",
+            "Os entraves de governança também foram criticados. A Comissão Nacional de Residência Médica vive uma dicotomia entre o Ministério da Educação, que certifica, e o Ministério da Saúde, que dita as demandas conforme as necessidades do Sistema Único de Saúde. Isso impede o médico de escolher livremente sua especialidade, atrelando as vagas à comprovação estrutural de cada município.",
+            "Para o conselheiro, mecanismos como o bônus de 10% aplicado em concursos para quem passa por essas áreas geram distorções graves nas notas de corte e não fixam o profissional. Ele defendeu que a solução exige definir claramente o papel do generalista, avaliar o espaço das pós-graduações, reajustar o valor das bolsas e preservar a autonomia das instituições de ensino.",
+            "Modelos nacionais e internacionais",
+            "Na sequência, o ginecologista Gustavo Salata Romão apresentou um comparativo entre as seleções para residência no Brasil e no exterior, destacando a tendência nacional de transição dos exames institucionais para os modelos unificados, como o Exame Nacional de Residência (Enare) e o Enamed. Coordenado pelo MEC, o Eanre tornou-se um processo gigantesco, registrando 138 mil inscritos para 12 mil vagas em 2025, com forte adesão de universidades federais. O palestrante explicou que o Enamed, instituído em 2025 para avaliar a graduação, agora pode ter sua nota utilizada para substituir o desempenho no Enare nos programas de acesso direto.",
+            "Apesar da força das seleções unificadas e dos grandes exames estaduais, como o SUS-SP, aplicado pela Vunesp, com mais de 1,4 mil vagas, grandes instituições como a FMUSP, a FMRP/USP, a Unicamp e a Unesp ainda preservam processos seletivos próprios em múltiplas fases. Esses exames mantêm análises curriculares detalhadas feitas por bancas examinadoras locais e, no caso de Ribeirão Preto, a aplicação de provas práticas estruturadas no modelo OSCE (Exame Clínico Objetivo Estruturado).",
+            "Ao contrastar essa realidade com os modelos internacionais, Romão evidenciou diferenças profundas na estrutura e no rigor das avaliações. Nos Estados Unidos, o processo é gerido por entidades não governamentais. As avaliações teóricas acontecem em duas grandes etapas: o Step 1, focado em ciências básicas e avaliado apenas como aprovado ou reprovado (pass/fail), e o Step 2, que exige o conhecimento clínico e gera uma nota numérica.",
+            "O volume de questões é imensamente superior ao brasileiro, chegando a até 320 testes por bloco. Além disso, o ingresso exige cartas de recomendação, currículo, carta de intenção (personal statement) e entrevistas estruturadas. A distribuição dos candidatos utiliza um algoritmo matemático de emparelhamento que chegou a render o Prêmio Nobel de Economia em 2012.",
+            "No Canadá, as provas teóricas são computadorizadas e adaptativas, ajustando o nível de dificuldade de forma personalizada. O modelo canadense também impõe o exame da National Assessment Collaboration (NAC), uma avaliação prática em formato OSCE com múltiplas estações de simulação, além de testes de julgamento situacional e exames de proficiência idiomática, aplicados inclusive aos graduados locais.",
+            "No Reino Unido, o sistema é centralizado pelo NHS e não oferece acesso direto após a faculdade. Todos os recém-formados cumprem obrigatoriamente um estágio de transição de dois anos, o Foundation. Apenas após essa etapa realizam exames escritos digitais focados em ética, profissionalismo, tomada de decisão sob pressão e manejo clínico em emergências, complementados por rigorosas avaliações práticas simuladas.",
+            "O palestrante concluiu apontando que o grande erro do modelo brasileiro predominante é restringir a avaliação ao componente puramente cognitivo através de exames de apenas 100 questões. “Isso cria um problema de validade. Porque a gente não tem uma amostra fidedigna de tudo que é esperado para um profissional que se forma só com 100 testes”, alertou. Ao abolir a prova prática e a entrevista da maioria dos exames unificados, o País deixa de avaliar habilidades médicas indispensáveis, como a capacidade de comunicação, o equilíbrio afetivo e os princípios éticos do profissional.",
+            "Números e concorrência",
+            "Encerrando as discussões, Fernando Tallo detalhou a realidade estatística das vagas e a concorrência no País. O cenário atual registra exatas 58.545 vagas ocupadas para um montante de 80 mil vagas autorizadas pelo sistema. O grande gargalo, contudo, reside no fato de que existem menos de 20 mil vagas reais de primeiro ano (R1) para acesso direto disponíveis aos recém-formados.",
+            "Essa conta não fecha devido ao boom indiscriminado de escolas médicas nas últimas duas décadas. Diferente do argumento comum de que a explosão de vagas é um problema do passado, Tallo demonstrou que o fenômeno é contemporâneo e inédito: nos últimos quatro anos, o Brasil abriu 110 novas faculdades de Medicina. A dispersão de dados no sistema e-MEC é tamanha que, hoje, nenhuma entidade consegue precisar o número exato de vagas de graduação existentes no País.",
+            "Embora as vagas de residência médica também tenham apresentado um crescimento recente, com a abertura de 2.624 novas posições entre 2024 e 2025, o ritmo é incapaz de acompanhar a avalanche de formados. Como consequência direta dessa falta de planejamento, o Brasil acumula atualmente um exército de aproximadamente 250 mil a 300 mil médicos que atuam no mercado sem qualquer título de especialidade.",
+            "O diretor da APM reforçou que a preocupação das entidades médicas com esse contingente não visa marginalizar os profissionais generalistas, mas sim protegê-los e garantir a segurança dos pacientes, visto que o treinamento em serviço é insubstituível. Para amenizar a crise, Tallo defendeu que o controle de entrada na graduação deve estar estritamente alinhado à capacidade real de treinamento dos serviços de Saúde.",
+            "Entre as medidas urgentes, o palestrante listou a revisão das diretrizes curriculares, a valorização do histórico acadêmico nos concursos de residência, o avanço de projetos de lei que garantam a isonomia dos exames e a readequação das bolsas para assegurar condições dignas de vida e trabalho aos médicos brasileiros.",
+            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/cbmg-diretor-da-apm-coordena-mesa-sobre-residencia-medica/"
+        },
+        {
+          "tag": "APM - CBMG26",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/1-168.png",
           "capaAlt": "Cenário atual do trabalho médico na Saúde suplementar é destaque no Congresso da AMB",
           "titulo": "Cenário atual do trabalho médico na Saúde suplementar é destaque no Congresso da AMB",
@@ -157,39 +190,6 @@ const content = {
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
           "link": "https://www.apm.org.br/tertulia-de-junho-da-amsp-traz-curiosidades-pitorescas-da-historia-da-medicina/"
-        },
-        {
-          "tag": "APM - CBMG26",
-          "capaUrl": "https://www.apm.org.br/wp-content/uploads/4-129.png",
-          "capaAlt": "CBMG: Diretor da APM coordena mesa sobre Residência Médica",
-          "titulo": "CBMG: Diretor da APM coordena mesa sobre Residência Médica",
-          "resumo": "Fernando Tallo detalhou a realidade estatística das vagas e a concorrência no País\n\n",
-          "textoCompleto": [
-            "Fernando Sabia Tallo, diretor de Eventos da Associação Paulista de Medicina e 2º tesoureiro da Associação Médica Brasileira, coordenou a mesa sobre a situação profissional do médico generalista frente à deficiência de vagas na residência médica, que também aconteceu nesta quinta-feira, 11 de junho, no 4º Congresso Brasileiro de Medicina Geral.",
-            "A primeira conferência foi conduzida por Alcindo Cerci Neto, diretor Clínico do Hospital Universitário de Londrina e conselheiro do Conselho Federal de Medicina, que abordou a complexa realidade enfrentada pelos recém-formados. Segundo ele, as decisões logo após a colação de grau são extremamente difíceis, divididas entre a necessidade imediata de trabalhar para quitar o financiamento estudantil – já que 71% dos cursos hoje são privados – ou enfrentar o desgaste da residência médica, cuja bolsa é incompatível com a exaustiva carga horária e o impacto na Saúde mental.",
-            "O problema, conforme apontou Cerci Neto, começa na própria raiz do ensino. A qualidade da formação médica no Brasil tornou-se profundamente heterogênea devido à mercantilização do setor, que prioriza o retorno financeiro em detrimento da excelência acadêmica, resultando em corpos docentes deficientes e campos de estágio inadequados. O crescimento do número de faculdades é alarmante, já que hoje o País tem cerca de 485 cursos de Medicina, com novas aberturas quase semanais.",
-            "Essa expansão geométrica inflou o contingente de médicos generalistas, que hoje representam 41% dos profissionais em atividade no Brasil. O palestrante alertou que essa proporção tende a superar a de especialistas em breve, gerando um sério problema estrutural. O gargalo se intensifica porque é materialmente impossível oferecer vagas de residência para todos os graduados.",
-            "A abertura de novos cursos exige uma infraestrutura de leitos do SUS que, na prática, muitas vezes não existe, gerando uma contagem dupla ou tripla de leitos virtuais entre diferentes faculdades. “Atualmente, apenas cerca de 50% dos formados encontram uma vaga de residência disponível de acesso direto no País”, destaca.",
-            "Em sua análise, o palestrante ressaltou que a residência médica acabou assumindo uma função distorcida, sendo buscada muitas vezes para suprir lacunas e procedimentos que deveriam ter sido aprendidos durante o internato. Além disso, o conceito de generalista no Brasil destoa do cenário internacional. Enquanto no exterior o termo designa um profissional com residência em Medicina de Família ou Clínica Médica, no mercado brasileiro basta ter o registro no CRM para atuar.",
-            "Os entraves de governança também foram criticados. A Comissão Nacional de Residência Médica vive uma dicotomia entre o Ministério da Educação, que certifica, e o Ministério da Saúde, que dita as demandas conforme as necessidades do Sistema Único de Saúde. Isso impede o médico de escolher livremente sua especialidade, atrelando as vagas à comprovação estrutural de cada município.",
-            "Para o conselheiro, mecanismos como o bônus de 10% aplicado em concursos para quem passa por essas áreas geram distorções graves nas notas de corte e não fixam o profissional. Ele defendeu que a solução exige definir claramente o papel do generalista, avaliar o espaço das pós-graduações, reajustar o valor das bolsas e preservar a autonomia das instituições de ensino.",
-            "Modelos nacionais e internacionais",
-            "Na sequência, o ginecologista Gustavo Salata Romão apresentou um comparativo entre as seleções para residência no Brasil e no exterior, destacando a tendência nacional de transição dos exames institucionais para os modelos unificados, como o Exame Nacional de Residência (Enare) e o Enamed. Coordenado pelo MEC, o Eanre tornou-se um processo gigantesco, registrando 138 mil inscritos para 12 mil vagas em 2025, com forte adesão de universidades federais. O palestrante explicou que o Enamed, instituído em 2025 para avaliar a graduação, agora pode ter sua nota utilizada para substituir o desempenho no Enare nos programas de acesso direto.",
-            "Apesar da força das seleções unificadas e dos grandes exames estaduais, como o SUS-SP, aplicado pela Vunesp, com mais de 1,4 mil vagas, grandes instituições como a FMUSP, a FMRP/USP, a Unicamp e a Unesp ainda preservam processos seletivos próprios em múltiplas fases. Esses exames mantêm análises curriculares detalhadas feitas por bancas examinadoras locais e, no caso de Ribeirão Preto, a aplicação de provas práticas estruturadas no modelo OSCE (Exame Clínico Objetivo Estruturado).",
-            "Ao contrastar essa realidade com os modelos internacionais, Romão evidenciou diferenças profundas na estrutura e no rigor das avaliações. Nos Estados Unidos, o processo é gerido por entidades não governamentais. As avaliações teóricas acontecem em duas grandes etapas: o Step 1, focado em ciências básicas e avaliado apenas como aprovado ou reprovado (pass/fail), e o Step 2, que exige o conhecimento clínico e gera uma nota numérica.",
-            "O volume de questões é imensamente superior ao brasileiro, chegando a até 320 testes por bloco. Além disso, o ingresso exige cartas de recomendação, currículo, carta de intenção (personal statement) e entrevistas estruturadas. A distribuição dos candidatos utiliza um algoritmo matemático de emparelhamento que chegou a render o Prêmio Nobel de Economia em 2012.",
-            "No Canadá, as provas teóricas são computadorizadas e adaptativas, ajustando o nível de dificuldade de forma personalizada. O modelo canadense também impõe o exame da National Assessment Collaboration (NAC), uma avaliação prática em formato OSCE com múltiplas estações de simulação, além de testes de julgamento situacional e exames de proficiência idiomática, aplicados inclusive aos graduados locais.",
-            "No Reino Unido, o sistema é centralizado pelo NHS e não oferece acesso direto após a faculdade. Todos os recém-formados cumprem obrigatoriamente um estágio de transição de dois anos, o Foundation. Apenas após essa etapa realizam exames escritos digitais focados em ética, profissionalismo, tomada de decisão sob pressão e manejo clínico em emergências, complementados por rigorosas avaliações práticas simuladas.",
-            "O palestrante concluiu apontando que o grande erro do modelo brasileiro predominante é restringir a avaliação ao componente puramente cognitivo através de exames de apenas 100 questões. “Isso cria um problema de validade. Porque a gente não tem uma amostra fidedigna de tudo que é esperado para um profissional que se forma só com 100 testes”, alertou. Ao abolir a prova prática e a entrevista da maioria dos exames unificados, o País deixa de avaliar habilidades médicas indispensáveis, como a capacidade de comunicação, o equilíbrio afetivo e os princípios éticos do profissional.",
-            "Números e concorrência",
-            "Encerrando as discussões, Fernando Tallo detalhou a realidade estatística das vagas e a concorrência no País. O cenário atual registra exatas 58.545 vagas ocupadas para um montante de 80 mil vagas autorizadas pelo sistema. O grande gargalo, contudo, reside no fato de que existem menos de 20 mil vagas reais de primeiro ano (R1) para acesso direto disponíveis aos recém-formados.",
-            "Essa conta não fecha devido ao boom indiscriminado de escolas médicas nas últimas duas décadas. Diferente do argumento comum de que a explosão de vagas é um problema do passado, Tallo demonstrou que o fenômeno é contemporâneo e inédito: nos últimos quatro anos, o Brasil abriu 110 novas faculdades de Medicina. A dispersão de dados no sistema e-MEC é tamanha que, hoje, nenhuma entidade consegue precisar o número exato de vagas de graduação existentes no País.",
-            "Embora as vagas de residência médica também tenham apresentado um crescimento recente, com a abertura de 2.624 novas posições entre 2024 e 2025, o ritmo é incapaz de acompanhar a avalanche de formados. Como consequência direta dessa falta de planejamento, o Brasil acumula atualmente um exército de aproximadamente 250 mil a 300 mil médicos que atuam no mercado sem qualquer título de especialidade.",
-            "O diretor da APM reforçou que a preocupação das entidades médicas com esse contingente não visa marginalizar os profissionais generalistas, mas sim protegê-los e garantir a segurança dos pacientes, visto que o treinamento em serviço é insubstituível. Para amenizar a crise, Tallo defendeu que o controle de entrada na graduação deve estar estritamente alinhado à capacidade real de treinamento dos serviços de Saúde.",
-            "Entre as medidas urgentes, o palestrante listou a revisão das diretrizes curriculares, a valorização do histórico acadêmico nos concursos de residência, o avanço de projetos de lei que garantam a isonomia dos exames e a readequação das bolsas para assegurar condições dignas de vida e trabalho aos médicos brasileiros.",
-            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
-          ],
-          "link": "https://www.apm.org.br/cbmg-diretor-da-apm-coordena-mesa-sobre-residencia-medica/"
         },
         {
           "tag": "APM - TERTÚLIA",
@@ -286,6 +286,27 @@ const content = {
           "link": "https://www.apm.org.br/voluntariado-medico-do-cangaiba-comemora-50-anos-com-solenidade-na-camara-municipal-de-sao-paulo/"
         },
         {
+          "tag": "APM - CBMG25",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/redes-sociais.jpg",
+          "capaAlt": "3º CMG/AMB: Diretores da APM debatem Medicina nas redes sociais",
+          "titulo": "3º CMG/AMB: Diretores da APM debatem Medicina nas redes sociais",
+          "resumo": "Antonio Carlos Endrigo foi o coordenador do painel e Walter Miyamoto um dos conferencistas",
+          "textoCompleto": [
+            "“Medicina nas Redes Sociais”, foi um dos assuntos abordados no primeiro dia da terceira edição do Congresso de Medicina Geral da Associação Médica Brasileira (AMB), que acontece em São Paulo de 24 a 26 de julho.",
+            "O painel foi coordenado pelo diretor de Previdência e Mutualismo da Associação Paulista de Medicina (APM) e presidente da Comissão de Saúde Digital da AMB, Antonio Carlos Endrigo, e pelo presidente da Associação Médica do Amazonas, Emanuel Jorge Akel Thomaz de Lima.",
+            "Como conferencistas, participaram Walter Miyamoto, diretor adjunto de Marketing da APM e presidente da APM São José dos Campos, e Juliana Hasse, presidente da Comissão de Direito Médico e de Saúde da OAB-SP. O painel contou também com a participação do diretor Executivo da Comissão Especial de Médicos Jovens da APM e membro da Comissão Nacional de Médicos Jovens da AMB, Guilherme Marques.",
+            "Em sua apresentação, Miyamoto contou que usa as redes sociais para falar sobre sua área de especialização, a Coloproctologia, e destacou sua evolução nas plataformas digitais, que ocorreu de forma gradativa, por meio de cursos relacionados à comunicação e marketing e treinamentos.",
+            "Ele também deu ênfase ao uso da comunicação digital, com ferramentas de humanização e crescimento, para ampliar o cuidado e o acolhimento com o paciente para além da consulta no consultório, com mensagens para saber como ele está após um procedimento e lembretes de retorno de consultas, além de pesquisas de satisfação para melhorar ainda mais os atendimentos.",
+            "Ações judiciais",
+            "Juliana Hasse, por sua vez, destacou o crescimento expressivo de ações judiciais contra médicos, com 34 mil processos só no ano de 2024. “Entre 2020 e 2024, houve um aumento de mais de 30% nas ações contra médicos em início de carreira. No SJT [Superior Tribunal de Justiça], o crescimento foi de 1.600% no período de 10 anos”, afirmou.",
+            "A especialista também destacou os principais motivadores de ações judiciais contra os profissionais da área da Saúde, como expectativas não atendidas, documentação, desgaste na relação médico-paciente e a falta de informação médica necessária ou obrigatória ao paciente.",
+            "Dentro das especialidades, as áreas que recebem mais processos judiciais são: Cirurgia Plástica, Ginecologia e Obstetrícia e Clínica Geral. “Desde 2020, o índice de condenação é de 60% dos casos. A ausência de provas é a maior fragilidade nos processos”, destaca Juliana.",
+            "Ao fim das apresentações, Endrigo deu espaço para os presentes fazerem perguntas aos convidados. O debate abordou temas sobre o que difere uma negligência informacional e dicas práticas de como realizar atendimentos particulares antes mesmo de se descredenciar de convênios médicos.",
+            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/3o-cmg-amb-diretores-da-apm-debatem-medicina-nas-redes-sociais/"
+        },
+        {
           "tag": "APM - GERAIS ",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/foto-site-1.png",
           "capaAlt": "IV CPDor: Quando a dor começa – a importância do diagnóstico e tratamento precoce",
@@ -338,27 +359,6 @@ const content = {
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
           "link": "https://www.apm.org.br/forum-conexao-jovem-pediatra-discute-ia-residencia-medica-midias-sociais-direito-medico-e-muito-mais/"
-        },
-        {
-          "tag": "APM - CBMG25",
-          "capaUrl": "https://www.apm.org.br/wp-content/uploads/redes-sociais.jpg",
-          "capaAlt": "3º CMG/AMB: Diretores da APM debatem Medicina nas redes sociais",
-          "titulo": "3º CMG/AMB: Diretores da APM debatem Medicina nas redes sociais",
-          "resumo": "Antonio Carlos Endrigo foi o coordenador do painel e Walter Miyamoto um dos conferencistas",
-          "textoCompleto": [
-            "“Medicina nas Redes Sociais”, foi um dos assuntos abordados no primeiro dia da terceira edição do Congresso de Medicina Geral da Associação Médica Brasileira (AMB), que acontece em São Paulo de 24 a 26 de julho.",
-            "O painel foi coordenado pelo diretor de Previdência e Mutualismo da Associação Paulista de Medicina (APM) e presidente da Comissão de Saúde Digital da AMB, Antonio Carlos Endrigo, e pelo presidente da Associação Médica do Amazonas, Emanuel Jorge Akel Thomaz de Lima.",
-            "Como conferencistas, participaram Walter Miyamoto, diretor adjunto de Marketing da APM e presidente da APM São José dos Campos, e Juliana Hasse, presidente da Comissão de Direito Médico e de Saúde da OAB-SP. O painel contou também com a participação do diretor Executivo da Comissão Especial de Médicos Jovens da APM e membro da Comissão Nacional de Médicos Jovens da AMB, Guilherme Marques.",
-            "Em sua apresentação, Miyamoto contou que usa as redes sociais para falar sobre sua área de especialização, a Coloproctologia, e destacou sua evolução nas plataformas digitais, que ocorreu de forma gradativa, por meio de cursos relacionados à comunicação e marketing e treinamentos.",
-            "Ele também deu ênfase ao uso da comunicação digital, com ferramentas de humanização e crescimento, para ampliar o cuidado e o acolhimento com o paciente para além da consulta no consultório, com mensagens para saber como ele está após um procedimento e lembretes de retorno de consultas, além de pesquisas de satisfação para melhorar ainda mais os atendimentos.",
-            "Ações judiciais",
-            "Juliana Hasse, por sua vez, destacou o crescimento expressivo de ações judiciais contra médicos, com 34 mil processos só no ano de 2024. “Entre 2020 e 2024, houve um aumento de mais de 30% nas ações contra médicos em início de carreira. No SJT [Superior Tribunal de Justiça], o crescimento foi de 1.600% no período de 10 anos”, afirmou.",
-            "A especialista também destacou os principais motivadores de ações judiciais contra os profissionais da área da Saúde, como expectativas não atendidas, documentação, desgaste na relação médico-paciente e a falta de informação médica necessária ou obrigatória ao paciente.",
-            "Dentro das especialidades, as áreas que recebem mais processos judiciais são: Cirurgia Plástica, Ginecologia e Obstetrícia e Clínica Geral. “Desde 2020, o índice de condenação é de 60% dos casos. A ausência de provas é a maior fragilidade nos processos”, destaca Juliana.",
-            "Ao fim das apresentações, Endrigo deu espaço para os presentes fazerem perguntas aos convidados. O debate abordou temas sobre o que difere uma negligência informacional e dicas práticas de como realizar atendimentos particulares antes mesmo de se descredenciar de convênios médicos.",
-            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
-          ],
-          "link": "https://www.apm.org.br/3o-cmg-amb-diretores-da-apm-debatem-medicina-nas-redes-sociais/"
         }
       ]
     },
@@ -434,6 +434,23 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
+          "tag": "3 Out 2024",
+          "capaUrl": "https://static.wixstatic.com/media/f8e57f_383c92167aa84d1a92fa3b3762602ba8~mv2.jpg/v1/fill/w_454,h_255,fp_0.50_0.50,q_90,enc_avif,quality_auto/f8e57f_383c92167aa84d1a92fa3b3762602ba8~mv2.jpg",
+          "capaAlt": "O último verso da poesia ",
+          "titulo": "O último verso da poesia ",
+          "resumo": "",
+          "textoCompleto": [
+            "Não tenho uma memória muito clara, somente flashes. Eu era muito nova, mas o pouco que me lembro é de estar em casa naquele 11 de julho de 2010, sentada no sofá assistindo à final da Copa do Mundo, Holanda x Espanha, um jogo repleto de craques e de cartões amarelos.",
+            "Os 90 minutos de jogo terminaram sem gols, levando aquela partida para a prorrogação. Fim de primeiro tempo de prorrogação, nenhum gol marcado. A partida se encaminhava para as penalidades quando, aos 11 minutos da segunda etapa da prorrogação, Iniesta recebeu um passe de Fábregas, dominou a bola e mandou para o gol, levando a torcida à loucura com o título inédito da La Roja em Copas do Mundo.",
+            "Nem foi uma das melhores partidas de Iniesta, mas aquele jogo me encantou. A  leveza com que ele conduzia a bola e, claro, o gol marcado me deixaram fascinada! Isso me fez querer saber mais sobre o jogador em questão. Descobri que jogava em um time catalão: o Barcelona! Desde então, passei a acompanhar fielmente o clube, para admirar o espetáculo e a magia de Andrés Iniesta Luján.",
+            "Assistindo aos jogos do Barça, eu ficava vidrada e achava o máximo quando ele fazia a “la croqueta” para escapar dos adversários. Na seleção, Iniesta usava a 6; no Barcelona, a 8. E cá pra nós, a camisa 8 sempre foi a cara do Iniesta, que na horizontal, simboliza o infinito, assim como o legado deixado por ele no futebol mundial.",
+            "Com a cabeça sempre erguida, o drible curto, passe preciso e perfeita leitura de jogo. Era assim que Andrés escrevia poesias no meio de campo catalão e espanhol. E toda poesia precisa de um ponto final. Iniesta escolheu o dia 8 para finalizar a sua poesia, que foi escrita ao longo de 22 anos.",
+            "Foi incrível. Eu fui feliz e sabia!",
+            "Obrigada, Andrés. O futebol agradece!"
+          ],
+          "link": "https://lapelota.wixsite.com/lapelota/post/o-último-verso-da-poesia"
+        },
+        {
           "tag": "18 nov 2024",
           "capaUrl": "https://static.wixstatic.com/media/f8e57f_10574007d3224161b096f9260708976e~mv2.jpeg/v1/fill/w_454,h_284,fp_0.50_0.50,q_90,enc_avif,quality_auto/f8e57f_10574007d3224161b096f9260708976e~mv2.jpeg",
           "capaAlt": "Entre o caos e o renascimento ",
@@ -450,23 +467,6 @@ const content = {
             "VOLTAMOS! A 10 VOLTOU E A BANDEIRA VIROU!"
           ],
           "link": "https://lapelota.wixsite.com/lapelota/post/entre-o-caos-e-o-renascimento"
-        },
-        {
-          "tag": "3 Out 2024",
-          "capaUrl": "https://static.wixstatic.com/media/f8e57f_383c92167aa84d1a92fa3b3762602ba8~mv2.jpg/v1/fill/w_454,h_255,fp_0.50_0.50,q_90,enc_avif,quality_auto/f8e57f_383c92167aa84d1a92fa3b3762602ba8~mv2.jpg",
-          "capaAlt": "O último verso da poesia ",
-          "titulo": "O último verso da poesia ",
-          "resumo": "",
-          "textoCompleto": [
-            "Não tenho uma memória muito clara, somente flashes. Eu era muito nova, mas o pouco que me lembro é de estar em casa naquele 11 de julho de 2010, sentada no sofá assistindo à final da Copa do Mundo, Holanda x Espanha, um jogo repleto de craques e de cartões amarelos.",
-            "Os 90 minutos de jogo terminaram sem gols, levando aquela partida para a prorrogação. Fim de primeiro tempo de prorrogação, nenhum gol marcado. A partida se encaminhava para as penalidades quando, aos 11 minutos da segunda etapa da prorrogação, Iniesta recebeu um passe de Fábregas, dominou a bola e mandou para o gol, levando a torcida à loucura com o título inédito da La Roja em Copas do Mundo.",
-            "Nem foi uma das melhores partidas de Iniesta, mas aquele jogo me encantou. A  leveza com que ele conduzia a bola e, claro, o gol marcado me deixaram fascinada! Isso me fez querer saber mais sobre o jogador em questão. Descobri que jogava em um time catalão: o Barcelona! Desde então, passei a acompanhar fielmente o clube, para admirar o espetáculo e a magia de Andrés Iniesta Luján.",
-            "Assistindo aos jogos do Barça, eu ficava vidrada e achava o máximo quando ele fazia a “la croqueta” para escapar dos adversários. Na seleção, Iniesta usava a 6; no Barcelona, a 8. E cá pra nós, a camisa 8 sempre foi a cara do Iniesta, que na horizontal, simboliza o infinito, assim como o legado deixado por ele no futebol mundial.",
-            "Com a cabeça sempre erguida, o drible curto, passe preciso e perfeita leitura de jogo. Era assim que Andrés escrevia poesias no meio de campo catalão e espanhol. E toda poesia precisa de um ponto final. Iniesta escolheu o dia 8 para finalizar a sua poesia, que foi escrita ao longo de 22 anos.",
-            "Foi incrível. Eu fui feliz e sabia!",
-            "Obrigada, Andrés. O futebol agradece!"
-          ],
-          "link": "https://lapelota.wixsite.com/lapelota/post/o-último-verso-da-poesia"
         }
       ]
     },
@@ -731,7 +731,35 @@ const content = {
       "visiveis": 4,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
-      "itens": []
+      "itens": [
+        {
+          "tag": "Jornaltop.esportes ",
+          "capaUrl": "images/nova-secao-1784841780645-0-1785531573939.jpg",
+          "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
+          "titulo": "Entrevista Bruno Fratus | COB+LA2028",
+          "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
+          "textoCompleto": [],
+          "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
+        },
+        {
+          "tag": "Instagram",
+          "capaUrl": "images/nova-secao-1784841780645-1-1785451607027.png",
+          "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
+          "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
+          "resumo": "Post Final UWCL",
+          "textoCompleto": [],
+          "link": "https://www.instagram.com/p/DJ-HiH7x48n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        },
+        {
+          "tag": "Instagram",
+          "capaUrl": "images/nova-secao-1784841780645-2-1785451608884.jpg",
+          "capaAlt": "Guia para o Super Mundial de Clubes FIFA",
+          "titulo": "Guia para o Super Mundial de Clubes FIFA",
+          "resumo": "Post Super Mundial de Clubes FIFA",
+          "textoCompleto": [],
+          "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        }
+      ]
     }
   ],
   "curriculo": {
