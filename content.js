@@ -363,6 +363,124 @@ const content = {
       ]
     },
     {
+      "id": "nova-secao-1785446582110",
+      "titulo": "Publicações Revista APM Estadual | Regional Piracicaba ",
+      "toggleTexto": "Ler mais",
+      "linkTexto": "Ver mais →",
+      "verTodasTexto": "Ver todas",
+      "visiveis": 6,
+      "fundo": "nenhum",
+      "fundoImagemUrl": "",
+      "itens": [
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#"
+        },
+        {
+          "tag": "Serviços - 756",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785538187624.png",
+          "capaAlt": "Tradição também nas Revistas Científicas",
+          "titulo": "Tradição também nas Revistas Científicas",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
+          "textoCompleto": [
+            "Há mais de 95 anos, a\nAssociação Paulista de\nMedicina é sinônimo\nde representação\ndos médicos, de tradição e de\nconteúdos relevantes para a classe,\nseja por meio de seus eventos\ncientíficos e socioculturais, dos\ncanais de comunicação ou das\npublicações científicas.",
+            "Desde 1932, a São Paulo Medical\nJournal – Evidence for health care\né publicada pela APM, sendo\nconsiderada uma das revistas\ncientíficas mais tradicionais e\nimportantes de todo o Brasil.\nSeus artigos são indexados nas\nmelhores bases de dados do\nmundo, como Medline, Lilacs,\nSciELO, Science Citation Index\nExpanded, Journal Citation Reports/\nScience Edition (ISI), EBSCO\nPublishing e PubMed Central (PMC).",
+            "Atualmente, a revista possui um\nfator de impacto de 1.6, índice\nque reflete a quantidade de vezes que seus artigos foram citados\npor outros periódicos ao redor do\nmundo. Para Paulo Manuel Pêgo\nFernandes, diretor Científico da\nAPM e editor da São Paulo Medical\nJournal, ver esse periódico alcançar\ntal patamar representa uma\nsensação de dever cumprido e a\ncerteza de que todo o empenho\nestá sendo recompensado.",
+            "Bimestral, a revista aceita\ntrabalhos na área da Saúde em\nformato de artigos originais, revisões narrativas de literatura,\nrelatos de caso, comunicações\nbreves e cartas ao editor. Sua\nrelevância ultrapassa as fronteiras\nnacionais, tendo forte influência\nfora do País e contribuindo\nativamente para a projeção e\ndivulgação da Ciência brasileira.",
+            "Prova disso é que a São Paulo\nMedical Journal recebe um grande\nvolume de submissões vindas\nda China e da Turquia além do\npróprio Brasil. Por publicar artigos exclusivamente na língua\ninglesa, a revista consolida-se\ncomo uma grande oportunidade\npara médicos e pesquisadores do\nmundo inteiro.",
+            "Por ano, são recebidos entre\n450 e 500 artigos que, após\numa seleção minuciosa, cerca\nde 70 artigos são publicados\nnas seis edições. Enquanto para\nautores brasileiros o custo para\na publicação de artigos é de R$\n1.500,00 e para estrangeiros é\nde US$ 700,00, os associados da\nAPM com mais de três meses de\nadimplência contam com isenção\ndessa taxa.",
+            "Diagnóstico e Tratamento",
+            "Além da São Paulo Medical\nJournal, a Associação Paulista\nde Medicina também publica a\nrevista Diagnóstico e Tratamento.\nLançada em 1996 e indexada\nna base de dados Lilacs, ela tem\ncomo objetivo oferecer atualização\nmédica baseada nas melhores\nevidências científicas disponíveis.",
+            "A publicação é trimestral e traz,\na cada edição, uma média de\n5 artigos, que incluem textos\noriginais, relatos de casos, revisões\nnarrativas da literatura (artigos\nde atualização), cartas ao editor\ne seções ou colunas especiais em\ndiversas áreas da Medicina.",
+            "A revista é produzida 100% em\nportuguês e não possui taxa\npara qualquer médico que deseje\npublicar nela, independentemente\nde ser associado ou não. Outro\ncharme da publicação é a arte das\ncapas, que trazem a cada edição a\nimagem de uma peça do acervo da\nPinacoteca da própria Associação\nPaulista de Medicina."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+        },
+        {
+          "tag": "Club de Benefícios - 756",
+          "capaUrl": "images/nova-secao-1785446582110-4-1785538193910.png",
+          "capaAlt": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
+          "titulo": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Este ano está passando tão\nrápido que já chegamos à\nmelhor época: as Festas Juninas!\nPensando nessa tradição tão\nquerida em nosso País, o club|apm\nseparou ofertas imperdíveis para\nvocê aproveitar as festividades\nda melhor maneira possível.",
+            "Para quem está em busca do look\nperfeito para o arraial, a John\nJohn é uma excelente opção. A\nmarca oferece jeans premium de\nalta qualidade e feito à mão. Além\ndisso, os associados garantem\n7,5% de cashback em todas as\ncompras. Já a Maria Filó traz tudo\no que combina com a estação\ne a festividade: tricôs, cores e\ndetalhes encantadores, com um\nacervo que agrada a todos os\ngostos, além de cashback de 4%\nem todas as compras.",
+            "E que tal complementar o\nvisual de São João com uma marca\nnacional que exala brasilidade? A\nVult é amplamente conhecida por\noferecer maquiagens e produtos\nde skincare com foco em alta\nqualidade, preços acessíveis e\nótimo custo-benefício. E com\n9% de cashback.",
+            "Para os que adoram conciliar o\nclima frio com a boa gastronomia, o Paris 6 é a escolha ideal! O bistrô une\na gastronomia francesa à criatividade\ne personalidade brasileira, com uma\ncondição especial para os associados:\nno pagamento de um buffet completo,\no outro sai grátis. E, claro, uma das\nbebidas que mais combinam com o\ninverno é uma boa taça de vinho.\nSabendo disso, a Villa Cabianca\noferece um portfólio de vinhos\nselecionados, assistência técnica e\n10% de desconto contínuo em todos\nos itens do e-commerce, com entrega\nem qualquer lugar do País.",
+            "Além das festividades juninas, as\nférias escolares estão batendo\nà porta. Para quem quer fugir\nda rotina, do caos da cidade e\naproveitar esses dias para descansar\nem família, o Parque Hotel\nGuararema é o destino perfeito.\nEm meio à natureza, o local combina\ntranquilidade e diversão em uma\nestrutura completa, com descontos\nde 10% a 15% para os associados.",
+            "Outra opção é o Panorama\nHotel & SPA, localizado em\nÁguas de Lindóia. O hotel oferece\nacomodações aconchegantes e\nambientes arejados, com a missão\nde proporcionar uma maravilhosa\nexperiência de bem-estar. Para\nos associados da APM, 10% de\ndesconto durante todo o ano.\nAgora, se você busca um lugar\npara celebrar a época com toda a tradição gastronômica e cultural, o\nHotel Fazenda APM é o seu destino\ncerto! Com 164 hectares em meio à\nSerra da Cantareira, o espaço oferece\naconchego e um clima agradável\npara toda a família. Para melhorar,\nno dia 27 de junho, a partir das\n15h, realiza a sua tradicional Festa\nJunina. Associados da APM e seus\ndependentes são isentos da taxa de\ningresso, assim como as crianças com\naté 5 anos de idade e os idosos a\npartir dos 65 anos."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+        },
+        {
+          "tag": "Entrevista - Eu uso, eu aprovo | 754",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785538195673.png",
+          "capaAlt": "Sergio Marques da Silva",
+          "titulo": "Sergio Marques da Silva",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "O pneumologista Sergio Marques\nda Silva mantém um vínculo\ncom a APM desde a graduação.\nNa época, participava ativamente\nde aulas e seminários promovidos\npela entidade, tendo se associado à\ninstituição em diversos momentos\nde sua trajetória profissional.",
+            "Ao longo dos anos, usufruiu de\nvariados benefícios oferecidos\npela Associação Paulista de\nMedicina. Um dos seus favoritos\né o Hotel Fazenda APM, na Serra\nda Cantareira. Com uma área\nde 164 hectares, o espaço é\numa excelente opção para lazer,\ndescanso e eventos, dispondo\nde quadras, campos de futebol,\nparque aquático, churrasqueiras,\nplayground e muito mais.",
+            "O médico aproveita para elogiar\no atendimento oferecido pela equipe da APM. “Sempre\nfui muito bem atendido, os\nfuncionários oferecem total\nassistência ao associado, com\natualizações constantes via\ntelefone e e-mail”, destaca.",
+            "O pneumologista também foi\no primeiro a aderir à parceria\nrecente com a TotalPass e\nnão esconde o entusiasmo.\nEle alegava dificuldades de\npraticar atividades físicas\ndevido ao trânsito da cidade\nde São Paulo e a demora que\nteria para chegar na academia.\n“A TotalPass encaixou muito\nbem na minha rotina, como\nnão tenho um local fixo de\natendimento, consigo sair das\nconsultas e treinar em qualquer\nlugar, em vez de perder horas\nno trânsito. Eu estou gostando\nbastante”, conclui."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+        },
+        {
+          "tag": "Entrevista - Eu uso, eu aprovo | 756",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785538197099.png",
+          "capaAlt": "Agnaldo Nogueira Zorzeto",
+          "titulo": "Agnaldo Nogueira Zorzeto",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Agnaldo Nogueira Zorzeto é\nanestesiologista e já soma mais\nde 25 anos como associado da\nAssociação Paulista de Medicina,\ninstituição que conheceu quando\nfoi registrar seu diploma de\nmédico no Conselho Regional de\nMedicina do Estado de São Paulo\n(Cremesp).",
+            "Ele conta que um dos serviços já\nutilizados foi o de despachante.\nA instituição disponibiliza aos\nmédicos e familiares diversos\nserviços relacionados ao\nDetran, Cinetrans, Demutrans\ne outros órgãos de trânsito de\ntodo o estado de São Paulo. São\n32 modalidades, como segunda\nvia de carteira de habilitação,\nCRLV e CRV; emplacamentos;\nlevantamento e pagamento\nde IPVA e recurso de multa;\nlicenciamento; cartão DSV; Isenção\ndo IPVA; entre outros.",
+            "“Todas as vezes que precisei,\nsempre resolveram as minhas\nquestões com muita agilidade\ne eficiência. Além disso, todos\nos funcionários são muito bem\neducados e prestativos”, destaca."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+        },
+        {
+          "tag": "Club de Benefícios - 754",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785538198642.png",
+          "capaAlt": "Cumpra suas promessas de saúde e bem-estar com a ajuda da APM",
+          "titulo": "Cumpra suas promessas de saúde e bem-estar com a ajuda da APM",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Todo início de ano vem cheio de\npromessas, principalmente aquelas\nque envolvem atividades físicas e\ndietas, mas no meio do caminho\nmuitos desses objetivos acabam se\nperdendo. Por isso, para te ajudar a\nse manter firme e forte em busca\nde mais saúde e qualidade de vida,\no Clube de Benefícios da APM\npossui parcerias que vão te dar\naquele empurrãozinho necessário,\ncom descontos e condições\nimperdíveis para os associados.\nConfira a seguir!",
+            "Se a ideia é dar aquele\nsuporte extra para o corpo, a\nsuplementação inteligente é a\nmelhor aliada. Para quem não\nabre mão de fórmulas limpas e\ningredientes naturais, a Nutrify\nfoca no cuidado integral e ainda\noferece 5% de cashback para os\nmédicos associados. Já para quem\nbusca a tradição de uma marca\nnacional de peso, a Probiótica\nentrega segurança e tecnologia\npara qualquer objetivo, seja você\niniciante ou atleta experiente.",
+            "Precisando de intensidade\nmáxima? A Darkness une a\nexperiência de grandes atletas à ciência da Integralmédica. O portfólio\né completo com proteínas, prétreinos e aminoácidos sem aditivos\nartificiais, tudo pensado para cada\nfase do seu treino, da energia inicial\nà recuperação. Associados APM\ngarantem 4,5% de cashback.",
+            "Se você está em busca de\nequipamentos esportivos e roupas\nconfortáveis e leves para a prática de\nexercícios físicos, a Centauro é uma\nótima opção. A maior rede multicanal\nde produtos esportivos da América\nLatina oferece para os associados\nda APM 5% de cashback em todas\nas compras. Referência mundial,\na Nike também faz parte das\nnossas parcerias, com um catálogo\ncompleto de produtos esportivos\ncom descontos exclusivos para quem\né associado APM.",
+            "E se você curte peças tecnológicas\ne sustentáveis para o dia a dia, a\nInsider está revolucionando a moda\ncom design inteligente e funcional. É\nestilo e conforto que acompanham o\nseu ritmo. Seja um associado APM e\ngaranta 5% de cashback em todas as\nsuas compras.",
+            "E nada melhor que praticar\natividades físicas em meio a um\nbelo cenário. Com 164 hectares em meio à Serra da Cantareira, o\nHotel Fazenda APM dispõe de\nquadras poliesportivas, para jogos\nde handebol, tênis, basquete, vôlei\ne futsal, além de dois campos de\nfutebol e quadras de tênis e de\nbeach tennis. O hotel também\npossui academia equipada com\nequipamentos profissionais para\nmanter a sua saúde em dia. Os\nassociados podem desfrutar do\nday use sem custo e têm desconto\nexclusivo nas hospedagens."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+        }
+      ]
+    },
+    {
       "id": "campeonatos",
       "titulo": "Futebol ",
       "toggleTexto": "Ler mais",
@@ -562,124 +680,6 @@ const content = {
             "Assim, o caminho para recuperar a autonomia alimentar e a paz com o espelho envolve entender que o corpo real não cabe em um filtro. Entre as métricas das redes e a ditadura da estética, o desafio é resgatar a capacidade de olhar para si mesmo além do que os olhos do algoritmo podem capturar, devolvendo à comida o seu papel de prazer e ao corpo o seu papel de viver, e não apenas de ser exibido."
           ],
           "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/post/a-evolução-dos-distúrbios-alimentares-e-a-ditadura-da-estética-nas-redes-sociais"
-        }
-      ]
-    },
-    {
-      "id": "nova-secao-1785446582110",
-      "titulo": "Publicações Revista APM Estadual | Regional Piracicaba ",
-      "toggleTexto": "Ler mais",
-      "linkTexto": "Ver mais →",
-      "verTodasTexto": "Ver todas",
-      "visiveis": 6,
-      "fundo": "nenhum",
-      "fundoImagemUrl": "",
-      "itens": [
-        {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
-        },
-        {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
-        },
-        {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
-        },
-        {
-          "tag": "Serviços - 756",
-          "capaUrl": "images/nova-secao-1785446582110-3-1785538187624.png",
-          "capaAlt": "Tradição também nas Revistas Científicas",
-          "titulo": "Tradição também nas Revistas Científicas",
-          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
-          "textoCompleto": [
-            "Há mais de 95 anos, a\nAssociação Paulista de\nMedicina é sinônimo\nde representação\ndos médicos, de tradição e de\nconteúdos relevantes para a classe,\nseja por meio de seus eventos\ncientíficos e socioculturais, dos\ncanais de comunicação ou das\npublicações científicas.",
-            "Desde 1932, a São Paulo Medical\nJournal – Evidence for health care\né publicada pela APM, sendo\nconsiderada uma das revistas\ncientíficas mais tradicionais e\nimportantes de todo o Brasil.\nSeus artigos são indexados nas\nmelhores bases de dados do\nmundo, como Medline, Lilacs,\nSciELO, Science Citation Index\nExpanded, Journal Citation Reports/\nScience Edition (ISI), EBSCO\nPublishing e PubMed Central (PMC).",
-            "Atualmente, a revista possui um\nfator de impacto de 1.6, índice\nque reflete a quantidade de vezes que seus artigos foram citados\npor outros periódicos ao redor do\nmundo. Para Paulo Manuel Pêgo\nFernandes, diretor Científico da\nAPM e editor da São Paulo Medical\nJournal, ver esse periódico alcançar\ntal patamar representa uma\nsensação de dever cumprido e a\ncerteza de que todo o empenho\nestá sendo recompensado.",
-            "Bimestral, a revista aceita\ntrabalhos na área da Saúde em\nformato de artigos originais, revisões narrativas de literatura,\nrelatos de caso, comunicações\nbreves e cartas ao editor. Sua\nrelevância ultrapassa as fronteiras\nnacionais, tendo forte influência\nfora do País e contribuindo\nativamente para a projeção e\ndivulgação da Ciência brasileira.",
-            "Prova disso é que a São Paulo\nMedical Journal recebe um grande\nvolume de submissões vindas\nda China e da Turquia além do\npróprio Brasil. Por publicar artigos exclusivamente na língua\ninglesa, a revista consolida-se\ncomo uma grande oportunidade\npara médicos e pesquisadores do\nmundo inteiro.",
-            "Por ano, são recebidos entre\n450 e 500 artigos que, após\numa seleção minuciosa, cerca\nde 70 artigos são publicados\nnas seis edições. Enquanto para\nautores brasileiros o custo para\na publicação de artigos é de R$\n1.500,00 e para estrangeiros é\nde US$ 700,00, os associados da\nAPM com mais de três meses de\nadimplência contam com isenção\ndessa taxa.",
-            "Diagnóstico e Tratamento",
-            "Além da São Paulo Medical\nJournal, a Associação Paulista\nde Medicina também publica a\nrevista Diagnóstico e Tratamento.\nLançada em 1996 e indexada\nna base de dados Lilacs, ela tem\ncomo objetivo oferecer atualização\nmédica baseada nas melhores\nevidências científicas disponíveis.",
-            "A publicação é trimestral e traz,\na cada edição, uma média de\n5 artigos, que incluem textos\noriginais, relatos de casos, revisões\nnarrativas da literatura (artigos\nde atualização), cartas ao editor\ne seções ou colunas especiais em\ndiversas áreas da Medicina.",
-            "A revista é produzida 100% em\nportuguês e não possui taxa\npara qualquer médico que deseje\npublicar nela, independentemente\nde ser associado ou não. Outro\ncharme da publicação é a arte das\ncapas, que trazem a cada edição a\nimagem de uma peça do acervo da\nPinacoteca da própria Associação\nPaulista de Medicina."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
-        },
-        {
-          "tag": "Club de Benefícios - 756",
-          "capaUrl": "images/nova-secao-1785446582110-4-1785538193910.png",
-          "capaAlt": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
-          "titulo": "Desfrute da época mais festiva do ano com o Clube de Benefícios",
-          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
-          "textoCompleto": [
-            "Este ano está passando tão\nrápido que já chegamos à\nmelhor época: as Festas Juninas!\nPensando nessa tradição tão\nquerida em nosso País, o club|apm\nseparou ofertas imperdíveis para\nvocê aproveitar as festividades\nda melhor maneira possível.",
-            "Para quem está em busca do look\nperfeito para o arraial, a John\nJohn é uma excelente opção. A\nmarca oferece jeans premium de\nalta qualidade e feito à mão. Além\ndisso, os associados garantem\n7,5% de cashback em todas as\ncompras. Já a Maria Filó traz tudo\no que combina com a estação\ne a festividade: tricôs, cores e\ndetalhes encantadores, com um\nacervo que agrada a todos os\ngostos, além de cashback de 4%\nem todas as compras.",
-            "E que tal complementar o\nvisual de São João com uma marca\nnacional que exala brasilidade? A\nVult é amplamente conhecida por\noferecer maquiagens e produtos\nde skincare com foco em alta\nqualidade, preços acessíveis e\nótimo custo-benefício. E com\n9% de cashback.",
-            "Para os que adoram conciliar o\nclima frio com a boa gastronomia, o Paris 6 é a escolha ideal! O bistrô une\na gastronomia francesa à criatividade\ne personalidade brasileira, com uma\ncondição especial para os associados:\nno pagamento de um buffet completo,\no outro sai grátis. E, claro, uma das\nbebidas que mais combinam com o\ninverno é uma boa taça de vinho.\nSabendo disso, a Villa Cabianca\noferece um portfólio de vinhos\nselecionados, assistência técnica e\n10% de desconto contínuo em todos\nos itens do e-commerce, com entrega\nem qualquer lugar do País.",
-            "Além das festividades juninas, as\nférias escolares estão batendo\nà porta. Para quem quer fugir\nda rotina, do caos da cidade e\naproveitar esses dias para descansar\nem família, o Parque Hotel\nGuararema é o destino perfeito.\nEm meio à natureza, o local combina\ntranquilidade e diversão em uma\nestrutura completa, com descontos\nde 10% a 15% para os associados.",
-            "Outra opção é o Panorama\nHotel & SPA, localizado em\nÁguas de Lindóia. O hotel oferece\nacomodações aconchegantes e\nambientes arejados, com a missão\nde proporcionar uma maravilhosa\nexperiência de bem-estar. Para\nos associados da APM, 10% de\ndesconto durante todo o ano.\nAgora, se você busca um lugar\npara celebrar a época com toda a tradição gastronômica e cultural, o\nHotel Fazenda APM é o seu destino\ncerto! Com 164 hectares em meio à\nSerra da Cantareira, o espaço oferece\naconchego e um clima agradável\npara toda a família. Para melhorar,\nno dia 27 de junho, a partir das\n15h, realiza a sua tradicional Festa\nJunina. Associados da APM e seus\ndependentes são isentos da taxa de\ningresso, assim como as crianças com\naté 5 anos de idade e os idosos a\npartir dos 65 anos."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
-        },
-        {
-          "tag": "Entrevista - Eu uso, eu aprovo | 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785538195673.png",
-          "capaAlt": "Sergio Marques da Silva",
-          "titulo": "Sergio Marques da Silva",
-          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
-          "textoCompleto": [
-            "O pneumologista Sergio Marques\nda Silva mantém um vínculo\ncom a APM desde a graduação.\nNa época, participava ativamente\nde aulas e seminários promovidos\npela entidade, tendo se associado à\ninstituição em diversos momentos\nde sua trajetória profissional.",
-            "Ao longo dos anos, usufruiu de\nvariados benefícios oferecidos\npela Associação Paulista de\nMedicina. Um dos seus favoritos\né o Hotel Fazenda APM, na Serra\nda Cantareira. Com uma área\nde 164 hectares, o espaço é\numa excelente opção para lazer,\ndescanso e eventos, dispondo\nde quadras, campos de futebol,\nparque aquático, churrasqueiras,\nplayground e muito mais.",
-            "O médico aproveita para elogiar\no atendimento oferecido pela equipe da APM. “Sempre\nfui muito bem atendido, os\nfuncionários oferecem total\nassistência ao associado, com\natualizações constantes via\ntelefone e e-mail”, destaca.",
-            "O pneumologista também foi\no primeiro a aderir à parceria\nrecente com a TotalPass e\nnão esconde o entusiasmo.\nEle alegava dificuldades de\npraticar atividades físicas\ndevido ao trânsito da cidade\nde São Paulo e a demora que\nteria para chegar na academia.\n“A TotalPass encaixou muito\nbem na minha rotina, como\nnão tenho um local fixo de\natendimento, consigo sair das\nconsultas e treinar em qualquer\nlugar, em vez de perder horas\nno trânsito. Eu estou gostando\nbastante”, conclui."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
-        },
-        {
-          "tag": "Entrevista - Eu uso, eu aprovo | 756",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785538197099.png",
-          "capaAlt": "Agnaldo Nogueira Zorzeto",
-          "titulo": "Agnaldo Nogueira Zorzeto",
-          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
-          "textoCompleto": [
-            "Agnaldo Nogueira Zorzeto é\nanestesiologista e já soma mais\nde 25 anos como associado da\nAssociação Paulista de Medicina,\ninstituição que conheceu quando\nfoi registrar seu diploma de\nmédico no Conselho Regional de\nMedicina do Estado de São Paulo\n(Cremesp).",
-            "Ele conta que um dos serviços já\nutilizados foi o de despachante.\nA instituição disponibiliza aos\nmédicos e familiares diversos\nserviços relacionados ao\nDetran, Cinetrans, Demutrans\ne outros órgãos de trânsito de\ntodo o estado de São Paulo. São\n32 modalidades, como segunda\nvia de carteira de habilitação,\nCRLV e CRV; emplacamentos;\nlevantamento e pagamento\nde IPVA e recurso de multa;\nlicenciamento; cartão DSV; Isenção\ndo IPVA; entre outros.",
-            "“Todas as vezes que precisei,\nsempre resolveram as minhas\nquestões com muita agilidade\ne eficiência. Além disso, todos\nos funcionários são muito bem\neducados e prestativos”, destaca."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
-        },
-        {
-          "tag": "Club de Benefícios - 754",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785538198642.png",
-          "capaAlt": "Cumpra suas promessas de saúde e bem-estar com a ajuda da APM",
-          "titulo": "Cumpra suas promessas de saúde e bem-estar com a ajuda da APM",
-          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
-          "textoCompleto": [
-            "Todo início de ano vem cheio de\npromessas, principalmente aquelas\nque envolvem atividades físicas e\ndietas, mas no meio do caminho\nmuitos desses objetivos acabam se\nperdendo. Por isso, para te ajudar a\nse manter firme e forte em busca\nde mais saúde e qualidade de vida,\no Clube de Benefícios da APM\npossui parcerias que vão te dar\naquele empurrãozinho necessário,\ncom descontos e condições\nimperdíveis para os associados.\nConfira a seguir!",
-            "Se a ideia é dar aquele\nsuporte extra para o corpo, a\nsuplementação inteligente é a\nmelhor aliada. Para quem não\nabre mão de fórmulas limpas e\ningredientes naturais, a Nutrify\nfoca no cuidado integral e ainda\noferece 5% de cashback para os\nmédicos associados. Já para quem\nbusca a tradição de uma marca\nnacional de peso, a Probiótica\nentrega segurança e tecnologia\npara qualquer objetivo, seja você\niniciante ou atleta experiente.",
-            "Precisando de intensidade\nmáxima? A Darkness une a\nexperiência de grandes atletas à ciência da Integralmédica. O portfólio\né completo com proteínas, prétreinos e aminoácidos sem aditivos\nartificiais, tudo pensado para cada\nfase do seu treino, da energia inicial\nà recuperação. Associados APM\ngarantem 4,5% de cashback.",
-            "Se você está em busca de\nequipamentos esportivos e roupas\nconfortáveis e leves para a prática de\nexercícios físicos, a Centauro é uma\nótima opção. A maior rede multicanal\nde produtos esportivos da América\nLatina oferece para os associados\nda APM 5% de cashback em todas\nas compras. Referência mundial,\na Nike também faz parte das\nnossas parcerias, com um catálogo\ncompleto de produtos esportivos\ncom descontos exclusivos para quem\né associado APM.",
-            "E se você curte peças tecnológicas\ne sustentáveis para o dia a dia, a\nInsider está revolucionando a moda\ncom design inteligente e funcional. É\nestilo e conforto que acompanham o\nseu ritmo. Seja um associado APM e\ngaranta 5% de cashback em todas as\nsuas compras.",
-            "E nada melhor que praticar\natividades físicas em meio a um\nbelo cenário. Com 164 hectares em meio à Serra da Cantareira, o\nHotel Fazenda APM dispõe de\nquadras poliesportivas, para jogos\nde handebol, tênis, basquete, vôlei\ne futsal, além de dois campos de\nfutebol e quadras de tênis e de\nbeach tennis. O hotel também\npossui academia equipada com\nequipamentos profissionais para\nmanter a sua saúde em dia. Os\nassociados podem desfrutar do\nday use sem custo e têm desconto\nexclusivo nas hospedagens."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
         }
       ]
     },
