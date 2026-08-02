@@ -453,7 +453,7 @@ const content = {
         },
         {
           "tag": "Serviços - 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785704455485.png",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785706162614.png",
           "capaAlt": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "titulo": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -472,7 +472,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 755",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785704457122.png",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785706164172.png",
           "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -489,7 +489,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 755",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785704458562.png",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785706165699.png",
           "capaAlt": "Murillo Nogueira Viotti",
           "titulo": "Murillo Nogueira Viotti",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -503,7 +503,7 @@ const content = {
         },
         {
           "tag": "Serviços - 755",
-          "capaUrl": "images/nova-secao-1785446582110-8-1785704460331.png",
+          "capaUrl": "images/nova-secao-1785446582110-8-1785706167139.png",
           "capaAlt": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "titulo": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -521,8 +521,103 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
         },
         {
+          "tag": "Serviços - 753 ",
+          "capaUrl": "images/nova-secao-1785446582110-9-1785706168557.png",
+          "capaAlt": "Do Brasil aos Estados Unidos com a RD Medicine e a APM ",
+          "titulo": "Do Brasil aos Estados Unidos com a RD Medicine e a APM ",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
+          "textoCompleto": [
+            "Conhecimento e\naprendizado são\nessenciais na vida\nde qualquer pessoa,\nespecialmente para profissionais\nque buscam ir além da média.\nComplementar os estudos na\nárea médica e realizar o sonho de\nviver em outro país são grandes\nmotivadores que levam muitos\na procurar um intercâmbio.\nPensando em apoiar essa jornada,\na Associação Paulista de Medicina\nfirmou uma parceria especial com a\nRD Medicine.",
+            "A RD Medicine é uma plataforma\neducacional brasileira, criada\npelo médico Rafael Duarte. Após\nse formar na Universidade do\nEstado do Rio de Janeiro (UERJ) e\nrealizar sua residência médica nos\nEstados Unidos, ele decidiu usar\nsua experiência para ajudar outros\nprofissionais a trilharem o mesmo\ncaminho.",
+            "Em entrevista ao APMCast, Duarte\nrelembrou que a RD surgiu a partir\nda insegurança que sentia com a\nMedicina no País em termos de\nfuturo. “Eu via que a Medicina\nestava cada vez mais na mão de\ngrandes redes e dos planos de\nsaúde. Eu gosto muito de fazer o\nexercício de olhar para os médicos\nque são mais experientes e que\nsão exemplos para mim, mas eu\nvia que não batia muito, porque\neles trabalhavam em muitas\ninstituições, ficavam presos ao\ntelefone e eu comecei a fica preocupado e a pensar que eu\nprecisava fazer alguma coisa.”",
+            "Foi por meio de um amigo que o\nmédico conheceu o processo de\nvalidação do diploma nos Estados\nUnidos e viu ali a oportunidade\npara construir carreira fora.\nEle destaca que para se tornar\nmédico no território americano,\né necessário realizar duas\nprovas técnicas – as mesmas\nas quais todas as pessoas que\nfizeram faculdade de Medicina\nnos Estados Unidos também\nsão submetidas: “Eles não\npodem exercer a Medicina\nsem fazer essas provas. Aliás,\ntambém não podem exercer sem\nfazer residência”, comentou o\nentrevistado, que complementou\nque no caso dos estrangeiros,\nainda é necessário ser aprovado\nem uma prova de inglês, o\nOccupational English Test (OET).",
+            "Serviços",
+            "Desde sua fundação, a empresa\nse consolidou na preparação\nde médicos e estudantes de\nMedicina para a validação de\ndiplomas e para a residência\nmédica no sistema americano.\nCom mais de três mil alunos e um\níndice notável de 100% aprovação\nno USMLE Step 1 - exame de\nlicenciamento Médico dos Estados\nUnidos -, a RD Medicine utiliza\numa gama de softwares próprios,\nprofessores bilingues e validados,\ne um sistema de educação que\npermite, mesmo para quem não\nfala inglês, aprender o idioma\nsimultaneamente ao conteúdo\nmédico na língua.\nA plataforma organiza sua\npreparação em três pilares\nprincipais. A primeira é a Mentoria,\nna qual se molda o currículo do\naluno e a estratégia de aplicação\nno sistema americano, garantindo\nque o perfil profissional se\ndestaque. Em seguida, vem o\nInglês Médico, um módulo focado\nem capacitar o aluno com a\nlinguagem e as siglas técnicas da\nMedicina em inglês, essencial para\ncausar uma boa impressão e se\nsentir à vontade no novo ambiente.",
+            "Por fim, a área de Estudos para Provas\noferece a preparação completa para\nos exames, utilizando bancos de\nquestões bilíngues, aulas ao vivo, livros\ne flashcards, fornecendo todos os\nrecursos de estudo necessário.",
+            "Para quem está avaliando essa\npossibilidade, a plataforma oferece\numa Sessão Estratégica gratuita.\nNela, é feita uma análise completa e\npersonalizada do seu perfil, com uma\navaliação detalhada de sua formação,\nexperiência e objetivos. A partir dessa\nanálise, é desenvolvido um roteiro\nespecífico, com um cronograma realista\ne marcos claros para sua jornada nos\nEstados Unidos, resultando em um\nplano de ação detalhado.",
+            "A sessão também é um espaço\nexclusivo para esclarecer todas as\ndúvidas sobre o USMLE, residência e\no processo de adaptação. Associados\nda APM garantem 10% de desconto no\nPlano Moonwalker da RD Medicine. Para\nusufruir do benefício, basta informar\nseu CPF no formulário de inscrição\nda página exclusiva da parceria para\nvalidar a elegibilidade"
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
+        },
+        {
+          "tag": "Club de Benefícios - 753",
+          "capaUrl": "images/nova-secao-1785446582110-10-1785706170014.png",
+          "capaAlt": "Aproveite a virada de ano com descontos incríveis!",
+          "titulo": "Aproveite a virada de ano com descontos incríveis!",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Para começar 2026 com o pé\ndireito, cheio de objetivos e\nrealizações, o Clube de Benefícios\nda Associação Paulista de Medicina\nselecionou ofertas exclusivas para\nseus associados. Confira a seguir!",
+            "Que tal começar o ano com um\ncarro novo? Marcas renomadas\npor seus designs sofisticados,\ntecnologia, conforto e segurança,\ncomo Audi e Nissan, oferecem\ndescontos atrativos e especiais\npara os associados da APM.",
+            "Conhecimento nunca é demais, e\npara investir no futuro da família\ne na sua carreira, tem muita\ncoisa boa na área de educação. O\nPrime Garden Bilíngue vai do\nberçário ao Ensino Fundamental\nI, preparando as crianças para\no mundo globalizado de forma\nnatural e divertida.",
+            "A APM também sedia o Instituto\nSimutec em São Paulo! Eles\noferecem treinamentos médicos de\nalta tecnologia, com simuladores\nde última geração e métodos\ninovadores. E os associados\ngarantem descontos exclusivos\npara aprimorar suas habilidades\ntécnicas com o máximo de realismo\ne segurança.",
+            "Como as férias também estão aí,\npara aproveitar e se divertir muito,\nselecionamos lugares incríveis para\ncurtir com toda a família. O Hello\nPark conta com atrações que se\ntransformam de acordo com a sua\nimaginação. O parque combina jogos\nmultimídia, instalações físicas e\nprojeções coloridas, tudo de forma\nlúdica e divertida.",
+            "Se a ideia é curtir um axé e relaxar\nna Bahia, o Transamérica Resort\nComandatuba é o seu lugar!\nLocalizado em uma ilha com 25\nkm de praia preservada, é perfeito\npara esquecer a correria e viver\nmomentos inesquecíveis com\nconforto total. Os associados da APM\ngarantem 10% off em hospedagens\nou pacotes.",
+            "Caso o desejo seja relaxar em meio\nà natureza, o Hotel Fazenda APM\né o destino ideal. Com infraestrutura\ncompleta com quadras de tênis,\nbeach tennis, poliesportiva,\nchurrasqueiras, restaurante, parque\naquático e um dos melhores centros\nhípicos do estado, oferece lazer e\ndescanso com condições exclusivas\npara os médicos associados."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
+        },
+        {
+          "tag": "Entrevista Eu uso, eu aprovo | 753",
+          "capaUrl": "images/nova-secao-1785446582110-11-1785706171522.png",
+          "capaAlt": "Raquel Elisabeth Pires ",
+          "titulo": "Raquel Elisabeth Pires ",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Formada pela Faculdade de\nCiências Médicas da Santa Casa\nde São Paulo, a psiquiatra Raquel\nElisabeth Pires já soma quase 50\nanos de vínculo com a Associação\nPaulista de Medicina. Ela conta\nque sempre teve conhecimento\nda instituição e se tornou\nassociada logo após se formar.",
+            "O serviço de Vigilância Sanitária\ne Papelaria Médica é um dos\nmais utilizados pela profissional.\nEste serviço, exclusivo para\nmédicos que atuam na cidade\nde São Paulo, realiza o cadastro\ndos associados na Vigilância\nSanitária e solicita a autorização\npara obtenção dos receituários\ncontrolados, por um custo muito\nmenor que a média do mercado.",
+            "A APM também garante a\nconfecção dos blocos de\nreceituários controlados, de\nacordo com a autorização de\ncada médico, entregando-os no\nseu endereço com qualidade,\nsegurança e praticidade.",
+            "“Sempre fui muito bem\natendida. Não tenho nenhuma\nqueixa negativa, pelo contrário.\nTudo que solicitei ou precisei\nfoi resolvido com agilidade.\nOs funcionários sempre\nforam muito competentes e\neducados”, conclui"
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
+        },
+        {
+          "tag": "Serviços - 752",
+          "capaUrl": "images/nova-secao-1785446582110-12-1785706173130.png",
+          "capaAlt": "Fique por dentro das novidades e benefícios da APM com apenas um clique",
+          "titulo": "Fique por dentro das novidades e benefícios da APM com apenas um clique",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
+          "textoCompleto": [
+            "A Associação Paulista\nde Medicina acaba de\nlançar o APP APM, uma\nferramenta essencial\npara a vida de seus associados.\nO diretor de Tecnologia de\nInformação da entidade, Júlio\nLeonardo Barbosa Pereira, explica\nque a plataforma, desenvolvida\npara ser uma extensão digital\nda instituição, conecta o médico,\nde forma rápida e prática, a\num universo de informações e\nserviços exclusivos, diretamente\ndo smartphone, iOS ou Android,\nou tablet.",
+            "Com um layout moderno e\nintuitivo, o aplicativo permite que\nos associados tenham acesso a\ntodas as atualizações da APM\nna palma da mão. É possível\nacessar a carteirinha digital de\nassociado, consultar os serviços\ne as Regionais e acompanhar os\nlançamentos, notícias e eventos da APM. Além disso, a ferramenta\nfacilita o acesso ao Portal\nMedicina Baseada em Evidências\ne à filiação de novos associados\nà APM.",
+            "“Alguns dos diferenciais do\nnosso app são os modos\ndaltônico e de baixa visão,\npermitindo acessibilidade a\ntodos os públicos. Também é\npossível usar o aplicativo nos\ntemas claro, escuro ou de acordo\ncom as preferências do celular”,\ndestaca o diretor de TI.",
+            "No caso da carteirinha digital do\nassociado, o acesso é mediante\no mesmo login da área do usuário\ndo site da APM, com o CPF do\nmédico e a senha criada. Caso\nnão tenha esse cadastro, é\npossível fazê-lo de forma rápida\ne fácil, além da recuperação da\nsenha.",
+            "Entre os diversos serviços e\nbenefícios que a APM oferece,\nestão enfatizados no aplicativo\nos planos de saúde, o Instituto\nde Ensino Superior (IESAPM),\no seguro gratuito de vida com\nDIT (diária de incapacidade\ntemporária) e o Hotel Fazenda.\nNa área de serviços, os\ndestaques estão para o APM\nFacilities, Sociocultural, Educação\nContinuada, Defesa Profissional,\nSeguro de Responsabilidade\nCivil, Cursos de Extensão,\nClassificados, Espaços para locação, Assessoria para\naposentadoria, seguros,\ndespachante, contabilidade,\nclube de benefícios e\nformulários de atestados.",
+            "Com o aplicativo APM, o médico\npode desfrutar de todas essas\nvantagens de forma integrada\ne prática, fortalecendo a\nconexão com a entidade\ne garantindo um suporte\ncompleto tanto para a carreira\nquanto para a vida pessoal."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
+        },
+        {
+          "tag": "Club de Benefícios - 752",
+          "capaUrl": "images/nova-secao-1785446582110-13-1785706174499.png",
+          "capaAlt": "Cuide de si mesma com descontos imperdíveis! ",
+          "titulo": "Cuide de si mesma com descontos imperdíveis! ",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Neste mês, o Clube de Benefícios\nda Associação Paulista de Medicina\ndestaca empresas parceiras\nfocadas no segmento de saúde\ne bem-estar. A Beleza na Web,\npor exemplo, é um e-commerce\nque conta com mais de 250\nmarcas, que entregam qualidade\ne são recomendadas pelos mais\nbadalados salões, clínicas e\neditores de beleza. Associado da\nAPM garante 10% de cashback em\ntodas as compras.",
+            "Já a L’Occitane au Brésil desperta\no olhar para a beleza brasileira\nem suas mais diversas facetas,\nlevando alegria, pluralidade e\nespontaneidade em cosméticos de\nalta qualidade. A marca trabalha\ncom extratos naturais selecionados\ne design exclusivo de artistas que\nenaltecem e refletem a riqueza\nnatural e cultural que só o Brasil\ntem. Para os associados da APM,\n6% de cashback em todas as\ncompras.",
+            "Para quem ama joias, a Monte Carlo\ntem peças exclusivas para você\nsurpreender em qualquer ocasião. A\nloja entrega para todo Brasil e possui\npreços especiais e 6% de cashback\npara os médicos associados.\nNessa mesma linha, a Vivara está\nhá mais de 60 anos no mercado,\nsendo uma referência no mundo\nda joalheria. A marca mantém o\ncompromisso e o cuidado que os\nantigos ourives tinham, criando\njoias exclusivas e eternas, marcando\nmomentos especiais na vida dos\nclientes. Associados APM garantem\n15% de desconto em toda a linha\nLife by Vivara.",
+            "E nada melhor do que uma casa\nlinda e confortável para garantir\nbem-estar. Com mais de 25 anos de\nmercado, a Camicado é uma rede\nde lojas especializadas em casa e\ndecoração com grande variedade\nde produtos, entre utensílios de\ncozinha, mesa posta, eletroportáteis,\ncutelaria, cama, mesa e banho e\norganização. E os benefícios para os associados APM vão desde descontos\naté cashback. Da mesma forma, a\nElectrolux também é uma ótima opção\npara renovar os eletrônicos de casa,\ndisponibilizando cashback e descontos\npara os associados da APM.",
+            "Para desfrutar de muita beleza natural\ne garantir bem-estar para toda a\nfamília, o Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol, parque\naquático, lago para pesca esportiva,\ncentro hípico, quadras poliesportiva, de\ntênis e de beach tennis, restaurante,\nchurrasqueiras, academia, salão de\njogos e muita natureza. Os associados\npodem desfrutar do day use sem\ncusto e têm desconto exclusivo nas\nhospedagens."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
+        },
+        {
+          "tag": "Entrevista - Eu uso, eu aprovo",
+          "capaUrl": "images/nova-secao-1785446582110-14-1785706175834.png",
+          "capaAlt": "Edgar Gonçalves Almeida Silva",
+          "titulo": "Edgar Gonçalves Almeida Silva",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Entre idas e vindas, Edgar\nGonçalves soma mais de 15 de\nanos como associado da APM. Ele\nconta que conheceu a instituição\nquando ainda estava na faculdade\ne se associou logo após de se\nformar.\nAo longo dos anos, o médico\nusufruiu de diversos benefícios\noferecido pela Associação Paulista\nde Medicina. Recentemente, ele\nbuscou orientações da Defesa\nProfissional, no serviço que\noferece suporte ao médico em\nrelação a diretos e deveres em sua\nprática profissional.",
+            "Além disso, em maio deste ano,\nfoi sorteado com uma cota de\nhospedagem para o Parque Hotel\nCampos do Jordão. \"Foi muito bom,\nconsegui descansar e curtir com\na família\", conta. O médico também\nressalta os descontos em eventos,\ncomo congressos, que a associação\nproporciona. \"São descontos\nconsideráveis que realmente fazem\na diferença, e tudo isso, graças à\nAPM\", afirma.",
+            "Para o associado, o atendimento\nde qualidade é um dos grandes\ndiferenciais da APM. \"Não houve\numa vez em que eu liguei e não\nfui bem atendido. O pessoal do\natendimento sempre me tratou\nmuito bem, com muita educação\ne sempre solucionando os meus\nproblemas\", elogia.",
+            "Outro benefício que o associado\ndestaca é a oportunidade de\nfrequentar o Hotel Fazenda da APM,\nque pode ser utilizado também para\ncomemorações, como aniversários"
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
+        },
+        {
           "tag": "Regional Piracicaba - 192 ",
-          "capaUrl": "images/nova-secao-1785446582110-9-1785704463450.png",
+          "capaUrl": "images/nova-secao-1785446582110-15-1785706177203.png",
           "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
           "titulo": "Diretores da APM debatem Medicina nas redes sociais",
           "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
@@ -540,13 +635,34 @@ const content = {
           "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
         },
         {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
+          "tag": "Serviços - 751",
+          "capaUrl": "images/nova-secao-1785446582110-16-1785706178741.png",
+          "capaAlt": "Sua vida financeira está em boas mãos com a APM ",
+          "titulo": "Sua vida financeira está em boas mãos com a APM ",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
+          "textoCompleto": [
+            "Muitos médicos\ndesconhecem a real\nimportância de contar\ncom um bom escritório\nde contabilidade, seja para os que\npossuem empresas ou para os\nautônomos. Esses serviços são\nessenciais para a organização\nfinanceira e fiscal, abrangendo\ndesde a Declaração de Imposto\nde Renda, Livro-caixa e Carnêleão até a gestão da folha de\npagamento de consultórios e\nclínicas.",
+            "Por conta disso, a Associação\nPaulista de Medicina conta com\nquatro empresas parceiras que\noferecem uma ampla variedade\nde serviços contábeis, com\ncondições especiais para os\nassociados.",
+            "Para garantir a confiabilidade dos\nserviços e consultoria prestados,\nestabelecemos procedimentos\npara a homologação das\nempresas parceiras – como ter no\nmínimo 10 anos de fundação; ter\ncapacidade para atender clínicas de pequeno, médio e grande\nporte, em todo o estado de São\nPaulo; e integrar o Programa de\nQualidade de Empresas Contábeis\n(PQEC), desenvolvido em 2005\ncom o objetivo de incentivar as\nempresas de serviços contábeis\nà melhoria contínua de seus\nprocessos e serviços.",
+            "A Confiance Contabilidade\noferece ao médico associado\num atendimento personalizado\ne preços diferenciados para a\norganização fiscal e contábil\ndo dia a dia. Entre os serviços\noferecidos, você encontra gestão\ncompleta da folha, encargos e\nobrigações trabalhistas; cálculo\nmensal e emissão de guias para\nmédicos autônomos; elaboração\nda declaração com foco nas\nparticularidades da área médica\ne muito mais.",
+            "Com mais de quatro décadas\nde experiência, a ESCA\nContabilidade atua com o\nobjetivo de simplificar a vida\nde seus clientes, oferecendo\ntranquilidade e segurança\nem todos os processos. A\nempresa oferece serviços de\ncontabilidade, legalização,\nrecursos humanos, planejamento\ntributário e fiscal.",
+            "Já a MedAssist é uma empresa\nespecializada, que oferece\nserviços exclusivamente a\nmédicos, clínicas e grupos\nhospitalares. Seu portfólio\ninclui a equiparação hospitalar,\nque visa organizar empresas\nmédicas para ter uma\ncontabilidade mais eficiente e\nreduzir em até 70% os impostos\npagos, e o Med light, um serviço contábil acessível, ideal para\nmédicos em início de carreira.",
+            "Fundada em 1975, a MERC\nSoluções Empresariais tem com\nmissão assessorar e atender as\nnecessidades dos associados,\noferecendo qualidade e preços\ndiferenciados. A parceria\ncom a Associação Paulista de\nMedicina permite a oferta de\nserviços de perícia trabalhista\ne cível; abertura, alteração e\nencerramento de empresas;\nimposto de renda de pessoa\nfísica e jurídica, entre outros.\nPara melhor atender aos médicos\nassociados, a MERC está localizada\na pouco mais de 50 metros da\nSede Estadual da APM"
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+        },
+        {
+          "tag": "Entrevista Eu uso, eu aprovo | 751",
+          "capaUrl": "images/nova-secao-1785446582110-17-1785706180146.png",
+          "capaAlt": "Luciano Wajman",
+          "titulo": "Luciano Wajman",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Com mais de 20 anos como\nassociado, Luciano Wajman conta\nque tem conhecimento sobre a\nAssociação Paulista de Medicina\ndesde antes de sua formação, por\nmeio de seu pai, o também médico\nIzak Wajman, que foi por muitos\nanos associado da APM.",
+            "O serviço APM Facilities foi um\ndos utilizados recentemente por\nele, por ser um apoio no cotidiano\ndo médico, oferecendo auxílio\nem diversas demandas, como\ncadastro no GOV.BR, renovação\nde CNH e documentos de veículos\n(IPVA e IPTU), alvará da\nVigilância Sanitária, emissão\nde Nota Fiscal de Serviços\nEletrônica (NFS-e), apoio no\ncadastro de isenção de rodízio\ne muito mais.",
+            "“Desde o primeiro contato, fui\nmuito bem atendido. Sempre\nme trataram com muita\neducação. Resolveram as\nminhas questões com agilidade\ne eficiência, sempre dando todo\nsuporte e atenção necessária.\nO serviço e o atendimento são\nexcelentes”, conclui."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
         }
       ]
     },
