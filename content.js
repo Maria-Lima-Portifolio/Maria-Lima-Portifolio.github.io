@@ -364,7 +364,7 @@ const content = {
     },
     {
       "id": "nova-secao-1785446582110",
-      "titulo": "Publicações Revista APM Estadual | Regional Piracicaba ",
+      "titulo": "Publicações Revista APM ",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
@@ -391,13 +391,23 @@ const content = {
           "link": "#"
         },
         {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
+          "tag": "Regional Piracicaba ",
+          "capaUrl": "images/nova-secao-1785446582110-2-1785702002193.png",
+          "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
+          "titulo": "Diretores da APM debatem Medicina nas redes sociais",
+          "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
+          "textoCompleto": [
+            "Entre os dias 24 e 26 de julho, a Associação Médica\nBrasileira realizou a terceira edição do seu Congresso\nde Medicina Geral, no Distrito Anhembi, em São Paulo,\nreunindo mais de três mil pessoas. “Medicina nas Redes\nSociais” foi um dos assuntos abordados no primeiro\ndia do evento, em painel coordenado pelo diretor de\nPrevidência e Mutualismo da Associação Paulista de\nMedicina (APM) e presidente da Comissão de Saúde\nDigital da AMB, Antonio Carlos Endrigo, e pelo presidente\nda Associação Médica do Amazonas, Emanuel Jorge\nAkel Thomaz de Lima.",
+            "Como conferencistas, participaram Walter Miyamoto,\ndiretor adjunto de Marketing da APM e presidente da\nAPM São José dos Campos, e Juliana Hasse, presidente\nda Comissão de Direito Médico e de Saúde da OAB-SP.\nO painel contou também com a participação do diretor\nExecutivo da Comissão Especial de Médicos Jovens\nda APM e membro da Comissão Nacional de Médicos\nJovens da AMB, Guilherme Marques.",
+            "Em sua apresentação, Miyamoto contou que usa as\nredes sociais para falar sobre sua área de especialização,\na Coloproctologia, e destacou sua evolução nas\nplataformas digitais, que ocorreu de forma gradativa, por\nmeio de cursos relacionados à comunicação e marketing\ne treinamentos.",
+            "Ele também deu ênfase ao uso da comunicação digital, com\nferramentas de humanização e crescimento, para ampliar o\ncuidado e o acolhimento com o paciente para além da\nconsulta no consultório, com mensagens para saber como ele está após um procedimento e lembretes\nde retorno de consultas, além de pesquisas de satisfação\npara melhorar ainda mais os atendimentos.",
+            "Ações judiciais",
+            "Juliana Hasse, por sua vez, destacou o crescimento\nexpressivo de ações judiciais contra médicos, com 34\nmil processos só no ano de 2024. “Entre 2020 e 2024,\nhouve um aumento de mais de 30% nas ações contra\nmédicos em início de carreira. No SJT [Superior Tribunal\nde Justiça], o crescimento foi de 1.600% no período de\n10 anos”, afirmou.",
+            "A especialista também destacou os principais\nmotivadores de ações judiciais contra os profissionais\nda área da Saúde, como expectativas não atendidas,\ndocumentação, desgaste na relação médico-paciente e\na falta de informação médica necessária ou obrigatória\nao paciente.",
+            "Dentro das especialidades, as áreas que recebem mais\nprocessos judiciais são: Cirurgia Plástica, Ginecologia\ne Obstetrícia e Clínica Geral. “Desde 2020, o índice de\ncondenação é de 60% dos casos. A ausência de provas é\na maior fragilidade nos processos”, destaca Juliana.",
+            "Ao fim das apresentações, Endrigo deu espaço para\nos presentes fazerem perguntas aos convidados.\nO debate abordou temas sobre o que difere uma\nnegligência informacional e dicas práticas de como\nrealizar atendimentos particulares antes mesmo de se\ndescredenciar de convênios médicos."
+          ],
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
         },
         {
           "tag": "Serviços - 756",
