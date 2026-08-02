@@ -32,7 +32,7 @@ const content = {
     "titulo": "Conheça mais sobre mim",
     "paragrafos": [
       "Atualmente estou no 7º período de Jornalismo no Centro Universitário das Américas - FAM.",
-      "Tenho 23 anos e algumas vivência prática em redação e cobertura de eventos. Atualmente sou estagiária de jornalismo na Associação Paulista de Medicina, onde escrevo matérias para o site e para a revista, elaboro as newsletters semanais, cubro eventos da instituição e acompanho o campeonato interno de futebol. Antes disso, estagiei por um ano (2024/2025) como redatora no Cultura10, criando conteúdos educativos sobre esporte, cultura, saúde e língua inglesa, além do design visual de capas dos textos.",
+      "Tenho 23 anos e algumas vivência prática em redação e cobertura de eventos. Atualmente sou estagiária de jornalismo na Associação Paulista de Medicina, onde escrevo matérias para o site e para a revista, elaboro as newsletters semanais, cubro eventos da instituição e acompanho o campeonato interno de futebol. Antes disso, estagiei por um ano (2024/2025) como redatora no Cultura10, criando conteúdos educativos sobre esporte, cultura, saúde e muito mais.",
       "Minha grande paixão é o esporte. Já atuei como voluntária na Série B da Taça das Favelas e no Jornaltop.Esportes, um perfil independente sobre esportes. Nesses trabalhos em campo, tive a oportunidade de fazer algumas coberturas, como o evento de lançamento da nova parceria entre a Adidas e o Time Brasil rumo aos Jogos Olímpicos de Los Angeles 2028, ocasião em que entrevistei o medalhista olímpico Bruno Fratus. Também fiz a cobertura nos stories do programa Hello L.A., gravado durante a COB Expo, apresentado por Marcelo Barreto e Fabi Alvim, com participação dos atletas Caio Bonfim e Yago Dora."
     ],
     "botaoTexto": "Entre em contato",
@@ -454,7 +454,7 @@ const content = {
         },
         {
           "tag": "Serviços - 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785711165927.png",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785711928757.png",
           "capaAlt": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "titulo": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -473,7 +473,7 @@ const content = {
         },
         {
           "tag": "Regional Piracicaba 196",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785711167813.png",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785711930495.png",
           "capaAlt": "Combate e prevenção à Hanseníase",
           "titulo": "Combate e prevenção à Hanseníase",
           "resumo": "Brasil é o segundo país com mais casos da\ndoença no mundo, atrás apenas da Índia",
@@ -493,7 +493,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 755",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785711169529.png",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785711932033.png",
           "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -510,7 +510,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 755",
-          "capaUrl": "images/nova-secao-1785446582110-8-1785711171092.png",
+          "capaUrl": "images/nova-secao-1785446582110-8-1785711933567.png",
           "capaAlt": "Murillo Nogueira Viotti",
           "titulo": "Murillo Nogueira Viotti",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -524,7 +524,7 @@ const content = {
         },
         {
           "tag": "Serviços - 755",
-          "capaUrl": "images/nova-secao-1785446582110-9-1785711172210.png",
+          "capaUrl": "images/nova-secao-1785446582110-9-1785711935053.png",
           "capaAlt": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "titulo": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -543,7 +543,7 @@ const content = {
         },
         {
           "tag": "Serviços - 753 ",
-          "capaUrl": "images/nova-secao-1785446582110-10-1785711173642.png",
+          "capaUrl": "images/nova-secao-1785446582110-10-1785711936517.png",
           "capaAlt": "Do Brasil aos Estados Unidos com a RD Medicine e a APM ",
           "titulo": "Do Brasil aos Estados Unidos com a RD Medicine e a APM ",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
@@ -562,7 +562,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 753",
-          "capaUrl": "images/nova-secao-1785446582110-11-1785711175180.png",
+          "capaUrl": "images/nova-secao-1785446582110-11-1785711937666.png",
           "capaAlt": "Aproveite a virada de ano com descontos incríveis!",
           "titulo": "Aproveite a virada de ano com descontos incríveis!",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -579,7 +579,7 @@ const content = {
         },
         {
           "tag": "Entrevista Eu uso, eu aprovo | 753",
-          "capaUrl": "images/nova-secao-1785446582110-12-1785711176615.png",
+          "capaUrl": "images/nova-secao-1785446582110-12-1785711939206.png",
           "capaAlt": "Raquel Elisabeth Pires ",
           "titulo": "Raquel Elisabeth Pires ",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -593,7 +593,7 @@ const content = {
         },
         {
           "tag": "Regional Piracicaba - 195",
-          "capaUrl": "images/nova-secao-1785446582110-13-1785711178256.png",
+          "capaUrl": "images/nova-secao-1785446582110-13-1785711940625.png",
           "capaAlt": "APM Piracicaba anuncia redução da contribuição associativa em Assembleia Geral",
           "titulo": "APM Piracicaba anuncia redução da contribuição associativa em Assembleia Geral",
           "resumo": "Novo valor entrará em vigor a partir de 2026",
@@ -610,7 +610,7 @@ const content = {
         },
         {
           "tag": "Serviços - 752",
-          "capaUrl": "images/nova-secao-1785446582110-14-1785711179789.png",
+          "capaUrl": "images/nova-secao-1785446582110-14-1785711942495.png",
           "capaAlt": "Fique por dentro das novidades e benefícios da APM com apenas um clique",
           "titulo": "Fique por dentro das novidades e benefícios da APM com apenas um clique",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
@@ -626,7 +626,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 752",
-          "capaUrl": "images/nova-secao-1785446582110-15-1785711181140.png",
+          "capaUrl": "images/nova-secao-1785446582110-15-1785711944221.png",
           "capaAlt": "Cuide de si mesma com descontos imperdíveis! ",
           "titulo": "Cuide de si mesma com descontos imperdíveis! ",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -641,7 +641,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 752",
-          "capaUrl": "images/nova-secao-1785446582110-16-1785711182554.png",
+          "capaUrl": "images/nova-secao-1785446582110-16-1785711945866.png",
           "capaAlt": "Edgar Gonçalves Almeida Silva",
           "titulo": "Edgar Gonçalves Almeida Silva",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -655,7 +655,7 @@ const content = {
         },
         {
           "tag": "Regional Piracicaba - 194",
-          "capaUrl": "images/nova-secao-1785446582110-17-1785711183959.png",
+          "capaUrl": "images/nova-secao-1785446582110-17-1785711947531.png",
           "capaAlt": "APM Piracicaba promove evento para celebrar o Dia do Médico",
           "titulo": "APM Piracicaba promove evento para celebrar o Dia do Médico",
           "resumo": "",
@@ -670,7 +670,7 @@ const content = {
         },
         {
           "tag": "Serviços - 751",
-          "capaUrl": "images/nova-secao-1785446582110-18-1785711185726.png",
+          "capaUrl": "images/nova-secao-1785446582110-18-1785711949251.png",
           "capaAlt": "Sua vida financeira está em boas mãos com a APM ",
           "titulo": "Sua vida financeira está em boas mãos com a APM ",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
@@ -687,7 +687,7 @@ const content = {
         },
         {
           "tag": "Entrevista Eu uso, eu aprovo | 751",
-          "capaUrl": "images/nova-secao-1785446582110-19-1785711187196.png",
+          "capaUrl": "images/nova-secao-1785446582110-19-1785711951486.png",
           "capaAlt": "Luciano Wajman",
           "titulo": "Luciano Wajman",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -700,7 +700,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 751",
-          "capaUrl": "images/nova-secao-1785446582110-20-1785711188593.png",
+          "capaUrl": "images/nova-secao-1785446582110-20-1785711953121.png",
           "capaAlt": "Celebre este mês especial presenteando quem você ama",
           "titulo": "Celebre este mês especial presenteando quem você ama",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -716,7 +716,7 @@ const content = {
         },
         {
           "tag": "Regional Piracicaba - 192 ",
-          "capaUrl": "images/nova-secao-1785446582110-21-1785711189904.png",
+          "capaUrl": "images/nova-secao-1785446582110-21-1785711954560.png",
           "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
           "titulo": "Diretores da APM debatem Medicina nas redes sociais",
           "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
@@ -735,7 +735,7 @@ const content = {
         },
         {
           "tag": "Regional Piracicaba 197",
-          "capaUrl": "images/nova-secao-1785446582110-22-1785711191511.png",
+          "capaUrl": "images/nova-secao-1785446582110-22-1785711956266.png",
           "capaAlt": "Turistando por Pira: Explore os melhores lugares da região",
           "titulo": "Turistando por Pira: Explore os melhores lugares da região",
           "resumo": "Na correria do dia a dia, acabamos muitas vezes não\nconhecendo os pontos turísticos da nossa própria cidade",
