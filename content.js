@@ -795,7 +795,7 @@ const content = {
         "titulo": "Cobertura voluntária  - Taça das Favelas Série B (CUFA)",
         "instituicao": "Responsável pela cobertura fotográfica dos jogos, resultando em publicações para as redes sociais do evento",
         "ano": "2024",
-        "link": ""
+        "link": "https://drive.google.com/drive/folders/1KKRFcRKPSVgUKxiyHE0eshtMSWr-3LxL?usp=sharing"
       },
       {
         "titulo": "Curso Jornalismo Esportivo 3 em 1 -  Gustavo Berton",
