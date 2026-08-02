@@ -750,7 +750,7 @@ const content = {
         "titulo": " Jornalismo Esportivo ",
         "instituicao": " EDC Comunica - Curso extracurricular com foco em jornalismo esportivo.",
         "ano": "2025",
-        "link": ""
+        "link": "https://drive.google.com/drive/folders/1KKRFcRKPSVgUKxiyHE0eshtMSWr-3LxL?usp=sharing"
       },
       {
         "titulo": "Cobertura voluntária  - Taça das Favelas Série B (CUFA)",
@@ -762,7 +762,7 @@ const content = {
         "titulo": "Curso Jornalismo Esportivo 3 em 1 -  Gustavo Berton",
         "instituicao": "Treinamento intensivo de 6 horas nas áreas de narração, reportagem e comentário esportivo.",
         "ano": "2023",
-        "link": ""
+        "link": "https://drive.google.com/drive/folders/1KKRFcRKPSVgUKxiyHE0eshtMSWr-3LxL?usp=sharing"
       }
     ]
   },
