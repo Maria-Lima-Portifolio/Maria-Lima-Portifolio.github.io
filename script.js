@@ -6,6 +6,10 @@ function escapeAttr(str){
 }
 
 function toggleMateria(card){
+  if(card.dataset.pdf === '1'){
+    window.open(card.dataset.link, '_blank');
+    return;
+  }
   document.querySelectorAll('.materia.aberta').forEach(function(c){
     if(c !== card) c.classList.remove('aberta');
   });
@@ -47,20 +51,28 @@ function renderHero(){
 }
 
 function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
+  var ehPdf = /\.pdf(\?|#|$)/i.test(item.link || '');
   var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
   var capa = item.capaUrl ? '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' : '';
+
+  var corpoExtra = ehPdf
+    ? '<div class="materia-toggle">' + escapeHtml(linkTexto || 'Abrir PDF') + ' <span class="seta">↗</span></div>'
+    : (
+        '<div class="materia-toggle">' + escapeHtml(toggleTexto) + ' <span class="seta">▾</span></div>' +
+        '<div class="materia-completa">' +
+          paragrafos +
+          '<a href="' + escapeAttr(item.link) + '" target="_blank" onclick="event.stopPropagation()">' + escapeHtml(linkTexto) + '</a>' +
+        '</div>'
+      );
+
   return (
-    '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)">' +
+    '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)" data-pdf="' + (ehPdf ? '1' : '0') + '" data-link="' + escapeAttr(item.link || '') + '">' +
       capa +
       '<div class="materia-corpo">' +
         '<span class="materia-tag">' + escapeHtml(item.tag) + '</span>' +
         '<h3>' + escapeHtml(item.titulo) + '</h3>' +
         '<p class="materia-resumo">' + escapeHtml(item.resumo) + '</p>' +
-        '<div class="materia-toggle">' + escapeHtml(toggleTexto) + ' <span class="seta">▾</span></div>' +
-        '<div class="materia-completa">' +
-          paragrafos +
-          '<a href="' + escapeAttr(item.link) + '" target="_blank" onclick="event.stopPropagation()">' + escapeHtml(linkTexto) + '</a>' +
-        '</div>' +
+        corpoExtra +
       '</div>' +
     '</div>'
   );
@@ -111,9 +123,12 @@ function renderCurriculo(){
 
   document.getElementById('titulo-certificados').textContent = content.certificados.tituloSecao;
   document.getElementById('lista-certificados').innerHTML = content.certificados.itens.map(function(item){
+    var titulo = item.link
+      ? '<h4><a href="' + escapeAttr(item.link) + '" target="_blank" rel="noopener">' + escapeHtml(item.titulo) + ' ↗</a></h4>'
+      : '<h4>' + escapeHtml(item.titulo) + '</h4>';
     return (
       '<div class="certificado-item">' +
-        '<h4>' + escapeHtml(item.titulo) + '</h4>' +
+        titulo +
         '<div class="certificado-instituicao">' + escapeHtml(item.instituicao) + '</div>' +
         '<div class="certificado-ano">' + escapeHtml(item.ano) + '</div>' +
       '</div>'

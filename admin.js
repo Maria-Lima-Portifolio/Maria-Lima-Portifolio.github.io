@@ -77,6 +77,35 @@ function wireRemover(div){
   div.querySelector('.btn-remover').addEventListener('click', function(){ div.remove(); });
 }
 
+function wireOrdenar(div){
+  var bar = document.createElement('div');
+  bar.className = 'ordem-controles';
+  bar.innerHTML =
+    '<button type="button" class="btn-ordem" data-acao="primeiro" title="Mover para primeiro">⇤ Primeiro</button>' +
+    '<button type="button" class="btn-ordem" data-acao="cima" title="Mover para cima">▲ Subir</button>' +
+    '<button type="button" class="btn-ordem" data-acao="baixo" title="Mover para baixo">▼ Descer</button>' +
+    '<button type="button" class="btn-ordem" data-acao="ultimo" title="Mover para último">Último ⇥</button>';
+  div.insertBefore(bar, div.firstChild);
+
+  bar.addEventListener('click', function(e){
+    var btn = e.target.closest('.btn-ordem');
+    if(!btn) return;
+    var pai = div.parentNode;
+    if(!pai) return;
+    if(btn.dataset.acao === 'primeiro' && pai.firstElementChild !== div){
+      pai.insertBefore(div, pai.firstElementChild);
+    } else if(btn.dataset.acao === 'cima'){
+      var anterior = div.previousElementSibling;
+      if(anterior) pai.insertBefore(div, anterior);
+    } else if(btn.dataset.acao === 'baixo'){
+      var proximo = div.nextElementSibling;
+      if(proximo) pai.insertBefore(proximo, div);
+    } else if(btn.dataset.acao === 'ultimo' && pai.lastElementChild !== div){
+      pai.appendChild(div);
+    }
+  });
+}
+
 function addMateriaItem(container, item){
   var div = document.createElement('div');
   div.className = 'item-editor';
@@ -97,6 +126,7 @@ function addMateriaItem(container, item){
       '<textarea class="f-texto" style="min-height:120px;">' + escapeHtml((item.textoCompleto || []).join('\n\n')) + '</textarea></div>';
 
   wireRemover(div);
+  wireOrdenar(div);
   var fileInput = div.querySelector('.f-capa-file');
   var preview = div.querySelector('.f-capa-preview');
   var urlInput = div.querySelector('.f-capa-url');
@@ -135,8 +165,10 @@ function criarSecaoPainel(secao){
     '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap;">' +
       '<h2 style="border-bottom:none;padding-bottom:0;margin-bottom:0;">Seção</h2>' +
       '<div style="display:flex;gap:8px;flex-wrap:wrap;">' +
-        '<button class="btn-secundario btn-mover-cima" type="button">▲ Mover</button>' +
-        '<button class="btn-secundario btn-mover-baixo" type="button">▼ Mover</button>' +
+        '<button class="btn-secundario btn-secao-primeiro" type="button">⇤ Primeiro</button>' +
+        '<button class="btn-secundario btn-mover-cima" type="button">▲ Subir</button>' +
+        '<button class="btn-secundario btn-mover-baixo" type="button">▼ Descer</button>' +
+        '<button class="btn-secundario btn-secao-ultimo" type="button">Último ⇥</button>' +
         '<button class="btn-secundario btn-remover-secao" type="button">Remover seção</button>' +
       '</div>' +
     '</div>' +
@@ -188,6 +220,14 @@ function criarSecaoPainel(secao){
     var proximo = div.nextElementSibling;
     if(proximo) div.parentNode.insertBefore(proximo, div);
   });
+  div.querySelector('.btn-secao-primeiro').addEventListener('click', function(){
+    var pai = div.parentNode;
+    if(pai.firstElementChild !== div) pai.insertBefore(div, pai.firstElementChild);
+  });
+  div.querySelector('.btn-secao-ultimo').addEventListener('click', function(){
+    var pai = div.parentNode;
+    if(pai.lastElementChild !== div) pai.appendChild(div);
+  });
 
   var fundoSelect = div.querySelector('.f-secao-fundo');
   var camposImagem = div.querySelector('.f-secao-fundo-imagem-campos');
@@ -237,6 +277,7 @@ function addNavItem(item){
       '<div class="campo"><label>Link (ex: #contato)</label><input type="text" class="f-nav-href" value="' + escapeAttr(item.href || '') + '"></div>' +
     '</div>';
   wireRemover(div);
+  wireOrdenar(div);
   document.getElementById('nav-itens').appendChild(div);
 }
 function lerNav(){
@@ -261,6 +302,7 @@ function addCurriculoItem(item){
     '</div>' +
     '<div class="campo"><label>Descrição</label><textarea class="f-descricao" style="min-height:70px;">' + escapeHtml(item.descricao || '') + '</textarea></div>';
   wireRemover(div);
+  wireOrdenar(div);
   document.getElementById('curriculo-itens').appendChild(div);
 }
 
@@ -273,8 +315,10 @@ function addCertificadoItem(item){
     '<div class="linha-2">' +
       '<div class="campo"><label>Instituição</label><input type="text" class="f-instituicao" value="' + escapeAttr(item.instituicao || '') + '"></div>' +
       '<div class="campo"><label>Ano / período</label><input type="text" class="f-ano" value="' + escapeAttr(item.ano || '') + '"></div>' +
-    '</div>';
+    '</div>' +
+    '<div class="campo"><label>Link do certificado (opcional — abre em nova janela ao clicar no nome)</label><input type="url" class="f-link" value="' + escapeAttr(item.link || '') + '" placeholder="https://..."></div>';
   wireRemover(div);
+  wireOrdenar(div);
   document.getElementById('certificados-itens').appendChild(div);
 }
 
@@ -288,6 +332,7 @@ function addRedeItem(item){
       '<div class="campo"><label>Link do perfil</label><input type="text" class="f-url" value="' + escapeAttr(item.url || '') + '"></div>' +
     '</div>';
   wireRemover(div);
+  wireOrdenar(div);
   document.getElementById('contato-redes-itens').appendChild(div);
 }
 
@@ -305,7 +350,8 @@ function lerCertificados(){
     return {
       titulo: div.querySelector('.f-titulo').value,
       instituicao: div.querySelector('.f-instituicao').value,
-      ano: div.querySelector('.f-ano').value
+      ano: div.querySelector('.f-ano').value,
+      link: div.querySelector('.f-link').value
     };
   });
 }

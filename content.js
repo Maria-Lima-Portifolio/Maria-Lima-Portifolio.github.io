@@ -20,11 +20,11 @@ const content = {
     },
     {
       "texto": "Freelas",
-      "href": "#freelas "
+      "href": "#freelas"
     },
     {
       "texto": "Contatos",
-      "href": "#contatos"
+      "href": "#contato"
     }
   ],
   "hero": {
@@ -721,6 +721,17 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
         }
       ]
+    },
+    {
+      "id": "freelas",
+      "titulo": "Freelas",
+      "toggleTexto": "Ler mais",
+      "linkTexto": "Ver mais →",
+      "verTodasTexto": "Ver todas",
+      "visiveis": 4,
+      "fundo": "nenhum",
+      "fundoImagemUrl": "",
+      "itens": []
     }
   ],
   "curriculo": {
@@ -749,17 +760,20 @@ const content = {
       {
         "titulo": " Jornalismo Esportivo ",
         "instituicao": " EDC Comunica - Curso extracurricular com foco em jornalismo esportivo.",
-        "ano": "2025"
+        "ano": "2025",
+        "link": ""
       },
       {
         "titulo": "Cobertura voluntária  - Taça das Favelas Série B (CUFA)",
         "instituicao": "Responsável pela cobertura fotográfica dos jogos, resultando em publicações para as redes sociais do evento",
-        "ano": "2024"
+        "ano": "2024",
+        "link": ""
       },
       {
         "titulo": "Curso Jornalismo Esportivo 3 em 1 -  Gustavo Berton",
         "instituicao": "Treinamento intensivo de 6 horas nas áreas de narração, reportagem e comentário esportivo.",
-        "ano": "2023"
+        "ano": "2023",
+        "link": ""
       }
     ]
   },

@@ -4,9 +4,9 @@
   --cinza-medio:#8a7a72;
   --cinza-claro:#e9dfd2;
   --papel:#f5f0e8;
-  --terracota:#a8543c;
-  --terracota-escuro:#8c4230;
-  --destaque:#a8543c;
+  --terracota:#1f3a5f;
+  --terracota-escuro:#152944;
+  --destaque:#1f3a5f;
   --linha:#2b2320;
 }
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -271,6 +271,8 @@ nav a:hover{color:var(--destaque);}
 .certificado-item{margin-bottom:20px;padding-bottom:20px;border-bottom:1px dashed var(--cinza-claro);}
 .certificado-item:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0;}
 .certificado-item h4{font-family:'Playfair Display',serif;font-size:16.5px;margin-bottom:3px;}
+.certificado-item h4 a{color:var(--terracota-escuro);border-bottom:1px solid var(--terracota);}
+.certificado-item h4 a:hover{color:var(--terracota);}
 .certificado-item .certificado-instituicao{font-size:14px;color:var(--cinza-escuro);}
 .certificado-item .certificado-ano{
   font-family:'Inter',sans-serif;font-size:11px;letter-spacing:1px;
