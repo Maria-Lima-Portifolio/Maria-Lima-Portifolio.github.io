@@ -453,7 +453,7 @@ const content = {
         },
         {
           "tag": "Serviços - 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785706162614.png",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785708240326.png",
           "capaAlt": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "titulo": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -471,8 +471,28 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
         },
         {
+          "tag": "Regional Piracicaba 196",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785708241851.png",
+          "capaAlt": "Combate e prevenção à Hanseníase",
+          "titulo": "Combate e prevenção à Hanseníase",
+          "resumo": "Brasil é o segundo país com mais casos da\ndoença no mundo, atrás apenas da Índia",
+          "textoCompleto": [
+            "Em janeiro, foi celebrado o Janeiro Roxo, campanha\noficializada há dez anos pelo Ministério da Saúde\ne que tem o intuito de alertar e conscientizar a\nsociedade sobre o combate à hanseníase, doença\ninfectocontagiosa pouco conhecida, causada\npela bactéria Mycobacterium leprae, que afeta\nprincipalmente a pele e os nervos.",
+            "De acordo com dados da Organização Mundial da Saúde\n(OMS), no ano de 2024, o Brasil registrou 22.129 casos\nda doença, uma queda de 2,8% em relação a 2023, em\nque houve 22.773 notificações. Apesar da queda, o País\npermanece sendo o segundo com maior número de\ncasos de hanseníase no mundo, atrás apenas da Índia.",
+            "Os primeiros sinais costumam ser sutis, o que contribui\npara o atraso no diagnóstico. Manchas claras ou\navermelhadas com diminuição ou perda de sensibilidade\nao toque, à dor ou à temperatura estão entre os sintomas\nmais comuns e podem surgir, principalmente, nas\nextremidades das mãos e dos pés, face, orelhas, tronco,\nnádegas e pernas. Também podem surgir dormência e\nformigamentos nas mãos e nos pés.",
+            "A transmissão da hanseníase acontece quando\numa pessoa infectada e sem tratamento a elimina\nno ar, por meio de tosse, fala ou espirro. A doença\npode atacar pessoas de qualquer idade ou sexo,\nporém, é necessário um contato próximo e prolongado – apenas uma pequena parcela da\npopulação contaminada realmente adoece. O\nperíodo de incubação da doença dura em média de\ndois a sete anos e assim que os sinais aparecem,\navançam lentamente.",
+            "Diagnóstico e Tratamento",
+            "Para dar o diagnóstico a um paciente é necessário\nrealizar uma avaliação dermatológica e neurológica a\nfim de identificar lesões ou áreas da pele com alterações\nde sensibilidade e comprometimento dos nervos.",
+            "Diferente do que se comumente deduz, a hanseníase\ntem cura. O tratamento é feito por meio da\npoliquimioterapia única (PQT-U), que combina três\nantimicrobianos: rifampicina, dapsona e clofazimina. O\nSistema Único de Saúde (SUS) fornece gratuitamente\no tratamento e acompanhamento dos pacientes em\nUnidades Básicas de Saúde (UBS).",
+            "A duração do tratamento varia de acordo com\na forma clínica da doença, podendo durar\nseis meses para pacientes com hanseníase\npaucibacilar (PB) e 12 meses para pacientes\ncom hanseníase multibacilar (MB). Vale ressaltar\nque já no início do tratamento a doença deixa\nde ser transmitida, mesmo assim, é importante\nque pessoas do convívio do infectado sejam\nexaminadas. Desta forma, é essencial manter\na vacinação BCG atualizada, pois ela ajuda a\nreduzir o risco de formas mais graves da doença.",
+            "Congresso Mundial de Hanseníase no Brasil",
+            "Em julho de 2025, em Bali, na Indonésia, o Brasil\nfoi oficialmente escolhido como país-sede do\n23° Congresso Mundial de Hanseníase, que\nacontece em 2028, no Rio de Janeiro, reforçando\no papel do País no cenário internacional."
+          ],
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/03/APM_Piracicaba_196_jan.fev2026.pdf"
+        },
+        {
           "tag": "Club de Benefícios - 755",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785706164172.png",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785708244504.png",
           "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -489,7 +509,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 755",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785706165699.png",
+          "capaUrl": "images/nova-secao-1785446582110-8-1785708246142.png",
           "capaAlt": "Murillo Nogueira Viotti",
           "titulo": "Murillo Nogueira Viotti",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -503,7 +523,7 @@ const content = {
         },
         {
           "tag": "Serviços - 755",
-          "capaUrl": "images/nova-secao-1785446582110-8-1785706167139.png",
+          "capaUrl": "images/nova-secao-1785446582110-9-1785708247629.png",
           "capaAlt": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "titulo": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -522,7 +542,7 @@ const content = {
         },
         {
           "tag": "Serviços - 753 ",
-          "capaUrl": "images/nova-secao-1785446582110-9-1785706168557.png",
+          "capaUrl": "images/nova-secao-1785446582110-10-1785708249103.png",
           "capaAlt": "Do Brasil aos Estados Unidos com a RD Medicine e a APM ",
           "titulo": "Do Brasil aos Estados Unidos com a RD Medicine e a APM ",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
@@ -541,7 +561,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 753",
-          "capaUrl": "images/nova-secao-1785446582110-10-1785706170014.png",
+          "capaUrl": "images/nova-secao-1785446582110-11-1785708250544.png",
           "capaAlt": "Aproveite a virada de ano com descontos incríveis!",
           "titulo": "Aproveite a virada de ano com descontos incríveis!",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -558,7 +578,7 @@ const content = {
         },
         {
           "tag": "Entrevista Eu uso, eu aprovo | 753",
-          "capaUrl": "images/nova-secao-1785446582110-11-1785706171522.png",
+          "capaUrl": "images/nova-secao-1785446582110-12-1785708251847.png",
           "capaAlt": "Raquel Elisabeth Pires ",
           "titulo": "Raquel Elisabeth Pires ",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -571,8 +591,25 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
         },
         {
+          "tag": "Regional Piracicaba - 195",
+          "capaUrl": "images/nova-secao-1785446582110-13-1785708253332.png",
+          "capaAlt": "APM Piracicaba anuncia redução da contribuição associativa em Assembleia Geral",
+          "titulo": "APM Piracicaba anuncia redução da contribuição associativa em Assembleia Geral",
+          "resumo": "Novo valor entrará em vigor a partir de 2026",
+          "textoCompleto": [
+            "Na noite do dia 26 de novembro, a Associação Paulista\nde Medicina – Piracicaba promoveu Assembleia Geral,\nna sede da Associação Comercial e Industrial de\nPiracicaba (Acipi), onde está localizada sua sede desde\nabril deste ano. O evento reuniu associados para a\napresentação do relatório fiscal de 2025 e da proposta\norçamentária para 2026, além de outros temas de\ninteresse associativo.",
+            "O presidente da Regional, Douglas Yugi Koga, explica\nque a virada do ano de 2024 para 2025 foi marcada por\nfortes mudanças executadas pela Diretoria Executiva\npara organização das contas. Devido à tendência de\nqueda de arrecadação, movida por múltiplos fatores, a\ninstituição teve que executar um plano de contingência\nfinanceira para que pudesse fechar o ano fiscal com\nsaldo positivo.",
+            "“A decisão de mudança da sede nos trouxe um\npouco de folga, do ponto de vista de custeio. Na parte\noperacional, conseguimos dar uma respirada melhor, a\nponto de estarmos propondo uma redução no valor da contribuição associativa”, completa Koga. O valor,\nde R$ 182,00 em 2025, será reduzido para R$ 170,00\na partir de 2026, já considerando os reajustes das\ncontribuições associativas referentes à APM Estadual\ne à Associação Médica Brasileira, que englobam o total.",
+            "Confira as ações realizadas durante o ano de 2025 que\npermitiram a redução de custos e a otimização de recursos:",
+            "→ Fechamento da sede localizada na Avenida\nCentenário e autorização junto à APM Estadual para\nalienação do imóvel;\n→ Venda de elementos patrocinais – aprovada em\nAssembleia Geral Extraordinária;\n→ Aluguel de espaço no coworking da Acipi,\ninicialmente para sede física;\n→ Troca de patrimônio por serviços de eletricista,\nhidráulico e reparos em evento de furto/roubo na\nsede antiga;\n→ Rastreamento e fechamento de contas bancárias\nque traziam despesas devido a taxas;\n→ Negociação e redução das taxas junto ao Sicoob;\n→ Eliminação gradual de contratos de intermediação\ncom responsabilidade da APM e na inadimplência\ndo associado;\n→ Desligamento de funcionários, com encerramento\nde planos de saúde, odontológicos, cestas básicas\ne outros benefícios;\n→ Contrato de Pessoa Jurídica (PJ) para assistência\nde eventos e administrativa;\n→ Encerramento de atividades financeiras locais e uso\nda estrutura estadual para redução de custos;\n→ Encerramento de contrato com empresa\nadvocatícia;\n→ Rescisão de contrato com HPRo, por não precisar\nde CRM na Regional.",
+            "Graças a essa gestão administrativa mais racional e\nmoderna, além dos resultados financeiros positivos,\nfoi possível investir na Cadeia Produtiva Local (CPL)\nda Saúde; manter a representatividade nos Conselhos\nMunicipais de Ciência, Tecnologia e Inovação (CMCTI)\ne de Saúde (CMS), com ampliação para Conselho\nCoordenador de Entidades; e solicitar o ingresso no\nConselho do Idoso.",
+            "A revista da APM Piracicaba também segue forte,\ncom a inclusão de novos patrocínios previstos para o\npróximo ano. Houve ainda a participação ativa e exitosa\nno Congresso Médico Acadêmico de Piracicaba, e está\nem andamento a regularização das atas de natureza\nobrigatória para a entidade"
+          ],
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/12/APM_Piracicaba_195_nov.dez2025.pdf"
+        },
+        {
           "tag": "Serviços - 752",
-          "capaUrl": "images/nova-secao-1785446582110-12-1785706173130.png",
+          "capaUrl": "images/nova-secao-1785446582110-14-1785708254849.png",
           "capaAlt": "Fique por dentro das novidades e benefícios da APM com apenas um clique",
           "titulo": "Fique por dentro das novidades e benefícios da APM com apenas um clique",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
@@ -588,7 +625,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 752",
-          "capaUrl": "images/nova-secao-1785446582110-13-1785706174499.png",
+          "capaUrl": "images/nova-secao-1785446582110-15-1785708256190.png",
           "capaAlt": "Cuide de si mesma com descontos imperdíveis! ",
           "titulo": "Cuide de si mesma com descontos imperdíveis! ",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -602,8 +639,8 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
         },
         {
-          "tag": "Entrevista - Eu uso, eu aprovo",
-          "capaUrl": "images/nova-secao-1785446582110-14-1785706175834.png",
+          "tag": "Entrevista - Eu uso, eu aprovo | 752",
+          "capaUrl": "images/nova-secao-1785446582110-16-1785708257542.png",
           "capaAlt": "Edgar Gonçalves Almeida Silva",
           "titulo": "Edgar Gonçalves Almeida Silva",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -616,8 +653,69 @@ const content = {
           "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
         },
         {
+          "tag": "Regional Piracicaba - 194",
+          "capaUrl": "images/nova-secao-1785446582110-17-1785708259072.png",
+          "capaAlt": "APM Piracicaba promove evento para celebrar o Dia do Médico",
+          "titulo": "APM Piracicaba promove evento para celebrar o Dia do Médico",
+          "resumo": "",
+          "textoCompleto": [
+            "No dia 18 de outubro, é comemorado o Dia do Médico,\ndata especial para relembrar a importância dos\nprofissionais da Medicina, que prestam um importante\nserviço à sociedade. A escolha da data está ligada ao Dia\nde São Lucas Evangelista, um santo da Igreja Católica\nque era médico de profissão e é considerado o patrono\nda Medicina.",
+            "Para marcar esta importante celebração, a Associação\nPaulista de Medicina – Piracicaba organizou uma noite\nespecial de confraternização no dia 16 de outubro. O\nevento, na Padoca do Caipira, reuniu diversos médicos\nassociados e seus familiares, além dos dirigentes da\nRegional.",
+            "Segundo o presidente da APM Piracicaba, Douglas Yugi\nKoga, o evento representou uma mudança no formato\ntradicional da instituição: “Quebramos um paradigma.\nAntes, eram realizados eventos mais formais, mais\n‘ritualistas’, e desta vez a decisão foi promover\numa verdadeira confraternização fora do ambiente\ncorporativo. O local escolhido foi muito confortável, e\ntodos os presentes elogiaram bastante”.",
+            "O presidente também fez um agradecimento aos que\ncompareceram para prestigiar a celebração do Dia do\nMédico. Ele manifestou grande satisfação em ver os\ncolegas reunidos e expressou o desejo de que mais\npessoas participem no próximo ano. “Quando há\nunião, é criada a força necessária para melhorar a vida\nprofissional e pessoal”, destacou.\nA noite incluiu um momento de forte emoção: uma\nhomenagem ao cirurgião pediátrico e conselheiro\nfiscal titular da entidade, Antonio Sérgio Aloisi, falecido\nno primeiro semestre deste ano – confira uma matéria\nespecial nas próximas páginas.",
+            "Alguns dos presentes deixaram suas impressões sobre\na festa: “Evento lindo e maravilhoso, organização nota\n10. Parabéns! Só tenho elogios a fazer”, Ary Pedroso\nJr. médico e vereador da cidade; “É um grande prazer\nestar aqui hoje prestigiando o Dia do Médico e esses\nprofissionais que vestem a camisa, lutam, trabalham\ndia e noite”, José Coral, presidente do HFC Saúde.\nO evento teve patrocínio de diversas empresas\nparceiras: APM Estadual, Sicoob UniCentro Br, FRZ,\nFrias Neto, Drogal, Intermedici, Biotipo, Unimed\nPiracicaba, Apsen, Eurofarma e Mantecorp Farmasa,\nalém do apoio das marcas Iza Concept, Sepulveda\nChocolates e HFC Saúde."
+          ],
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/10/APM_Piracicaba_194_outubro2025.pdf"
+        },
+        {
+          "tag": "Serviços - 751",
+          "capaUrl": "images/nova-secao-1785446582110-18-1785708262084.png",
+          "capaAlt": "Sua vida financeira está em boas mãos com a APM ",
+          "titulo": "Sua vida financeira está em boas mãos com a APM ",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
+          "textoCompleto": [
+            "Muitos médicos\ndesconhecem a real\nimportância de contar\ncom um bom escritório\nde contabilidade, seja para os que\npossuem empresas ou para os\nautônomos. Esses serviços são\nessenciais para a organização\nfinanceira e fiscal, abrangendo\ndesde a Declaração de Imposto\nde Renda, Livro-caixa e Carnêleão até a gestão da folha de\npagamento de consultórios e\nclínicas.",
+            "Por conta disso, a Associação\nPaulista de Medicina conta com\nquatro empresas parceiras que\noferecem uma ampla variedade\nde serviços contábeis, com\ncondições especiais para os\nassociados.",
+            "Para garantir a confiabilidade dos\nserviços e consultoria prestados,\nestabelecemos procedimentos\npara a homologação das\nempresas parceiras – como ter no\nmínimo 10 anos de fundação; ter\ncapacidade para atender clínicas de pequeno, médio e grande\nporte, em todo o estado de São\nPaulo; e integrar o Programa de\nQualidade de Empresas Contábeis\n(PQEC), desenvolvido em 2005\ncom o objetivo de incentivar as\nempresas de serviços contábeis\nà melhoria contínua de seus\nprocessos e serviços.",
+            "A Confiance Contabilidade\noferece ao médico associado\num atendimento personalizado\ne preços diferenciados para a\norganização fiscal e contábil\ndo dia a dia. Entre os serviços\noferecidos, você encontra gestão\ncompleta da folha, encargos e\nobrigações trabalhistas; cálculo\nmensal e emissão de guias para\nmédicos autônomos; elaboração\nda declaração com foco nas\nparticularidades da área médica\ne muito mais.",
+            "Com mais de quatro décadas\nde experiência, a ESCA\nContabilidade atua com o\nobjetivo de simplificar a vida\nde seus clientes, oferecendo\ntranquilidade e segurança\nem todos os processos. A\nempresa oferece serviços de\ncontabilidade, legalização,\nrecursos humanos, planejamento\ntributário e fiscal.",
+            "Já a MedAssist é uma empresa\nespecializada, que oferece\nserviços exclusivamente a\nmédicos, clínicas e grupos\nhospitalares. Seu portfólio\ninclui a equiparação hospitalar,\nque visa organizar empresas\nmédicas para ter uma\ncontabilidade mais eficiente e\nreduzir em até 70% os impostos\npagos, e o Med light, um serviço contábil acessível, ideal para\nmédicos em início de carreira.",
+            "Fundada em 1975, a MERC\nSoluções Empresariais tem com\nmissão assessorar e atender as\nnecessidades dos associados,\noferecendo qualidade e preços\ndiferenciados. A parceria\ncom a Associação Paulista de\nMedicina permite a oferta de\nserviços de perícia trabalhista\ne cível; abertura, alteração e\nencerramento de empresas;\nimposto de renda de pessoa\nfísica e jurídica, entre outros.\nPara melhor atender aos médicos\nassociados, a MERC está localizada\na pouco mais de 50 metros da\nSede Estadual da APM"
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+        },
+        {
+          "tag": "Entrevista Eu uso, eu aprovo | 751",
+          "capaUrl": "images/nova-secao-1785446582110-19-1785708263588.png",
+          "capaAlt": "Luciano Wajman",
+          "titulo": "Luciano Wajman",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Com mais de 20 anos como\nassociado, Luciano Wajman conta\nque tem conhecimento sobre a\nAssociação Paulista de Medicina\ndesde antes de sua formação, por\nmeio de seu pai, o também médico\nIzak Wajman, que foi por muitos\nanos associado da APM.",
+            "O serviço APM Facilities foi um\ndos utilizados recentemente por\nele, por ser um apoio no cotidiano\ndo médico, oferecendo auxílio\nem diversas demandas, como\ncadastro no GOV.BR, renovação\nde CNH e documentos de veículos\n(IPVA e IPTU), alvará da\nVigilância Sanitária, emissão\nde Nota Fiscal de Serviços\nEletrônica (NFS-e), apoio no\ncadastro de isenção de rodízio\ne muito mais.",
+            "“Desde o primeiro contato, fui\nmuito bem atendido. Sempre\nme trataram com muita\neducação. Resolveram as\nminhas questões com agilidade\ne eficiência, sempre dando todo\nsuporte e atenção necessária.\nO serviço e o atendimento são\nexcelentes”, conclui."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+        },
+        {
+          "tag": "Club de Benefícios - 751",
+          "capaUrl": "images/nova-secao-1785446582110-20-1785708265060.png",
+          "capaAlt": "Celebre este mês especial presenteando quem você ama",
+          "titulo": "Celebre este mês especial presenteando quem você ama",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Para celebrar aquele que exerce o\npapel paterno em nossas vidas, o\nClube de Benefícios da Associação\nPaulista de Medicina separou as\nmelhores opções de presentes para\ntodo o mês de agosto.",
+            "Para os pais que são ligados em\ntecnologia, a LG vem liderando\no caminho para a era digital\navançada graças à experiência\ntecnológica adquirida com\na fabricação de inúmeros\neletrodomésticos como Tvs\ne rádios. E os benefícios para\nos associados APM vão desde\ndescontos até frete grátis e\ncashback.",
+            "E que tal ele aproveitar o final\nde semana escutando uma boa\nmúsica e saboreando uma bela\nbebida? Com a Stanley, isso\né possível! A empresa produz\ndiferentes produtos de alta\nqualidade e durabilidade, com\ncapacidade térmica que deixa\nsuas bebidas ou comidas na\ntemperatura ideal até o último\ngole ou garfada, com opções\nideais para qualquer momento,\nseja no escritório, no treino, em\ncasa ou em viagens. E sabe o que\né melhor? Todos os associados\nda APM garantem 7% de cashback em\ntodas as compras.",
+            "Já para os apaixonados em artigos\nesportivos, a Decathlon possui\nexcelentes opções, como roupas,\ncalçados, acessórios e equipamentos,\ncom cashback de 3% pelo club|apm. Da\nmesma forma, a Centauro é a maior\nrede multicanal de produtos esportivos\nda América Latina, e oferece cashback\nde 6%.",
+            "Pensando em facilitar o dia a dia e\ngarantir estilo, a Technos é uma ótima\nescolha. Natural da Suíça, a marca vem\ntrazendo ao longo dos anos uma vasta\nvariedade de relógios, que misturam\no design clássico e sofisticado com\ninovação e tradição. Para os associados\nda APM, é garantido 7% de cashback em\ntodas as compras.",
+            "Para os que desejam celebrar o\nmês em um lugar tranquilo, leve e\nrelaxante, o Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol, parque\naquático, lago para pesca esportiva,\ncentro hípico, quadras poliesportiva, de\ntênis e de beach tennis, restaurante,\nchurrasqueiras, academia, salão de jogos\ne muita natureza. Os associados podem\ndesfrutar do day use sem custo e têm\ndesconto exclusivo nas hospedagens."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+        },
+        {
           "tag": "Regional Piracicaba - 192 ",
-          "capaUrl": "images/nova-secao-1785446582110-15-1785706177203.png",
+          "capaUrl": "images/nova-secao-1785446582110-21-1785708266390.png",
           "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
           "titulo": "Diretores da APM debatem Medicina nas redes sociais",
           "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
@@ -635,34 +733,29 @@ const content = {
           "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
         },
         {
-          "tag": "Serviços - 751",
-          "capaUrl": "images/nova-secao-1785446582110-16-1785706178741.png",
-          "capaAlt": "Sua vida financeira está em boas mãos com a APM ",
-          "titulo": "Sua vida financeira está em boas mãos com a APM ",
-          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
+          "tag": "Regional Piracicaba 197",
+          "capaUrl": "images/nova-secao-1785446582110-22-1785708268089.png",
+          "capaAlt": "Turistando por Pira: Explore os melhores lugares da região",
+          "titulo": "Turistando por Pira: Explore os melhores lugares da região",
+          "resumo": "Na correria do dia a dia, acabamos muitas vezes não\nconhecendo os pontos turísticos da nossa própria cidade",
           "textoCompleto": [
-            "Muitos médicos\ndesconhecem a real\nimportância de contar\ncom um bom escritório\nde contabilidade, seja para os que\npossuem empresas ou para os\nautônomos. Esses serviços são\nessenciais para a organização\nfinanceira e fiscal, abrangendo\ndesde a Declaração de Imposto\nde Renda, Livro-caixa e Carnêleão até a gestão da folha de\npagamento de consultórios e\nclínicas.",
-            "Por conta disso, a Associação\nPaulista de Medicina conta com\nquatro empresas parceiras que\noferecem uma ampla variedade\nde serviços contábeis, com\ncondições especiais para os\nassociados.",
-            "Para garantir a confiabilidade dos\nserviços e consultoria prestados,\nestabelecemos procedimentos\npara a homologação das\nempresas parceiras – como ter no\nmínimo 10 anos de fundação; ter\ncapacidade para atender clínicas de pequeno, médio e grande\nporte, em todo o estado de São\nPaulo; e integrar o Programa de\nQualidade de Empresas Contábeis\n(PQEC), desenvolvido em 2005\ncom o objetivo de incentivar as\nempresas de serviços contábeis\nà melhoria contínua de seus\nprocessos e serviços.",
-            "A Confiance Contabilidade\noferece ao médico associado\num atendimento personalizado\ne preços diferenciados para a\norganização fiscal e contábil\ndo dia a dia. Entre os serviços\noferecidos, você encontra gestão\ncompleta da folha, encargos e\nobrigações trabalhistas; cálculo\nmensal e emissão de guias para\nmédicos autônomos; elaboração\nda declaração com foco nas\nparticularidades da área médica\ne muito mais.",
-            "Com mais de quatro décadas\nde experiência, a ESCA\nContabilidade atua com o\nobjetivo de simplificar a vida\nde seus clientes, oferecendo\ntranquilidade e segurança\nem todos os processos. A\nempresa oferece serviços de\ncontabilidade, legalização,\nrecursos humanos, planejamento\ntributário e fiscal.",
-            "Já a MedAssist é uma empresa\nespecializada, que oferece\nserviços exclusivamente a\nmédicos, clínicas e grupos\nhospitalares. Seu portfólio\ninclui a equiparação hospitalar,\nque visa organizar empresas\nmédicas para ter uma\ncontabilidade mais eficiente e\nreduzir em até 70% os impostos\npagos, e o Med light, um serviço contábil acessível, ideal para\nmédicos em início de carreira.",
-            "Fundada em 1975, a MERC\nSoluções Empresariais tem com\nmissão assessorar e atender as\nnecessidades dos associados,\noferecendo qualidade e preços\ndiferenciados. A parceria\ncom a Associação Paulista de\nMedicina permite a oferta de\nserviços de perícia trabalhista\ne cível; abertura, alteração e\nencerramento de empresas;\nimposto de renda de pessoa\nfísica e jurídica, entre outros.\nPara melhor atender aos médicos\nassociados, a MERC está localizada\na pouco mais de 50 metros da\nSede Estadual da APM"
+            "A partir desta edição, a Revista da Associação Paulista\nde Medicina – Piracicaba traz a seção “Turistando por\nPira”, que apresenta lugares atrativos da região, muitas\nvezes desconhecidos pelos próprios moradores. Na\ncorreria do dia a dia e de compromissos sociais e\nfamiliares, acabamos não apreciando os encantos da\ncidade em que habitamos. Confira os primeiros locais\nselecionados a seguir e programe-se para conhecê-los\ne/ou revisitá-los.",
+            "Parque do Mirante",
+            "Localizado na Avenida Maurice Allain, o Parque do Mirante\né um local privilegiado para observar o Rio Piracicaba, o\nSalto, a Rua do Porto e o centro da cidade. Suas alamedas\npermitem passeios que dão a oportunidade de entrar em\ncontato com a natureza e a vegetação típica. O parque\npossui diversas árvores nativas, como os ipês roxo e\namarelo, jequitibá-branco, figueira-do-brejo e alecrimde-campinas, entre muitas outras.",
+            "O local, aberto diariamente ao público, tem entrada\ngratuita e também possui um painel confeccionado\nem mosaico pela artista plástica Clemência Pizzigatti\ne seus alunos, que retrata a fundação da cidade e seu\ndesenvolvimento agroindustrial.",
+            "Aquário Municipal Ilda Borges Gonçalves",
+            "Inaugurado em setembro de 2012, o Aquário Municipal\nestá localizado no Parque do Mirante, com vista\nprivilegiada do salto do Rio Piracicaba.",
+            "O espaço conta com uma média de 57 espécies de\npeixes, que se dividem entre “Carnívoros do Brasil e do\nMundo”; “Pequenos da Amazônia” e “Exóticos do\nMundo”, originários da América, Ásia, África e Europa,\ndistribuídos em três aquários. O Lago das Carpas é\numa atração à parte, em que os visitantes têm a\noportunidade de conhecer espécies como o pintado,\npirarara, piracanjuba, pacu e tilápias.",
+            "O aquário está aberto para visitação de terça-feira\na domingo, das 9h às 17h, com entrada gratuita.\nVisitas em grupo podem ser agendadas pelo telefone\n(19) 3421-1566.",
+            "Museu da Água de Piracicaba Francisco Salgot Castillon",
+            "Ocupando uma área de 12 mil metros quadrados às\nmargens do Rio Piracicaba, a construção de 1887 foi\ninstalada no local em que funcionava a 1ª Estação de\nCaptação e Bombeamento de Água da cidade. O Museu\nda Água preserva detalhes arquitetônicos, como arcos,\npisos e paredes de pedras, aquedutos centenários e\nantigas tubulações de ferro.",
+            "O mirante do museu permite a visualização do canal de\nágua que produz a cascata. Entre as atrações, está o\naprendizado sobre consumo correto da água. Enquanto\nlava as mãos, o visitante pode observar a quantidade\nque está sendo gasta, pois os lavatórios possuem caixas\ntransparentes com medidor do volume de água e o\nmesmo sistema é utilizado nos vasos sanitários. Em um\ndos aquedutos, encontram-se três aquários com várias\nespécies de peixes do Rio Piracicaba.",
+            "O local situa-se na Avenida Beira Rio, 448, e pode ser\nvisitado gratuitamente de terça a sexta-feira, das 9h\nàs 17h; já aos sábados, domingos e feriados, das 9h às\n17h45. As visitas podem ser realizadas em grupo com\nguia local, por meio de agendamento antecipado, ou de\nforma autoguiada.",
+            "Zoológico Municipal",
+            "O Zoológico Municipal de Piracicaba abriga\naproximadamente 422 animais, entre aves, mamíferos,\nrépteis e animais exóticos. Localiza-se na Avenida\nMarechal Castelo Branco, nº 426 – Jardim Primavera, e\nfunciona de terça-feira a domingo, das 9h às 16h, com\nentrada gratuita.",
+            "O local possui também o “Paraíso da Criança”, que\nfunciona em uma área de 23 mil m2, anexa ao Zoo, de\nterça a domingo, das 6h às 20h. Todo arborizado, o\nespaço oferece brinquedos como gira-gira, escorregador,\ncavalinhos, escada horizontal, gangorra, balanço, casa\ndo Tarzan, cabana, escalada, casa de boneca, muroescalada, casa do espelho, labirinto, castelo, casa da\nárvore, carro dos Flintstones, moto de madeira e túneis\ncoloridos. Há também a oportunidade de resgatar e\naprender brincadeiras como amarelinha, bola de gude,\npeão, pular corda e peteca."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
-        },
-        {
-          "tag": "Entrevista Eu uso, eu aprovo | 751",
-          "capaUrl": "images/nova-secao-1785446582110-17-1785706180146.png",
-          "capaAlt": "Luciano Wajman",
-          "titulo": "Luciano Wajman",
-          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
-          "textoCompleto": [
-            "Com mais de 20 anos como\nassociado, Luciano Wajman conta\nque tem conhecimento sobre a\nAssociação Paulista de Medicina\ndesde antes de sua formação, por\nmeio de seu pai, o também médico\nIzak Wajman, que foi por muitos\nanos associado da APM.",
-            "O serviço APM Facilities foi um\ndos utilizados recentemente por\nele, por ser um apoio no cotidiano\ndo médico, oferecendo auxílio\nem diversas demandas, como\ncadastro no GOV.BR, renovação\nde CNH e documentos de veículos\n(IPVA e IPTU), alvará da\nVigilância Sanitária, emissão\nde Nota Fiscal de Serviços\nEletrônica (NFS-e), apoio no\ncadastro de isenção de rodízio\ne muito mais.",
-            "“Desde o primeiro contato, fui\nmuito bem atendido. Sempre\nme trataram com muita\neducação. Resolveram as\nminhas questões com agilidade\ne eficiência, sempre dando todo\nsuporte e atenção necessária.\nO serviço e o atendimento são\nexcelentes”, conclui."
-          ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/05/APM_Piracicaba_197_mar.abr2026.pdf"
         }
       ]
     },
