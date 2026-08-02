@@ -453,7 +453,7 @@ const content = {
         },
         {
           "tag": "Serviços - 754",
-          "capaUrl": "images/nova-secao-1785446582110-5-1785703793602.png",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785704455485.png",
           "capaAlt": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "titulo": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -472,7 +472,7 @@ const content = {
         },
         {
           "tag": "Club de Benefícios - 755",
-          "capaUrl": "images/nova-secao-1785446582110-6-1785703795216.png",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785704457122.png",
           "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
           "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
@@ -489,7 +489,7 @@ const content = {
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 755",
-          "capaUrl": "images/nova-secao-1785446582110-7-1785703796719.png",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785704458562.png",
           "capaAlt": "Murillo Nogueira Viotti",
           "titulo": "Murillo Nogueira Viotti",
           "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
@@ -503,7 +503,7 @@ const content = {
         },
         {
           "tag": "Serviços - 755",
-          "capaUrl": "images/nova-secao-1785446582110-8-1785703797743.png",
+          "capaUrl": "images/nova-secao-1785446582110-8-1785704460331.png",
           "capaAlt": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "titulo": "Conquiste o sonho da Residência Médica com a APM e a Medway",
           "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
@@ -522,7 +522,7 @@ const content = {
         },
         {
           "tag": "Regional Piracicaba - 192 ",
-          "capaUrl": "images/nova-secao-1785446582110-9-1785703799260.png",
+          "capaUrl": "images/nova-secao-1785446582110-9-1785704463450.png",
           "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
           "titulo": "Diretores da APM debatem Medicina nas redes sociais",
           "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
