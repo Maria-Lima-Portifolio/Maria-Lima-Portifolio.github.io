@@ -373,43 +373,6 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
-        },
-        {
-          "tag": "",
-          "capaUrl": "",
-          "capaAlt": "",
-          "titulo": "",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "#"
-        },
-        {
-          "tag": "Regional Piracicaba ",
-          "capaUrl": "images/nova-secao-1785446582110-2-1785702002193.png",
-          "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
-          "titulo": "Diretores da APM debatem Medicina nas redes sociais",
-          "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
-          "textoCompleto": [
-            "Entre os dias 24 e 26 de julho, a Associação Médica\nBrasileira realizou a terceira edição do seu Congresso\nde Medicina Geral, no Distrito Anhembi, em São Paulo,\nreunindo mais de três mil pessoas. “Medicina nas Redes\nSociais” foi um dos assuntos abordados no primeiro\ndia do evento, em painel coordenado pelo diretor de\nPrevidência e Mutualismo da Associação Paulista de\nMedicina (APM) e presidente da Comissão de Saúde\nDigital da AMB, Antonio Carlos Endrigo, e pelo presidente\nda Associação Médica do Amazonas, Emanuel Jorge\nAkel Thomaz de Lima.",
-            "Como conferencistas, participaram Walter Miyamoto,\ndiretor adjunto de Marketing da APM e presidente da\nAPM São José dos Campos, e Juliana Hasse, presidente\nda Comissão de Direito Médico e de Saúde da OAB-SP.\nO painel contou também com a participação do diretor\nExecutivo da Comissão Especial de Médicos Jovens\nda APM e membro da Comissão Nacional de Médicos\nJovens da AMB, Guilherme Marques.",
-            "Em sua apresentação, Miyamoto contou que usa as\nredes sociais para falar sobre sua área de especialização,\na Coloproctologia, e destacou sua evolução nas\nplataformas digitais, que ocorreu de forma gradativa, por\nmeio de cursos relacionados à comunicação e marketing\ne treinamentos.",
-            "Ele também deu ênfase ao uso da comunicação digital, com\nferramentas de humanização e crescimento, para ampliar o\ncuidado e o acolhimento com o paciente para além da\nconsulta no consultório, com mensagens para saber como ele está após um procedimento e lembretes\nde retorno de consultas, além de pesquisas de satisfação\npara melhorar ainda mais os atendimentos.",
-            "Ações judiciais",
-            "Juliana Hasse, por sua vez, destacou o crescimento\nexpressivo de ações judiciais contra médicos, com 34\nmil processos só no ano de 2024. “Entre 2020 e 2024,\nhouve um aumento de mais de 30% nas ações contra\nmédicos em início de carreira. No SJT [Superior Tribunal\nde Justiça], o crescimento foi de 1.600% no período de\n10 anos”, afirmou.",
-            "A especialista também destacou os principais\nmotivadores de ações judiciais contra os profissionais\nda área da Saúde, como expectativas não atendidas,\ndocumentação, desgaste na relação médico-paciente e\na falta de informação médica necessária ou obrigatória\nao paciente.",
-            "Dentro das especialidades, as áreas que recebem mais\nprocessos judiciais são: Cirurgia Plástica, Ginecologia\ne Obstetrícia e Clínica Geral. “Desde 2020, o índice de\ncondenação é de 60% dos casos. A ausência de provas é\na maior fragilidade nos processos”, destaca Juliana.",
-            "Ao fim das apresentações, Endrigo deu espaço para\nos presentes fazerem perguntas aos convidados.\nO debate abordou temas sobre o que difere uma\nnegligência informacional e dicas práticas de como\nrealizar atendimentos particulares antes mesmo de se\ndescredenciar de convênios médicos."
-          ],
-          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
-        },
-        {
           "tag": "Serviços - 756",
           "capaUrl": "images/nova-secao-1785446582110-3-1785538187624.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
@@ -487,6 +450,75 @@ const content = {
             "E nada melhor que praticar\natividades físicas em meio a um\nbelo cenário. Com 164 hectares em meio à Serra da Cantareira, o\nHotel Fazenda APM dispõe de\nquadras poliesportivas, para jogos\nde handebol, tênis, basquete, vôlei\ne futsal, além de dois campos de\nfutebol e quadras de tênis e de\nbeach tennis. O hotel também\npossui academia equipada com\nequipamentos profissionais para\nmanter a sua saúde em dia. Os\nassociados podem desfrutar do\nday use sem custo e têm desconto\nexclusivo nas hospedagens."
           ],
           "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+        },
+        {
+          "tag": "Serviços - 754",
+          "capaUrl": "images/nova-secao-1785446582110-5-1785702986987.png",
+          "capaAlt": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
+          "titulo": "Potencialize sua saúde e qualidade de vida com a TotalPass e a APM!",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
+          "textoCompleto": [
+            "De acordo com a\nOrganização Mundial\nda Saúde, a prática\nde atividades\nfísicas ajuda na prevenção e no\ntratamento das doenças crônicas\nnão transmissíveis. Os exercícios\nfísicos auxiliam no controle de\ndoenças cardíacas, diabetes e\ndepressão, e a recomendação\nda OMS é que se pratique\nregularmente 150 minutos\nde atividade por semana, ou\naproximadamente 20 minutos\npor dia.",
+            "Pensando em incentivar esses\nhábitos e em promover a saúde\ndos seus associados e familiares,\na Associação Paulista de Medicina\nD firmou uma parceria mais do que\nespecial com a TotalPass, benefício\ncorporativo focado na saúde e no\nbem-estar integrado. A plataforma\noferece acesso a mais de 29 mil\nacademias e estúdios em 2.500\ncidades em todo o País. São 11\nopções de planos, a partir de R$\n39,90/mês, com flexibilidade para\nse exercitar onde e quando quiser,\nsem multas ou fidelidade.",
+            "“Essa era uma demanda reprimida\nde serviço para os nossos\nassociados, e que felizmente agora\npudemos colocar em prática. As\nadesões têm sido um sucesso tão\ngrande que estamos com fila para\nas filiações de novos associados.\nJá reforçamos nossas equipes internas de forma que nenhum\nmédico ou acadêmico fique de\nfora e agradecemos a paciência\nde todos que precisaram aguardar\npara o credenciamento e aos\ndiversos apoios espontâneos que\ntemos recebido para a divulgação\ndo benefício”, destaca a diretora\nde Serviços aos Associados\nda APM, Diana Lara Pinto de\nSantana.",
+            "Vantagens",
+            "Para os associados efetivos\nadimplentes da APM, não há\ncobrança de taxa para utilizar o\nbenefício, basta baixar o app da\nTotalPass, realizar um cadastro\ne escolher o plano preferido,\ncom este pagamento realizado\nmensalmente direto à empresa.\nPara os acadêmicos e aspirantes\n- médicos com até 4 anos de\nformados, que não pagam\ncontribuição associativa na capital\npaulista e na grande maioria\ndas Regionais - a utilização do\nbenefício possui taxa mensal de\nR$ 10,00, que deverá ser paga\nà APM, além do custo do plano\nescolhido com a TotalPass.\nE sabe o que é melhor? Amigos e\nfamiliares também podem usufruir. Cada\nassociado tem direito de incluir até três\ndependentes.",
+            "A TotalPass oferece modalidades de bemestar divididas em três programas:",
+            "A primeira é a Total Fit, focada na\nsaúde física, com acesso a milhares de\nacademias e estúdios com mais de 250\nmodalidades como Pilates, Musculação,\nLutas, Yoga, Cross Training, Danças, Beach\nTennis, Vôlei, Futevôlei, Eletroestimulação,\nNatação, Boxe, Hiit e muito mais. Ela\ntambém possui uma rede de aplicativos\nparceiros como a SmartFit, Queima Diária\ne o Total Play, que irão ajudar em todo o\nprocesso da rotina de saúde.",
+            "Já a Total Mind, focada em saúde mental,\noferece terapia com diversos psicólogos\non-line e mais de 400 áudios exclusivos\nde meditação, em parceria com aplicativos\ncomo Conexa, Zen App e Positiv.",
+            "Por fim, a Total Nutri é focada em\nnutrição, oferecendo planos alimentares\npersonalizados, receitas e consultas com\nnutricionistas para te ajudar a atingir seus\nobjetivos de forma saudável."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+        },
+        {
+          "tag": "Regional Piracicaba - 192 ",
+          "capaUrl": "images/nova-secao-1785446582110-6-1785702988563.png",
+          "capaAlt": "Diretores da APM debatem Medicina nas redes sociais",
+          "titulo": "Diretores da APM debatem Medicina nas redes sociais",
+          "resumo": "Além de um exemplo prático de uso das ferramentas, painel trouxe ponto de vista jurídico",
+          "textoCompleto": [
+            "Entre os dias 24 e 26 de julho, a Associação Médica\nBrasileira realizou a terceira edição do seu Congresso\nde Medicina Geral, no Distrito Anhembi, em São Paulo,\nreunindo mais de três mil pessoas. “Medicina nas Redes\nSociais” foi um dos assuntos abordados no primeiro\ndia do evento, em painel coordenado pelo diretor de\nPrevidência e Mutualismo da Associação Paulista de\nMedicina (APM) e presidente da Comissão de Saúde\nDigital da AMB, Antonio Carlos Endrigo, e pelo presidente\nda Associação Médica do Amazonas, Emanuel Jorge\nAkel Thomaz de Lima.",
+            "Como conferencistas, participaram Walter Miyamoto,\ndiretor adjunto de Marketing da APM e presidente da\nAPM São José dos Campos, e Juliana Hasse, presidente\nda Comissão de Direito Médico e de Saúde da OAB-SP.\nO painel contou também com a participação do diretor\nExecutivo da Comissão Especial de Médicos Jovens\nda APM e membro da Comissão Nacional de Médicos\nJovens da AMB, Guilherme Marques.",
+            "Em sua apresentação, Miyamoto contou que usa as\nredes sociais para falar sobre sua área de especialização,\na Coloproctologia, e destacou sua evolução nas\nplataformas digitais, que ocorreu de forma gradativa, por\nmeio de cursos relacionados à comunicação e marketing\ne treinamentos.",
+            "Ele também deu ênfase ao uso da comunicação digital, com\nferramentas de humanização e crescimento, para ampliar o\ncuidado e o acolhimento com o paciente para além da\nconsulta no consultório, com mensagens para saber como ele está após um procedimento e lembretes\nde retorno de consultas, além de pesquisas de satisfação\npara melhorar ainda mais os atendimentos.",
+            "Ações judiciais",
+            "Juliana Hasse, por sua vez, destacou o crescimento\nexpressivo de ações judiciais contra médicos, com 34\nmil processos só no ano de 2024. “Entre 2020 e 2024,\nhouve um aumento de mais de 30% nas ações contra\nmédicos em início de carreira. No SJT [Superior Tribunal\nde Justiça], o crescimento foi de 1.600% no período de\n10 anos”, afirmou.",
+            "A especialista também destacou os principais\nmotivadores de ações judiciais contra os profissionais\nda área da Saúde, como expectativas não atendidas,\ndocumentação, desgaste na relação médico-paciente e\na falta de informação médica necessária ou obrigatória\nao paciente.",
+            "Dentro das especialidades, as áreas que recebem mais\nprocessos judiciais são: Cirurgia Plástica, Ginecologia\ne Obstetrícia e Clínica Geral. “Desde 2020, o índice de\ncondenação é de 60% dos casos. A ausência de provas é\na maior fragilidade nos processos”, destaca Juliana.",
+            "Ao fim das apresentações, Endrigo deu espaço para\nos presentes fazerem perguntas aos convidados.\nO debate abordou temas sobre o que difere uma\nnegligência informacional e dicas práticas de como\nrealizar atendimentos particulares antes mesmo de se\ndescredenciar de convênios médicos."
+          ],
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
+        },
+        {
+          "tag": "Club de Benefícios - 755",
+          "capaUrl": "images/nova-secao-1785446582110-7-1785702990136.png",
+          "capaAlt": "Aproveite a chegada do outono com ofertas imperdíveis!",
+          "titulo": "Aproveite a chegada do outono com ofertas imperdíveis!",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "As águas de março encerram o\nverão e dão início ao outono,\nestação marcada pela redução\ngradual das temperaturas, dias\nmais curtos e a fartura das frutas. Pensando na chegada da nova\nestação, o Clube de Benefícios da\nAssociação Paulista de Medicina\nselecionou ofertas especiais para\nseus associados. Confira a seguir.",
+            "Para os apreciadores de carnes,\no Le Bife é uma excelente\nopção. O restaurante combina\ncortes de alta qualidade com\nmolhos exclusivos, saladas leves\ne variado serviço de guarnições.\nAlém dos cortes tradicionais, o\ncliente pode optar por pratos\ncomo o Steak Tartare e o\nhambúrguer da casa. Associados\nda APM garantem descontos\nexclusivos no cardápio.",
+            "Outra opção gastronômica é o\nParis 6, bistrô inspirado nos\ncharmosos cafés parisienses\nque une a culinária francesa à\ncriatividade brasileira, oferecendo\npratos generosos em um\nambiente sofisticado e acolhedor,\ntambém com condições especiais\npara os associados da entidade.\nCom a mudança de estação, a\nModafetiva oferece consultoria de\nestilo para quem deseja renovar o\nvisual. A empresa acredita no vestir\ncomo expressão de identidade e\noferece até 25% de desconto para os\nassociados da APM.",
+            "Falando em beleza, a Eudora\ndisponibiliza um portfólio com\nmais de 600 itens, incluindo\nperfumaria, maquiagem e cuidados\npara cabelos e corpo. Já a M.A.C,\nreferência mundial em maquiagem\nprofissional e tendências, oferece\n12% de cashback aos associados da\nAPM. Seguindo a mesma proposta\nde praticidade, a Océane atua há\nmais de 15 anos, trazendo beleza\nespontânea e descomplicada com\nprodutos acessíveis, garantindo 5%\nde cashback.",
+            "Se você está pretendendo viajar\ne não sabe por onde começar a\norganizar, a Plena Turismo pode\nte ajudar. A agência é especializada\nem atendimento personalizado,\noferecendo orientação completa para\nque você viaje com tranquilidade e\nsegurança, indicando os melhores\ndestinos, hotéis e opções de\nlazer, sempre com os preços mais\natrativos e de acordo com o seu\nperfil e orçamento. Associados\ngarantem 10% de desconto, confira\nas condições no site.",
+            "Já para quem deseja aproveitar a\nestação ao ar livre, o Parque Hotel\nGuararema é uma escolha excelente.\nLocalizado em meio à natureza, o\nparque combina tranquilidade e\ndiversão em uma estrutura completa.\nPiscina ao ar livre e climatizada,\ntrilhas, pescas, quadras esportivas\ne recreação garantem momentos\ninesquecíveis para todas as idades.\nPara os associados da APM, o local\noferece 10% de desconto sobre a\ntarifa vigente em alta temporada.",
+            "Procurando um lugar tranquilo, leve e\nrelaxante? O Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol,\nparque aquático, lago para pesca\nesportiva, centro hípico, quadras\npoliesportiva, de tênis e de beach\ntennis, restaurante, churrasqueiras,\nacademia, salão de jogos e muita\nnatureza. Os associados podem\ndesfrutar do day use sem custo e têm\ndesconto exclusivo nas hospedagens."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+        },
+        {
+          "tag": "Entrevista - Eu uso, eu aprovo | 755",
+          "capaUrl": "images/nova-secao-1785446582110-8-1785702991603.png",
+          "capaAlt": "Murillo Nogueira Viotti",
+          "titulo": "Murillo Nogueira Viotti",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Murillo Nogueira Viotti é psiquiatra\ne psicoterapeuta e soma mais de 20\nanos de vínculo com a Associação\nPaulista de Medicina, conhecendo\na entidade desde os tempos de\nuniversidade. “Quando você se\nforma, sente muito orgulho de ser\nmédico, e pertencer à APM passa a\nser uma consequência natural e um\ndesejo”, destaca.",
+            "O serviço de despachante é um dos\nmais utilizados pelo profissional. A\nAssociação disponibiliza aos médicos\ndiversos serviços relacionados ao\nDetran e a outros órgãos de trânsito\nde todo o estado de São Paulo.\nSão 32 modalidades disponíveis,\ncomo emplacamento, segunda via\nde carteira de habilitação, carteira\ninternacional, cartão DSV do idoso e\nlicenciamento anual, entre outros.",
+            "Além desse serviço, o associado\ntambém utilizou a Assessoria\nde Aposentadoria, que coloca\nà disposição dos membros ou\ndependentes profissionais\nqualificados e experientes para\nprestar esclarecimentos e dar\nentrada no requerimento de\nbenefícios do INSS. Assim, o médico\npode se aposentar com total\nsegurança e comodidade.",
+            "“Todas as vezes que precisei utilizar\nesses serviços, fui muito bem\natendido. Os atendimentos são\neficientes, resolvidos com muita\nagilidade e precisão”, conclui."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
         }
       ]
     },
