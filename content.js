@@ -566,45 +566,6 @@ const content = {
       ]
     },
     {
-      "id": "nova-secao-1784841780645",
-      "titulo": "Freelas ",
-      "toggleTexto": "Ler mais",
-      "linkTexto": "Ver mais →",
-      "verTodasTexto": "Ver todas",
-      "visiveis": 4,
-      "fundo": "nenhum",
-      "fundoImagemUrl": "",
-      "itens": [
-        {
-          "tag": "Jornaltop.esportes ",
-          "capaUrl": "images/nova-secao-1784841780645-0-1785531573939.jpg",
-          "capaAlt": "Entrevista Bruno Fratus | COB+LA2028",
-          "titulo": "Entrevista Bruno Fratus | COB+LA2028",
-          "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
-          "textoCompleto": [],
-          "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
-        },
-        {
-          "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-1-1785451607027.png",
-          "capaAlt": "Guia para a Final da UEFA Women's Champions League 24/25",
-          "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
-          "resumo": "Post Final UWCL",
-          "textoCompleto": [],
-          "link": "https://www.instagram.com/p/DJ-HiH7x48n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-        },
-        {
-          "tag": "Instagram",
-          "capaUrl": "images/nova-secao-1784841780645-2-1785451608884.jpg",
-          "capaAlt": "Guia para o Super Mundial de Clubes FIFA",
-          "titulo": "Guia para o Super Mundial de Clubes FIFA",
-          "resumo": "Post Super Mundial de Clubes FIFA",
-          "textoCompleto": [],
-          "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-        }
-      ]
-    },
-    {
       "id": "nova-secao-1785446582110",
       "titulo": "Publicações Revista APM Estadual | Regional Piracicaba ",
       "toggleTexto": "Ler mais",
