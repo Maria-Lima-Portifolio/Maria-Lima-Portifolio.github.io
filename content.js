@@ -374,6 +374,88 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
+          "tag": "Club de Benefícios - 757",
+          "capaUrl": "images/nova-secao-1785446582110-0-1785891556943.png",
+          "capaAlt": "Volta às aulas com as vantagens e descontos especiais",
+          "titulo": "Volta às aulas com as vantagens e descontos especiais",
+          "resumo": "A seção do Club de Benefícios traz um combo das melhores ofertas disponibilizadas pelas empresas parceiras da Associação Paulista de Medicina.",
+          "textoCompleto": [
+            "Novo semestre, novas metas! E\nnada melhor do que retomar a\nrotina de estudos com economia\ne organização. Para dar aquele\nempurrãozinho na sua jornada\nacadêmica ou na dos seus\nfilhos, o Clube de Benefícios da\nAssociação Paulista de Medicina\nselecionou as melhores parcerias\ne descontos exclusivos.",
+            "O Mackenzie, uma das\ninstituições de ensino mais\ntradicionais do País, uniu seu\npioneirismo na educação a uma\nparceria incrível com a APM. A\ninstituição oferece entre 10%\ne 25% de desconto para os\nassociados e seus dependentes.",
+            "Sabemos que as crianças\naprendem um novo idioma\ncom mais facilidade quando\nele é inserido na rotina desde\ncedo. Na escola Prime Garden,\nesse aprendizado acontece de\nforma natural e integrada, em\nportuguês e inglês, preparando\nos alunos para um mundo\nglobalizado. A escola acompanha\nas crianças do berçário ao\nFundamental I, combinando\ninovação, cuidado e excelência.\nAssociados da APM garantem\ndescontos exclusivos nas\nmensalidades e na matrícula.",
+            "Já a Alumni traz cursos intensivos\ne extensivos de inglês para todas\nas idades, em diferentes níveis\nde conhecimento, contando com\nprofissionais de extrema qualificação\npara atender e dar toda a atenção\nnecessária aos seus alunos. Com\n10% de desconto para os associados\ne dependentes.",
+            "Atuando há mais de 10 anos no\ntreinamento médico, o Instituto\nSimutec redefine a capacitação na\nárea com equipamentos de última\ngeração e metodologias inovadoras,\nproporcionando um aprendizado\nimersivo e alinhado às demandas\nda prática clínica moderna. A APM\nsedia a filial paulista do Instituto,\noferecendo aos médicos um\nambiente de tecnologia de ponta\npara cursos de alto nível. Associados\ngarantem 10% de desconto.",
+            "Para os apaixonados por leitura,\na Editora Atheneu atua há mais\nde 90 anos no mercado editorial.",
+            "Com mais de 3.500 publicações na\nárea da Saúde, a empresa é líder\nnacional nesse segmento e oferece\n25% de desconto na compra de\nlivros impressos e e-books em sua\nloja virtual.",
+            "Se o objetivo é impulsionar o seu\nconsultório com novas tecnologias,\na Voa Health é a escolha certa. A\nVoa é uma assistente de Inteligência Artificial desenvolvida por médicos\nbrasileiros para apoiar a rotina\nclínica: ela acompanha a consulta,\ntransforma o áudio do atendimento\nem documentos estruturados (como\nlaudos, relatórios e atestados) e reduz\no tempo gasto com digitação. Assim,\no profissional ganha mais tempo\npara focar na qualidade do cuidado\nao paciente. A empresa oferece\ndescontos especiais na assinatura\nanual de qualquer plano.",
+            "Por fim, a Medicina Direta oferece\num Prontuário Eletrônico dedicado\nao desenvolvimento de soluções\ntecnológicas diferenciadas. O\nsoftware é o único do Brasil com\nCertificação Nível 3 da SBIS para\nclínicas, ambulatórios e Telemedicina.\nTrata-se de um sistema sólido e\nrobusto, feito para elevar a sua\ninstituição de Saúde a um novo\npatamar, com condições imperdíveis\npara os associados da APM."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+        },
+        {
+          "tag": "Cobertura CBMG26 | 757",
+          "capaUrl": "images/nova-secao-1785446582110-1-1785891558669.png",
+          "capaAlt": "Residência Médica em detalhes",
+          "titulo": "Residência Médica em detalhes",
+          "resumo": "Realidade estatística\ndas vagas, concorrência\nno País e outros temas\nforam discutidos",
+          "textoCompleto": [
+            "Fernando Sabia Tallo,\ndiretor de Eventos da\nAPM e 2º tesoureiro\nda AMB, coordenou a\nmesa sobre a situação profissional\ndo médico generalista frente à\ndeficiência de vagas na residência\nmédica, que também aconteceu\nno primeiro dia do 4º Congresso\nBrasileiro de Medicina Geral.",
+            "A primeira conferência foi\nconduzida por Alcindo Cerci\nNeto, diretor Clínico do Hospital\nUniversitário de Londrina e\nconselheiro do CFM. Segundo ele, as decisões logo após a colação de\ngrau são extremamente difíceis,\ndivididas entre a necessidade\nimediata de trabalhar para quitar\no financiamento estudantil - já\nque 71% dos cursos hoje são\nprivados - ou enfrentar o desgaste\nda residência médica, cuja bolsa é\nincompatível com a exaustiva carga\nhorária e o impacto na Saúde mental.",
+            "O palestrante ressaltou que\na residência médica acabou\nassumindo uma função distorcida,\nsendo buscada muitas vezes para\nsuprir lacunas e procedimentos\nque deveriam ter sido aprendidos\ndurante o internato. Além disso, o\nconceito de generalista no Brasil\ndestoa do cenário internacional.\nEnquanto no exterior o termo\ndesigna um profissional com\nresidência em Medicina de Família ou\nClínica Médica, no mercado brasileiro basta ter o registro no CRM para\natuar.",
+            "Na sequência, Gustavo Salata Romão,\nconselheiro suplente da AMB na\nComissão Nacional de Residência\nMédica (CNRM), apresentou um\ncomparativo entre as seleções para\nresidência no Brasil e no exterior,\ndestacando a tendência nacional de\ntransição dos exames institucionais\npara os modelos unificados, como o\nExame Nacional de Residência (Enare)\ne o Exame Nacional de Avaliação da\nFormação Médica (Enamed).",
+            "Encerrando as discussões, Fernando\nTallo detalhou a realidade estatística\ndas vagas e a concorrência no País.\n“Essa conta não fecha devido ao\nboom indiscriminado de escolas\nmédicas nas últimas duas décadas.\nA dispersão de dados no sistema\ne-MEC é tamanha que, hoje, nenhuma\nentidade consegue precisar o\nnúmero exato de vagas de graduação\nexistentes no País.",
+            "O diretor da APM reforçou que a\npreocupação das entidades médicas\nnão visa marginalizar os profissionais\ngeneralistas, mas sim protegê-los e\ngarantir a segurança dos pacientes,\nvisto que o treinamento em serviço é\ninsubstituível. Para amenizar a\ncrise, Tallo defendeu que o controle\nde entrada na graduação deve\nestar estritamente alinhado à\ncapacidade real de treinamento\ndos serviços de Saúde."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+        },
+        {
+          "tag": "Serviços - 757",
+          "capaUrl": "images/nova-secao-1785446582110-2-1785891560229.png",
+          "capaAlt": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
+          "titulo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica. ",
+          "resumo": "Hotel Fazenda APM\nestá localizado a poucos\nminutos da capital\npaulista e conta com\ninfraestrutura completa",
+          "textoCompleto": [
+            "Um dos serviços e\nbenefícios mais\nconhecidos da\nAssociação Paulista\nde Medicina é seu Hotel Fazenda,\nque possui 164 hectares no\ncoração da Serra da Cantareira,\ndos quais 80% são de área verde\nnativa preservada. O local reúne\nnascentes, lagos, fauna e flora\nexuberantes, sendo uma excelente\nopção para lazer, descanso e\nrealização de eventos dos médicos\nassociados e seus familiares.",
+            "O Hotel Fazenda APM conta com\nquadra poliesportiva para handebol,\nbasquete, vôlei e futebol de salão,\nlago para pesca esportiva, quadras\nde beach tennis e de tênis e dois\ncampos de futebol, palcos do\ntradicional Campeonato de Futebol\nda APM, competição de médicos\nque ocorre desde 2014. Para\nquem não abre mão da rotina de\ntreinos, há também uma academia moderna, totalmente equipada\ncom aparelhos profissionais.",
+            "As famílias ainda encontram\ndiversão garantida na área do\nplayground e no salão de jogos,\nonde crianças e adolescentes\npodem se divertir com total\nsegurança, e comodidade e\nconforto no cantinho do bebê e no\nrecanto da leitura. Outro grande\natrativo é o parque aquático,\nformado por três piscinas (infantil,\nadulta e semiolímpica), ofurôs e\ntoboágua, além de sauna mista e\nlanchonete integrada — esta última\ndisponível na alta temporada\n(de outubro a maio, aos sábados,\ndomingos e feriados).",
+            "Ainda no cenário esportivo, o\nHotel Fazenda APM abriga um\ndos melhores centros hípicos do\nestado de São Paulo, contando\ncom baias modernas, pistas de\nsaltos e uma equipe de tratadores\naltamente qualificados. Hóspedes\ne visitantes podem fazer aulas de\nequitação (avulsas ou periódicas)\ne passeios a cavalo com monitores\npelas trilhas da propriedade.",
+            "Para a estadia, o hotel dispõe de\n12 suítes que acomodam até 5\npessoas, equipadas com frigobar\ne estacionamento privativo, e 13\ncharmosos chalés para até 12\npessoas, que oferecem cozinha\ncompleta e churrasqueira individual.\nAs opções de acomodações contam\ncom acesso Wi-Fi e são pet friendly.\nOs médicos associados e seus\nfamiliares não pagam pelo day use\ne têm descontos especiais no valor\ndas hospedagens.",
+            "A experiência gastronômica fica por\nconta de um excelente restaurante,\ncom varanda integrada e vista\npanorâmica. O ambiente é\ntotalmente acessível, dispondo de\nrampa interna e banheiro adaptado\npara pessoas com deficiência ou\nmobilidade reduzida. Além do café\nda manhã incluso nas diárias, o\nrestaurante serve almoço e jantar,\ncontando com opções temáticas\nespeciais em datas comemorativas\ncomo Páscoa, Dia das Mães e dos\nPais, Natal e Réveillon.",
+            "Desde o dia 1° de junho, o\nHotel Fazenda APM está aberto\nao público de sexta-feira a\ndomingo e aos feriados, tanto\npara hospedagens quanto para\nday use. Para mais informações,\nbasta contatar a equipe pelos\ntelefones (11) 3188-4555 /\n(11) 4899-3535, WhatsApp (11)\n94187-4200 ou e-mail reservas@\nhotelfazendaapm.com.br"
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+        },
+        {
+          "tag": "Cobertura CBMG26 - 757",
+          "capaUrl": "images/nova-secao-1785446582110-3-1785891561708.png",
+          "capaAlt": "Cenário atual do trabalho médico na Saúde suplementar",
+          "titulo": "Cenário atual do trabalho médico na Saúde suplementar",
+          "resumo": "Apresentações\nabordaram CBHPM\ne remuneração",
+          "textoCompleto": [
+            "O primeiro dia da 4ª\nedição do Congresso\nBrasileiro de Medicina\nGeral foi marcado por\ndebates intensos sobre o cenário\natual do trabalho médico na\nSaúde suplementar. A discussão\nfoi coordenada por Florisval\nMeinão, diretor de Patrimônio\ne Finanças da APM e secretário\ngeral da AMB, e Carlos Henrique\nMascarenhas Silva, diretor de\nDefesa Profissional da AMB.",
+            "Miyuki Goto, assessora técnica\nda AMB, iniciou as apresentações\ndestacando o funcionamento\ne a importância da inclusão\nde novos procedimentos na\nárea. \"A Classificação Brasileira\nHierarquizada de Procedimentos\nMédicos (CBHPM) é extremamente\ndinâmica. Precisamos aprimorá-la\nconstantemente para que continue\nsendo referência não apenas\nde codificação, mas também de\nvaloração, buscando o cenário\nideal para a remuneração médica.\"",
+            "A assessora ressaltou que a\nincorporação de tecnologias pode ocorrer por demanda das\nsociedades de especialidades\nou via Conitec (Comissão\nNacional de Incorporação de\nTecnologias no SUS). Quando\nhá recomendação favorável da\nConitec, o procedimento pode\nmigrar para a Saúde suplementar,\nembora existam exceções, como\nmedicamentos de uso domiciliar\nnão oncológicos, que ficam fora\ndo Rol da ANS.",
+            "A segunda apresentação\nabordou a remuneração na Saúde\nsuplementar, com Raquel Medeiros\nLisboa, gerente de Estímulo à\nInovação e Avaliação da Qualidade\ndos Prestadores de Serviços\nda Agência Nacional de Saúde\nSuplementar (ANS). \"O problema\nregulatório inicial era a falta de\ncontratos. Hoje, as operadoras\nentenderam a obrigação, mas o\nproblema mudou, a maior demanda dos prestadores atualmente envolve\no descumprimento de cláusulas,\ninadimplência e atrasos nos\npagamentos.\"",
+            "Dando sequência aos debates,\nMarcos Eurípedes Pimenta, assessor\nda Diretoria da APM, destacou que\npara os médicos, o maior gargalo é a\nredução drástica de seus honorários,\nque encolheram para apenas 12%\ndos custos totais em modelos de\nplanos verticalizados. Há também\numa imensa assimetria de forças\nnas negociações, já que apenas 10\noperadoras concentram mais de\n70% dos usuários do País, o que\nresulta em reajustes irrisórios e\ndescredenciamentos imotivados.",
+            "Ele ainda ressaltou que a classe\nmédica não se opõe a novos modelos\nde remuneração, mas condena\na precarização dos vínculos e os\ncontratos abusivos. Um exemplo\ncriticado foi o uso de Sociedades em\nConta de Participação (SCP). Por fim,\nforam destacadas novas ferramentas\njurídicas de proteção à classe\nmédica, a exemplo da Resolução CFM\n2.462/2026, que pune severamente\noperadoras e OSs que atrasarem\npagamentos, proibindo a desculpa de\nreter o dinheiro do médico enquanto\naguardam repasses."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+        },
+        {
+          "tag": "Entrevista - Eu uso, eu aprovo | 757",
+          "capaUrl": "images/nova-secao-1785446582110-4-1785891563139.png",
+          "capaAlt": "Maria Edith Marinho Lutz Vidigal",
+          "titulo": "Maria Edith Marinho Lutz Vidigal",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Graduada em 1976 pela\nFaculdade de Medicina de\nJundiaí, Maria Edith acumula\nquase meio século de história\nao lado da Associação\nPaulista de Medicina. Ela\nconheceu a instituição por\nmeio de colegas de profissão,\nainda nos tempos de\nuniversidade.",
+            "O Cadastro Nacional de\nEstabelecimentos de\nSaúde (CNES) é um dos\nserviços mais utilizados pela\nassociada. Por meio dele,\na APM oferece a inscrição\ne a atualização cadastral\npara médicos que possuem\nconsultórios ou clínicas na capital\npaulista, com valores abaixo dos\npraticados pelo mercado.",
+            "Além disso, a associada já utilizou\no serviço de Passaporte, que\noferece assessoria gratuita aos\nmédicos no preenchimento de\ntodos os formulários exigidos\npara a solicitação do documento\nbrasileiro.",
+            "“Os atendimentos sempre foram\nmuito bons. Não tenho nenhuma\nqueixa a fazer, todos sempre\nmuito gentis e prestativos”, elogia\nMaria Edith Vidigal."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+        },
+        {
           "tag": "Serviços - 756",
           "capaUrl": "images/nova-secao-1785446582110-3-1785538187624.png",
           "capaAlt": "Tradição também nas Revistas Científicas",
