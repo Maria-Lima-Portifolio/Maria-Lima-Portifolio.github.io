@@ -52,6 +52,30 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
+          "tag": "Piracicaba - Gerais ",
+          "capaUrl": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/08/podcast-koga.jpg",
+          "capaAlt": "Presidente da APM Piracicaba participa do podcast “Papo com Cris”",
+          "titulo": "Presidente da APM Piracicaba participa do podcast “Papo com Cris”",
+          "resumo": "Douglas Koga falou sobre hábitos saudáveis, cirurgia bariátrica, robótica e mais",
+          "textoCompleto": [
+            "O presidente da Associação Paulista de Medicina – Piracicaba, Douglas Koga, participou do podcast “Papo com Cris”, apresentado pela jornalista e radialista Cristiane Sanches, para falar sobre hábitos saudáveis, cirurgia bariátrica, cirurgia robótica e muito mais.",
+            "No primeiro vídeo, ao ser perguntado sobre o quanto os hábitos modernos – como alimentação inadequada, ultraprocessados, estresse e sedentarismo – estão silenciosamente comprometendo o funcionamento intestinal da população, Koga explicou que, sendo cirurgião e proctologista, sempre diz aos seus pacientes que não adianta colocar pitadas de cúrcuma na comida se o paciente não dorme bem, não se alimenta adequadamente e não pratica atividades físicas.",
+            "Para ele, a questão dos hábitos de vida tem ganhado força também na Medicina para que as pessoas parem de acreditar em soluções fáceis ou mágicas e construam essa base fisiológica, que é o que vai dar sustentabilidade para todas as ações já citadas, incluindo a melhora da saúde intestinal.",
+            "“A gente encontra um grande desafio perante a população hoje, pois as pessoas sabem que têm hipertensão, diabetes ou excesso de peso, mas, muitas vezes, as ações que tomam para combater as doenças e melhorar sua condição de vida não são compatíveis. Elas se autossabotam e têm dificuldade em transformar informação em atitude”, completa.",
+            "Cirurgia Bariátrica",
+            "A cirurgia bariátrica é realizada no Brasil há mais de 30 anos e, ao longo deste período, houve muitas mudanças. No segundo vídeo, o médico falou que as indicações clássicas continuam as mesmas: Índice de Massa Corporal (IMC) acima de 35 com comorbidades (como pressão alta, diabetes, esteatose e doenças ortopédicas) ou IMC acima de 40 com ou sem doenças associadas. Esses pacientes são candidatos à cirurgia.",
+            "O que mudou recentemente são os casos de pacientes que possuem problemas de natureza mais metabólica, como diabetes muito grave, por exemplo: é comprovado cientificamente que eles podem ser submetidos à cirurgia com IMC acima de 32, e não 35.",
+            "Koga conta que o tempo de duração da cirurgia também mudou com o passar dos anos. Há cerca de 20 anos, os procedimentos costumavam durar quatro horas; hoje em dia, é possível terminá-los em apenas uma hora, de forma mais tranquila e com menor risco.",
+            "“Houve um aprimoramento tecnológico com relação aos equipamentos que utilizamos, e a própria evolução da cirurgia feita há 20 anos, que não é a mesma do ponto de vista técnico de hoje. Foram impostas várias modificações permitindo que o procedimento seja mais seguro”.",
+            "Cirurgia Robótica",
+            "Por fim, no terceiro vídeo Koga comentou sobre a inserção da cirurgia robótica nos novos procedimentos, que vem trazendo debates interessantes em relação à precisão, recuperação e segurança do paciente.",
+            "Ele disse que a robótica não é indicada para 100% dos procedimentos porque, além de ser de alto valor, é necessário observar as vantagens reais para o paciente, como a redução do risco cirúrgico e o ganho de precisão operatória.",
+            "Para o médico, alguns procedimentos robóticos são fenomenalmente melhores, e o nível de precisão que o robô oferece ao cirurgião é muito maior, como na prostatectomia robótica e em alguns tipos de hérnias de parede abdominal. “Quem opera é o cirurgião; o robô é acoplado ao paciente e nos dá mais liberdade de movimentos. Na dinâmica de posicionamento da câmera colocada no paciente, conseguimos enxergar muito melhor, e o robô elimina vícios de movimento, sendo mais preciso e fluido, tornando as cirurgias seguras e eficientes”, finaliza.",
+            "Fotos: Reprodução Papo com Cris"
+          ],
+          "link": "https://www.apmpiracicaba.org.br/presidente-da-apm-piracicaba-participa-do-podcast-papo-com-cris/"
+        },
+        {
           "tag": "APM - TERTÚLIA",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/3-161.png",
           "capaAlt": "“Cirurgia de Cabeça e Pescoço: De Billroth à Robótica” é tema da Tertúlia de julho da AMSP",
@@ -214,6 +238,26 @@ const content = {
           "link": "https://www.apm.org.br/a-historia-da-medicina-sexual-dos-mitos-ao-viagra-e-tema-de-tertulia-da-amsp/"
         },
         {
+          "tag": "Piracicaba - Gerais ",
+          "capaUrl": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/05/Ricardo-tedeschi-editada.jpg",
+          "capaAlt": "Ricardo Tedeschi fala sobre Doenças Inflamatórias Intestinais na Jovem Pan Piracicaba",
+          "titulo": "Ricardo Tedeschi fala sobre Doenças Inflamatórias Intestinais na Jovem Pan Piracicaba",
+          "resumo": "Diretor da 14ª Distrital falou sobre a campanha de conscientização Maio Roxo",
+          "textoCompleto": [
+            "Na manhã da última segunda-feira, 18 de maio, o gastroenterologista e diretor da 14ª Distrital da Associação Paulista de Medicina, Ricardo Tedeschi Matos, participou do programa “Jornal da Manhã”, da rádio Jovem Pan News Piracicaba para falar sobre o Maio Roxo, mês dedicado à conscientização sobre Doenças Inflamatórias Intestinais.",
+            "As doenças inflamatórias intestinais mais conhecidas são a Doença de Crohn e a Retocolite Ulcerativa. Elas são doenças imunomediadas, ou seja, relacionadas com o nosso sistema imune. Não têm cura, mas têm remissão, e que adequadamente diagnosticadas e tratadas, podem trazer uma grande melhora na qualidade de vida dos pacientes.",
+            "O médico explica que essas doenças se manifestam por múltiplos sintomas, sendo o principal deles uma diarreia crônica que persistente por mais de 2 ou 3 meses, trazendo um impacto na qualidade de vida do paciente. Muitas vezes apresentando sangue e ocasionando emagrecimento, anemia, desnutrição e podendo causar maior possibilidade de infecções. “São doenças que se não forem devidamente diagnosticadas e controladas, aumentam a probabilidade da pessoa no decorrer de 8 ou 10 anos de doença desenvolver um câncer de intestino”, completa.",
+            "Tedeschi alerta que nem todo episódio de diarreia significa uma doença inflamatória intestinal. O habitual são diarreias agudas, seja por viroses, intoxicações alimentares ou por uso de medicamentos. “Essas diarreias agudas, de curto tempo, habitualmente são autolimitadas”, explica.",
+            "Vale ressaltar que elas não manifestam apenas por diarreia. A Doença de Crohn muitas vezes apresenta no quadro clínico fístulas e abcessos na região anal, e manifestações em todo o trato digestivo, pegando desde a boca até o anus. Já a Retocolite Ulcerativa também tem manifestações extraintestinais como dores articulares e problemas hepáticos, estando limitada ao intestino e reto.",
+            "O diretor da APM conta que essas doenças podem atingir qualquer pessoa, porém, a faixa etária mais afetada é a de pacientes adultos e jovens, dos 16 aos 40 anos de idade, tanto homens quanto mulheres. Além disso, existe uma tendência genética. Também pode ter relação com doenças autoimunes prévias, como uma Tireoidite de Hashimoto, doença reumatológica e artrite reumatoide.",
+            "“Essas doenças precisam ter o diagnóstico precoce. Elas são imunomediadas, ou seja, não possuem relação com algo que a pessoa comeu ou tomou. Também não têm nenhuma relação",
+            "com vacinas. É uma doença do próprio sistema imune, que também tem relação com hábitos de vida. É importante citar a alta ingestão de alimentos industrializados, podendo ter relação com o despertar da doença”, ressalta.",
+            "Por fim, o especialista explica que a primeira fase do tratamento é a procura por um especialista em doenças do aparelho digestivo, como um gastroenterologista ou um coloproctologista. Os primeiros exames a serem solicitados são os exames laboratoriais e o exame de colonoscopia, que permite avaliar o intestino grosso e o colón, e se houver lesões, será solicitada uma biópsia.",
+            "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apmpiracicaba.org.br/ricardo-tedeschi-fala-sobre-doencas-inflamatorias-intestinais-na-jovem-pan-piracicaba/"
+        },
+        {
           "tag": "APM - BOLETIM EPIDEMIOLÓGICO ",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/boletim-2.jpg",
           "capaAlt": "Boletim Epidemiológico destaca Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano",
@@ -360,6 +404,27 @@ const content = {
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
           "link": "https://www.apm.org.br/forum-conexao-jovem-pediatra-discute-ia-residencia-medica-midias-sociais-direito-medico-e-muito-mais/"
+        },
+        {
+          "tag": "Piracicaba - Gerais ",
+          "capaUrl": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-05-104638.jpg",
+          "capaAlt": "No “Papo com Cris”, Alex Gonçalves alerta sobre doença renal e destaca inovação na Saúde",
+          "titulo": "No “Papo com Cris”, Alex Gonçalves alerta sobre doença renal e destaca inovação na Saúde",
+          "resumo": "Vice-presidente da APM Piracicaba também comentou sobre a Cadeia Produtiva Local da Saúde e projetos futuros",
+          "textoCompleto": [
+            "Alex Gonçalves, vice-presidente da Associação Paulista de Medicina – Piracicaba, também participou do podcast “Papo com Cris”, apresentado pela jornalista e radialista Cristiane Sanches. Na ocasião, o nefrologista falou sobre o aumento de casos de pessoas que perderam suas funções renais, a Cadeia Produtiva Local da Saúde e inovação.",
+            "De acordo com o médico, há algumas décadas a doença renal crônica cresce a uma taxa de 10% ao ano, referindo-se à doença renal crônica terminal, em que os pacientes precisam de terapia renal substitutiva – seja o transplante, a hemodiálise ou a diálise peritoneal. Ele explica que esse aumento da incidência da doença renal crônica terminal se dá por alguns fatores que afetam a Saúde da população em geral, sendo diabetes, hipertensão, obesidade e o aumento da expectativa de vida, a longevidade.",
+            "Gonçalves explica que os sintomas só aparecem quando o rim estiver funcionando abaixo de 30%, e muitas vezes abaixo de 15%. Quando a eficiência estiver abaixo de 10% do funcionamento renal total, a pessoa já tem indicação para iniciar a terapia renal substitutiva.",
+            "“Hoje, é recomendado que os pacientes diabéticos e hipertensos façam o rastreio na unidade básica de saúde e usem medicamentos para controlar diabetes e hipertensão. Nós já temos incorporados ao Sistema Único de Saúde (SUS) medicamentos que retardam a progressão da doença. Temos também uma linha de cuidado bem estabelecida no SUS para tratar esses pacientes, mas eles não estão chegando até nós no tempo necessário, seja para retardar a progressão ou para iniciar o tratamento em uma condição clínica melhor”, completa.",
+            "Cadeia Produtiva Local da Saúde",
+            "A Cadeia Produtiva Local (CPL) é um programa do SP Produz ligado à Secretaria Estadual de Desenvolvimento Econômico, que mapeia as vocações dos municípios. Atualmente, Alex Gonçalves é secretário do Conselho Municipal de Ciência, Tecnologia e Inovação de Piracicaba.",
+            "“A Saúde foi elencada como uma das vocações do município para inovação e a APM foi escolhida como entidade gestora. Nós conseguimos o reconhecimento da Secretaria, que viu a cidade de Piracicaba tendo essa vocação porque nós mapeamos os atores, e esses atores se envolveram com a CPL. Então, nós temos os hospitais, os convênios, a Santa Casa e as empresas que fabricam freezers. Tivemos a adesão dos elos e fomos reconhecidos; a partir desse reconhecimento, nós nos conectamos com as CPLs de São José dos Campos, Ribeirão Preto, São José do Rio Preto e Barretos, e agora estamos organizando um corredor da Saúde no nosso estado.”",
+            "O médico complementa dizendo que a proposta levada à Secretaria Estadual de Desenvolvimento Econômico foi bem aceita, e será feita a ponte com a Secretaria de Tecnologia e Inovação e com a Secretaria de Saúde para que o estado saiba da existência dessa organização e para pleitear apoio ao desenvolvimento desses setores nos municípios.",
+            "Inovação",
+            "Para finalizar, o vice-presidente da APM Piracicaba explica que, segundo o seu conhecimento, existem hoje duas startups voltadas à Saúde na cidade: uma de Inteligência Artificial aplicada à Saúde, principalmente no matriciamento e na regulação voltados para o Sistema Único de Saúde, e outra pertencente a um grupo de garotas, focada no bem-estar do recém-nascido prematuro. Elas possuem um projeto muito interessante de acolhimento e desenvolvimento desse bebê prematuro.",
+            "“A gente espera que, com esse fomento, com essa estrutura e com todos esses atores – principalmente no Inova Acipi, PIN e no mapeamento estratégico do SEBRAE – a expectativa seja fomentar ainda mais negócios inovadores e fortalecer Piracicaba como um polo de inovação também na área da Saúde”, finaliza."
+          ],
+          "link": "https://www.apmpiracicaba.org.br/no-papo-com-cris-alex-goncalves-alerta-sobre-doenca-renal-e-destaca-inovacao-na-saude/"
         }
       ]
     },
