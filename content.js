@@ -36,7 +36,7 @@ const content = {
     ],
     "botaoTexto": "Entre em contato",
     "botaoHref": "#contato",
-    "fotoUrl": "images/hero-1787426105430.jfif",
+    "fotoUrl": "images/hero-1787426181532.jfif",
     "fotoAlt": "Foto da jornalista"
   },
   "secoes": [
@@ -84,7 +84,7 @@ const content = {
           "link": "https://www.apm.org.br/amsp-recebe-o-infectologista-david-everson-uip-na-tertulia-de-agosto/"
         },
         {
-          "tag": "APM - GERAIS",
+          "tag": "APM - BOLETIM EPIDEMIOLÓGICO ",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/hepatite-boletim.jpg",
           "capaAlt": "Novo Boletim Epidemiológico apresenta as hepatites virais no Brasil",
           "titulo": "Novo Boletim Epidemiológico apresenta as hepatites virais no Brasil",
