@@ -31,13 +31,12 @@ const content = {
     "kicker": "Jornalista em formação",
     "titulo": "Conheça mais sobre mim",
     "paragrafos": [
-      "Atualmente estou no 7º período de Jornalismo no Centro Universitário das Américas - FAM.",
-      "Tenho 23 anos e algumas vivência prática em redação e cobertura de eventos. Atualmente sou estagiária de jornalismo na Associação Paulista de Medicina, onde escrevo matérias para o site e para a revista, elaboro as newsletters semanais, cubro eventos da instituição e acompanho o campeonato interno de futebol. Antes disso, estagiei por um ano (2024/2025) como redatora no Cultura10, criando conteúdos educativos sobre esporte, cultura, saúde e muito mais.",
-      "Minha grande paixão é o esporte. Já atuei como voluntária na Série B da Taça das Favelas e no Jornaltop.Esportes, um perfil independente sobre esportes. Nesses trabalhos em campo, tive a oportunidade de fazer algumas coberturas, como o evento de lançamento da nova parceria entre a Adidas e o Time Brasil rumo aos Jogos Olímpicos de Los Angeles 2028, ocasião em que entrevistei o medalhista olímpico Bruno Fratus. Também fiz a cobertura nos stories do programa Hello L.A., gravado durante a COB Expo, apresentado por Marcelo Barreto e Fabi Alvim, com participação dos atletas Caio Bonfim e Yago Dora."
+      "Atualmente estou no 7º período de Jornalismo no Centro Universitário das Américas - FAM. Tenho 23 anos e algumas vivência prática em redação e cobertura de eventos. Atualmente sou estagiária de jornalismo na Associação Paulista de Medicina, onde escrevo matérias para o site e para a revista, elaboro as newsletters semanais, cubro eventos da instituição e acompanho o campeonato interno de futebol. Antes disso, estagiei por um ano (2024/2025) como redatora no Cultura10, criando conteúdos educativos sobre esporte, cultura, saúde e muito mais.",
+      "Minha grande paixão é o esporte. Já atuei como voluntária na Série B da Taça das Favelas e no Jornaltop.Esportes, um perfil independente sobre esportes. Nesses trabalhos em campo, tive a oportunidade de fazer algumas coberturas, como o evento de lançamento da nova parceria entre a Adidas e o Time Brasil rumo aos Jogos Olímpicos de Los Angeles 2028, ocasião em que entrevistei o medalhista olímpico Bruno Fratus."
     ],
     "botaoTexto": "Entre em contato",
     "botaoHref": "#contato",
-    "fotoUrl": "images/hero-1785451593886.jpg",
+    "fotoUrl": "images/hero-1787426105430.jfif",
     "fotoAlt": "Foto da jornalista"
   },
   "secoes": [
@@ -51,6 +50,68 @@ const content = {
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
+        {
+          "tag": "APM - TERTÚLIA",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/Design-sem-nome-1-7.png",
+          "capaAlt": "AMSP recebe o infectologista David Everson Uip na Tertúlia de agosto",
+          "titulo": "AMSP recebe o infectologista David Everson Uip na Tertúlia de agosto",
+          "resumo": "O acadêmico ministrou a palestra “Infectologia: Passado, presente e futuro”",
+          "textoCompleto": [
+            "A Academia de Medicina de São Paulo realizou, na última quarta-feira (12), mais uma edição da sua tradicional tertúlia. O evento acontece mensalmente de maneira híbrida, na sede da Associação Paulista de Medicina. Neste mês, o convidado foi o infectologista David Everson Uip, que ministrou a palestra “Infectologia: Passado, presente e futuro”.",
+            "Hélio Begliomini, presidente da AMSP, saudou todos os presentes e fez a apresentação do palestrante. Formado pela Faculdade de Medicina do ABC, Uip ingressou em 1973 na residência médica em moléstias infecciosas e parasitárias no Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HC/FMUSP). Na mesma instituição, concluiu o mestrado em 1989, com a dissertação intitulada “Diagnóstico Precoce da Leptospirose por Biópsia do Músculo da Panturrilha”.",
+            "Em 1982, ingressou como médico-voluntário do Instituto do Coração (Incor) do HC/FMUSP onde, inicialmente, desenvolveu protocolos de controle de infecção hospitalar em pacientes submetidos a cirurgias cardíacas. O infectologista também foi um dos principais porta-vozes do enfrentamento da epidemia de Aids no Brasil e no exterior, tendo sido responsável pela elaboração de protocolos de atendimento a pacientes com HIV e de prevenção para médicos, dentistas e outros profissionais de Saúde no País.",
+            "Em São Paulo, fundou e dirigiu por oito anos a Casa de Aids do HC/FMUSP. Entre os anos de 2009 e 2013, dirigiu o Instituto de Infectologia Emílio Ribas, maior centro de tratamento de doenças infecciosas da América Latina. Na época, o médico foi porta-voz do enfrentamento da pandemia de Influenza H1N1. Em setembro de 2013, assumiu o cargo de secretário de Estado da Saúde de São Paulo, função que exerceu até abril de 2018.",
+            "Entre 2020 e 2022, coordenou e integrou o Centro de Contingência contra a Covid-19 do Governo de São Paulo. Atualmente, além de reitor e professor Titular de Infectologia do Centro Universitário FMABC, o médico atua como diretor nacional de Infectologia da Rede D’Or e como professor convidado do Grupo Educacional CEUMA.",
+            "Histórico das epidemias",
+            "David Uip iniciou sua apresentação falando sobre as epidemias que aconteceram em Atenas entre 430 e 426 a.C. Naquela época, as hipóteses eram de febre tifoide, tifo, varíola, sarampo e peste bubônica, com mortes de aproximadamente 25% da população de Atenas. Já no século XXI, estudos em ossadas e análises genéticas sugerem que a febre tifoide foi a causa provável da peste em Atenas. Essa epidemia trouxe consequências sociais e políticas, como pânico,",
+            "corpos abandonados nas ruas, explicações sobrenaturais, desorganização política e a derrota do governo. Essa é considerada uma das maiores epidemias da Antiguidade.",
+            "A Peste Negra, uma das maiores catástrofes da história da humanidade (1347–1353), causada pela bactéria Yersinia pestis, foi uma pandemia devastadora, provocando a morte de aproximadamente 1/3 da população europeia, com estimativa de 50 milhões de mortos. Já a gripe espanhola (1918–1920) foi uma epidemia global causada pelo vírus Influenza A H1N1. A estimativa de mortos ficou entre 20 e 50 milhões. Já no Brasil, cerca de 35 mil mortes foram confirmadas.",
+            "Sobre a Meningite Meningocócica, em 1975, o médico conta que o surto aconteceu quando ele já era aluno de Medicina. Ele relata que, na época, as aulas foram suspensas e muitos hospitais ficaram lotados. Neste momento, criaram o Programa Nacional de Imunizações (PNI). Com isso, a cidade de São Paulo vacinou, em quatro dias, 11 milhões de pessoas. “Foi algo absolutamente espetacular. O pessoal se vacinava sem questionar a origem da vacina”, completa.",
+            "A respeito da Aids, que começa em 1981, o primeiro caso autóctone no Brasil (1983) saiu do consultório em que Uip era assistente. Luc Montagnier identificou o LAV (vírus associado à linfadenopatia); já Robert Gallo descreveu o HTLV-III (vírus linfotrópico de células T humanas tipo III). Em 1986, o Comitê Internacional de Taxonomia de Vírus oficializou o nome HIV (Vírus da Imunodeficiência Humana). O medicamento AZT surgiu em 1988 e, naquele momento, presumiam que a vacina contra o HIV estaria disponível em meses. “Estamos em 2026 e não temos a vacina contra o HIV”, destaca o médico.",
+            "De acordo com dados da UNAIDS de junho de 2026, atualmente, aproximadamente 40 milhões de pessoas vivem com HIV; 1 milhão de novas infecções por HIV ocorreram em 2026; 570 mil mortes relacionadas; 30,8 milhões de pessoas em tratamento; e 9,2 milhões de pessoas sem acesso ao tratamento. Houve uma redução de 63% nos novos casos desde 1996 e de 71% nas mortes desde 2024.",
+            "O médico explica que, quando você negativa o vírus no sangue e nas secreções, corta-se a transmissão. Segundo Uip, hoje acabou a transmissão materno-fetal. Para o futuro global, projetam-se 6 milhões de novos casos de HIV até 2029, principalmente em países como Estônia, Letônia, Espanha, Portugal, Argentina e Brasil. “A meta era acabar com o HIV em 2030, mas isso não vai acontecer. De qualquer forma, o grande objetivo é que tenhamos pessoas diagnosticadas, com carga viral indetectável e tratadas”, comenta.",
+            "No período em que foi secretário de Saúde, enfrentou ativamente as epidemias de Dengue e de Febre Amarela. “A dengue é uma doença muito antiga, mas que voltou a aparecer de uma forma muito intensa nos últimos anos. Nós enfrentamos a febre amarela de uma forma muito diferente. Naquele momento, os casos iam surgindo, os macacos eram responsabilizados e mortos e o mundo tinha 70 milhões de doses da vacina da febre amarela. O Brasil tinha 30 milhões de doses para vacinar 100 milhões de pessoas. Então, fizemos algo inusitado, que foi o fracionamento da vacina em dízimos de cinco”, explicou.",
+            "Em janeiro de 2020, a OMS declarou que havia perigo iminente de uma pandemia de Covid-19. Em fevereiro, foi confirmado o primeiro caso no País, em São Paulo. Menos de um mês depois, o Brasil declarou transmissão comunitária da Covid-19. Nos dois primeiros anos de pandemia, Uip integrou o Centro de Contingência contra a Covid-19 em São Paulo. Ele conta que viu países ruírem, mas o estado conseguiu dar conta.",
+            "O médico relata que, quando começou a pandemia, o estado de São Paulo tinha 3.500 leitos de UTI adultos e, depois do aumento do número de casos, esse total subiu para 14 mil. “O Brasil estava pronto para iniciar o processo de vacinação em outubro de 2020, mas só foi vacinar em 2021. Essa demora custou 200 mil mortes”, destaca.",
+            "No retrospecto, em setembro de 2021, 174 milhões de pessoas já haviam sido vacinadas. De acordo com dados da OMS de junho de 2026, a positividade global é de 1,7%, com 14 mil novos casos notificados em 57 países e 100 novas mortes notificadas.",
+            "Presente e Futuro",
+            "Para o especialista, a Infectologia caminha para ser cada vez mais preventiva, preditiva e personalizada, apoiada pelo avanço tecnológico e da Ciência. Ele conta que os desafios atuais são a detecção preventiva de doenças e identificar rapidamente novas doenças infecciosas para agir antes que se tornem crises.",
+            "Além da resistência antimicrobiana, que é uma ameaça crescente que compromete o tratamento de infecções e a segurança dos pacientes em todo o mundo. Estima-se que, até 2050, a resistência antimicrobiana possa causar mais mortes do que o câncer e as doenças cardiovasculares, com até 10 milhões de mortes por ano.",
+            "Sobre o movimento antivacina, Uip diz que é uma das maiores barbaridades que já viu na vida. Para ele, essas campanhas antivacina, muito bem orquestradas, são um desastre. “Quando você discute vacina, você não está discutindo um bem pessoal, você está discutindo um bem social”, completa.",
+            "Por fim, para o médico, o futuro da Infectologia é colaborativo, tecnológico e centrado na prevenção, para construir um mundo mais saudável, resiliente e sustentável.",
+            "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/amsp-recebe-o-infectologista-david-everson-uip-na-tertulia-de-agosto/"
+        },
+        {
+          "tag": "APM - GERAIS",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/hepatite-boletim.jpg",
+          "capaAlt": "Novo Boletim Epidemiológico apresenta as hepatites virais no Brasil",
+          "titulo": "Novo Boletim Epidemiológico apresenta as hepatites virais no Brasil",
+          "resumo": "Entre os anos de 2000 e 2025, o País registrou 863.097 casos confirmados da doença",
+          "textoCompleto": [
+            "O Ministério da Saúde divulgou Boletim Epidemiológico sobre as Hepatites Virais, trazendo os dados de casos confirmados e óbitos decorrentes dos vírus A, B, C e D registrados no Sistema de Informação de Agravos de Notificação (Sinan) entre os anos de 2000 e 2025.",
+            "As hepatites virais permanecem como um desafio crítico para a Saúde pública no Brasil e no mundo, tanto por sua elevada magnitude quanto pela capacidade de provocar infecções crônicas, cirrose, carcinoma hepatocelular e óbito, com atenção especial para a gravidade dos vírus B e C. No acumulado desse período, o País notificou 863.097 casos confirmados da doença.",
+            "Casos confirmados",
+            "A hepatite A contabilizou 179.789 casos no período. A análise da faixa etária aponta uma mudança expressiva no perfil recente dos infectados: embora quase metade dos registros acumulados entre 2000 e 2025 tenha ocorrido em crianças menores de dez anos, em 2025 as maiores taxas foram observadas entre adultos jovens.",
+            "Após atingir um mínimo histórico em 2020 e 2021 com 0,2 caso por 100 mil habitantes, a taxa de detecção subiu gradativamente até alcançar 2,2 em 2025, concentrando-se principalmente no Sudeste (3,6) e no Sul (2,7).",
+            "Já a hepatite B soma 315.074 diagnósticos confirmados. A maioria dos registros concentrou-se nas regiões Sudeste e Sul, responsáveis por 33,8% e 30,7% dos casos, respectivamente. O vírus afetou mais homens (173.985 casos) do que mulheres (141.017 casos). Após acentuada redução em 2020 (3,8 casos por 100 mil habitantes) e posterior recuperação, a taxa fechou 2025 em 5,2 casos por 100 mil habitantes, com maior incidência no Norte (10,0) e no Sul (9,2).",
+            "A hepatite C registrou o maior número acumulado, com 361.419 infecções (206.388 em homens e 154.895 em mulheres), lideradas pela região Sudeste, que somou 206.966 casos. A série histórica teve uma alteração importante em 2015 devido à mudança no critério epidemiológico de definição de casos.",
+            "Vale ressaltar que a cura da hepatite C não garante imunidade permanente, o que significa que pessoas tratadas podem contrair uma nova infecção ao serem reexpostas e devem ser notificadas novamente. Em 2025, a taxa de detecção da hepatite C ficou em 8 casos por 100 mil habitantes, destacando-se o Sul (14,8) e o Sudeste (9,4).",
+            "Por fim, a hepatite D acumulou 4.831 registros, mantendo expressiva concentração regional no Norte, que respondeu por 71,8% do total nacional, com 3.469 casos. A doença afetou 2.831 homens e 1.998 mulheres, com forte domínio entre adultos. No acumulado histórico, as faixas etárias mais atingidas foram de 35 a 39 anos (614 casos), 30 a 34 anos (604), 25 a 29 anos (582), 40 a 44 anos (552) e 20 a 24 anos (526).",
+            "Em 2025, o pico deslocou-se para idosos com 60 anos ou mais (18 casos), seguidos pelas faixas de 45 a 49 anos (15), 40 a 44 e 55 a 59 anos (11 cada), e 30 a 34 e 50 a 54 anos (9 cada). Por ser um vírus defectivo que necessita da presença do HBV para se replicar, a vigilância e a investigação da hepatite D devem atuar articuladas à da hepatite B, especialmente em áreas de maior risco.",
+            "Mortalidade por causa básica",
+            "Hepatite A",
+            "Foram registrados 1.061 óbitos por hepatite A como causa básica no Brasil entre 2000 e 2025. No ano de 2025, ocorreram 40 mortes, resultando em uma taxa de mortalidade de 0,02 óbitos por 100 mil habitantes. A região Sudeste liderou os registros com 22 mortes, e os óbitos concentraram-se predominantemente em idosos de 60 anos ou mais.",
+            "Hepatite B",
+            "O vírus provocou 11.256 mortes acumuladas no período, afetando de forma desproporcional o sexo masculino, que somou 8.079 óbitos (71,8%), enquanto o sexo feminino respondeu por 3.177 mortes (28,2%). Em 2025, foram anotados 307 óbitos (taxa de 0,1 por 100 mil habitantes), dos quais 223 ocorreram em homens e 84 em mulheres. O Sudeste registrou a maior mortalidade do último ano (94 mortes), seguido do Norte (73) e do Nordeste (62).",
+            "Hepatite C",
+            "Sendo a hepatite de maior mortalidade, totalizou 38.159 óbitos como causa básica no acumulado histórico (23.256 homens e 14.898 mulheres). No último ano, ocorreram 780 mortes, das quais 503 foram no sexo masculino e 369 concentraram-se na região Sudeste. A taxa de mortalidade por hepatite C apresenta tendência sustentada de queda desde 2016, tendo registrado uma redução de 6,6% em 2025 em relação a 2024 (que somou 835 óbitos).",
+            "Hepatite D",
+            "A infecção provocou 782 mortes entre 2000 e 2025. O Sudeste apresentou o maior volume de mortes acumuladas no período, com 107 registros, sendo o estado de São Paulo a unidade federativa com maior número de casos, contabilizando 62 óbitos."
+          ],
+          "link": "https://www.apm.org.br/novo-boletim-epidemiologico-apresenta-as-hepatites-virais-no-brasil/"
+        },
         {
           "tag": "Piracicaba - Gerais ",
           "capaUrl": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/08/podcast-koga.jpg",
