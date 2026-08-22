@@ -36,7 +36,7 @@ const content = {
     ],
     "botaoTexto": "Entre em contato",
     "botaoHref": "#contato",
-    "fotoUrl": "images/hero-1787426181532.jfif",
+    "fotoUrl": "images/hero-1787426319700.jfif",
     "fotoAlt": "Foto da jornalista"
   },
   "secoes": [
@@ -1082,59 +1082,10 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver trabalho completo →",
       "verTodasTexto": "Ver todos os trabalhos",
-      "visiveis": 6,
+      "visiveis": 3,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
-        {
-          "tag": "Revista ",
-          "capaUrl": "images/faculdade-0-1785531570615.png",
-          "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
-          "titulo": "E-zine Basquete feminino (Medusa Sports)",
-          "resumo": "",
-          "textoCompleto": [
-            "Produzimos uma E-zine (revista de fã) dedicada ao basquete feminino, documentando o cotidiano do Ladies Basquete, equipe amadora em ascensão.",
-            "Nossa cobertura incluiu um dia de jogo e entrevistas exclusivas com Rafael Gouveia, fundador e proprietário do time; Vitória Hipólito, técnica e ex-jogadora do Ladies; Ana Caroline e Luana Barbosa, atletas do elenco atual",
-            "Complementamos o conteúdo com depoimentos de dois nomes importantes do esporte: Gabi Guimarães, ala do Sampaio Basquete; e Hortência, lenda do basquete brasileiro"
-          ],
-          "link": "https://drive.google.com/file/d/1QedksZyLlFeMxQ3RdJvF6L5X4op5whMW/view?usp=sharing"
-        },
-        {
-          "tag": "Revista",
-          "capaUrl": "images/faculdade-1-1785531572583.jpg",
-          "capaAlt": "Revista corporativa PepsiCo",
-          "titulo": "Revista corporativa PepsiCo",
-          "resumo": "",
-          "textoCompleto": [
-            "Produzimos uma revista corporativa dedicada à PepsiCo, documentando aspectos essenciais da indústria de snacks e sua cultura organizacional.",
-            "Nossa cobertura incluiu três temas principais: \"A Análise Sensorial dos Snacks\", \"Psicologia e Flexibilidade Organizacional\"; e \"A Arquitetura do Snack Perfeito Por Trás da Textura\"",
-            "Complementamos o conteúdo com entrevistas exclusivas com:",
-            "Maria Eduarda Marafon, psicóloga organizacional",
-            "Luis Edmar, engenheiro de alimentos",
-            "Ana Carolina Conti, especialista em Análise Sensorial"
-          ],
-          "link": "https://drive.google.com/file/d/1QteklemJ2URAzHG5En2XzPEl6DbmtYsh/view?usp=sharing"
-        },
-        {
-          "tag": "Documentário",
-          "capaUrl": "images/faculdade-2-1785451599368.png",
-          "capaAlt": "Invisíveis à margem",
-          "titulo": "Invisíveis à margem",
-          "resumo": "",
-          "textoCompleto": [
-            "Produção audiovisual realizada com base no projeto social “Banho pra Geral”, que oferece banho quente, roupas limpas, alimentação e dignidade para pessoas em situação de rua nas periferias de São Paulo. Acompanhamos a rotina da ONG por alguns dias, registrando de forma sensível e aprofundada a realidade dessas pessoas e o impacto direto da iniciativa em suas vidas."
-          ],
-          "link": "https://youtu.be/Ptzu8iSe9Go?si=LENAPdP5rdUIY_RN"
-        },
-        {
-          "tag": "Telejornal ",
-          "capaUrl": "images/faculdade-3-1785451601462.png",
-          "capaAlt": "Radar Dário",
-          "titulo": "Radar Dário",
-          "resumo": "",
-          "textoCompleto": [],
-          "link": "https://youtu.be/ghuWgUzKrVw?si=6ZpYejxkGG3EoliK"
-        },
         {
           "tag": "Portal ",
           "capaUrl": "images/faculdade-4-1785451603838.png",
@@ -1168,6 +1119,55 @@ const content = {
             "Assim, o caminho para recuperar a autonomia alimentar e a paz com o espelho envolve entender que o corpo real não cabe em um filtro. Entre as métricas das redes e a ditadura da estética, o desafio é resgatar a capacidade de olhar para si mesmo além do que os olhos do algoritmo podem capturar, devolvendo à comida o seu papel de prazer e ao corpo o seu papel de viver, e não apenas de ser exibido."
           ],
           "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/post/a-evolução-dos-distúrbios-alimentares-e-a-ditadura-da-estética-nas-redes-sociais"
+        },
+        {
+          "tag": "Telejornal ",
+          "capaUrl": "images/faculdade-3-1785451601462.png",
+          "capaAlt": "Radar Dário",
+          "titulo": "Radar Dário",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "https://youtu.be/ghuWgUzKrVw?si=6ZpYejxkGG3EoliK"
+        },
+        {
+          "tag": "Documentário",
+          "capaUrl": "images/faculdade-2-1785451599368.png",
+          "capaAlt": "Invisíveis à margem",
+          "titulo": "Invisíveis à margem",
+          "resumo": "",
+          "textoCompleto": [
+            "Produção audiovisual realizada com base no projeto social “Banho pra Geral”, que oferece banho quente, roupas limpas, alimentação e dignidade para pessoas em situação de rua nas periferias de São Paulo. Acompanhamos a rotina da ONG por alguns dias, registrando de forma sensível e aprofundada a realidade dessas pessoas e o impacto direto da iniciativa em suas vidas."
+          ],
+          "link": "https://youtu.be/Ptzu8iSe9Go?si=LENAPdP5rdUIY_RN"
+        },
+        {
+          "tag": "Revista",
+          "capaUrl": "images/faculdade-1-1785531572583.jpg",
+          "capaAlt": "Revista corporativa PepsiCo",
+          "titulo": "Revista corporativa PepsiCo",
+          "resumo": "",
+          "textoCompleto": [
+            "Produzimos uma revista corporativa dedicada à PepsiCo, documentando aspectos essenciais da indústria de snacks e sua cultura organizacional.",
+            "Nossa cobertura incluiu três temas principais: \"A Análise Sensorial dos Snacks\", \"Psicologia e Flexibilidade Organizacional\"; e \"A Arquitetura do Snack Perfeito Por Trás da Textura\"",
+            "Complementamos o conteúdo com entrevistas exclusivas com:",
+            "Maria Eduarda Marafon, psicóloga organizacional",
+            "Luis Edmar, engenheiro de alimentos",
+            "Ana Carolina Conti, especialista em Análise Sensorial"
+          ],
+          "link": "https://drive.google.com/file/d/1QteklemJ2URAzHG5En2XzPEl6DbmtYsh/view?usp=sharing"
+        },
+        {
+          "tag": "Revista ",
+          "capaUrl": "images/faculdade-0-1785531570615.png",
+          "capaAlt": "E-zine Basquete feminino (Medusa Sports)",
+          "titulo": "E-zine Basquete feminino (Medusa Sports)",
+          "resumo": "",
+          "textoCompleto": [
+            "Produzimos uma E-zine (revista de fã) dedicada ao basquete feminino, documentando o cotidiano do Ladies Basquete, equipe amadora em ascensão.",
+            "Nossa cobertura incluiu um dia de jogo e entrevistas exclusivas com Rafael Gouveia, fundador e proprietário do time; Vitória Hipólito, técnica e ex-jogadora do Ladies; Ana Caroline e Luana Barbosa, atletas do elenco atual",
+            "Complementamos o conteúdo com depoimentos de dois nomes importantes do esporte: Gabi Guimarães, ala do Sampaio Basquete; e Hortência, lenda do basquete brasileiro"
+          ],
+          "link": "https://drive.google.com/file/d/1QedksZyLlFeMxQ3RdJvF6L5X4op5whMW/view?usp=sharing"
         }
       ]
     },
