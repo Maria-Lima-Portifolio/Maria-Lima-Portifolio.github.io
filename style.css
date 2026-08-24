@@ -59,8 +59,8 @@ nav a:hover{color:var(--destaque);}
 }
 .hero-grid{
   display:grid;
-  grid-template-columns:1.3fr 0.9fr;
-  gap:56px;
+  grid-template-columns:1fr 1fr;
+  gap:0;
   align-items:center;
 }
 .hero-kicker{
@@ -80,13 +80,33 @@ nav a:hover{color:var(--destaque);}
   color:#fff;
 }
 .hero p{
-  font-size:18px;
+  font-size:20px;
+  line-height:1.45;
   color:#f3e6dd;
-  margin-bottom:16px;
+  margin-bottom:10px;
+  padding-right:40px;
 }
+.hero-extra.oculta{display:none;}
+.hero-ver-mais{
+  display:block;
+  background:none;
+  border:none;
+  padding:0;
+  margin:2px 0 18px;
+  font-family:'Inter',sans-serif;
+  font-size:13px;
+  font-weight:600;
+  letter-spacing:0.5px;
+  text-transform:uppercase;
+  color:#fff;
+  text-decoration:underline;
+  text-underline-offset:3px;
+  cursor:pointer;
+}
+.hero-ver-mais:hover{color:#f3e6dd;}
 .hero-foto{
-  width:220px;
-  height:220px;
+  width:260px;
+  height:260px;
   aspect-ratio:1/1;
   object-fit:cover;
   border-radius:50%;
@@ -315,7 +335,8 @@ footer{
 }
 
 @media(max-width:800px){
-  .hero-grid{grid-template-columns:1fr;}
+  .hero-grid{grid-template-columns:1fr;gap:32px;}
+  .hero p{padding-right:0;}
   .grid-materias{grid-template-columns:1fr;}
   .contato-grid{grid-template-columns:1fr;}
   nav ul{gap:16px;flex-wrap:wrap;}

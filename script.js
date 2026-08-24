@@ -34,12 +34,34 @@ function renderHeader(){
     .join('');
 }
 
+function toggleHeroTexto(btn){
+  var extra = document.querySelector('.hero-extra');
+  if(!extra) return;
+  var aberto = btn.dataset.aberto === '1';
+  extra.classList.toggle('oculta', aberto);
+  btn.dataset.aberto = aberto ? '0' : '1';
+  btn.textContent = aberto ? 'Ver mais' : 'Ver menos';
+}
+
 function renderHero(){
   var h = content.hero;
   document.getElementById('hero-kicker').textContent = h.kicker;
   document.getElementById('hero-titulo').textContent = h.titulo;
+
+  var paragrafos = h.paragrafos || [];
+  var primeiro = paragrafos.length ? '<p>' + escapeHtml(paragrafos[0]) + '</p>' : '';
+  var resto = paragrafos.slice(1).map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
   document.getElementById('hero-paragrafos').innerHTML =
-    h.paragrafos.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
+    primeiro + (resto ? '<div class="hero-extra oculta">' + resto + '</div>' : '');
+
+  var botaoVerMais = document.getElementById('hero-ver-mais');
+  if(resto){
+    botaoVerMais.style.display = '';
+    botaoVerMais.textContent = 'Ver mais';
+    botaoVerMais.dataset.aberto = '0';
+  } else {
+    botaoVerMais.style.display = 'none';
+  }
 
   var botao = document.getElementById('hero-botao');
   botao.textContent = h.botaoTexto;
