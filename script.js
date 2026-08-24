@@ -6,10 +6,6 @@ function escapeAttr(str){
 }
 
 function toggleMateria(card){
-  if(card.dataset.pdf === '1'){
-    window.open(card.dataset.link, '_blank');
-    return;
-  }
   document.querySelectorAll('.materia.aberta').forEach(function(c){
     if(c !== card) c.classList.remove('aberta');
   });
@@ -76,19 +72,17 @@ function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
   var ehPdf = /\.pdf(\?|#|$)/i.test(item.link || '');
   var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
   var capa = item.capaUrl ? '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' : '';
+  var linkFinal = ehPdf ? 'Abrir PDF da edição ↗' : escapeHtml(linkTexto);
 
-  var corpoExtra = ehPdf
-    ? '<div class="materia-toggle">' + escapeHtml(linkTexto || 'Abrir PDF') + ' <span class="seta">↗</span></div>'
-    : (
-        '<div class="materia-toggle">' + escapeHtml(toggleTexto) + ' <span class="seta">▾</span></div>' +
-        '<div class="materia-completa">' +
-          paragrafos +
-          '<a href="' + escapeAttr(item.link) + '" target="_blank" onclick="event.stopPropagation()">' + escapeHtml(linkTexto) + '</a>' +
-        '</div>'
-      );
+  var corpoExtra =
+    '<div class="materia-toggle">' + escapeHtml(toggleTexto) + ' <span class="seta">▾</span></div>' +
+    '<div class="materia-completa">' +
+      paragrafos +
+      '<a href="' + escapeAttr(item.link) + '" target="_blank" onclick="event.stopPropagation()">' + linkFinal + '</a>' +
+    '</div>';
 
   return (
-    '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)" data-pdf="' + (ehPdf ? '1' : '0') + '" data-link="' + escapeAttr(item.link || '') + '">' +
+    '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)">' +
       capa +
       '<div class="materia-corpo">' +
         '<span class="materia-tag">' + escapeHtml(item.tag) + '</span>' +
