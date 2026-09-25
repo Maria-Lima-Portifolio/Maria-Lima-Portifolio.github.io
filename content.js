@@ -135,25 +135,6 @@ const content = {
           "link": "https://www.apm.org.br/amsp-recebe-o-infectologista-david-everson-uip-na-tertulia-de-agosto/"
         },
         {
-          "tag": "APM - GERAIS ",
-          "capaUrl": "https://www.apm.org.br/wp-content/uploads/7-78.png",
-          "capaAlt": "APM sedia o II Simpósio de Infecções em Pacientes Pediátricos Imunossuprimidos e com Comorbidades",
-          "titulo": "APM sedia o II Simpósio de Infecções em Pacientes Pediátricos Imunossuprimidos e com Comorbidades",
-          "resumo": "Evento acontece de forma híbrida, com a parte presencial na sede da entidade, nesta sexta e sábado",
-          "textoCompleto": [
-            "A Associação Paulista de Medicina (APM) realiza, nesta sexta e sábado, 7 e 8 de agosto, o II Simpósio de Infecções em Pacientes Pediátricos Imunossuprimidos e com Comorbidades. O evento é gratuito e acontece de forma híbrida, com opções de participação presencial na sede da entidade e transmissão on-line.",
-            "O objetivo do encontro, que tem como organizadores Melissa Palmieri, Fabianne Carlesse e Marcelo Otsuka, é atualizar pediatras e infectopediatras sobre as melhores práticas de prevenção, diagnóstico e tratamento de crianças com a Saúde mais vulnerável, além de oferecer orientação para suas famílias.",
-            "“Com o avanço das técnicas diagnósticas e terapêuticas, tem se observado um aumento do número de crianças imunossuprimidas, tornando-se imperativa a implementação de um programa de aprimoramento dos profissionais de Saúde que lidam com esses pacientes, com o objetivo de diminuir a morbimortalidade relacionada às infecções, atuando em prevenção, diagnóstico e tratamento”, destacam os coordenadores.",
-            "O presidente da APM, Antonio José Gonçalves, marcou presença no primeiro dia do evento e reforçou o compromisso da instituição com a classe médica. “A Associação Paulista de Medicina é a Casa do Médico e estará sempre de portas abertas para todas as sociedades e especialidades. Agradeço a presença de todos. A casa é nossa, estou no cargo de presidente como um gestor, mas a APM pertence a toda a comunidade médica. Nos sentimos honrados em sediar este evento.”",
-            "Programação científica\nO primeiro módulo tratou de “Prevenção – vacinas em populações especiais”, teve as palestras Pacientes com imunodeficiências, Pacientes com comorbidades: insuficiência renal, anemia falciforme, diabetes; e “Profilaxias – para quem utilizar, como utilizar e quando”, com os temas Bacteriana, Fúngica e Outras estratégias de prevenção para agentes virais.",
-            "No segundo módulo, sobre Infecções bacterianas, as aulas foram sobre Atualizações em infecções bacterianas, Tuberculose em população pediátrica de risco, Infecções por bactérias multi-R: quando suspeitar e como tratar? e Clostridioides difficille: o que devemos saber sobre diagnóstico e tratamento. Já o terceiro tratou das Infecções fúngicas, detalhando Infecções fúngicas invasivas e Candidemia de escape na era da profilaxia e Fungos filamentosos – peculiaridades na pediatria.",
-            "No sábado, segundo dia do evento, o quarto módulo trouxe as Infecções virais: Controvérsias no tratamento de vírus respiratórios na criança, HIV na Pediatria em 2026: o que mudou, o que aprendemos e quais desafios permanecem? e CMV: novas terapias em pediatria. O quinto módulo, sobre Infecções respiratórias graves no lactente jovem, teve aula a respeito dos Agentes de preocupação e dados de mundo real em algumas estratégias de prevenção.",
-            "O sexto módulo, por sua vez, foi sobre Arboviroses na Pediatria, com as palestras Não é só dengue e Vacinação de dengue e chikungunya em grupos de risco. O sétimo e último módulo trouxe sessões de casos clínicos, de pacientes com imunossupressão e comorbidade.",
-            "No primeiro dia, os simpósios satélites abordaram Prevenção Pneumocócica no paciente pediátrico de risco: foco na identificação clínica e acesso via CRIE/RIE (Pfizer), Quando o saudável engana e o risco não perdoa: vacinação meningocócica da rotina ao paciente complexo (GSK) e Infecções por bactérias multi-R: quando suspeitar e como tratar? (Pfizer). No segundo dia, os temas foram Da Evidência ao Impacto: Nirsevimabe Redefinindo a Prevenção do VSR na Prática Clínica (Sanofi), Clesrovimabe: ampliando as estratégias de proteção contra o VSR (MSD) e Avançando no combate de doenças infectocontagiosas em populações vulneráveis (Eurofarma)."
-          ],
-          "link": "https://www.apm.org.br/apm-sedia-o-ii-simposio-de-infeccoes-em-pacientes-pediatricos-imunossuprimidos-e-com-comorbidades/"
-        },
-        {
           "tag": "APM - REGIONAL PIRACICABA ",
           "capaUrl": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-27-at-10.16.08.jpg",
           "capaAlt": "Alex Gonçalves participa do Jornal da Manhã da rádio Jovem Pan News",
@@ -176,6 +157,25 @@ const content = {
             "Por fim, o presidente eleito da APM Piracicaba ressaltou que, na condição de entidade gestora, o grande desafio atual é estruturar a governança com o envolvimento de diferentes elos da cadeia produtiva. Uma vez consolidada essa governança, o objetivo principal passa a ser a geração efetiva de negócios dentro da CPL da Saúde."
           ],
           "link": "https://www.apmpiracicaba.org.br/alex-goncalves-participa-do-jornal-da-manha-da-radio-jovem-pan-news/"
+        },
+        {
+          "tag": "APM - GERAIS ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/7-78.png",
+          "capaAlt": "APM sedia o II Simpósio de Infecções em Pacientes Pediátricos Imunossuprimidos e com Comorbidades",
+          "titulo": "APM sedia o II Simpósio de Infecções em Pacientes Pediátricos Imunossuprimidos e com Comorbidades",
+          "resumo": "Evento acontece de forma híbrida, com a parte presencial na sede da entidade, nesta sexta e sábado",
+          "textoCompleto": [
+            "A Associação Paulista de Medicina (APM) realiza, nesta sexta e sábado, 7 e 8 de agosto, o II Simpósio de Infecções em Pacientes Pediátricos Imunossuprimidos e com Comorbidades. O evento é gratuito e acontece de forma híbrida, com opções de participação presencial na sede da entidade e transmissão on-line.",
+            "O objetivo do encontro, que tem como organizadores Melissa Palmieri, Fabianne Carlesse e Marcelo Otsuka, é atualizar pediatras e infectopediatras sobre as melhores práticas de prevenção, diagnóstico e tratamento de crianças com a Saúde mais vulnerável, além de oferecer orientação para suas famílias.",
+            "“Com o avanço das técnicas diagnósticas e terapêuticas, tem se observado um aumento do número de crianças imunossuprimidas, tornando-se imperativa a implementação de um programa de aprimoramento dos profissionais de Saúde que lidam com esses pacientes, com o objetivo de diminuir a morbimortalidade relacionada às infecções, atuando em prevenção, diagnóstico e tratamento”, destacam os coordenadores.",
+            "O presidente da APM, Antonio José Gonçalves, marcou presença no primeiro dia do evento e reforçou o compromisso da instituição com a classe médica. “A Associação Paulista de Medicina é a Casa do Médico e estará sempre de portas abertas para todas as sociedades e especialidades. Agradeço a presença de todos. A casa é nossa, estou no cargo de presidente como um gestor, mas a APM pertence a toda a comunidade médica. Nos sentimos honrados em sediar este evento.”",
+            "Programação científica\nO primeiro módulo tratou de “Prevenção – vacinas em populações especiais”, teve as palestras Pacientes com imunodeficiências, Pacientes com comorbidades: insuficiência renal, anemia falciforme, diabetes; e “Profilaxias – para quem utilizar, como utilizar e quando”, com os temas Bacteriana, Fúngica e Outras estratégias de prevenção para agentes virais.",
+            "No segundo módulo, sobre Infecções bacterianas, as aulas foram sobre Atualizações em infecções bacterianas, Tuberculose em população pediátrica de risco, Infecções por bactérias multi-R: quando suspeitar e como tratar? e Clostridioides difficille: o que devemos saber sobre diagnóstico e tratamento. Já o terceiro tratou das Infecções fúngicas, detalhando Infecções fúngicas invasivas e Candidemia de escape na era da profilaxia e Fungos filamentosos – peculiaridades na pediatria.",
+            "No sábado, segundo dia do evento, o quarto módulo trouxe as Infecções virais: Controvérsias no tratamento de vírus respiratórios na criança, HIV na Pediatria em 2026: o que mudou, o que aprendemos e quais desafios permanecem? e CMV: novas terapias em pediatria. O quinto módulo, sobre Infecções respiratórias graves no lactente jovem, teve aula a respeito dos Agentes de preocupação e dados de mundo real em algumas estratégias de prevenção.",
+            "O sexto módulo, por sua vez, foi sobre Arboviroses na Pediatria, com as palestras Não é só dengue e Vacinação de dengue e chikungunya em grupos de risco. O sétimo e último módulo trouxe sessões de casos clínicos, de pacientes com imunossupressão e comorbidade.",
+            "No primeiro dia, os simpósios satélites abordaram Prevenção Pneumocócica no paciente pediátrico de risco: foco na identificação clínica e acesso via CRIE/RIE (Pfizer), Quando o saudável engana e o risco não perdoa: vacinação meningocócica da rotina ao paciente complexo (GSK) e Infecções por bactérias multi-R: quando suspeitar e como tratar? (Pfizer). No segundo dia, os temas foram Da Evidência ao Impacto: Nirsevimabe Redefinindo a Prevenção do VSR na Prática Clínica (Sanofi), Clesrovimabe: ampliando as estratégias de proteção contra o VSR (MSD) e Avançando no combate de doenças infectocontagiosas em populações vulneráveis (Eurofarma)."
+          ],
+          "link": "https://www.apm.org.br/apm-sedia-o-ii-simposio-de-infeccoes-em-pacientes-pediatricos-imunossuprimidos-e-com-comorbidades/"
         },
         {
           "tag": "Piracicaba - Gerais ",
