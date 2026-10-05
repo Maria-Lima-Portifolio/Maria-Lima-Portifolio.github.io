@@ -580,29 +580,6 @@ const content = {
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
           "link": "https://www.apm.org.br/forum-conexao-jovem-pediatra-discute-ia-residencia-medica-midias-sociais-direito-medico-e-muito-mais/"
-        },
-        {
-          "tag": "APM - GERAIS ",
-          "capaUrl": "https://www.apm.org.br/wp-content/uploads/Captura-de-tela-2026-10-02-154459.jpg",
-          "capaAlt": "Em entrevista, diretor da APM explica método R³P+M",
-          "titulo": "Em entrevista, diretor da APM explica método R³P+M",
-          "resumo": "Em entrevista ao programa Questão de Saúde, David Alves de Souza Lima falou sobre o método que ajuda atletas",
-          "textoCompleto": [
-            "No início de setembro, o psiquiatra e diretor de Marketing da APM, David Alves de Souza Lima, participou do programa “Questão de Saúde”, na Rádio e TV Imprensa de São José dos Campos, para falar sobre estratégias que ajudam atletas a se acalmarem e a controlarem a ansiedade em dias de competição, o que também melhora o desempenho esportivo.",
-            "David começou explicando sobre o método R³P+M, cujo nome faz uma brincadeira com a sigla RPM, usada para medir a rotação de motores. O médico destacou que o “R³” representa três atitudes que começam com a letra R: respiração, risada e rezar.",
-            "O primeiro “R” representa a respiração, que é fundamental em momentos de muita pressão, quando o coração dispara, o corpo sua frio e a respiração fica curta. Nestes momentos, fazer uma respiração pausada e controlada ajuda a acalmar o sistema nervoso. Ele sugere a regra do 4-2-6: puxar o ar pelo nariz por 4 segundos, segurar por 2 segundos e soltar devagar por 6 segundos. Repetir esse exercício várias vezes reduz os batimentos do coração e traz uma sensação imediata de alívio.",
-            "Em seguida, vem o segundo “R”, que representa a risada. Ela vem em seguida porque rir ajuda a aliviar o estresse. O especialista recomenda quebrar o clima de tensão com uma brincadeira ou piada para deixar o ambiente mais leve. Rir de forma espontânea diminui o cortisol – que é o hormônio do estresse – e libera substâncias endógenas no corpo que trazem calma e tranquilidade.",
-            "O terceiro “R” vem de rezar. O ato de rezar não precisa ter um sentido estritamente religioso, mas sim o de ter fé e acreditar em algo maior que traga serenidade e paz ao coração antes da prova. O diretor da APM explica que é justamente esse efeito de calmaria que as pessoas querem ter nestes momentos que antecedem a competição.",
-            "Já a sigla “P+” representa os pensamentos positivos. Com base na Terapia Cognitivo-Comportamental, David Lima destacou que tentar não pensar em algo ruim só faz a gente pensar ainda mais naquilo. Por isso, a melhor estratégia contra os pensamentos negativos pré-jogo é substituí-los ativamente por pensamentos positivos, o que diminui a tensão e melhora o rendimento.",
-            "A letra “M” significa música, uma ferramenta muito eficiente na preparação. Ouvir música horas ou minutos antes da competição ajuda a ajustar o estado de espírito e a entrar no ritmo certo para o desafio, estando em sintonia com aquela situação.",
-            "Auxílio",
-            "O psiquiatra ressaltou que a técnica não é uma fórmula mágica nem funciona do mesmo jeito para todo mundo, mas garante que pode ajudar muitos atletas a entrarem em um estado mais calmo e focado, podendo ser adaptada por cada pessoa.",
-            "Ele citou o exemplo de Alison dos Santos, o Piu, medalhista olímpico e recordista mundial dos 400 metros com barreiras, que costuma dançar antes das provas para relaxar o corpo e melhorar o desempenho. Para o médico, o importante é cada um descobrir o que funciona melhor para si, e o “R³P+M” é uma excelente opção.",
-            "Outro recurso recomendado é a mentalização, que deve ser feita dias, semanas ou meses antes do evento. Imaginar a prova em detalhes envia mensagens ao cérebro, que muitas vezes não diferencia o que é real do que é apenas imaginação. Ao visualizar a competição várias vezes na mente, aumenta-se a chance de repetir o bom resultado na prática.",
-            "Por fim, David Alves de Souza Lima lembrou que o treino mental não substitui o treino físico nem o tático. Dormir bem e saber gerenciar o estresse, gastando energia apenas com o que realmente importa, são passos fundamentais que devem andar juntos com a preparação mental.",
-            "Foto: Reprodução Rádio e TV Imprensa"
-          ],
-          "link": "https://www.apm.org.br/em-entrevista-diretor-da-apm-explica-metodo-r%c2%b3pm/"
         }
       ]
     },
