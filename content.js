@@ -51,11 +51,38 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
+          "tag": "APM - TERTÚLIA",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/1-197.png",
+          "capaAlt": "Tertúlia de outubro da AMSP aborda “O legado de Elisabeth Kübler-Ross”",
+          "titulo": "Tertúlia de outubro da AMSP aborda “O legado de Elisabeth Kübler-Ross”",
+          "resumo": "Apresentação foi conduzida pelo acadêmico Claudio Roberto Cernea, 2° ocupante da cadeira 101",
+          "textoCompleto": [
+            "A Academia de Medicina de São Paulo (AMSP) realizou, na última quarta-feira (14), mais uma sessão de sua tradicional tertúlia mensal, em formato híbrido, na sede na Associação Paulista de Medicina. O acadêmico Claudio Roberto Cernea, 2° ocupante da cadeira 101, foi o palestrante desta edição e abordou o tema “O legado de Elisabeth Kübler-Ross”.",
+            "Helio Begliomini, presidente da AMSP, deu início ao encontro fazendo uma breve apresentação do palestrante. Graduado pela Faculdade de Medicina da Universidade de São Paulo (FMUSP), Claudio Cernea dedicou sua carreira universitária à instituição, na qual obteve o doutorado em clínica cirúrgica, em 1991, e a livre-docência em Cirurgia de Cabeça e Pescoço, em 2002.",
+            "Atuou como professor visitante em diversas universidades e serviços, no Brasil e no exterior. Atualmente, é médico do Hospital das Clínicas da FMUSP, atuando principalmente nas áreas de Cirurgia de Cabeça e Pescoço, tumores de tireoide, pele, glândulas salivares e base de crânio, carcinoma espinocelular e cirurgia craniofacial.",
+            "Elisabeth Kübler-Ross nasceu em Zurique, em 1926. Em 1945, aos 19 anos, após o término da Segunda Guerra Mundial, deixou sua casa contra a vontade dos pais. Sendo estudante de Medicina, trabalhou como voluntária na recuperação do campo de extermínio de Majdanek, na Polônia e, após a graduação, especializou-se em Psiquiatria.",
+            "Cuidados paliativos",
+            "Cernea contou que ela iniciou sua trajetória na área cuidando de doentes terminais, ocasião em que ficou horrorizada com o descaso com que essas pessoas eram tratadas pelos profissionais de Saúde. Essa situação fez com que mudasse sua postura perante os pacientes.",
+            "Ela se sentava ao lado deles e os ouvia atentamente, enquanto eles, num misto de agradecimento e espanto, abriam seus corações.",
+            "Com o tempo, Elisabeth Kübler-Ross desenvolveu formas específicas de prestar auxílio a esses pacientes. A partir dessa vivência, descreveu a dinâmica sequencial das reações de uma pessoa ao ser confrontada com o diagnóstico de uma doença grave. Relatou toda essa experiência no livro Sobre a Morte e o Morrer, fruto da observação direta no acompanhamento de cerca de 200 doentes, sendo justamente aqueles que haviam sido abandonados por todos.",
+            "Na visão de Claudio Roberto Cernea, o médico deve ter sensibilidade, compaixão, coração aberto e a mente ainda mais aberta para seguir a condução do paciente nessa interação. Para ele, a formação médica é voltada fundamentalmente ao ensino da cura, e não do acolhimento. O palestrante destacou que pouca atenção é dada para ensinar o médico a lidar com a própria impotência diante de situações insolúveis.",
+            "O acadêmico reforçou ainda a importância da relação entre médico e paciente, que exige atenção constante, demonstração de interesse e interação com a família. Ressaltou também que é preciso evitar mentiras, sobretudo em resposta a perguntas diretas, enfatizando que jamais se deve subestimar a capacidade de compreensão dessas pessoas.",
+            "Como dar a notícia?",
+            "O palestrante trouxe os ensinamentos de Elisabeth Kübler-Ross sobre pontos cruciais de como dar a notícia ao paciente e aos familiares, destacando que se deve evitar estipular prazos, que geralmente são imprecisos, pois dependem de diversos fatores imponderáveis na evolução da doença.",
+            "Segundo a médica, na primeira fase ocorre a negação e o isolamento, momento em que a participação da família é fundamental para auxiliar no esclarecimento, já que o paciente se encontra vulnerável emocionalmente. A segunda fase é a raiva, acompanhada pelo questionamento: “Tanta gente má por aí vivendo com Saúde, por que isso foi acontecer justo comigo?”. Nessa etapa, é essencial praticar a empatia, imaginando qual seria a nossa própria reação diante de tal contexto, e não tomar eventuais ofensas como algo pessoal.",
+            "Na terceira fase, Elisabeth Kübler-Ross aborda a barganha, momento em que surgem pedidos de adiamento do tratamento, como para a realização de uma “última viagem”. A quarta fase é a depressão, quando o paciente toma conscientização das perdas passadas e futuras. Muitas vezes, a família e a equipe médica tentam animá-lo a todo custo, menosprezando a magnitude da situação. Nesse estágio, recomenda-se permitir que o enfermo exteriorize seu pesar, sabendo ouvi-lo sem a necessidade de retrucar, sentando-se ao seu lado mesmo que seja para permanecer em silêncio.",
+            "A quinta e última fase é a aceitação. A médica apontava que o paciente que tiver tido o tempo necessário e o apoio adequado chegará a essa etapa com mais tranquilidade, embora ela geralmente venha acompanhada de fraqueza e declínio físico. É neste período que a família necessita de muita ajuda, compreensão e amparo, por vezes, até mais do que o próprio doente.",
+            "Em todas as etapas, ela recomendava manter a esperança. Para a equipe de Saúde, a orientação é de que mesmo os doentes incuráveis continuam merecendo tratamento. O médico deve saber lidar com suas limitações e aceitar quando o paciente optar por não seguir estritamente suas orientações, mantendo, ainda assim, a relação médica. Afinal, mesmo que o caso não seja mais cirúrgico, por exemplo, o indivíduo continua sendo seu paciente, se assim o desejar.",
+            "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/tertulia-de-outubro-da-amsp-aborda-o-legado-de-elisabeth-kubler-ross/"
+        },
+        {
           "tag": "APM - GERAIS ",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/Captura-de-tela-2026-10-02-154459.jpg",
           "capaAlt": "Em entrevista, diretor da APM explica método R³P+M",
           "titulo": "Em entrevista, diretor da APM explica método R³P+M",
-          "resumo": "Em entrevista ao programa Questão de Saúde, David Alves de Souza Lima falou sobre o método que ajuda atletas",
+          "resumo": "David Alves de Souza Lima falou sobre a técnica que ajuda atletas",
           "textoCompleto": [
             "No início de setembro, o psiquiatra e diretor de Marketing da APM, David Alves de Souza Lima, participou do programa “Questão de Saúde”, na Rádio e TV Imprensa de São José dos Campos, para falar sobre estratégias que ajudam atletas a se acalmarem e a controlarem a ansiedade em dias de competição, o que também melhora o desempenho esportivo.",
             "David começou explicando sobre o método R³P+M, cujo nome faz uma brincadeira com a sigla RPM, usada para medir a rotação de motores. O médico destacou que o “R³” representa três atitudes que começam com a letra R: respiração, risada e rezar.",
@@ -71,7 +98,7 @@ const content = {
             "Por fim, David Alves de Souza Lima lembrou que o treino mental não substitui o treino físico nem o tático. Dormir bem e saber gerenciar o estresse, gastando energia apenas com o que realmente importa, são passos fundamentais que devem andar juntos com a preparação mental.",
             "Foto: Reprodução Rádio e TV Imprensa"
           ],
-          "link": "https://www.apm.org.br/em-entrevista-diretor-da-apm-explica-metodo-r%c2%b3pm/"
+          "link": "https://www.apm.org.br/noticias/ultimas-noticias/page/4/"
         },
         {
           "tag": "APM - TERTÚLIA ",
@@ -616,6 +643,42 @@ const content = {
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
+        {
+          "tag": "Entrevista Eu uso, eu aprovo | 758",
+          "capaUrl": "images/nova-secao-1785446582110-0-1793151966164.png",
+          "capaAlt": "Sergio Bortolai Libonati ",
+          "titulo": "Sergio Bortolai Libonati ",
+          "resumo": "A seção 'Eu uso, eu aprovo' da Revista APM apresenta depoimentos de associados sobre os serviços oferecidos pela entidade.",
+          "textoCompleto": [
+            "Graduado pela Pontifícia\nUniversidade Católica de São\nPaulo (PUC-SP), em Sorocaba,\ne especialista em Cancerologia\ne Radioterapia pelo Instituto\nCentral do Hospital A. C.\nCamargo, Sergio Bortolai Libonati\né associado da Associação\nPaulista de Medicina (APM) há\nmais de 50 anos.",
+            "O contato com a instituição\ncomeçou durante a graduação,\nacompanhando a trajetória\ndos pais, João Raphael e Aida\nLibonati, que também eram\nmédicos e associados.",
+            "Entre os benefícios que mais\nutiliza, destaca-se o serviço\nde despachante, que oferece aos associados e dependentes\natendimento junto a Detrans,\nCiretrans, Demutrans e demais\nórgãos de trânsito do estado de\nSão Paulo. A estrutura engloba\n32 modalidades, incluindo\nemplacamento, renovação CNH,\nlicenciamento anual, segunda via\nda carteira de habilitação, entre\noutros.",
+            "“O atendimento é sempre\nexcelente e muito acessível. Gosto\nde todos os serviços da APM e\nme sinto em casa. Frequento\nsemanalmente. Também adoro\nparticipar das reuniões da\nAcademia de Medicina de São\nPaulo e das tertúlias, na sede da\nAPM. É um ambiente onde me\nsinto muito bem”, afirma."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_758.pdf"
+        },
+        {
+          "tag": "Serviços - 758",
+          "capaUrl": "images/nova-secao-1785446582110-1-1793151968758.png",
+          "capaAlt": "Impulsione sua carreira com o IESAPM",
+          "titulo": "Impulsione sua carreira com o IESAPM",
+          "resumo": "A seção de Serviços da Revista APM detalha mais a fundo os benefícios oferecidos pela instituição médica.",
+          "textoCompleto": [
+            "Desde 2020, o Instituto\nde Ensino Superior da\nAssociação Paulista\nde Medicina oferece\ncursos de extensão para médicos e\noutras formações para profissionais\nda Saúde, de forma a contribuir\ncom a qualificação da assistência\naos pacientes. Localizado na sede\nda APM, no centro de São Paulo,\no campus possui infraestrutura\npara as aulas presenciais e o\natendimento aos alunos.",
+            "Além de acessibilidade completa\n- com piso tátil, sinalização em\nbraile e espaços voltados para\ncadeirantes -, os estudantes\ntambém dispõem de laboratório\nde informática e acesso a toda\nestrutura da sede da APM, como\nárea de convivência, lanchonete,\nBiblioteca, Pinacoteca, Museu de\nHistória da Medicina, auditórios,\nestúdio de gravação e outros.",
+            "Atualmente, o IESAPM oferece\ncursos de graduação, pósgraduação, extensão e livres. A\ngraduação em Gestão Hospitalar,\nna modalidade tecnólogo,\npresencial e semipresencial, já\nformou algumas turmas e inicia\nneste mês o processo de vestibular\npara o primeiro semestre de 2027.",
+            "Em nível de pós-graduação, o MBA\nem Gestão Estratégica em Saúde\ne Qualidade de Vida Integrada ao\nNegócio é realizado em parceria com\na Associação Brasileira de Qualidade\nde Vida (ABQV), já tendo formado\ndezenas de alunos também. Já a pósgraduação em Qualidade em Saúde e\nSegurança do Paciente, em parceria\ncom o Programa Compromisso com\na Qualidade Hospitalar, está em\nprocesso de formação da primeira\nturma, para início em fevereiro do\npróximo ano.",
+            "Cursos de extensão",
+            "A ser realizado no dia 7 de\nnovembro, de forma presencial\nna sede da APM, o curso de\nextensão “Imersão em Sepse”\nfoi desenvolvido para médicos\nque desejam aprimorar o\nreconhecimento precoce e a\ncondução de pacientes com sepse e choque séptico, integrando\nconhecimentos atualizados à\nprática clínica.",
+            "Nesta segunda edição, os\nparticipantes contam com seis\naulas gravadas que devem\nser assistidas previamente\nao encontro presencial, que\nterá aprendizado prático sobre\nreposição volêmica guiada e\ndrogas vasoativas (avaliação de\nfluidorresponsividade, conceitos\nbásicos de Pocus), manejo de\nvias aéreas / ventilação mecânica\ninicial e na SDRA, monitorização\nhemodinâmica no choque séptico\ne escolha de antimicrobianos e uso\nde terapias adjuvantes na sepse.",
+            "Já no dia 14 de novembro, haverá\no curso de Início e Manutenção da\nVentilação Mecânica, desenvolvido\npara estudantes dos últimos anos de\nMedicina, médicos recém-formados\ne generalistas que desejam adquirir\nconhecimentos fundamentais e\ndesenvolver habilidades práticas no\nmanejo da ventilação mecânica.",
+            "Também há 21 aulas gravadas\npreparatórias ao encontro presencial\nna sede da APM, que contará com\natividades em pequenos grupos\ne contato direto com ventiladores\nmecânicos. A programação\nabrange exercícios de montagem\ne preparação de equipamentos,\nconfiguração de parâmetros iniciais, escolha de modos ventilatórios,\navaliação de alarmes e manejo geral.",
+            "Ainda em novembro, no dia 28,\nocorre o curso de extensão em\nEletrocardiograma no Pronto-Socorro,\nque tem cinco aulas preparatórias\nao encontro presencial na sede\nda APM. Durante o treinamento,\nos participantes realizarão a\nanálise sistematizada de traçados\neletrocardiográficos, discutirão\ncasos clínicos e participarão de uma\ngincana de ritmos. O curso aproxima\no aprendizado das situações reais da\nemergência, preparando o aluno para\nreconhecer padrões críticos e tomar\ndecisões com mais segurança.",
+            "Para finalizar o ano, está prevista mais\numa edição do curso de Inteligência\nArtificial para Médicos, com foco em\ncomo a IA pode ser incorporada à rotina\nmédica para otimizar o tempo, ampliar\na produtividade, apoiar os estudos,\nmelhorar a organização e facilitar\na comunicação com os pacientes. O\nencontro abordará exemplos práticos\nde uso da IA generativa, os principais\nriscos relacionados a erros, vieses e\ninformações imprecisas, além das novas\ndiretrizes do CFM para a utilização ética\ne segura dessas ferramentas.",
+            "Ao longo de 2026, também foram\nrealizados cursos de Medicina Baseada\nem Evidências, Gerenciamento do\nSangue do Paciente (em parceria com\na EPM/Unifesp) e Gestão Financeira\npara Médicos, alguns dos quais terão\nnovas turmas no próximo ano. Para\ntodos, há condições diferenciadas\npara os associados da APM. Consulte\nas informações completas em www.\niesapm.org.br ou entre em contato pelo\ne-mail comercial@iesapm.org.br,\ntelefone (11) 3188-4300 ou\nWhatsApp (11) 97519-5075."
+          ],
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_758.pdf"
+        },
         {
           "tag": "Cobertura CBMG26 | 757",
           "capaUrl": "images/nova-secao-1785446582110-0-1785891745225.png",
