@@ -276,7 +276,8 @@ function iniciarEfeitos(){
     el.addEventListener('mouseleave', function(){ qx(0); qy(0); });
   });
 
-  // cada seção pina e rola os cards na horizontal enquanto a página desce
+  // cada seção pina e rola os cards na horizontal enquanto a página desce;
+  // a distância de scroll fica limitada pra não ficar enorme quando tem muitos cards
   document.querySelectorAll('.pin-stage').forEach(function(stage){
     var track = stage.querySelector('.grid-materias');
     if(!track || !track.children.length) return;
@@ -286,7 +287,7 @@ function iniciarEfeitos(){
       ease:'none',
       scrollTrigger:{
         trigger: stage, start:'top top',
-        end: function(){ return '+=' + (track.scrollWidth - track.clientWidth + 200); },
+        end: function(){ return '+=' + Math.min(track.scrollWidth - track.clientWidth + 200, window.innerHeight * 1.4); },
         scrub:true, pin:true, anticipatePin:1, invalidateOnRefresh:true
       }
     });
