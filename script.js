@@ -19,6 +19,9 @@ function toggleVerTodas(btn){
   extras.forEach(function(c){ c.classList.toggle('oculta', estaMostrandoTudo); });
   btn.dataset.aberto = estaMostrandoTudo ? '0' : '1';
   btn.textContent = estaMostrandoTudo ? btn.dataset.verTexto : 'Ver menos';
+  if(window.ScrollTrigger){
+    requestAnimationFrame(function(){ ScrollTrigger.refresh(); });
+  }
 }
 
 function renderHeader(){
@@ -120,7 +123,7 @@ function secaoHTML(secao){
   var descricaoHtml = descricaoParagrafos ? '<div class="secao-descricao">' + descricaoParagrafos + '</div>' : '';
 
   return (
-    '<section class="secao" id="' + escapeAttr(secao.id) + '" data-fundo="' + escapeAttr(secao.fundo) + '"' + estilo + '>' +
+    '<section class="secao pin-stage" id="' + escapeAttr(secao.id) + '" data-fundo="' + escapeAttr(secao.fundo) + '"' + estilo + '>' +
       '<div class="container">' +
         '<div class="secao-titulo"><h2>' + escapeHtml(secao.titulo) + '</h2></div>' +
         descricaoHtml +
@@ -185,6 +188,113 @@ function renderFooter(){
   document.getElementById('footer-texto').textContent = content.footer;
 }
 
+function iniciarEfeitos(){
+  var reduzido = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // contador de seções (header não entra na contagem)
+  var secoesPagina = Array.prototype.slice.call(document.querySelectorAll('#sobre, .secao'));
+  var totalEl = document.getElementById('contador-total');
+  if(totalEl) totalEl.textContent = String(secoesPagina.length).padStart(2, '0');
+
+  var temLibs = !!(window.gsap && window.ScrollTrigger);
+  if(!temLibs) return;
+  gsap.registerPlugin(ScrollTrigger);
+
+  if(window.Lenis && !reduzido){
+    var lenis = new Lenis({ smoothWheel:true });
+    lenis.on('scroll', ScrollTrigger.update);
+    gsap.ticker.add(function(time){ lenis.raf(time * 1000); });
+    gsap.ticker.lagSmoothing(0);
+  }
+
+  // barra de progresso de leitura
+  var barraFill = document.getElementById('progresso-fill');
+  if(barraFill){
+    ScrollTrigger.create({ start:0, end:'max', onUpdate:function(self){
+      barraFill.style.transform = 'scaleX(' + self.progress + ')';
+    }});
+  }
+
+  // contador: marca em qual seção o visitante está
+  var contadorN = document.getElementById('contador-n');
+  secoesPagina.forEach(function(sec, i){
+    ScrollTrigger.create({ trigger:sec, start:'top center', end:'bottom center', onToggle:function(self){
+      if(self.isActive && contadorN) contadorN.textContent = String(i + 1).padStart(2, '0');
+    }});
+  });
+
+  // header: transparente sobre a foto do hero, sólido depois de passar dela
+  var heroEl = document.getElementById('sobre');
+  if(heroEl){
+    ScrollTrigger.create({
+      trigger: heroEl, start:'bottom top',
+      onEnter:function(){ document.body.classList.add('scrolled'); },
+      onLeaveBack:function(){ document.body.classList.remove('scrolled'); }
+    });
+  }
+
+  if(reduzido) return;
+
+  // abertura: cabeçalho e hero entram em cascata
+  gsap.timeline()
+    .from('.hero-media img', {scale:1.12, duration:1.1, ease:'power2.out'})
+    .from('header', {y:-26, opacity:0, duration:.6, ease:'power3.out'}, '-=.9')
+    .from('#hero-kicker, #hero-titulo, #hero-paragrafos, .hero-ver-mais, #hero-botao', {y:16, opacity:0, duration:.6, stagger:.08, ease:'power3.out'}, '-=.6')
+    .from('.scroll-cue', {opacity:0, duration:.6}, '-=.2');
+
+  // revela cada seção ao rolar até ela
+  document.querySelectorAll('.secao').forEach(function(sec){
+    gsap.from(sec.querySelector('.secao-titulo'), {
+      y:24, opacity:0, duration:.7, ease:'power2.out',
+      scrollTrigger:{trigger:sec, start:'top 80%'}
+    });
+  });
+
+  // cards: tilt 3D seguindo o mouse
+  document.querySelectorAll('.materia').forEach(function(card){
+    var qx = gsap.quickTo(card, 'rotateX', {duration:.4, ease:'power2.out'});
+    var qy = gsap.quickTo(card, 'rotateY', {duration:.4, ease:'power2.out'});
+    card.style.transformPerspective = 600;
+    card.addEventListener('mousemove', function(e){
+      var r = card.getBoundingClientRect();
+      var px = (e.clientX - r.left) / r.width - .5;
+      var py = (e.clientY - r.top) / r.height - .5;
+      qx(-py * 8); qy(px * 8);
+    });
+    card.addEventListener('mouseleave', function(){ qx(0); qy(0); });
+  });
+
+  // menu e botão principal: efeito magnético
+  document.querySelectorAll('nav a, .btn').forEach(function(el){
+    var qx = gsap.quickTo(el, 'x', {duration:.3, ease:'power3.out'});
+    var qy = gsap.quickTo(el, 'y', {duration:.3, ease:'power3.out'});
+    el.addEventListener('mousemove', function(e){
+      var r = el.getBoundingClientRect();
+      qx((e.clientX - r.left - r.width / 2) * .3);
+      qy((e.clientY - r.top - r.height / 2) * .3);
+    });
+    el.addEventListener('mouseleave', function(){ qx(0); qy(0); });
+  });
+
+  // cada seção pina e rola os cards na horizontal enquanto a página desce
+  document.querySelectorAll('.pin-stage').forEach(function(stage){
+    var track = stage.querySelector('.grid-materias');
+    if(!track || !track.children.length) return;
+    ScrollTrigger.addEventListener('refreshInit', function(){ track.classList.add('js-pinned'); });
+    gsap.to(track, {
+      x: function(){ return -(track.scrollWidth - track.clientWidth) - 20; },
+      ease:'none',
+      scrollTrigger:{
+        trigger: stage, start:'top top',
+        end: function(){ return '+=' + (track.scrollWidth - track.clientWidth + 200); },
+        scrub:true, pin:true, anticipatePin:1, invalidateOnRefresh:true
+      }
+    });
+  });
+
+  ScrollTrigger.refresh();
+}
+
 document.addEventListener('DOMContentLoaded', function(){
   renderHeader();
   renderHero();
@@ -196,4 +306,6 @@ document.addEventListener('DOMContentLoaded', function(){
   document.querySelectorAll('.materia-completa').forEach(function(el){
     el.addEventListener('click', function(e){ e.stopPropagation(); });
   });
+
+  iniciarEfeitos();
 });

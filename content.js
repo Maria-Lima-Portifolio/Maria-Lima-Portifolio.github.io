@@ -3,28 +3,20 @@ const content = {
   "logoSobrenome": "Lima",
   "nav": [
     {
-      "texto": "Redação",
+      "texto": "Sobre",
+      "href": "#sobre"
+    },
+    {
+      "texto": "Trabalhos",
       "href": "#redacao"
-    },
-    {
-      "texto": "Trabalhos Acadêmicos ",
-      "href": "#faculdade"
-    },
-    {
-      "texto": "Currículo",
-      "href": "#curriculo"
     },
     {
       "texto": "Blog",
       "href": "#blog"
     },
     {
-      "texto": "Freelas",
-      "href": "#freelas"
-    },
-    {
-      "texto": "Informes",
-      "href": "#informes"
+      "texto": "Currículo",
+      "href": "#curriculo"
     },
     {
       "texto": "Contatos",
@@ -40,7 +32,7 @@ const content = {
     ],
     "botaoTexto": "Entre em contato",
     "botaoHref": "#contato",
-    "fotoUrl": "images/hero-1787426319700.jfif",
+    "fotoUrl": "images/hero-estadio.jpg",
     "fotoAlt": "Foto da jornalista"
   },
   "secoes": [
@@ -50,7 +42,7 @@ const content = {
       "toggleTexto": "Ler matéria completa",
       "linkTexto": "Ver publicação original →",
       "verTodasTexto": "Ver todas as matérias",
-      "visiveis": 3,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -643,7 +635,7 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
-      "visiveis": 3,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -1153,12 +1145,23 @@ const content = {
       ]
     },
     {
+      "id": "informes",
+      "titulo": "Informes",
+      "toggleTexto": "Ler mais",
+      "linkTexto": "Ver mais →",
+      "verTodasTexto": "Ver todas",
+      "visiveis": 6,
+      "fundo": "nenhum",
+      "fundoImagemUrl": "",
+      "itens": []
+    },
+    {
       "id": "campeonatos",
       "titulo": "Futebol ",
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todos os textos",
-      "visiveis": 3,
+      "visiveis": 6,
       "fundo": "campo",
       "fundoImagemUrl": "",
       "itens": [
@@ -1219,7 +1222,7 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver publicação →",
       "verTodasTexto": "Ver todos os artigos",
-      "visiveis": 4,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -1266,7 +1269,7 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver trabalho completo →",
       "verTodasTexto": "Ver todos os trabalhos",
-      "visiveis": 3,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -1361,7 +1364,7 @@ const content = {
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
-      "visiveis": 4,
+      "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
       "itens": [
@@ -1393,17 +1396,6 @@ const content = {
           "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
         }
       ]
-    },
-    {
-      "id": "informes",
-      "titulo": "Informes",
-      "toggleTexto": "Ler mais",
-      "linkTexto": "Ver mais →",
-      "verTodasTexto": "Ver todas",
-      "visiveis": 4,
-      "fundo": "nenhum",
-      "fundoImagemUrl": "",
-      "itens": []
     }
   ],
   "curriculo": {

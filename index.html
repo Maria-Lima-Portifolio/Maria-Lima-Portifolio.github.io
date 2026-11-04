@@ -6,10 +6,12 @@
 <title>Portfólio Jornalístico</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@700;900&family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Archivo:ital,wght@0,400..700;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div id="progresso"><i id="progresso-fill"></i></div>
+<div id="contador"><b id="contador-n">01</b> / <span id="contador-total"></span></div>
 <header>
   <div class="header-main">
     <div class="logo" id="logo"></div>
@@ -18,14 +20,19 @@
     </nav>
   </div>
 </header>
-<section class="hero" id="sobre">
-  <div class="container hero-grid">
-    <img class="hero-foto" id="hero-foto" src="" alt="">
-    <div class="hero-kicker" id="hero-kicker"></div>
-    <h1 id="hero-titulo"></h1>
-    <div id="hero-paragrafos"></div>
-    <button type="button" class="hero-ver-mais" id="hero-ver-mais" onclick="toggleHeroTexto(this)"></button>
-    <a href="#contato" class="btn" id="hero-botao"></a>
+<section class="hero" id="sobre" data-indice="1">
+  <div class="hero-row">
+    <div class="hero-media"><img class="hero-foto" id="hero-foto" src="" alt=""></div>
+    <div class="hero-text">
+      <div class="hero-text-inner">
+        <div class="hero-kicker" id="hero-kicker"></div>
+        <h1 id="hero-titulo"></h1>
+        <div id="hero-paragrafos"></div>
+        <button type="button" class="hero-ver-mais" id="hero-ver-mais" onclick="toggleHeroTexto(this)"></button>
+        <a href="#contato" class="btn" id="hero-botao"></a>
+        <div class="scroll-cue">Role <span class="arrow">↓</span></div>
+      </div>
+    </div>
   </div>
 </section>
 <div id="secoes-dinamicas"></div>
@@ -58,6 +65,9 @@
   </div>
 </section>
 <footer id="footer-texto"></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js"></script>
 <script src="content.js"></script>
 <script src="script.js"></script>
 </body>
