@@ -12,6 +12,11 @@ function toggleMateria(card){
   card.classList.toggle('aberta');
 }
 
+function abrirMateria(card){
+  var url = card.dataset.link;
+  if(url) window.open(url, '_blank', 'noopener');
+}
+
 function toggleVerTodas(btn){
   var secaoEl = btn.closest('.secao');
   var extras = secaoEl.querySelectorAll('.materia.extra');
@@ -71,9 +76,10 @@ function renderHero(){
   foto.alt = h.fotoAlt;
 }
 
-function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
+var SECAO_REVISTA_ID = 'nova-secao-1785446582110';
+
+function materiaCardHTML(item, toggleTexto, linkTexto, oculta, ehRevista){
   var ehPdf = /\.pdf(\?|#|$)/i.test(item.link || '');
-  var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
   var videos = item.videos || [];
   var midia;
   if(videos.length){
@@ -85,17 +91,27 @@ function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
   } else {
     midia = item.capaUrl ? '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' : '';
   }
-  var linkFinal = ehPdf ? 'Abrir PDF da edição ↗' : escapeHtml(linkTexto);
 
-  var corpoExtra =
-    '<div class="materia-toggle">' + escapeHtml(toggleTexto) + ' <span class="seta">▾</span></div>' +
-    '<div class="materia-completa">' +
-      paragrafos +
-      '<a href="' + escapeAttr(item.link) + '" target="_blank" onclick="event.stopPropagation()">' + linkFinal + '</a>' +
-    '</div>';
+  var corpoExtra, atributoLink;
+  if(ehRevista){
+    var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
+    var linkFinal = ehPdf ? 'Abrir PDF da edição ↗' : escapeHtml(linkTexto);
+    corpoExtra =
+      '<div class="materia-toggle">' + escapeHtml(toggleTexto) + ' <span class="seta">▾</span></div>' +
+      '<div class="materia-completa">' +
+        paragrafos +
+        '<a href="' + escapeAttr(item.link) + '" target="_blank" onclick="event.stopPropagation()">' + linkFinal + '</a>' +
+      '</div>';
+    atributoLink = '';
+  } else {
+    // matérias: sem texto completo embutido, o card inteiro abre a publicação original
+    corpoExtra = '<div class="materia-toggle">' + (ehPdf ? 'Abrir PDF ↗' : escapeHtml(linkTexto)) + '</div>';
+    atributoLink = ' data-link="' + escapeAttr(item.link) + '"';
+  }
 
   return (
-    '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)">' +
+    '<div class="materia' + (oculta ? ' extra oculta' : '') + '"' + atributoLink +
+      ' onclick="' + (ehRevista ? 'toggleMateria(this)' : 'abrirMateria(this)') + '">' +
       midia +
       '<div class="materia-corpo">' +
         '<span class="materia-tag">' + escapeHtml(item.tag) + '</span>' +
@@ -109,8 +125,9 @@ function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
 
 function secaoHTML(secao){
   var visiveis = secao.visiveis || 4;
+  var ehRevista = secao.id === SECAO_REVISTA_ID;
   var cards = secao.itens.map(function(item, i){
-    return materiaCardHTML(item, secao.toggleTexto, secao.linkTexto, i >= visiveis);
+    return materiaCardHTML(item, secao.toggleTexto, secao.linkTexto, i >= visiveis, ehRevista);
   }).join('');
 
   var temMais = secao.itens.length > visiveis;
