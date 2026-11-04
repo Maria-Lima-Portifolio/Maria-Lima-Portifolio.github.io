@@ -23,6 +23,10 @@ const content = {
       "href": "#freelas"
     },
     {
+      "texto": "Informes",
+      "href": "#informes"
+    },
+    {
       "texto": "Contatos",
       "href": "#contato"
     }
@@ -1389,6 +1393,17 @@ const content = {
           "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
         }
       ]
+    },
+    {
+      "id": "informes",
+      "titulo": "Informes",
+      "toggleTexto": "Ler mais",
+      "linkTexto": "Ver mais →",
+      "verTodasTexto": "Ver todas",
+      "visiveis": 4,
+      "fundo": "nenhum",
+      "fundoImagemUrl": "",
+      "itens": []
     }
   ],
   "curriculo": {
