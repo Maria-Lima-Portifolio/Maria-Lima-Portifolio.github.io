@@ -71,7 +71,17 @@ function renderHero(){
 function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
   var ehPdf = /\.pdf(\?|#|$)/i.test(item.link || '');
   var paragrafos = item.textoCompleto.map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
-  var capa = item.capaUrl ? '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' : '';
+  var videos = item.videos || [];
+  var midia;
+  if(videos.length){
+    midia = '<div class="materia-videos" onclick="event.stopPropagation()">' +
+      videos.map(function(url){
+        return '<video class="materia-video-item" src="' + escapeAttr(url) + '" controls preload="metadata"></video>';
+      }).join('') +
+    '</div>';
+  } else {
+    midia = item.capaUrl ? '<img class="materia-capa" src="' + escapeAttr(item.capaUrl) + '" alt="' + escapeAttr(item.capaAlt) + '">' : '';
+  }
   var linkFinal = ehPdf ? 'Abrir PDF da edição ↗' : escapeHtml(linkTexto);
 
   var corpoExtra =
@@ -83,7 +93,7 @@ function materiaCardHTML(item, toggleTexto, linkTexto, oculta){
 
   return (
     '<div class="materia' + (oculta ? ' extra oculta' : '') + '" onclick="toggleMateria(this)">' +
-      capa +
+      midia +
       '<div class="materia-corpo">' +
         '<span class="materia-tag">' + escapeHtml(item.tag) + '</span>' +
         '<h3>' + escapeHtml(item.titulo) + '</h3>' +
@@ -106,10 +116,14 @@ function secaoHTML(secao){
     estilo = ' style="background-image:url(&quot;' + escapeAttr(secao.fundoImagemUrl) + '&quot;)"';
   }
 
+  var descricaoParagrafos = (secao.descricao || []).map(function(p){ return '<p>' + escapeHtml(p) + '</p>'; }).join('');
+  var descricaoHtml = descricaoParagrafos ? '<div class="secao-descricao">' + descricaoParagrafos + '</div>' : '';
+
   return (
     '<section class="secao" id="' + escapeAttr(secao.id) + '" data-fundo="' + escapeAttr(secao.fundo) + '"' + estilo + '>' +
       '<div class="container">' +
         '<div class="secao-titulo"><h2>' + escapeHtml(secao.titulo) + '</h2></div>' +
+        descricaoHtml +
         '<div class="grid-materias">' + cards + '</div>' +
         (temMais ?
           '<button type="button" class="btn-ver-todas" data-ver-texto="' + escapeAttr(secao.verTodasTexto) + '" onclick="toggleVerTodas(this)">' +

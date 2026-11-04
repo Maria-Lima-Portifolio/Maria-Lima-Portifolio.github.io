@@ -140,6 +140,16 @@ nav a:hover{color:var(--destaque);}
 .secao-titulo::after{
   content:"";flex:1;height:2px;background:var(--linha);
 }
+.secao-descricao{
+  max-width:720px;
+  margin:-16px 0 32px;
+  color:var(--cinza-medio);
+  font-size:16px;
+  line-height:1.6;
+}
+.secao-descricao p{margin-bottom:10px;}
+.secao[data-fundo="campo"] .secao-descricao,
+.secao[data-fundo="imagem"] .secao-descricao{color:#fff;}
 
 /* FUNDOS ESPECIAIS DE SEÇÃO */
 .secao[data-fundo="campo"]{
@@ -212,6 +222,24 @@ nav a:hover{color:var(--destaque);}
   object-fit:cover;
   border-bottom:2px solid var(--linha);
   filter:grayscale(20%);
+}
+.materia-videos{
+  display:flex;
+  gap:2px;
+  overflow-x:auto;
+  scroll-snap-type:x mandatory;
+  border-bottom:2px solid var(--linha);
+  cursor:default;
+}
+.materia-videos::-webkit-scrollbar{height:6px;}
+.materia-videos::-webkit-scrollbar-track{background:var(--cinza-claro);}
+.materia-videos::-webkit-scrollbar-thumb{background:var(--terracota);border-radius:10px;}
+.materia-video-item{
+  flex:0 0 80%;
+  scroll-snap-align:start;
+  aspect-ratio:4/3;
+  object-fit:cover;
+  background:#000;
 }
 .materia-corpo{padding:20px;}
 .materia-tag{

@@ -123,7 +123,12 @@ function addMateriaItem(container, item){
     '<div class="campo"><label>Título</label><input type="text" class="f-titulo" value="' + escapeAttr(item.titulo || '') + '"></div>' +
     '<div class="campo"><label>Resumo curto</label><textarea class="f-resumo" style="min-height:60px;">' + escapeHtml(item.resumo || '') + '</textarea></div>' +
     '<div class="campo"><label>Texto completo (parágrafos separados por linha em branco)</label>' +
-      '<textarea class="f-texto" style="min-height:120px;">' + escapeHtml((item.textoCompleto || []).join('\n\n')) + '</textarea></div>';
+      '<textarea class="f-texto" style="min-height:120px;">' + escapeHtml((item.textoCompleto || []).join('\n\n')) + '</textarea></div>' +
+    '<div class="campo">' +
+      '<label>Vídeos (opcional — várias abas que rolam de lado a lado no site, ideal até 4)</label>' +
+      '<div class="item-videos"></div>' +
+      '<button class="btn-adicionar btn-adicionar-video" type="button">+ Adicionar vídeo</button>' +
+    '</div>';
 
   wireRemover(div);
   wireOrdenar(div);
@@ -135,7 +140,46 @@ function addMateriaItem(container, item){
   });
   urlInput.addEventListener('input', function(){ preview.src = urlInput.value; });
 
+  var videosContainer = div.querySelector('.item-videos');
+  (item.videos || []).forEach(function(video){ addVideoSubItem(videosContainer, video); });
+  div.querySelector('.btn-adicionar-video').addEventListener('click', function(){
+    addVideoSubItem(videosContainer, {});
+  });
+
   container.appendChild(div);
+}
+
+function addVideoSubItem(container, video){
+  var div = document.createElement('div');
+  div.className = 'item-editor video-editor';
+  div.innerHTML =
+    '<button class="btn-remover" type="button">Remover vídeo</button>' +
+    '<video class="capa-preview f-video-preview" src="' + escapeAttr(video.url || '') + '" controls></video>' +
+    '<div class="campo"><label>Link do vídeo (ou envie um arquivo abaixo)</label>' +
+      '<input type="url" class="f-video-url" value="' + escapeAttr(video.url || '') + '" placeholder="https://..."></div>' +
+    '<div class="campo"><label>Ou escolha um arquivo de vídeo do computador (ideal até ~30 MB)</label>' +
+      '<input type="file" class="f-video-file" accept="video/*"></div>';
+
+  wireRemover(div);
+  wireOrdenar(div);
+  var fileInput = div.querySelector('.f-video-file');
+  var preview = div.querySelector('.f-video-preview');
+  var urlInput = div.querySelector('.f-video-url');
+  fileInput.addEventListener('change', function(){
+    if(fileInput.files[0]) preview.src = URL.createObjectURL(fileInput.files[0]);
+  });
+  urlInput.addEventListener('input', function(){ preview.src = urlInput.value; });
+
+  container.appendChild(div);
+}
+
+function lerVideosDoItem(container){
+  return Array.from(container.querySelectorAll(':scope > .video-editor')).map(function(div){
+    return {
+      url: div.querySelector('.f-video-url').value,
+      _videoFile: div.querySelector('.f-video-file').files[0] || null
+    };
+  });
 }
 
 function lerMaterias(container){
@@ -149,7 +193,8 @@ function lerMaterias(container){
       resumo: div.querySelector('.f-resumo').value,
       textoCompleto: div.querySelector('.f-texto').value.split(/\n\s*\n/).map(function(p){ return p.trim(); }).filter(Boolean),
       link: div.querySelector('.f-link').value,
-      _capaFile: div.querySelector('.f-capa-file').files[0] || null
+      _capaFile: div.querySelector('.f-capa-file').files[0] || null,
+      videos: lerVideosDoItem(div.querySelector('.item-videos'))
     };
   });
 }
@@ -174,6 +219,8 @@ function criarSecaoPainel(secao){
     '</div>' +
     '<p class="ajuda">Endereço desta seção (use no menu de navegação acima se quiser uma aba pra ela): <strong>#' + escapeHtml(div.dataset.secaoId) + '</strong></p>' +
     '<div class="campo"><label>Nome da seção (aparece como título)</label><input type="text" class="f-secao-titulo" value="' + escapeAttr(secao.titulo || '') + '"></div>' +
+    '<div class="campo"><label>Texto de introdução da seção (opcional — explique o que é, totais, etc. Separe parágrafos deixando uma linha em branco entre eles)</label>' +
+      '<textarea class="f-secao-descricao" style="min-height:90px;">' + escapeHtml((secao.descricao || []).join('\n\n')) + '</textarea></div>' +
     '<div class="linha-2">' +
       '<div class="campo"><label>Texto do botão "ler mais" de cada card</label><input type="text" class="f-secao-toggle" value="' + escapeAttr(secao.toggleTexto || 'Ler mais') + '"></div>' +
       '<div class="campo"><label>Texto do link dentro do card expandido</label><input type="text" class="f-secao-link" value="' + escapeAttr(secao.linkTexto || 'Ver mais →') + '"></div>' +
@@ -253,6 +300,7 @@ function lerSecoes(){
     return {
       id: div.dataset.secaoId,
       titulo: div.querySelector('.f-secao-titulo').value,
+      descricao: div.querySelector('.f-secao-descricao').value.split(/\n\s*\n/).map(function(p){ return p.trim(); }).filter(Boolean),
       toggleTexto: div.querySelector('.f-secao-toggle').value,
       linkTexto: div.querySelector('.f-secao-link').value,
       verTodasTexto: div.querySelector('.f-secao-vertodas').value,
@@ -428,6 +476,27 @@ async function enviarImagem(file, slug, token){
   return caminho;
 }
 
+async function enviarVideo(file, slug, token){
+  var buffer = await file.arrayBuffer();
+  var base64 = arrayBufferToBase64(buffer);
+  var ext = (file.name.split('.').pop() || 'mp4').toLowerCase();
+  var caminho = 'videos/' + slug + '-' + Date.now() + '.' + ext;
+
+  var resp = await fetch(githubUrl(caminho), {
+    method: 'PUT',
+    headers: githubHeaders(token),
+    body: JSON.stringify({
+      message: 'Envia vídeo via painel',
+      content: base64,
+      branch: GITHUB_BRANCH
+    })
+  });
+  if(!resp.ok){
+    throw new Error('falha ao enviar vídeo: ' + (await mensagemErroGithub(resp)));
+  }
+  return caminho;
+}
+
 async function publicarContentJs(payload, token){
   var caminho = 'content.js';
   var shaAtual = null;
@@ -519,6 +588,15 @@ async function publicar(){
           item.capaUrl = await enviarImagem(item._capaFile, secao.id + '-' + i, token);
         }
         delete item._capaFile;
+
+        var videos = item.videos || [];
+        for (let v = 0; v < videos.length; v++){
+          if(videos[v]._videoFile){
+            videos[v].url = await enviarVideo(videos[v]._videoFile, secao.id + '-' + i + '-v' + v, token);
+          }
+          delete videos[v]._videoFile;
+        }
+        item.videos = videos.map(function(video){ return video.url; }).filter(Boolean);
       }
     }
 
