@@ -39,6 +39,7 @@ const content = {
     {
       "id": "redacao",
       "titulo": "Redação",
+      "descricao": [],
       "toggleTexto": "Ler matéria completa",
       "linkTexto": "Ver publicação original →",
       "verTodasTexto": "Ver todas as matérias",
@@ -71,7 +72,8 @@ const content = {
             "Em todas as etapas, ela recomendava manter a esperança. Para a equipe de Saúde, a orientação é de que mesmo os doentes incuráveis continuam merecendo tratamento. O médico deve saber lidar com suas limitações e aceitar quando o paciente optar por não seguir estritamente suas orientações, mantendo, ainda assim, a relação médica. Afinal, mesmo que o caso não seja mais cirúrgico, por exemplo, o indivíduo continua sendo seu paciente, se assim o desejar.",
             "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/tertulia-de-outubro-da-amsp-aborda-o-legado-de-elisabeth-kubler-ross/"
+          "link": "https://www.apm.org.br/tertulia-de-outubro-da-amsp-aborda-o-legado-de-elisabeth-kubler-ross/",
+          "videos": []
         },
         {
           "tag": "APM - GERAIS ",
@@ -94,7 +96,8 @@ const content = {
             "Por fim, David Alves de Souza Lima lembrou que o treino mental não substitui o treino físico nem o tático. Dormir bem e saber gerenciar o estresse, gastando energia apenas com o que realmente importa, são passos fundamentais que devem andar juntos com a preparação mental.",
             "Foto: Reprodução Rádio e TV Imprensa"
           ],
-          "link": "https://www.apm.org.br/noticias/ultimas-noticias/page/4/"
+          "link": "https://www.apm.org.br/noticias/ultimas-noticias/page/4/",
+          "videos": []
         },
         {
           "tag": "APM - TERTÚLIA ",
@@ -124,7 +127,8 @@ const content = {
             "Jantar com Beatriz (2017): A comédia dramática acompanha Beatriz, uma imigrante de origem humilde no México que construiu carreira na área da Saúde movida por sua bondade inata, e Doug Strutt, um empresário implacável que se tornou bilionário. Quando esses mundos opostos colidem durante um jantar, o encontro muda a vida de ambos. A obra encerra-se com um final metafórico associado ao suicídio da protagonista como forma de libertação de sua dor profunda.",
             "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/suicidio-nos-filmes-e-tema-da-tertulia-de-setembro-da-amsp/"
+          "link": "https://www.apm.org.br/suicidio-nos-filmes-e-tema-da-tertulia-de-setembro-da-amsp/",
+          "videos": []
         },
         {
           "tag": "APM - IESAPM ",
@@ -145,7 +149,8 @@ const content = {
             "Na etapa de alta médica, a presidente da APM Fernandópolis afirmou que a segurança depende de garantir que o paciente compreenda seu diagnóstico, o uso dos medicamentos, a necessidade de retorno e os sinais de alerta que exigem nova avaliação. A alta deve ser entendida como uma transição do atendimento, e não como o fim dos cuidados. Para reforçar essa proteção, orientou que se peça que o próprio paciente explique, com suas palavras, as instruções recebidas.",
             "Por fim, Amanda disse que a qualidade não é um documento, um selo ou uma obrigação do setor de gestão. É uma forma de cuidar, pois quando nos comunicamos melhor, prescrevemos melhor, registramos melhor e, ao trabalharmos verdadeiramente em equipe, estamos fazendo qualidade todos os dias."
           ],
-          "link": "https://www.apm.org.br/o-papel-da-equipe-medica-na-qualidade-hospitalar-encerra-semana-academica-do-iesapm/"
+          "link": "https://www.apm.org.br/o-papel-da-equipe-medica-na-qualidade-hospitalar-encerra-semana-academica-do-iesapm/",
+          "videos": []
         },
         {
           "tag": "APM - TERTÚLIA",
@@ -178,7 +183,8 @@ const content = {
             "Por fim, para o médico, o futuro da Infectologia é colaborativo, tecnológico e centrado na prevenção, para construir um mundo mais saudável, resiliente e sustentável.",
             "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/amsp-recebe-o-infectologista-david-everson-uip-na-tertulia-de-agosto/"
+          "link": "https://www.apm.org.br/amsp-recebe-o-infectologista-david-everson-uip-na-tertulia-de-agosto/",
+          "videos": []
         },
         {
           "tag": "APM - REGIONAL PIRACICABA ",
@@ -202,7 +208,8 @@ const content = {
             "O especialista acrescentou que, pautando-se por valores de humanização e equidade, é possível impulsionar esses negócios e inseri-los no conceito de cidades inteligentes, avançando em ambas as frentes de forma simultânea. Segundo ele, o ecossistema de startups e empreendedorismo precisa ter sustentabilidade financeira e social, estando diretamente atrelado aos pilares de ESG.",
             "Por fim, o presidente eleito da APM Piracicaba ressaltou que, na condição de entidade gestora, o grande desafio atual é estruturar a governança com o envolvimento de diferentes elos da cadeia produtiva. Uma vez consolidada essa governança, o objetivo principal passa a ser a geração efetiva de negócios dentro da CPL da Saúde."
           ],
-          "link": "https://www.apmpiracicaba.org.br/alex-goncalves-participa-do-jornal-da-manha-da-radio-jovem-pan-news/"
+          "link": "https://www.apmpiracicaba.org.br/alex-goncalves-participa-do-jornal-da-manha-da-radio-jovem-pan-news/",
+          "videos": []
         },
         {
           "tag": "APM - GERAIS ",
@@ -221,7 +228,8 @@ const content = {
             "O sexto módulo, por sua vez, foi sobre Arboviroses na Pediatria, com as palestras Não é só dengue e Vacinação de dengue e chikungunya em grupos de risco. O sétimo e último módulo trouxe sessões de casos clínicos, de pacientes com imunossupressão e comorbidade.",
             "No primeiro dia, os simpósios satélites abordaram Prevenção Pneumocócica no paciente pediátrico de risco: foco na identificação clínica e acesso via CRIE/RIE (Pfizer), Quando o saudável engana e o risco não perdoa: vacinação meningocócica da rotina ao paciente complexo (GSK) e Infecções por bactérias multi-R: quando suspeitar e como tratar? (Pfizer). No segundo dia, os temas foram Da Evidência ao Impacto: Nirsevimabe Redefinindo a Prevenção do VSR na Prática Clínica (Sanofi), Clesrovimabe: ampliando as estratégias de proteção contra o VSR (MSD) e Avançando no combate de doenças infectocontagiosas em populações vulneráveis (Eurofarma)."
           ],
-          "link": "https://www.apm.org.br/apm-sedia-o-ii-simposio-de-infeccoes-em-pacientes-pediatricos-imunossuprimidos-e-com-comorbidades/"
+          "link": "https://www.apm.org.br/apm-sedia-o-ii-simposio-de-infeccoes-em-pacientes-pediatricos-imunossuprimidos-e-com-comorbidades/",
+          "videos": []
         },
         {
           "tag": "Piracicaba - Gerais ",
@@ -242,7 +250,8 @@ const content = {
             "Para finalizar, o vice-presidente da APM Piracicaba explica que, segundo o seu conhecimento, existem hoje duas startups voltadas à Saúde na cidade: uma de Inteligência Artificial aplicada à Saúde, principalmente no matriciamento e na regulação voltados para o Sistema Único de Saúde, e outra pertencente a um grupo de garotas, focada no bem-estar do recém-nascido prematuro. Elas possuem um projeto muito interessante de acolhimento e desenvolvimento desse bebê prematuro.",
             "“A gente espera que, com esse fomento, com essa estrutura e com todos esses atores – principalmente no Inova Acipi, PIN e no mapeamento estratégico do SEBRAE – a expectativa seja fomentar ainda mais negócios inovadores e fortalecer Piracicaba como um polo de inovação também na área da Saúde”, finaliza."
           ],
-          "link": "https://www.apmpiracicaba.org.br/no-papo-com-cris-alex-goncalves-alerta-sobre-doenca-renal-e-destaca-inovacao-na-saude/"
+          "link": "https://www.apmpiracicaba.org.br/no-papo-com-cris-alex-goncalves-alerta-sobre-doenca-renal-e-destaca-inovacao-na-saude/",
+          "videos": []
         },
         {
           "tag": "APM - BOLETIM EPIDEMIOLÓGICO ",
@@ -271,7 +280,8 @@ const content = {
             "Hepatite D",
             "A infecção provocou 782 mortes entre 2000 e 2025. O Sudeste apresentou o maior volume de mortes acumuladas no período, com 107 registros, sendo o estado de São Paulo a unidade federativa com maior número de casos, contabilizando 62 óbitos."
           ],
-          "link": "https://www.apm.org.br/novo-boletim-epidemiologico-apresenta-as-hepatites-virais-no-brasil/"
+          "link": "https://www.apm.org.br/novo-boletim-epidemiologico-apresenta-as-hepatites-virais-no-brasil/",
+          "videos": []
         },
         {
           "tag": "Piracicaba - Gerais ",
@@ -295,7 +305,8 @@ const content = {
             "Para o médico, alguns procedimentos robóticos são fenomenalmente melhores, e o nível de precisão que o robô oferece ao cirurgião é muito maior, como na prostatectomia robótica e em alguns tipos de hérnias de parede abdominal. “Quem opera é o cirurgião; o robô é acoplado ao paciente e nos dá mais liberdade de movimentos. Na dinâmica de posicionamento da câmera colocada no paciente, conseguimos enxergar muito melhor, e o robô elimina vícios de movimento, sendo mais preciso e fluido, tornando as cirurgias seguras e eficientes”, finaliza.",
             "Fotos: Reprodução Papo com Cris"
           ],
-          "link": "https://www.apmpiracicaba.org.br/presidente-da-apm-piracicaba-participa-do-podcast-papo-com-cris/"
+          "link": "https://www.apmpiracicaba.org.br/presidente-da-apm-piracicaba-participa-do-podcast-papo-com-cris/",
+          "videos": []
         },
         {
           "tag": "APM - TERTÚLIA",
@@ -323,7 +334,8 @@ const content = {
             "Para o futuro da especialidade, o cirurgião de cabeça e pescoço projeta uma Medicina com tratamentos e indicações personalizadas, o que ajudará a reduzir custos, além de exigir um investimento contínuo no treinamento rigoroso dos cirurgiões e em hospitais devidamente equipados.",
             "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/cirurgia-de-cabeca-e-pescoco-de-billroth-a-robotica-e-tema-da-tertulia-de-julho-da-amsp/"
+          "link": "https://www.apm.org.br/cirurgia-de-cabeca-e-pescoco-de-billroth-a-robotica-e-tema-da-tertulia-de-julho-da-amsp/",
+          "videos": []
         },
         {
           "tag": "APM - GERAIS",
@@ -347,7 +359,8 @@ const content = {
             "Do ponto de vista clínico, Bottura avalia que Benigno sofre de um transtorno mental grave. O psiquiatra propôs uma reflexão provocativa sobre o conflito de sentimentos gerado no público: por que sentimos compaixão e dó de um personagem que cometeu um abuso sexual? Para o médico, a genialidade e o perigo da obra residem justamente quando a narrativa é conduzida de forma tão envolvente que faz com que o espectador desenvolva empatia por Benigno, apesar da gravidade de seus atos.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/cine-debate-da-apm-traz-analise-da-obra-fale-com-ela/"
+          "link": "https://www.apm.org.br/cine-debate-da-apm-traz-analise-da-obra-fale-com-ela/",
+          "videos": []
         },
         {
           "tag": "APM - CBMG26",
@@ -380,7 +393,8 @@ const content = {
             "Entre as medidas urgentes, o palestrante listou a revisão das diretrizes curriculares, a valorização do histórico acadêmico nos concursos de residência, o avanço de projetos de lei que garantam a isonomia dos exames e a readequação das bolsas para assegurar condições dignas de vida e trabalho aos médicos brasileiros.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/cbmg-diretor-da-apm-coordena-mesa-sobre-residencia-medica/"
+          "link": "https://www.apm.org.br/cbmg-diretor-da-apm-coordena-mesa-sobre-residencia-medica/",
+          "videos": []
         },
         {
           "tag": "APM - CBMG26",
@@ -414,7 +428,8 @@ const content = {
             "Por fim, foram destacadas duas novas ferramentas jurídicas de proteção à classe médica, a exemplo da Resolução CFM 2.462, que agora pune severamente operadoras e OSs que atrasarem pagamentos, proibindo a desculpa de reter o dinheiro do médico enquanto aguardam repasses.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/cenario-atual-do-trabalho-medico-na-saude-suplementar-e-destaque-no-congresso-da-amb/"
+          "link": "https://www.apm.org.br/cenario-atual-do-trabalho-medico-na-saude-suplementar-e-destaque-no-congresso-da-amb/",
+          "videos": []
         },
         {
           "tag": "APM - TERTÚLIA",
@@ -436,7 +451,8 @@ const content = {
             "Ubaldino Gusmão Figueira, nascido em Vitória da Conquista (BA), formou-se no ano de 1932 pela Faculdade de Medicina de Minas Gerais. O fato pitoresco narrado por Lybio é que Ubaldino mudou-se para a cidade de Patos de Minas e, pouco tempo depois, em 1941, aos 34 anos, foi acometido por uma apendicite. Diante da urgência, ele próprio se operou, contando apenas com o auxílio de outro colega médico e de espelhos posicionados estrategicamente na sala de cirurgia. Foi uma autocirurgia realizada sob anestesia local, utilizando procaína.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/tertulia-de-junho-da-amsp-traz-curiosidades-pitorescas-da-historia-da-medicina/"
+          "link": "https://www.apm.org.br/tertulia-de-junho-da-amsp-traz-curiosidades-pitorescas-da-historia-da-medicina/",
+          "videos": []
         },
         {
           "tag": "APM - TERTÚLIA",
@@ -457,7 +473,8 @@ const content = {
             "“Nós temos uma sociedade altamente sexualizada. Alta expectativa de desempenho, mas ela é pouco educada sexualmente. Se a gente olhar as redes sociais hoje em dia, se fala muito pouco de sexualidade. Os tratamentos são altamente eficazes e seguros, porém, a classe médica não está educada para aplicar esses tratamentos. As disfunções sexuais são prevalentes, porém, os pacientes procuram pouco. Então, apesar de ter toda essa evolução que a gente teve na história da sexualidade, chegando a tratamentos muito bons, muito efetivos, a gente continua com uma dificuldade muito grande de tratar esses pacientes”, concluiu.",
             "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/a-historia-da-medicina-sexual-dos-mitos-ao-viagra-e-tema-de-tertulia-da-amsp/"
+          "link": "https://www.apm.org.br/a-historia-da-medicina-sexual-dos-mitos-ao-viagra-e-tema-de-tertulia-da-amsp/",
+          "videos": []
         },
         {
           "tag": "Piracicaba - Gerais ",
@@ -477,7 +494,8 @@ const content = {
             "Por fim, o especialista explica que a primeira fase do tratamento é a procura por um especialista em doenças do aparelho digestivo, como um gastroenterologista ou um coloproctologista. Os primeiros exames a serem solicitados são os exames laboratoriais e o exame de colonoscopia, que permite avaliar o intestino grosso e o colón, e se houver lesões, será solicitada uma biópsia.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apmpiracicaba.org.br/ricardo-tedeschi-fala-sobre-doencas-inflamatorias-intestinais-na-jovem-pan-piracicaba/"
+          "link": "https://www.apmpiracicaba.org.br/ricardo-tedeschi-fala-sobre-doencas-inflamatorias-intestinais-na-jovem-pan-piracicaba/",
+          "videos": []
         },
         {
           "tag": "APM - BOLETIM EPIDEMIOLÓGICO ",
@@ -508,7 +526,8 @@ const content = {
             "O panorama geral aponta para significativas disparidades regionais na vigilância e no tratamento da água no Brasil, destacando o desafio de garantir informações confiáveis e qualidade da água para mais de 51 milhões de pessoas. Isso exige investimentos urgentes em infraestrutura e monitoramento, bem como esforço integrado entre esferas de governo para que o Vigiagua cumpra seu papel estratégico na promoção da saúde pública.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/boletim-epidemiologico-destaca-programa-nacional-de-vigilancia-da-qualidade-da-agua-para-consumo-humano/"
+          "link": "https://www.apm.org.br/boletim-epidemiologico-destaca-programa-nacional-de-vigilancia-da-qualidade-da-agua-para-consumo-humano/",
+          "videos": []
         },
         {
           "tag": "APM - TERTÚLIA ",
@@ -532,7 +551,8 @@ const content = {
             "Por fim, a especialista conclui que o programa de treinamento aprimorou significativamente os conhecimentos e habilidades dos educadores na triagem visual, auxiliando na detecção precoce de problemas oculares em crianças, apresentando grande potencial para a implementação em larga escala e podendo contribuir para a padronização de um programa nacional de saúde ocular.",
             "Texto e Fotos: Maria Lima"
           ],
-          "link": "https://www.apm.org.br/tertulia-de-novembro-traz-trabalhos-vencedores-dos-premios-cientificos-da-amsp/"
+          "link": "https://www.apm.org.br/tertulia-de-novembro-traz-trabalhos-vencedores-dos-premios-cientificos-da-amsp/",
+          "videos": []
         },
         {
           "tag": "APM - GERAIS ",
@@ -550,7 +570,8 @@ const content = {
             "A solenidade também contou com a presença do diretor de Responsabilidade Social da Associação Paulista de Medicina, Jorge Carlos Machado Curi, representando a instituição.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/voluntariado-medico-do-cangaiba-comemora-50-anos-com-solenidade-na-camara-municipal-de-sao-paulo/"
+          "link": "https://www.apm.org.br/voluntariado-medico-do-cangaiba-comemora-50-anos-com-solenidade-na-camara-municipal-de-sao-paulo/",
+          "videos": []
         },
         {
           "tag": "APM - CBMG25",
@@ -571,7 +592,8 @@ const content = {
             "Ao fim das apresentações, Endrigo deu espaço para os presentes fazerem perguntas aos convidados. O debate abordou temas sobre o que difere uma negligência informacional e dicas práticas de como realizar atendimentos particulares antes mesmo de se descredenciar de convênios médicos.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/3o-cmg-amb-diretores-da-apm-debatem-medicina-nas-redes-sociais/"
+          "link": "https://www.apm.org.br/3o-cmg-amb-diretores-da-apm-debatem-medicina-nas-redes-sociais/",
+          "videos": []
         },
         {
           "tag": "APM - GERAIS ",
@@ -593,7 +615,8 @@ const content = {
             "No terceiro último dia, os temas foram cefaleia e dor neuropática. Todas as discussões tiveram palestras que aprofundaram os assuntos, seguidas por ruma discussão entre os palestrantes e o público e depois o uso comparativo da Inteligência Artificial.  O Congresso foi uma excelente oportunidade para a troca de conhecimentos e experiências.",
             "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/iv-cpdor-quando-a-dor-comeca-a-importancia-do-diagnostico-e-tratamento-precoce/"
+          "link": "https://www.apm.org.br/iv-cpdor-quando-a-dor-comeca-a-importancia-do-diagnostico-e-tratamento-precoce/",
+          "videos": []
         },
         {
           "tag": "APM - GERAIS ",
@@ -625,13 +648,15 @@ const content = {
             "Também houve um painel dedicado à Inteligência Artificial, destacando como essa ferramenta pode contribuir com o jovem pediatra. O debate foi conduzido por Daniel Ferraz de Campos Filhos, engenheiro Aeroespacial, e a médica Thays Yada Matias Ferraz de Campos, ambos da Medway, com moderação de Guilherme Marques.",
             "Texto: Maria Lima (sob supervisão de Giovanna Rodrigues)"
           ],
-          "link": "https://www.apm.org.br/forum-conexao-jovem-pediatra-discute-ia-residencia-medica-midias-sociais-direito-medico-e-muito-mais/"
+          "link": "https://www.apm.org.br/forum-conexao-jovem-pediatra-discute-ia-residencia-medica-midias-sociais-direito-medico-e-muito-mais/",
+          "videos": []
         }
       ]
     },
     {
       "id": "nova-secao-1785446582110",
       "titulo": "Publicações Revista APM ",
+      "descricao": [],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
@@ -651,7 +676,8 @@ const content = {
             "Entre os benefícios que mais\nutiliza, destaca-se o serviço\nde despachante, que oferece aos associados e dependentes\natendimento junto a Detrans,\nCiretrans, Demutrans e demais\nórgãos de trânsito do estado de\nSão Paulo. A estrutura engloba\n32 modalidades, incluindo\nemplacamento, renovação CNH,\nlicenciamento anual, segunda via\nda carteira de habilitação, entre\noutros.",
             "“O atendimento é sempre\nexcelente e muito acessível. Gosto\nde todos os serviços da APM e\nme sinto em casa. Frequento\nsemanalmente. Também adoro\nparticipar das reuniões da\nAcademia de Medicina de São\nPaulo e das tertúlias, na sede da\nAPM. É um ambiente onde me\nsinto muito bem”, afirma."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_758.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_758.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 758",
@@ -673,7 +699,8 @@ const content = {
             "Para finalizar o ano, está prevista mais\numa edição do curso de Inteligência\nArtificial para Médicos, com foco em\ncomo a IA pode ser incorporada à rotina\nmédica para otimizar o tempo, ampliar\na produtividade, apoiar os estudos,\nmelhorar a organização e facilitar\na comunicação com os pacientes. O\nencontro abordará exemplos práticos\nde uso da IA generativa, os principais\nriscos relacionados a erros, vieses e\ninformações imprecisas, além das novas\ndiretrizes do CFM para a utilização ética\ne segura dessas ferramentas.",
             "Ao longo de 2026, também foram\nrealizados cursos de Medicina Baseada\nem Evidências, Gerenciamento do\nSangue do Paciente (em parceria com\na EPM/Unifesp) e Gestão Financeira\npara Médicos, alguns dos quais terão\nnovas turmas no próximo ano. Para\ntodos, há condições diferenciadas\npara os associados da APM. Consulte\nas informações completas em www.\niesapm.org.br ou entre em contato pelo\ne-mail comercial@iesapm.org.br,\ntelefone (11) 3188-4300 ou\nWhatsApp (11) 97519-5075."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_758.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_758.pdf",
+          "videos": []
         },
         {
           "tag": "Cobertura CBMG26 | 757",
@@ -689,7 +716,8 @@ const content = {
             "Encerrando as discussões, Fernando\nTallo detalhou a realidade estatística\ndas vagas e a concorrência no País.\n“Essa conta não fecha devido ao\nboom indiscriminado de escolas\nmédicas nas últimas duas décadas.\nA dispersão de dados no sistema\ne-MEC é tamanha que, hoje, nenhuma\nentidade consegue precisar o\nnúmero exato de vagas de graduação\nexistentes no País.",
             "O diretor da APM reforçou que a\npreocupação das entidades médicas\nnão visa marginalizar os profissionais\ngeneralistas, mas sim protegê-los e\ngarantir a segurança dos pacientes,\nvisto que o treinamento em serviço é\ninsubstituível. Para amenizar a\ncrise, Tallo defendeu que o controle\nde entrada na graduação deve\nestar estritamente alinhado à\ncapacidade real de treinamento\ndos serviços de Saúde."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 757",
@@ -703,7 +731,8 @@ const content = {
             "Além disso, a associada já utilizou\no serviço de Passaporte, que\noferece assessoria gratuita aos\nmédicos no preenchimento de\ntodos os formulários exigidos\npara a solicitação do documento\nbrasileiro.",
             "“Os atendimentos sempre foram\nmuito bons. Não tenho nenhuma\nqueixa a fazer, todos sempre\nmuito gentis e prestativos”, elogia\nMaria Edith Vidigal."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf",
+          "videos": []
         },
         {
           "tag": "Cobertura CBMG26 - 757",
@@ -719,7 +748,8 @@ const content = {
             "Dando sequência aos debates,\nMarcos Eurípedes Pimenta, assessor\nda Diretoria da APM, destacou que\npara os médicos, o maior gargalo é a\nredução drástica de seus honorários,\nque encolheram para apenas 12%\ndos custos totais em modelos de\nplanos verticalizados. Há também\numa imensa assimetria de forças\nnas negociações, já que apenas 10\noperadoras concentram mais de\n70% dos usuários do País, o que\nresulta em reajustes irrisórios e\ndescredenciamentos imotivados.",
             "Ele ainda ressaltou que a classe\nmédica não se opõe a novos modelos\nde remuneração, mas condena\na precarização dos vínculos e os\ncontratos abusivos. Um exemplo\ncriticado foi o uso de Sociedades em\nConta de Participação (SCP). Por fim,\nforam destacadas novas ferramentas\njurídicas de proteção à classe\nmédica, a exemplo da Resolução CFM\n2.462/2026, que pune severamente\noperadoras e OSs que atrasarem\npagamentos, proibindo a desculpa de\nreter o dinheiro do médico enquanto\naguardam repasses."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 757",
@@ -738,7 +768,8 @@ const content = {
             "Se o objetivo é impulsionar o seu\nconsultório com novas tecnologias,\na Voa Health é a escolha certa. A\nVoa é uma assistente de Inteligência Artificial desenvolvida por médicos\nbrasileiros para apoiar a rotina\nclínica: ela acompanha a consulta,\ntransforma o áudio do atendimento\nem documentos estruturados (como\nlaudos, relatórios e atestados) e reduz\no tempo gasto com digitação. Assim,\no profissional ganha mais tempo\npara focar na qualidade do cuidado\nao paciente. A empresa oferece\ndescontos especiais na assinatura\nanual de qualquer plano.",
             "Por fim, a Medicina Direta oferece\num Prontuário Eletrônico dedicado\nao desenvolvimento de soluções\ntecnológicas diferenciadas. O\nsoftware é o único do Brasil com\nCertificação Nível 3 da SBIS para\nclínicas, ambulatórios e Telemedicina.\nTrata-se de um sistema sólido e\nrobusto, feito para elevar a sua\ninstituição de Saúde a um novo\npatamar, com condições imperdíveis\npara os associados da APM."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 757",
@@ -755,7 +786,8 @@ const content = {
             "A experiência gastronômica fica por\nconta de um excelente restaurante,\ncom varanda integrada e vista\npanorâmica. O ambiente é\ntotalmente acessível, dispondo de\nrampa interna e banheiro adaptado\npara pessoas com deficiência ou\nmobilidade reduzida. Além do café\nda manhã incluso nas diárias, o\nrestaurante serve almoço e jantar,\ncontando com opções temáticas\nespeciais em datas comemorativas\ncomo Páscoa, Dia das Mães e dos\nPais, Natal e Réveillon.",
             "Desde o dia 1° de junho, o\nHotel Fazenda APM está aberto\nao público de sexta-feira a\ndomingo e aos feriados, tanto\npara hospedagens quanto para\nday use. Para mais informações,\nbasta contatar a equipe pelos\ntelefones (11) 3188-4555 /\n(11) 4899-3535, WhatsApp (11)\n94187-4200 ou e-mail reservas@\nhotelfazendaapm.com.br"
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_757.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 756",
@@ -775,7 +807,8 @@ const content = {
             "A publicação é trimestral e traz,\na cada edição, uma média de\n5 artigos, que incluem textos\noriginais, relatos de casos, revisões\nnarrativas da literatura (artigos\nde atualização), cartas ao editor\ne seções ou colunas especiais em\ndiversas áreas da Medicina.",
             "A revista é produzida 100% em\nportuguês e não possui taxa\npara qualquer médico que deseje\npublicar nela, independentemente\nde ser associado ou não. Outro\ncharme da publicação é a arte das\ncapas, que trazem a cada edição a\nimagem de uma peça do acervo da\nPinacoteca da própria Associação\nPaulista de Medicina."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 756",
@@ -791,7 +824,8 @@ const content = {
             "Além das festividades juninas, as\nférias escolares estão batendo\nà porta. Para quem quer fugir\nda rotina, do caos da cidade e\naproveitar esses dias para descansar\nem família, o Parque Hotel\nGuararema é o destino perfeito.\nEm meio à natureza, o local combina\ntranquilidade e diversão em uma\nestrutura completa, com descontos\nde 10% a 15% para os associados.",
             "Outra opção é o Panorama\nHotel & SPA, localizado em\nÁguas de Lindóia. O hotel oferece\nacomodações aconchegantes e\nambientes arejados, com a missão\nde proporcionar uma maravilhosa\nexperiência de bem-estar. Para\nos associados da APM, 10% de\ndesconto durante todo o ano.\nAgora, se você busca um lugar\npara celebrar a época com toda a tradição gastronômica e cultural, o\nHotel Fazenda APM é o seu destino\ncerto! Com 164 hectares em meio à\nSerra da Cantareira, o espaço oferece\naconchego e um clima agradável\npara toda a família. Para melhorar,\nno dia 27 de junho, a partir das\n15h, realiza a sua tradicional Festa\nJunina. Associados da APM e seus\ndependentes são isentos da taxa de\ningresso, assim como as crianças com\naté 5 anos de idade e os idosos a\npartir dos 65 anos."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 754",
@@ -805,7 +839,8 @@ const content = {
             "O médico aproveita para elogiar\no atendimento oferecido pela equipe da APM. “Sempre\nfui muito bem atendido, os\nfuncionários oferecem total\nassistência ao associado, com\natualizações constantes via\ntelefone e e-mail”, destaca.",
             "O pneumologista também foi\no primeiro a aderir à parceria\nrecente com a TotalPass e\nnão esconde o entusiasmo.\nEle alegava dificuldades de\npraticar atividades físicas\ndevido ao trânsito da cidade\nde São Paulo e a demora que\nteria para chegar na academia.\n“A TotalPass encaixou muito\nbem na minha rotina, como\nnão tenho um local fixo de\natendimento, consigo sair das\nconsultas e treinar em qualquer\nlugar, em vez de perder horas\nno trânsito. Eu estou gostando\nbastante”, conclui."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 756",
@@ -818,7 +853,8 @@ const content = {
             "Ele conta que um dos serviços já\nutilizados foi o de despachante.\nA instituição disponibiliza aos\nmédicos e familiares diversos\nserviços relacionados ao\nDetran, Cinetrans, Demutrans\ne outros órgãos de trânsito de\ntodo o estado de São Paulo. São\n32 modalidades, como segunda\nvia de carteira de habilitação,\nCRLV e CRV; emplacamentos;\nlevantamento e pagamento\nde IPVA e recurso de multa;\nlicenciamento; cartão DSV; Isenção\ndo IPVA; entre outros.",
             "“Todas as vezes que precisei,\nsempre resolveram as minhas\nquestões com muita agilidade\ne eficiência. Além disso, todos\nos funcionários são muito bem\neducados e prestativos”, destaca."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_756.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 754",
@@ -834,7 +870,8 @@ const content = {
             "E se você curte peças tecnológicas\ne sustentáveis para o dia a dia, a\nInsider está revolucionando a moda\ncom design inteligente e funcional. É\nestilo e conforto que acompanham o\nseu ritmo. Seja um associado APM e\ngaranta 5% de cashback em todas as\nsuas compras.",
             "E nada melhor que praticar\natividades físicas em meio a um\nbelo cenário. Com 164 hectares em meio à Serra da Cantareira, o\nHotel Fazenda APM dispõe de\nquadras poliesportivas, para jogos\nde handebol, tênis, basquete, vôlei\ne futsal, além de dois campos de\nfutebol e quadras de tênis e de\nbeach tennis. O hotel também\npossui academia equipada com\nequipamentos profissionais para\nmanter a sua saúde em dia. Os\nassociados podem desfrutar do\nday use sem custo e têm desconto\nexclusivo nas hospedagens."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 754",
@@ -853,7 +890,8 @@ const content = {
             "Já a Total Mind, focada em saúde mental,\noferece terapia com diversos psicólogos\non-line e mais de 400 áudios exclusivos\nde meditação, em parceria com aplicativos\ncomo Conexa, Zen App e Positiv.",
             "Por fim, a Total Nutri é focada em\nnutrição, oferecendo planos alimentares\npersonalizados, receitas e consultas com\nnutricionistas para te ajudar a atingir seus\nobjetivos de forma saudável."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_754.pdf",
+          "videos": []
         },
         {
           "tag": "Regional Piracicaba 196",
@@ -873,7 +911,8 @@ const content = {
             "Congresso Mundial de Hanseníase no Brasil",
             "Em julho de 2025, em Bali, na Indonésia, o Brasil\nfoi oficialmente escolhido como país-sede do\n23° Congresso Mundial de Hanseníase, que\nacontece em 2028, no Rio de Janeiro, reforçando\no papel do País no cenário internacional."
           ],
-          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/03/APM_Piracicaba_196_jan.fev2026.pdf"
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/03/APM_Piracicaba_196_jan.fev2026.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 755",
@@ -890,7 +929,8 @@ const content = {
             "Já para quem deseja aproveitar a\nestação ao ar livre, o Parque Hotel\nGuararema é uma escolha excelente.\nLocalizado em meio à natureza, o\nparque combina tranquilidade e\ndiversão em uma estrutura completa.\nPiscina ao ar livre e climatizada,\ntrilhas, pescas, quadras esportivas\ne recreação garantem momentos\ninesquecíveis para todas as idades.\nPara os associados da APM, o local\noferece 10% de desconto sobre a\ntarifa vigente em alta temporada.",
             "Procurando um lugar tranquilo, leve e\nrelaxante? O Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol,\nparque aquático, lago para pesca\nesportiva, centro hípico, quadras\npoliesportiva, de tênis e de beach\ntennis, restaurante, churrasqueiras,\nacademia, salão de jogos e muita\nnatureza. Os associados podem\ndesfrutar do day use sem custo e têm\ndesconto exclusivo nas hospedagens."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 755",
@@ -904,7 +944,8 @@ const content = {
             "Além desse serviço, o associado\ntambém utilizou a Assessoria\nde Aposentadoria, que coloca\nà disposição dos membros ou\ndependentes profissionais\nqualificados e experientes para\nprestar esclarecimentos e dar\nentrada no requerimento de\nbenefícios do INSS. Assim, o médico\npode se aposentar com total\nsegurança e comodidade.",
             "“Todas as vezes que precisei utilizar\nesses serviços, fui muito bem\natendido. Os atendimentos são\neficientes, resolvidos com muita\nagilidade e precisão”, conclui."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 755",
@@ -923,7 +964,8 @@ const content = {
             "O benefício pode ser aplicado em\ncursos focados em diferentes\netapas da carreira, como os\nExtensivos, que oferecem\npreparação completa para provas\nde residência (Extensivo R1,\nExtensivo Enamed 4º, entre\noutros); Cursos Práticos, como\no CRMedway, focado na prova prática e simulações; e os\nEspecializados, voltados para a\npreparação para provas de título\ne reta final.",
             "Para garantir o benefício, o\nassociado deve acessar a página\nda parceria e preencher os dados\npara solicitar o cupom exclusivo.\nApós a confirmação da condição\nde associado pela APM, o código\né enviado por e-mail em até\ncinco dias úteis. Para ativar o\ncupom, basta acessar o site da\nMedway, escolher o curso ideal\npara a jornada e fazer o login\ncom o mesmo e-mail informado\nno formulário. Por fim, o cupom\ndeve ser inserido no momento\ndo pagamento para validar\no desconto."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_755.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 753 ",
@@ -942,7 +984,8 @@ const content = {
             "Para quem está avaliando essa\npossibilidade, a plataforma oferece\numa Sessão Estratégica gratuita.\nNela, é feita uma análise completa e\npersonalizada do seu perfil, com uma\navaliação detalhada de sua formação,\nexperiência e objetivos. A partir dessa\nanálise, é desenvolvido um roteiro\nespecífico, com um cronograma realista\ne marcos claros para sua jornada nos\nEstados Unidos, resultando em um\nplano de ação detalhado.",
             "A sessão também é um espaço\nexclusivo para esclarecer todas as\ndúvidas sobre o USMLE, residência e\no processo de adaptação. Associados\nda APM garantem 10% de desconto no\nPlano Moonwalker da RD Medicine. Para\nusufruir do benefício, basta informar\nseu CPF no formulário de inscrição\nda página exclusiva da parceria para\nvalidar a elegibilidade"
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 753",
@@ -959,7 +1002,8 @@ const content = {
             "Se a ideia é curtir um axé e relaxar\nna Bahia, o Transamérica Resort\nComandatuba é o seu lugar!\nLocalizado em uma ilha com 25\nkm de praia preservada, é perfeito\npara esquecer a correria e viver\nmomentos inesquecíveis com\nconforto total. Os associados da APM\ngarantem 10% off em hospedagens\nou pacotes.",
             "Caso o desejo seja relaxar em meio\nà natureza, o Hotel Fazenda APM\né o destino ideal. Com infraestrutura\ncompleta com quadras de tênis,\nbeach tennis, poliesportiva,\nchurrasqueiras, restaurante, parque\naquático e um dos melhores centros\nhípicos do estado, oferece lazer e\ndescanso com condições exclusivas\npara os médicos associados."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista Eu uso, eu aprovo | 753",
@@ -973,7 +1017,8 @@ const content = {
             "A APM também garante a\nconfecção dos blocos de\nreceituários controlados, de\nacordo com a autorização de\ncada médico, entregando-os no\nseu endereço com qualidade,\nsegurança e praticidade.",
             "“Sempre fui muito bem\natendida. Não tenho nenhuma\nqueixa negativa, pelo contrário.\nTudo que solicitei ou precisei\nfoi resolvido com agilidade.\nOs funcionários sempre\nforam muito competentes e\neducados”, conclui"
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_753.pdf",
+          "videos": []
         },
         {
           "tag": "Regional Piracicaba - 195",
@@ -990,7 +1035,8 @@ const content = {
             "Graças a essa gestão administrativa mais racional e\nmoderna, além dos resultados financeiros positivos,\nfoi possível investir na Cadeia Produtiva Local (CPL)\nda Saúde; manter a representatividade nos Conselhos\nMunicipais de Ciência, Tecnologia e Inovação (CMCTI)\ne de Saúde (CMS), com ampliação para Conselho\nCoordenador de Entidades; e solicitar o ingresso no\nConselho do Idoso.",
             "A revista da APM Piracicaba também segue forte,\ncom a inclusão de novos patrocínios previstos para o\npróximo ano. Houve ainda a participação ativa e exitosa\nno Congresso Médico Acadêmico de Piracicaba, e está\nem andamento a regularização das atas de natureza\nobrigatória para a entidade"
           ],
-          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/12/APM_Piracicaba_195_nov.dez2025.pdf"
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/12/APM_Piracicaba_195_nov.dez2025.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 752",
@@ -1006,7 +1052,8 @@ const content = {
             "Entre os diversos serviços e\nbenefícios que a APM oferece,\nestão enfatizados no aplicativo\nos planos de saúde, o Instituto\nde Ensino Superior (IESAPM),\no seguro gratuito de vida com\nDIT (diária de incapacidade\ntemporária) e o Hotel Fazenda.\nNa área de serviços, os\ndestaques estão para o APM\nFacilities, Sociocultural, Educação\nContinuada, Defesa Profissional,\nSeguro de Responsabilidade\nCivil, Cursos de Extensão,\nClassificados, Espaços para locação, Assessoria para\naposentadoria, seguros,\ndespachante, contabilidade,\nclube de benefícios e\nformulários de atestados.",
             "Com o aplicativo APM, o médico\npode desfrutar de todas essas\nvantagens de forma integrada\ne prática, fortalecendo a\nconexão com a entidade\ne garantindo um suporte\ncompleto tanto para a carreira\nquanto para a vida pessoal."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 752",
@@ -1021,7 +1068,8 @@ const content = {
             "E nada melhor do que uma casa\nlinda e confortável para garantir\nbem-estar. Com mais de 25 anos de\nmercado, a Camicado é uma rede\nde lojas especializadas em casa e\ndecoração com grande variedade\nde produtos, entre utensílios de\ncozinha, mesa posta, eletroportáteis,\ncutelaria, cama, mesa e banho e\norganização. E os benefícios para os associados APM vão desde descontos\naté cashback. Da mesma forma, a\nElectrolux também é uma ótima opção\npara renovar os eletrônicos de casa,\ndisponibilizando cashback e descontos\npara os associados da APM.",
             "Para desfrutar de muita beleza natural\ne garantir bem-estar para toda a\nfamília, o Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol, parque\naquático, lago para pesca esportiva,\ncentro hípico, quadras poliesportiva, de\ntênis e de beach tennis, restaurante,\nchurrasqueiras, academia, salão de\njogos e muita natureza. Os associados\npodem desfrutar do day use sem\ncusto e têm desconto exclusivo nas\nhospedagens."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista - Eu uso, eu aprovo | 752",
@@ -1035,7 +1083,8 @@ const content = {
             "Para o associado, o atendimento\nde qualidade é um dos grandes\ndiferenciais da APM. \"Não houve\numa vez em que eu liguei e não\nfui bem atendido. O pessoal do\natendimento sempre me tratou\nmuito bem, com muita educação\ne sempre solucionando os meus\nproblemas\", elogia.",
             "Outro benefício que o associado\ndestaca é a oportunidade de\nfrequentar o Hotel Fazenda da APM,\nque pode ser utilizado também para\ncomemorações, como aniversários"
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_752.pdf",
+          "videos": []
         },
         {
           "tag": "Regional Piracicaba - 194",
@@ -1050,7 +1099,8 @@ const content = {
             "O presidente também fez um agradecimento aos que\ncompareceram para prestigiar a celebração do Dia do\nMédico. Ele manifestou grande satisfação em ver os\ncolegas reunidos e expressou o desejo de que mais\npessoas participem no próximo ano. “Quando há\nunião, é criada a força necessária para melhorar a vida\nprofissional e pessoal”, destacou.\nA noite incluiu um momento de forte emoção: uma\nhomenagem ao cirurgião pediátrico e conselheiro\nfiscal titular da entidade, Antonio Sérgio Aloisi, falecido\nno primeiro semestre deste ano – confira uma matéria\nespecial nas próximas páginas.",
             "Alguns dos presentes deixaram suas impressões sobre\na festa: “Evento lindo e maravilhoso, organização nota\n10. Parabéns! Só tenho elogios a fazer”, Ary Pedroso\nJr. médico e vereador da cidade; “É um grande prazer\nestar aqui hoje prestigiando o Dia do Médico e esses\nprofissionais que vestem a camisa, lutam, trabalham\ndia e noite”, José Coral, presidente do HFC Saúde.\nO evento teve patrocínio de diversas empresas\nparceiras: APM Estadual, Sicoob UniCentro Br, FRZ,\nFrias Neto, Drogal, Intermedici, Biotipo, Unimed\nPiracicaba, Apsen, Eurofarma e Mantecorp Farmasa,\nalém do apoio das marcas Iza Concept, Sepulveda\nChocolates e HFC Saúde."
           ],
-          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/10/APM_Piracicaba_194_outubro2025.pdf"
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/10/APM_Piracicaba_194_outubro2025.pdf",
+          "videos": []
         },
         {
           "tag": "Serviços - 751",
@@ -1067,7 +1117,8 @@ const content = {
             "Já a MedAssist é uma empresa\nespecializada, que oferece\nserviços exclusivamente a\nmédicos, clínicas e grupos\nhospitalares. Seu portfólio\ninclui a equiparação hospitalar,\nque visa organizar empresas\nmédicas para ter uma\ncontabilidade mais eficiente e\nreduzir em até 70% os impostos\npagos, e o Med light, um serviço contábil acessível, ideal para\nmédicos em início de carreira.",
             "Fundada em 1975, a MERC\nSoluções Empresariais tem com\nmissão assessorar e atender as\nnecessidades dos associados,\noferecendo qualidade e preços\ndiferenciados. A parceria\ncom a Associação Paulista de\nMedicina permite a oferta de\nserviços de perícia trabalhista\ne cível; abertura, alteração e\nencerramento de empresas;\nimposto de renda de pessoa\nfísica e jurídica, entre outros.\nPara melhor atender aos médicos\nassociados, a MERC está localizada\na pouco mais de 50 metros da\nSede Estadual da APM"
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf",
+          "videos": []
         },
         {
           "tag": "Entrevista Eu uso, eu aprovo | 751",
@@ -1080,7 +1131,8 @@ const content = {
             "O serviço APM Facilities foi um\ndos utilizados recentemente por\nele, por ser um apoio no cotidiano\ndo médico, oferecendo auxílio\nem diversas demandas, como\ncadastro no GOV.BR, renovação\nde CNH e documentos de veículos\n(IPVA e IPTU), alvará da\nVigilância Sanitária, emissão\nde Nota Fiscal de Serviços\nEletrônica (NFS-e), apoio no\ncadastro de isenção de rodízio\ne muito mais.",
             "“Desde o primeiro contato, fui\nmuito bem atendido. Sempre\nme trataram com muita\neducação. Resolveram as\nminhas questões com agilidade\ne eficiência, sempre dando todo\nsuporte e atenção necessária.\nO serviço e o atendimento são\nexcelentes”, conclui."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf",
+          "videos": []
         },
         {
           "tag": "Club de Benefícios - 751",
@@ -1096,7 +1148,8 @@ const content = {
             "Pensando em facilitar o dia a dia e\ngarantir estilo, a Technos é uma ótima\nescolha. Natural da Suíça, a marca vem\ntrazendo ao longo dos anos uma vasta\nvariedade de relógios, que misturam\no design clássico e sofisticado com\ninovação e tradição. Para os associados\nda APM, é garantido 7% de cashback em\ntodas as compras.",
             "Para os que desejam celebrar o\nmês em um lugar tranquilo, leve e\nrelaxante, o Hotel Fazenda APM é o\ndestino perfeito. Localizado na Serra\nda Cantareira, possui uma estrutura\núnica, com campos de futebol, parque\naquático, lago para pesca esportiva,\ncentro hípico, quadras poliesportiva, de\ntênis e de beach tennis, restaurante,\nchurrasqueiras, academia, salão de jogos\ne muita natureza. Os associados podem\ndesfrutar do day use sem custo e têm\ndesconto exclusivo nas hospedagens."
           ],
-          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf"
+          "link": "https://www.apm.org.br/wp-content/uploads/APM_751.pdf",
+          "videos": []
         },
         {
           "tag": "Regional Piracicaba - 192 ",
@@ -1115,7 +1168,8 @@ const content = {
             "Dentro das especialidades, as áreas que recebem mais\nprocessos judiciais são: Cirurgia Plástica, Ginecologia\ne Obstetrícia e Clínica Geral. “Desde 2020, o índice de\ncondenação é de 60% dos casos. A ausência de provas é\na maior fragilidade nos processos”, destaca Juliana.",
             "Ao fim das apresentações, Endrigo deu espaço para\nos presentes fazerem perguntas aos convidados.\nO debate abordou temas sobre o que difere uma\nnegligência informacional e dicas práticas de como\nrealizar atendimentos particulares antes mesmo de se\ndescredenciar de convênios médicos."
           ],
-          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf"
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2025/08/APM_Piracicaba_192_jul.ago2025.pdf",
+          "videos": []
         },
         {
           "tag": "Regional Piracicaba 197",
@@ -1140,24 +1194,43 @@ const content = {
             "O Zoológico Municipal de Piracicaba abriga\naproximadamente 422 animais, entre aves, mamíferos,\nrépteis e animais exóticos. Localiza-se na Avenida\nMarechal Castelo Branco, nº 426 – Jardim Primavera, e\nfunciona de terça-feira a domingo, das 9h às 16h, com\nentrada gratuita.",
             "O local possui também o “Paraíso da Criança”, que\nfunciona em uma área de 23 mil m2, anexa ao Zoo, de\nterça a domingo, das 6h às 20h. Todo arborizado, o\nespaço oferece brinquedos como gira-gira, escorregador,\ncavalinhos, escada horizontal, gangorra, balanço, casa\ndo Tarzan, cabana, escalada, casa de boneca, muroescalada, casa do espelho, labirinto, castelo, casa da\nárvore, carro dos Flintstones, moto de madeira e túneis\ncoloridos. Há também a oportunidade de resgatar e\naprender brincadeiras como amarelinha, bola de gude,\npeão, pular corda e peteca."
           ],
-          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/05/APM_Piracicaba_197_mar.abr2026.pdf"
+          "link": "https://www.apmpiracicaba.org.br/wp-content/uploads/2026/05/APM_Piracicaba_197_mar.abr2026.pdf",
+          "videos": []
         }
       ]
     },
     {
       "id": "informes",
       "titulo": "Informes",
+      "descricao": [],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
       "visiveis": 6,
       "fundo": "nenhum",
       "fundoImagemUrl": "",
-      "itens": []
+      "itens": [
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#",
+          "videos": [
+            "videos/informes-0-v0-1793994944314.mp4",
+            "videos/informes-0-v1-1793994948390.mp4",
+            "videos/informes-0-v2-1793994954521.mp4",
+            "videos/informes-0-v3-1793994959302.mp4"
+          ]
+        }
+      ]
     },
     {
       "id": "campeonatos",
       "titulo": "Futebol ",
+      "descricao": [],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todos os textos",
@@ -1178,7 +1251,8 @@ const content = {
             "Precisando do resultado, o Taubaté adiantou suas linhas e passou a pressionar, mas encontrou dificuldades para furar o bloqueio defensivo adversário. O golpe final veio após uma falha na saída de bola do Taubaté. Com a defesa exposta, o camisa 80, Lucas Kaczmarczyk do Carmo, recuperou a posse e acionou o camisa 18, José William Borges Osorio, que, com visão de jogo, colocou uma bola enfiada para Daniel Bernardes Junior, que com o gol aberto, carimbou a vitória do time de Guarulhos por 3 a 0, garantindo o título inédito.",
             "Enzo Crispino Calheiros, da equipe vencedora, foi eleito o melhor jogador da final após uma atuação de gala, registrando um gol e uma assistência. O prêmio de melhor jogador do campeonato ficou com Lucas Vendas Maluf, do Taubaté. A artilharia ficou por conta de Bruno de Lazari, do ABC, isolado com 18 gols. João Vitor Machado Lara, da MED9, foi considerado o melhor goleiro da competição."
           ],
-          "link": "https://www.hotelfazendaapm.com.br/blog/guarulhos-vence-taubate-e-conquista-titulo-inedito-do-campeonato-de-futebol-da-apm/"
+          "link": "https://www.hotelfazendaapm.com.br/blog/guarulhos-vence-taubate-e-conquista-titulo-inedito-do-campeonato-de-futebol-da-apm/",
+          "videos": []
         },
         {
           "tag": "Campeonato Hotel Fazenda APM",
@@ -1195,7 +1269,8 @@ const content = {
             "Mais tarde, às 11h, Unimes e Santo Amaro se enfrentaram e o jogo terminou com vitória da equipe da Unimes por 2 a 0. Os gols foram marcados por Matheus Vieira Mulero, camisa 54; e por Nicola Jorge Carneiro Neto, camisa 10.",
             "Para fechar a rodada, a Med9 venceu a equipe de Guarulhos por W.O. O placar estava em 2 a 1 para Guarulhos quando, aos 80 minutos de jogo, a equipe ficou com um número insuficiente de jogadores em campo. Com a vitória decretada pelo regulamento, a Med9 garantiu os 3 pontos."
           ],
-          "link": "https://www.hotelfazendaapm.com.br/blog/8a-rodada-med9-vence-por-w-o-e-dispara-na-lideranca-enquanto-santa-casa-se-isola-na-lanterna/"
+          "link": "https://www.hotelfazendaapm.com.br/blog/8a-rodada-med9-vence-por-w-o-e-dispara-na-lideranca-enquanto-santa-casa-se-isola-na-lanterna/",
+          "videos": []
         },
         {
           "tag": "Campeonato Hotel Fazenda APM",
@@ -1212,13 +1287,15 @@ const content = {
             "No mesmo horário, Taubaté goleou a equipe de Guarulhos por 4 a 1. O único gol da equipe foi marcado por Marcelo Marcato, camisa 66. Já do lado do time vencedor, os gols foram marcados por Bruno Dal Sasso Begliomini, camisa 11; Lucas Franklin Rocha de Souza, camisa 27; Francisco Gratão M. de Carvalho, camisa 53; e por Lucas Vendas Maluf Braga, camisa 5.",
             "Em partida atrasada, Sorocaba goleou a equipe do Boto Cabano por 10 a 1, no último sábado, 4 de julho. Os gols foram marcados por Matheus Anholetti Teixeira, camisa 88; Bruno A. Muzel Santos (3x), camisa 29; Lucas Deperon Toldo (2x), camisa 11; Diandro Mota, camisa 15; Bruno Severo de Castro Lippe, camisa 34; e por Matheus Lorenzetti Peron, camisa 77. O autor do único gol da equipe do Boto Cabano foi marcado Breno Gonçalves, camisa 37."
           ],
-          "link": "https://www.hotelfazendaapm.com.br/blog/7a-rodada-do-campeonato-de-futebol-da-apm-tem-lideranca-isolada-empates-e-muitos-gols/"
+          "link": "https://www.hotelfazendaapm.com.br/blog/7a-rodada-do-campeonato-de-futebol-da-apm-tem-lideranca-isolada-empates-e-muitos-gols/",
+          "videos": []
         }
       ]
     },
     {
       "id": "blog",
       "titulo": "Blog - La Pelota",
+      "descricao": [],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver publicação →",
       "verTodasTexto": "Ver todos os artigos",
@@ -1241,7 +1318,8 @@ const content = {
             "Foi incrível. Eu fui feliz e sabia!",
             "Obrigada, Andrés. O futebol agradece!"
           ],
-          "link": "https://lapelota.wixsite.com/lapelota/post/o-último-verso-da-poesia"
+          "link": "https://lapelota.wixsite.com/lapelota/post/o-último-verso-da-poesia",
+          "videos": []
         },
         {
           "tag": "18 nov 2024",
@@ -1259,13 +1337,15 @@ const content = {
             "Nascer, viver e no Santos morrer é um orgulho que nem todos podem ter!",
             "VOLTAMOS! A 10 VOLTOU E A BANDEIRA VIROU!"
           ],
-          "link": "https://lapelota.wixsite.com/lapelota/post/entre-o-caos-e-o-renascimento"
+          "link": "https://lapelota.wixsite.com/lapelota/post/entre-o-caos-e-o-renascimento",
+          "videos": []
         }
       ]
     },
     {
       "id": "faculdade",
       "titulo": "Trabalhos Acadêmicos",
+      "descricao": [],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver trabalho completo →",
       "verTodasTexto": "Ver todos os trabalhos",
@@ -1283,7 +1363,8 @@ const content = {
             "O Máquina do Tempo é um portal jornalístico universitário que propõe olhar para o presente a partir das marcas do passado e das transformações que apontam para o futuro. Nosso conteúdo nasce da curiosidade, da investigação e do compromisso em traduzir temas sociais, culturais e tecnológicos de forma acessível, crítica e informativa.",
             "Mais do que noticiar fatos, buscamos conectar épocas, comportamentos e mudanças que moldam a sociedade. Em nossas reportagens, entrevistas, podcasts e conteúdos multimídia, mostramos que entender o ontem é essencial para compreender o hoje e imaginar o amanhã."
           ],
-          "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/sobre-nos"
+          "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/sobre-nos",
+          "videos": []
         },
         {
           "tag": "Entrevista - Portal Máquina do Tempo",
@@ -1305,7 +1386,8 @@ const content = {
             "Outro ponto fundamental destacado pela psicóloga é o papel dos algoritmos. Diferente das mídias de antigamente, as redes sociais aprendem o que o usuário consome e oferecem conteúdos semelhantes sem parar. Claudia explica que, se alguém interage com posts de dietas restritivas, passa a ser bombardeada pelo tema, o que prende a pessoa em um ciclo repetitivo. Essa dinâmica reforça comportamentos autodestrutivos e dificulta o contato com realidades diferentes e corpos reais.",
             "Assim, o caminho para recuperar a autonomia alimentar e a paz com o espelho envolve entender que o corpo real não cabe em um filtro. Entre as métricas das redes e a ditadura da estética, o desafio é resgatar a capacidade de olhar para si mesmo além do que os olhos do algoritmo podem capturar, devolvendo à comida o seu papel de prazer e ao corpo o seu papel de viver, e não apenas de ser exibido."
           ],
-          "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/post/a-evolução-dos-distúrbios-alimentares-e-a-ditadura-da-estética-nas-redes-sociais"
+          "link": "https://portalmaquinadotem.wixsite.com/maquina-do-tempo/post/a-evolução-dos-distúrbios-alimentares-e-a-ditadura-da-estética-nas-redes-sociais",
+          "videos": []
         },
         {
           "tag": "Telejornal ",
@@ -1314,7 +1396,8 @@ const content = {
           "titulo": "Radar Dário",
           "resumo": "",
           "textoCompleto": [],
-          "link": "https://youtu.be/ghuWgUzKrVw?si=6ZpYejxkGG3EoliK"
+          "link": "https://youtu.be/ghuWgUzKrVw?si=6ZpYejxkGG3EoliK",
+          "videos": []
         },
         {
           "tag": "Documentário",
@@ -1325,7 +1408,8 @@ const content = {
           "textoCompleto": [
             "Produção audiovisual realizada com base no projeto social “Banho pra Geral”, que oferece banho quente, roupas limpas, alimentação e dignidade para pessoas em situação de rua nas periferias de São Paulo. Acompanhamos a rotina da ONG por alguns dias, registrando de forma sensível e aprofundada a realidade dessas pessoas e o impacto direto da iniciativa em suas vidas."
           ],
-          "link": "https://youtu.be/Ptzu8iSe9Go?si=LENAPdP5rdUIY_RN"
+          "link": "https://youtu.be/Ptzu8iSe9Go?si=LENAPdP5rdUIY_RN",
+          "videos": []
         },
         {
           "tag": "Revista",
@@ -1341,7 +1425,8 @@ const content = {
             "Luis Edmar, engenheiro de alimentos",
             "Ana Carolina Conti, especialista em Análise Sensorial"
           ],
-          "link": "https://drive.google.com/file/d/1QteklemJ2URAzHG5En2XzPEl6DbmtYsh/view?usp=sharing"
+          "link": "https://drive.google.com/file/d/1QteklemJ2URAzHG5En2XzPEl6DbmtYsh/view?usp=sharing",
+          "videos": []
         },
         {
           "tag": "Revista ",
@@ -1354,13 +1439,15 @@ const content = {
             "Nossa cobertura incluiu um dia de jogo e entrevistas exclusivas com Rafael Gouveia, fundador e proprietário do time; Vitória Hipólito, técnica e ex-jogadora do Ladies; Ana Caroline e Luana Barbosa, atletas do elenco atual",
             "Complementamos o conteúdo com depoimentos de dois nomes importantes do esporte: Gabi Guimarães, ala do Sampaio Basquete; e Hortência, lenda do basquete brasileiro"
           ],
-          "link": "https://drive.google.com/file/d/1QedksZyLlFeMxQ3RdJvF6L5X4op5whMW/view?usp=sharing"
+          "link": "https://drive.google.com/file/d/1QedksZyLlFeMxQ3RdJvF6L5X4op5whMW/view?usp=sharing",
+          "videos": []
         }
       ]
     },
     {
       "id": "freelas",
       "titulo": "Freelas",
+      "descricao": [],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
@@ -1375,7 +1462,8 @@ const content = {
           "titulo": "Entrevista Bruno Fratus | COB+LA2028",
           "resumo": "Cobertura de eventos para os stories da página @Jornaltop.esportes como COB EXPO 2025, Hello LA e o evento fechado COB+LA2028",
           "textoCompleto": [],
-          "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
+          "link": "https://www.instagram.com/reel/DKcmoxwRhJY/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+          "videos": []
         },
         {
           "tag": "Instagram",
@@ -1384,7 +1472,8 @@ const content = {
           "titulo": "Guia para a Final da UEFA Women's Champions League 24/25",
           "resumo": "Post Final UWCL",
           "textoCompleto": [],
-          "link": "https://www.instagram.com/p/DJ-HiH7x48n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+          "link": "https://www.instagram.com/p/DJ-HiH7x48n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+          "videos": []
         },
         {
           "tag": "Instagram",
@@ -1393,7 +1482,8 @@ const content = {
           "titulo": "Guia para o Super Mundial de Clubes FIFA",
           "resumo": "Post Super Mundial de Clubes FIFA",
           "textoCompleto": [],
-          "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+          "link": "https://www.instagram.com/p/DKe7lLXxCZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+          "videos": []
         }
       ]
     }
