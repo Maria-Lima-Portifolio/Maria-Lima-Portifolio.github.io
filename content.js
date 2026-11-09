@@ -1219,10 +1219,19 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-0-v0-1793994944314.mp4",
-            "videos/informes-0-v1-1793994948390.mp4",
-            "videos/informes-0-v2-1793994954521.mp4",
-            "videos/informes-0-v3-1793994959302.mp4"
+            "videos/informes-0-v0-1794245423125.mp4"
+          ]
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#",
+          "videos": [
+            "videos/informes-1-v0-1794245430486.mp4"
           ]
         }
       ]
