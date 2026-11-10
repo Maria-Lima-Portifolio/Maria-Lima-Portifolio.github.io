@@ -84,8 +84,11 @@ function materiaCardHTML(item, toggleTexto, linkTexto, oculta, ehRevista){
   var midia;
   if(videos.length){
     midia = '<div class="materia-videos" onclick="event.stopPropagation()">' +
-      videos.map(function(url){
-        return '<video class="materia-video-item" src="' + escapeAttr(url) + '" controls preload="metadata"></video>';
+      videos.map(function(video){
+        var url = (typeof video === 'string') ? video : (video.url || '');
+        var poster = (typeof video === 'string') ? '' : (video.poster || '');
+        var posterAttr = poster ? ' poster="' + escapeAttr(poster) + '"' : '';
+        return '<video class="materia-video-item" src="' + escapeAttr(url) + '"' + posterAttr + ' controls preload="metadata"></video>';
       }).join('') +
     '</div>';
   } else {
