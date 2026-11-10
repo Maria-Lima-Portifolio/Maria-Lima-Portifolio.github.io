@@ -16,6 +16,26 @@ function slugify(str){
   return s || ('secao-' + Date.now());
 }
 
+// Captura automática da miniatura (poster) de um vídeo recém-escolhido no
+// painel: sem isso, o <video> no site fica com fundo preto até alguém
+// apertar play (preload="metadata" não desenha frame nenhum sozinho).
+// Busca um frame em ~0.5s do vídeo e desenha num canvas -> blob jpeg.
+function capturarPosterDoVideo(videoEl, aoCapturar){
+  function tentarCapturar(){
+    try{
+      var canvas = document.createElement('canvas');
+      canvas.width = videoEl.videoWidth || 320;
+      canvas.height = videoEl.videoHeight || 180;
+      canvas.getContext('2d').drawImage(videoEl, 0, 0, canvas.width, canvas.height);
+      canvas.toBlob(function(blob){ if(blob) aoCapturar(blob); }, 'image/jpeg', 0.85);
+    } catch(e){ /* navegador ainda não tinha frame decodificado -- sem poster automático pra esse vídeo */ }
+  }
+  videoEl.addEventListener('loadedmetadata', function(){
+    videoEl.currentTime = Math.min(0.5, (videoEl.duration || 1) / 2);
+  }, { once: true });
+  videoEl.addEventListener('seeked', tentarCapturar, { once: true });
+}
+
 async function mensagemErroGithub(resp){
   if(resp.status === 401) return 'chave de acesso inválida ou expirada. Gere uma nova em github.com/settings/personal-access-tokens e salve de novo no painel.';
   if(resp.status === 403) return 'a chave de acesso não tem permissão para editar este site. Confira se ela foi criada com "Contents: Read and write" para este repositório.';
@@ -150,23 +170,42 @@ function addMateriaItem(container, item){
 }
 
 function addVideoSubItem(container, video){
+  video = (typeof video === 'string') ? { url: video, poster: '' } : (video || {});
   var div = document.createElement('div');
   div.className = 'item-editor video-editor';
   div.innerHTML =
     '<button class="btn-remover" type="button">Remover vídeo</button>' +
-    '<video class="capa-preview f-video-preview" src="' + escapeAttr(video.url || '') + '" controls></video>' +
+    '<video class="capa-preview f-video-preview" src="' + escapeAttr(video.url || '') + '"' +
+      (video.poster ? ' poster="' + escapeAttr(video.poster) + '"' : '') + ' controls></video>' +
     '<div class="campo"><label>Link do vídeo (ou envie um arquivo abaixo)</label>' +
       '<input type="url" class="f-video-url" value="' + escapeAttr(video.url || '') + '" placeholder="https://..."></div>' +
     '<div class="campo"><label>Ou escolha um arquivo de vídeo do computador (ideal até ~30 MB)</label>' +
-      '<input type="file" class="f-video-file" accept="video/*"></div>';
+      '<input type="file" class="f-video-file" accept="video/*"></div>' +
+    '<p class="ajuda f-video-poster-status">' +
+      (video.poster ? 'Miniatura já salva ✓' : 'A miniatura é capturada automaticamente de um frame do vídeo ao escolher o arquivo.') +
+    '</p>';
+
+  div.dataset.posterUrl = video.poster || '';
+  div._posterBlob = null;
 
   wireRemover(div);
   wireOrdenar(div);
   var fileInput = div.querySelector('.f-video-file');
   var preview = div.querySelector('.f-video-preview');
   var urlInput = div.querySelector('.f-video-url');
+  var statusPoster = div.querySelector('.f-video-poster-status');
   fileInput.addEventListener('change', function(){
-    if(fileInput.files[0]) preview.src = URL.createObjectURL(fileInput.files[0]);
+    if(fileInput.files[0]){
+      preview.src = URL.createObjectURL(fileInput.files[0]);
+      preview.removeAttribute('poster');
+      div._posterBlob = null;
+      div.dataset.posterUrl = '';
+      statusPoster.textContent = 'Capturando miniatura do vídeo...';
+      capturarPosterDoVideo(preview, function(blob){
+        div._posterBlob = blob;
+        statusPoster.textContent = 'Miniatura capturada ✓';
+      });
+    }
   });
   urlInput.addEventListener('input', function(){ preview.src = urlInput.value; });
 
@@ -177,7 +216,9 @@ function lerVideosDoItem(container){
   return Array.from(container.querySelectorAll(':scope > .video-editor')).map(function(div){
     return {
       url: div.querySelector('.f-video-url').value,
-      _videoFile: div.querySelector('.f-video-file').files[0] || null
+      poster: div.dataset.posterUrl || '',
+      _videoFile: div.querySelector('.f-video-file').files[0] || null,
+      _posterBlob: div._posterBlob || null
     };
   });
 }
@@ -497,6 +538,26 @@ async function enviarVideo(file, slug, token){
   return caminho;
 }
 
+async function enviarPoster(blob, slug, token){
+  var buffer = await blob.arrayBuffer();
+  var base64 = arrayBufferToBase64(buffer);
+  var caminho = 'images/' + slug + '-poster-' + Date.now() + '.jpg';
+
+  var resp = await fetch(githubUrl(caminho), {
+    method: 'PUT',
+    headers: githubHeaders(token),
+    body: JSON.stringify({
+      message: 'Envia miniatura do vídeo via painel',
+      content: base64,
+      branch: GITHUB_BRANCH
+    })
+  });
+  if(!resp.ok){
+    throw new Error('falha ao enviar miniatura do vídeo: ' + (await mensagemErroGithub(resp)));
+  }
+  return caminho;
+}
+
 async function publicarContentJs(payload, token){
   var caminho = 'content.js';
   var shaAtual = null;
@@ -594,9 +655,15 @@ async function publicar(){
           if(videos[v]._videoFile){
             videos[v].url = await enviarVideo(videos[v]._videoFile, secao.id + '-' + i + '-v' + v, token);
           }
+          if(videos[v]._posterBlob){
+            videos[v].poster = await enviarPoster(videos[v]._posterBlob, secao.id + '-' + i + '-v' + v, token);
+          }
           delete videos[v]._videoFile;
+          delete videos[v]._posterBlob;
         }
-        item.videos = videos.map(function(video){ return video.url; }).filter(Boolean);
+        item.videos = videos
+          .filter(function(video){ return video.url; })
+          .map(function(video){ return { url: video.url, poster: video.poster || '' }; });
       }
     }
 
