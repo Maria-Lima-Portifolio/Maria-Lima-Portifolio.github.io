@@ -1201,8 +1201,10 @@ const content = {
     },
     {
       "id": "informes",
-      "titulo": "Informes",
-      "descricao": [],
+      "titulo": "Newsletters ",
+      "descricao": [
+        "Newsletter semanal da Associação Paulista de Medicina voltada para os principais assuntos da entidade. O espaço reúne os destaques da semana, eventos e novidades de interesse dos médicos associados, mantendo todos informados de forma rápida e direta. Ao longo do meu período de estágio na APM, já elaborei mais de 60 edições da publicação."
+      ],
       "toggleTexto": "Ler mais",
       "linkTexto": "Ver mais →",
       "verTodasTexto": "Ver todas",
@@ -1219,7 +1221,7 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-0-v0-1794334307591.mp4"
+            "videos/informes-0-v0-1794335650170.mp4"
           ]
         },
         {
@@ -1231,7 +1233,7 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-1-v0-1794334312736.mp4"
+            "videos/informes-1-v0-1794335655768.mp4"
           ]
         },
         {
@@ -1243,7 +1245,7 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-2-v0-1794334317605.mp4"
+            "videos/informes-2-v0-1794335660733.mp4"
           ]
         }
       ]
