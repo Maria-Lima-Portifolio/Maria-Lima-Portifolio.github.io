@@ -83,7 +83,7 @@ body:not(.scrolled) header nav a{color:#fff;}
 /* ---------- HERO / SOBRE MIM ---------- */
 .hero{padding:0;border-bottom:1px solid var(--linha);}
 .hero-row{display:flex;align-items:stretch;min-height:84vh;}
-.hero-media{flex:0 0 54%;position:relative;overflow:hidden;}
+.hero-media{flex:0 0 32%;position:relative;overflow:hidden;}
 .hero-media::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(18,19,21,.1) 35%,rgba(18,19,21,.5) 100%);}
 .hero-foto{width:100%;height:100%;object-fit:cover;object-position:50% 22%;}
 .hero-text{flex:1;display:flex;align-items:center;min-width:0;padding:120px 24px 56px 48px;}
@@ -112,7 +112,7 @@ body:not(.scrolled) header nav a{color:#fff;}
 @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
 @media(max-width:820px){
   .hero-row{flex-direction:column;min-height:auto;}
-  .hero-media{flex-basis:46vh;}
+  .hero-media{flex-basis:38vh;}
   .hero-text{padding:36px 20px 44px;}
 }
 
