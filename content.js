@@ -1219,7 +1219,7 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-0-v0-1794245423125.mp4"
+            "videos/informes-0-v0-1794334307591.mp4"
           ]
         },
         {
@@ -1231,7 +1231,19 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-1-v0-1794245430486.mp4"
+            "videos/informes-1-v0-1794334312736.mp4"
+          ]
+        },
+        {
+          "tag": "",
+          "capaUrl": "",
+          "capaAlt": "",
+          "titulo": "",
+          "resumo": "",
+          "textoCompleto": [],
+          "link": "#",
+          "videos": [
+            "videos/informes-2-v0-1794334317605.mp4"
           ]
         }
       ]
