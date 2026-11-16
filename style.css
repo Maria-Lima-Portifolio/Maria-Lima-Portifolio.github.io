@@ -85,14 +85,14 @@ body:not(.scrolled) header nav a{color:#fff;}
 .hero-row{display:flex;align-items:stretch;min-height:84vh;}
 .hero-media{flex:0 0 32%;position:relative;overflow:hidden;}
 .hero-media::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(18,19,21,.1) 35%,rgba(18,19,21,.5) 100%);}
-.hero-foto{width:100%;height:100%;object-fit:cover;object-position:50% 22%;}
+.hero-foto{width:100%;height:100%;object-fit:cover;object-position:50% 30%;}
 .hero-text{flex:1;display:flex;align-items:center;min-width:0;padding:120px 24px 56px 48px;}
-.hero-text-inner{max-width:460px;}
+.hero-text-inner{max-width:none;width:100%;}
 .hero-kicker{
   font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--cinza-medio);font-weight:700;margin-bottom:14px;
 }
 .hero h1{font-size:clamp(32px,4.4vw,46px);line-height:1.15;margin-bottom:20px;color:var(--preto);}
-.hero p{font-size:16px;line-height:1.7;color:var(--cinza-medio);margin-bottom:10px;max-width:420px;}
+.hero p{font-size:16px;line-height:1.7;color:var(--cinza-medio);margin-bottom:10px;max-width:none;text-align:justify;text-align-last:left;}
 .hero-extra.oculta{display:none;}
 .hero-ver-mais{
   display:block;background:none;border:none;padding:0;margin:2px 0 18px;
