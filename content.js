@@ -48,6 +48,85 @@ const content = {
       "fundoImagemUrl": "",
       "itens": [
         {
+          "tag": "APM - TERTÚLIA ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/WhatsApp-Image-2026-11-13-at-15.14.26.jpg",
+          "capaAlt": "Tertúlia da AMSP: Trabalhos vencedores dos Prêmios Científicos são apresentados",
+          "titulo": "Tertúlia da AMSP: Trabalhos vencedores dos Prêmios Científicos são apresentados",
+          "resumo": "Vitor Kuratomi Lores Meis e Limírio Moreira da Fonseca foram os premiados",
+          "textoCompleto": [
+            "A Academia de Medicina de São Paulo realizou, na última quarta-feira (11), a sua tradicional tertúlia acadêmica – de forma híbrida, com transmissão a partir da sede da Associação Paulista de Medicina.",
+            "Na ocasião, os convidados foram os vencedores dos Prêmios Científicos da AMSP, Vitor Kuratomi Lores Meis e Limírio Moreira da Fonseca, nas categorias “Alunos de Faculdades de Medicina do Estado de São Paulo” e “Médicos com CRM do Estado de São Paulo”, respectivamente.",
+            "Helio Begliomini, presidente da AMSP, saudou e agradeceu a presença de todos.",
+            "Alunos de Faculdades de Medicina do Estado de São Paulo",
+            "Vitor Kuratomi Lores Meis, estudante do quinto ano da Faculdade de Ciências Médicas da Santa Casa de São Paulo e ex-presidente da Liga Acadêmica de Medicina Esportiva da instituição, apresentou o trabalho “O efeito da metformina em crianças e adolescentes com obesidade e doença hepática esteatótica associada à disfunção metabólica”.",
+            "O acadêmico iniciou sua apresentação conceituando o diagnóstico da obesidade infantil, explicando que ele não se define pelos valores absolutos do Índice de Massa Corporal (IMC), mas pelo escore Z do IMC (zIMC). De acordo com os critérios da Organização Mundial da Saúde (OMS) de 2007, para crianças acima de 5 anos e adolescentes, o sobrepeso é caracterizado quando o escore zIMC se encontra entre +1 e +2 desvios-padrão (DP); a obesidade, quando é superior a +2 DP; e a obesidade grave, quando ultrapassa +3 DP. Vitor destacou ainda a relevância do tema nos cenários global e nacional, nos quais se observa um crescimento contínuo da prevalência da doença.",
+            "No Atlas Mundial de Obesidade de 2026, realizado pela Federação Mundial de Obesidade, em um recorte de cenário brasileiro, aproximadamente 6,6 milhões de crianças entre 5 a 9 anos e 9,9 milhões de crianças entre 10 a 19 anos encontram-se atualmente na faixa de obesidade. De acordo com o palestrante, essas projeções tendem a aumentar ao longo dos anos. Em 2040, aproximadamente 50% de todas as crianças conviverão com a obesidade. Além disso, as principais consequências da obesidade na infância não repercutem apenas na vida adulta, mas sim na própria faixa etária pediátrica.",
+            "Nesse grupo de jovens de 5 a 19 anos, já se observam sinais precoces de doenças crônicas antes da idade adulta devido ao IMC elevado. Em primeiro lugar, destaca-se a doença hepática esteatótica associada à disfunção metabólica (MASLD) — condição caracterizada pelo acúmulo de gordura no fígado na ausência de ingestão significativa de álcool. Relacionada à resistência à insulina e ao diabetes mellitus tipo 2, trata-se de uma enfermidade progressiva, que se inicia como esteatose simples e pode evoluir para esteato-hepatite, fibrose, cirrose e carcinoma hepatocelular, configurando-se como a doença hepática crônica mais comum em crianças e adolescentes com obesidade.",
+            "De acordo com Vitor Meis, foi realizado um estudo clínico longitudinal, no qual foram comparados os parâmetros antes e depois da intervenção. O recorte populacional incluiu crianças e adolescentes de 10 a 18 anos, de ambos os sexos, que apresentavam excesso de peso e doença hepática esteatótica confirmada no exame de ultrassom. Todos faziam acompanhamento no ambulatório de Endocrinologia pediátrica da Santa Casa de São Paulo e receberam tratamento com metformina na dose de 1 g por dia, durante seis meses.",
+            "A análise foi dividida em três frentes de avaliação. Na parte clínica e antropométrica, avaliou-se o escore zIMC e a relação circunferência abdominal/estatura — indicador da presença de gordura visceral e do risco aumentado de doenças cardiometabólicas, cujos valores normais são inferiores a 0,5 —, além do estadiamento puberal de Tanner, da pressão arterial e da presença de acantose nigricans. Na parte laboratorial, foram analisados os níveis de glicemia de jejum, insulina basal, enzimas hepáticas, colesterol total, frações e triglicerídeos.",
+            "Na avaliação de imagem, realizou-se o exame de ultrassom de abdômen superior, classificando a esteatose em graus de 0 a 3. O acadêmico pontua que todos os exames ultrassonográficos foram feitos pelo mesmo radiologista, evitando diferenças na interpretação dos resultados. Para avaliar a resistência à insulina, adotou-se o índice HOMA-IR, que relaciona justamente a glicemia e a insulina de jejum. Quanto à graduação da esteatose, considerou-se grau 0 os pacientes com ecotextura hepática normal; grau 1, aqueles com aumento discreto e difuso; grau 2, com aumento moderado; e grau 3, com aumento acentuado da ecogenicidade hepática.",
+            "Segundo o acadêmico, o estudo contou inicialmente com 51 pacientes, dos quais 16 foram excluídos — 10 por uso irregular da metformina, 4 por intolerância gastrointestinal (2 por diarreia, 1 por náuseas e vômitos e 1 por mal-estar), 1 pela presença de outra doença crônica e 1 pelo uso de medicação com ação sobre o peso —, restando 35 pacientes na amostra final. A média de idade cronológica dos participantes era de 12 anos, e o escore zIMC médio superava o valor de 3,2, caracterizando obesidade grave. Além disso, 57% da amostra era composta por meninos e 82,8% já haviam iniciado a puberdade; 82,9% apresentavam acanthosis nigricans e a relação circunferência abdominal/estatura (CA/E) média era de 0,65.",
+            "Nos exames de imagem, 27 dos 35 pacientes apresentavam esteatose grau 1 (esteatose leve) e 8 apresentavam grau 2 (esteatose moderada). Vale ressaltar que não houve alteração significativa no índice de resistência à insulina nem no valor do escore zIMC. Por outro lado, observou-se resolução completa do quadro em 15 pacientes e melhora do grau de esteatose em 19 participantes — reduzindo do grau 1 para o grau 0 ou do grau 2 para o grau 1 —, enquanto em 16 pacientes não houve melhora, alteração de grau ou ocorreu eventual piora. Esses resultados sugerem um efeito positivo da metformina sobre a esteatose hepática.",
+            "Por fim, o vencedor do prêmio concluiu que a metformina melhorou o perfil das enzimas hepáticas e reduziu a esteatose em crianças e adolescentes com obesidade e MASLD, embora não tenha produzido efeitos significativos sobre a resistência à insulina e o zIMC. Observou-se ainda melhor resposta terapêutica na doença em estágio inicial, reforçando cada vez mais a importância do diagnóstico precoce.",
+            "A medicação foi bem tolerada, sem registro de eventos adversos graves. Como limitação, o autor destacou que não foi possível controlar de forma rígida a dieta e o comportamento dos pacientes, sugerindo que as próximas pesquisas sejam maiores e controladas, com a busca por marcadores precoces de resposta para uma abordagem cada vez mais personalizada.",
+            "Médicos com CRM do Estado de São Paulo",
+            "Limírio Moreira da Fonseca, urologista formado pela Faculdade de Medicina da USP (FMUSP), foi o vencedor da categoria “Médicos com CRM do Estado de São Paulo” com o trabalho “O uso da biópsia líquida para o diagnóstico de metástases linfonodais no carcinoma peniano”.",
+            "O palestrante deu início à sua apresentação trazendo dados epidemiológicos que mostram que, em países onde há a prática religiosa da postectomia neonatal, os índices de carcinoma peniano são próximos a zero. Em contrapartida, o estado do Maranhão figura como campeão mundial em incidência de câncer de pênis, registrando 10 casos para cada 100 mil habitantes, número 20 vezes superior ao dos Estados Unidos.",
+            "Em uma casuística nacional de 1996 a 2020, ocorreram aproximadamente 8 mil óbitos por carcinoma peniano e mais de 8 mil amputações penianas no período. Como medida de prevenção, o médico destacou o Programa Nacional de Imunizações (PNI) do Brasil, ressaltando que a vacina contra o HPV é um importante fator protetor contra a doença, sendo aplicada em dose única para meninos e meninas entre 9 e 14 anos.",
+            "Fonseca explica que o objetivo do trabalho era comparar o perfil genômico do ctDNA entre pacientes com e sem metástase, quanto ao número e ao tipo de variante, investigar a associação entre variantes circulantes e características clínico-patológicas: invasão linfovascular, estadiamento e comprometimento linfonodal; validar as principais variantes identificadas no ctDNA do tecido tumoral primário; e avaliar o potencial do ctDNA como biomarcador minimamente invasivo para estratificação de risco linfonodal e planejamento terapêutico.",
+            "O estudo foi realizado com pacientes oriundos do Instituto do Câncer do Estado de São Paulo (ICESP), entre os anos de 2015 e 2023. Foram incluídos 21 pacientes submetidos à penectomia, o que permitiu o acesso ao tumor primário, com diagnóstico confirmado de carcinoma espinocelular (CEC) de pênis e indicação de linfadenectomia devido ao risco acima de pT1b.",
+            "O médico explica que esses pacientes eram candidatos à linfadenectomia inguinal e que, após a penectomia e logo antes da linfadenectomia inguinal, foi realizada a coleta do plasma para a análise da biópsia líquida. Foram excluídos pacientes que apresentavam doença linfonodal muito avançada, que haviam passado por cirurgia paliativa ou neoadjuvância prévia, ou que possuíam outros tumores associados, a fim de evitar fatores de confusão na avaliação da biópsia líquida.",
+            "Foram realizados também a extração e o armazenamento das amostras no biobanco do ICESP, onde também ocorreram a fragmentação e a construção da biblioteca genômica. Para a análise, utilizou-se o método de sequenciamento de última geração, que oferece maior precisão ao alcançar uma cobertura maior de pares de bases por região analisada, proporcionando, teoricamente, uma acurácia superior.",
+            "“Nós utilizamos um painel que já é empregado e validado para carcinoma pulmonar de não pequenas células. Ele é comercial, ou seja, possui uma viabilidade razoável em termos de custo. Assim, a nossa casuística de 21 pacientes, semelhante às que encontramos na literatura, apresentou média de aproximadamente 60 anos de idade ao diagnóstico e uma condição sociodemográfica muito similar à encontrada na população brasileira, marcada por grande miscigenação, baixa escolaridade e alta taxa de tabagismo”, completa.",
+            "Ele explica que a maioria dos tumores primários encontrava-se nos estadiamentos pT2 e pT3 e que, na casuística avaliada, 61% desses pacientes apresentaram linfonodos positivos após a linfadenectomia inguinal. O médico ressalta que o estudo foi tecnicamente factível, uma vez que todas as amostras coletadas puderam ser armazenadas, analisadas, construídas na biblioteca genômica e avaliadas por meio do sequenciamento de última geração. Utilizou-se um kit único, com a captura híbrida realizada de maneira padronizada e os mesmos identificadores biomoleculares, em corrida única, nesse equipamento de sequenciamento de última geração.",
+            "Como principal achado do trabalho, foram avaliados a quantidade de cfDNA circulante dos pacientes e o repertório genômico, ou seja, quais variantes eram mais frequentes. Os dados demonstram que, em termos de quantidade de material de DNA, não houve diferença entre os dois grupos — o que, para o palestrante, é um aspecto relevante, pois reforça a qualidade na separação dos grupos. Já o repertório apresentou diferença significativa, visto que o grupo com linfonodo positivo teve, em média, 3,6 variantes a mais.",
+            "O médico concluiu que houve factibilidade técnica da metodologia no ICESP, dentro do SUS, com variantes circulantes identificadas nos 21 pacientes avaliados. O número de variantes foi maior nos indivíduos com metástase linfonodal, com diferença média de 3,6 (IC 95%: 0,1 a 7,1), enquanto a quantidade de cfDNA não diferiu entre os grupos, demonstrando que o repertório — e não a concentração — é o parâmetro com maior potencial.",
+            "Embora nenhuma variante isolada tenha se associado ao estadiamento linfonodal ou aos desfechos, as tendências observadas justificam novas investigações em coortes independentes. Por fim, a variante NF1 foi confirmada em heterozigose no tecido tumoral de todos os casos analisáveis, reforçando seu potencial como marcador a ser explorado.",
+            "Texto e fotos: Maria Lima (sob supervisão de Giovanna Rodrigues)"
+          ],
+          "link": "https://www.apm.org.br/tertulia-da-amsp-trabalhos-vencedores-dos-premios-cientificos-sao-apresentados/",
+          "videos": []
+        },
+        {
+          "tag": "APM - CINE DEBATE ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/4-191.png",
+          "capaAlt": "Cine Debate: “As Três Filhas” é a obra analisada na edição de novembro",
+          "titulo": "Cine Debate: “As Três Filhas” é a obra analisada na edição de novembro",
+          "resumo": "Drama de 2023 fala sobre a união e a dor do próximo",
+          "textoCompleto": [
+            "Na noite da última sexta-feira, 6 de novembro, a Associação Paulista de Medicina realizou a penúltima edição do ano do seu tradicional Cine Debate. O filme escolhido foi o drama As Três Filhas (2023), dirigido por Azazel Jacobs. Com o tema “O problema dos cuidadores”, o debate foi conduzido pelo psiquiatra e coordenador do Cine Debate, Wimer Bottura Junior, e contou com as participações dos psicólogos Nielse Maluf e Nadir Reis.",
+            "A obra gira em torno de três irmãs distantes que se reúnem para cuidar do pai em seus últimos dias de vida. Katie é uma mãe controladora do Brooklyn que enfrenta alguns atritos com a filha adolescente. Sua irmã, Christina, encaixa-se em outro padrão: é mais compreensiva e está separada dos filhos pela primeira vez. Completando o trio está Rachel que, diferente das outras e para o desgosto delas, nunca deixou a casa do pai e faz uso de maconha como válvula de escape. As irmãs navegam por três dias voláteis enquanto a morte do alicerce da família se aproxima, fazendo com que queixas irrompam e o amor se infiltre pelas rachaduras de um lar fraturado.\nNielse Maluf iniciou sua análise refletindo que o papel de filha já está dado, mas o de irmã é uma construção, sendo uma trajetória que depende de histórias, vivências, risos, choros e cumplicidades. Para a especialista, as três filhas oferecem um gancho muito interessante porque cada uma tinha uma história construída individualmente com o pai, mas não entre si. A especialista observa que elas vivenciavam um processo de luto antecipatório, momento que gera intensa angústia, fazendo com que cada uma se defendesse como podia.",
+            "A psicóloga pontuou que a personagem Raquel parecia não fazer parte do sistema e tampouco se incluía, tendo no namorado o seu principal suporte de voz e força. “Se começamos a ter uma convivência com os irmãos que gera desequilíbrio, desencadeamos relações que são tão intricadas quanto a de irmãos. Buscamos o reconhecimento dentro da família para saber qual é de fato o nosso papel e o nosso lugar”, completa.",
+            "Maluf ressaltou que, apesar de todos os sentimentos envolvidos, o desfecho do filme caminha para a possibilidade de um relacionamento genuíno. Para ela, isso ocorreu de forma sóbria e sem idealizações: talvez as irmãs nunca alcancem uma intimidade profunda, mas a porta foi aberta. Sobre a figura paterna, a debatedora achou interessante o momento em que ele menciona uma namorada do passado, dando a entender que sua identidade não se resumia apenas ao papel de pai.",
+            "A dor do próximo",
+            "Nadir Reis apontou que determinados eventos exercem um impacto e um significado imensos na vida de cada indivíduo. O psicólogo destacou uma analogia que aprecia bastante: muitas vezes, quando alguém observa o outro chorando ou em sofrimento, há uma tendência de menosprezar essa dor alheia. Para ele, o filme é marcado fortemente pela repressão dos sentimentos.",
+            "O psicólogo recorreu a um pensamento de Sigmund Freud sobre o princípio de prazer e o de realidade (ou de morte), explicando que todos buscam o lado favorável da vida, como a alegria, sucesso e satisfação, mas lidar com a dor, a escassez e as dificuldades é um desafio árduo. O filme retrata exatamente isso, com cada uma das três personagens lidando com a situação à sua maneira.",
+            "“Olhando o comportamento das três, também enxerguei um conceito do contemporâneo de Freud, Eric Berne, que dizia que vivemos três estados de ego: o Pai, que carrega valores, regras e normas; o Adulto, que lida com o momento do agora; e a Criança. Se olharmos para as três personagens, Katie estava ancorada no ego Pai, Cristina no Adulto e Rachel na Criança. Eram as formas que tinham de lidar com toda aquela situação. Juntas, as três representavam um ser humano completo, cada uma na sua dor”, ressaltou.",
+            "O especialista também abordou o prolongamento da partida do pai. Ele explicou que há pessoas com dificuldades para se desligar da vida, algumas partem em dias, outras demoram meses, o que sugere que ainda falta algo a ser concluído. Fazendo um paralelo com o enredo, Reis avalia que o pai estava aguardando a harmonia e a união entre as filhas para poder descansar.",
+            "Para encerrar a sessão, Wimer Bottura destacou que o filme explora os mal-entendidos, as certezas e o pouco conhecimento que as pessoas têm umas das outras, mesmo convivendo como irmãs. E pontuou que a trama expõe uma fase de críticas em que os ressentimentos emergem, funcionando quase como um processo terapêutico em que elas passam a se escutar mais e a falar menos.",
+            "Bottura ressaltou que essa escuta é fundamental, pois a falta dela — somada às certezas absolutas — é o que alimenta os conflitos. Para solucioná-los, é preciso abandonar a ideia de ter razão e buscar entender os motivos do outro, sem a obrigatoriedade de concordar, mas compreendendo que todas as partes têm razões legítimas.",
+            "“É importante entender que críticas e censura não ajudam as pessoas. Estamos muito acostumados a usar a crítica como solução, e não é. O que traz solução são os bons gestos e as boas falas. Ainda não estamos habituados a isso em termos coletivos, mas precisamos trabalhar nessa direção”, finalizou."
+          ],
+          "link": "https://www.apm.org.br/cine-debate-as-tres-filhas-e-a-obra-analisada-na-edicao-de-novembro/",
+          "videos": []
+        },
+        {
+          "tag": "APM - GERAIS ",
+          "capaUrl": "https://www.apm.org.br/wp-content/uploads/4-187.png",
+          "capaAlt": "Presidente da APM marca presença no Congresso Internacional de Saúde Baseada em Evidências",
+          "titulo": "Presidente da APM marca presença no Congresso Internacional de Saúde Baseada em Evidências",
+          "resumo": "Encontro aconteceu entre os dias 29 e 31 de outubro, na EPM/Unifesp",
+          "textoCompleto": [
+            "Entre os dias 29 e 31 de outubro, o Programa de Pós-Graduação da Universidade Federal de São Paulo (Unifesp), em parceria com a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), promoveu a primeira edição do Congresso Internacional de Saúde Baseada em Evidências.",
+            "O evento, que teve como tema central “30 Anos Transformando a Saúde pelas Evidências: Ensino, Pesquisa, Políticas Públicas e Futuro da Inteligência Artificial em Saúde”, também celebrou os 30 anos da Cochrane Brasil.",
+            "O presidente da Associação Paulista de Medicina (APM), Antonio José Gonçalves, marcou presença na cerimônia de abertura, na manhã da última sexta-feira (30), ao lado da vice-reitora da Unifesp, Lia Rita Azeredi Bittencourt; do diretor da Escola Paulista de Medicina, Magnus Régios Dias da Silva; e dos coordenadores do Programa de Pós-Graduação em Saúde Baseada em Evidências da Unifesp, Virgínia Fernandes Moça Trevisani e Ronald Flumignan.",
+            "A programação contou ainda com a participação integral do diretor de Economia Médica e Saúde Baseada em Evidências da APM, Álvaro Nagib Atallah. “Estamos muito felizes com a realização do Congresso, que celebrou 30 anos de produtividade no ensino, na pesquisa e na assistência da pós-graduação em Saúde Baseada em Evidências. Todo esse congraçamento nos encoraja a trabalhar por mais 30 anos no caminho do uso da Ciência. É uma grande satisfação saber que já formamos cerca de 500 mestres e doutores nessa pós-graduação, profissionais que poderão dar prosseguimento a esse trabalho e renovar os cursos médicos e de toda a área da Saúde no Brasil, com base nas melhores evidências científicas. Agradeço a participação e o apoio de todos”, destacou Atallah.",
+            "O evento foi destinado a profissionais da Saúde, pesquisadores, docentes, estudantes de graduação e pós-graduação, além de gestores públicos e privados. Ao longo dos três dias, foram oferecidas conferências, mesas temáticas, oficinas e apresentações de trabalhos científicos com especialistas nacionais e internacionais, articulando ensino, pesquisa, inovação, políticas públicas e assistência à Saúde."
+          ],
+          "link": "https://www.apm.org.br/presidente-da-apm-marca-presenca-no-congresso-internacional-de-saude-baseada-em-evidencias/",
+          "videos": []
+        },
+        {
           "tag": "APM - TERTÚLIA",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/1-197.png",
           "capaAlt": "Tertúlia de outubro da AMSP aborda “O legado de Elisabeth Kübler-Ross”",
@@ -338,7 +417,7 @@ const content = {
           "videos": []
         },
         {
-          "tag": "APM - GERAIS",
+          "tag": "APM - CINE DEBATE",
           "capaUrl": "https://www.apm.org.br/wp-content/uploads/Captura-de-tela-2026-07-07-105213.jpg",
           "capaAlt": "Cine Debate da APM traz análise da obra “Fale com Ela”",
           "titulo": "Cine Debate da APM traz análise da obra “Fale com Ela”",
@@ -1221,7 +1300,10 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-0-v0-1794335808195.mp4"
+            {
+              "url": "videos/informes-0-v0-1794335808195.mp4",
+              "poster": ""
+            }
           ]
         },
         {
@@ -1233,7 +1315,10 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-1-v0-1794335813546.mp4"
+            {
+              "url": "videos/informes-1-v0-1794335813546.mp4",
+              "poster": ""
+            }
           ]
         },
         {
@@ -1245,7 +1330,10 @@ const content = {
           "textoCompleto": [],
           "link": "#",
           "videos": [
-            "videos/informes-2-v0-1794335818243.mp4"
+            {
+              "url": "videos/informes-2-v0-1794335818243.mp4",
+              "poster": ""
+            }
           ]
         }
       ]
@@ -1261,6 +1349,78 @@ const content = {
       "fundo": "campo",
       "fundoImagemUrl": "",
       "itens": [
+        {
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/boto-x-santo-amaro.png",
+          "capaAlt": "Goleadas e empates marcam a 13ª rodada do Campeonato do Hotel Fazenda",
+          "titulo": "Goleadas e empates marcam a 13ª rodada do Campeonato do Hotel Fazenda",
+          "resumo": "",
+          "textoCompleto": [
+            "No último sábado (26), às 9h, Santos e ABC deram início à 13ª rodada do Campeonato de Futebol do Hotel Fazenda da APM. A equipe santista levou a melhor e venceu por 4 a 2, com gol de Caio Zeraik Lima Turner, camisa 71, e um hat-trick de Lorenzo Santana Cação, camisa 59, que completou a goleada. Bruno De Lazari Shaffhausser, camisa 9, e Felipe Aragão da Silva, camisa 90, descontaram para a ABC.",
+            "No mesmo horário, Boto Cabano também venceu por 4 a 2 a equipe de Santo Amaro. Os gols foram marcados por Matheus Felipe de Souza Vasconcelos, camisa 34, Enzo Crispiano Calheiro (2x), camisa 10, e Renan Ribeiro, camisa 14. Do lado da equipe de Santo Amaro, André Henrique Rocha Cunha, camisa 27, e Gustavo Figueiredo Pinto, camisa 19, foram os autores dos gols.",
+            "Às 11h, Guarulhos venceu a equipe de Bragança Paulista por 3 a 0. Os gols foram marcados por Dirceu Monteiro Pontes Neto, camisa 38, Victor Lucca, camisa 69, e Daniel Bernardes Junior, camisa 11.",
+            "Em simultâneo, o time da Unimes derrotou a equipe de Taubaté por 3 a 1. Rodrigo de Oliveira Wilman, camisa 19, Diogo Vieira de Carvalho, camisa 51, e Alexandre Augusto Monteiro Viana, camisa 80, balançaram as redes para a equipe vencedora. Matheus do Prado Colaço Koppe, camisa 16, descontou para o time de Taubaté.",
+            "Já na manhã de domingo, às 9h, duas partidas terminaram empatadas. Sorocaba e Mogi das Cruzes ficaram no 2 a 2, com Bruno Antonio Mizel Santos, camisa 29, e Matheus Anholetti Teixeira, camisa 88, para Sorocaba, enquanto Eduardo Costa Fronteira, camisa 19, e Pedro Zambusi Naufel, camisa 11, marcaram para Mogi.",
+            "No mesmo horário, Med9 e MedBolivia também finalizaram a partida empatados em 2 a 2. Pedro Scatuzzi Filho, camisa 7, marcou duas vezes para a Med9, assim como Kassio Andreoli Claudio Figueiredo, camisa 22, que também balançou as redes duas vezes para o MedBolívia."
+          ],
+          "link": "https://www.hotelfazendaapm.com.br/blog/goleadas-e-empates-marcam-a-13a-rodada-do-campeonato-do-hotel-fazenda/",
+          "videos": []
+        },
+        {
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/mogi-x-med9.jpg",
+          "capaAlt": "12ª rodada do Campeonato de Futebol é realizada após adiamento por fortes chuvas",
+          "titulo": "12ª rodada do Campeonato de Futebol é realizada após adiamento por fortes chuvas",
+          "resumo": "",
+          "textoCompleto": [
+            "Na manhã do último domingo, 20 de setembro, Mogi das Cruzes e Med9 empataram em 1 a 1, em partida válida pela 12ª rodada do Campeonato de Futebol do Hotel Fazenda da Associação Paulista de Medicina. Matheus Cunha Brunini Patto, camisa 90, balançou a rede para a equipe de Mogi. Já do lado da Med9, o autor do gol foi o camisa 10, Pedro Scatuzzi Filho.",
+            "No outro jogo da rodada, a equipe de Sorocaba garantiu a vitória por W.O. e somou 3 pontos na tabela após o não comparecimento do time da Santa Casa.",
+            "Já na manhã do dia 3 de outubro, a partida entre Bragança Paulista e Unimes não aconteceu devido à ausência da equipe da Unimes. Com isso, Bragança também venceu por W.O.",
+            "No dia seguinte (4), o ABC venceu Guarulhos por 3 a 2, com gols de Danilo Nardini Carvalho, camisa 7, Bruno de Lazari Schaffhausser, camisa 9 e Fauze Camargo Maluf, camisa 10. Já pelo lado de Guarulhos, os gols foram marcados por Daniel Bernardes Junior, camisa 11 e Daniel Koiti de Sá, camisa 5.",
+            "Na manhã do dia 11 de outubro, Anhembi Morumbi goleou Santo Amaro por 4 a 1. Leonardo Galvão de Oliveira Oldra, camisa 10, Bruno Sorrentino Parmigiani, camisa 20, Raphael Santos de Santana, camisa 15 e Murilo Nonato Rodrigues, camisa 39, balançaram as redes para a Anhembi Morumbi. Já do lado de Santo Amaro, o gol foi marcado por Andre Giovanni de Oliveira Maglio, camisa 55.",
+            "Para fechar a rodada, no dia 17 de outubro, às 9h, Santos venceu o Boto Cabano por 3 a 0. Lorenzo Santana Cação, camisa 59, brilhou ao balançar as redes duas vezes, enquanto Matheus Frizzo, camisa 20, fechou o placar.",
+            "Em simultâneo, Taubaté goleou a equipe do MedBolívia por 6 a 0. Os gols foram marcados por Lucas Franklin Rocha de Souza (2x), camisa 27, Anibal Vivacqua, camisa 10, Ricardo Landini Dolci, camisa 54 e Bruno Dal Sasso Begliomini (2x), camisa 54.",
+            "Esses confrontos, disputados entre o final de setembro e o início de outubro, haviam sido originalmente marcados para o dia 12 e 13 de setembro, mas foram adiados devido às fortes chuvas."
+          ],
+          "link": "https://www.hotelfazendaapm.com.br/blog/12a-rodada-do-campeonato-de-futebol-e-realizada-apos-adiamento-por-fortes-chuvas/",
+          "videos": []
+        },
+        {
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/abc-x-sorocaba.png",
+          "capaAlt": "8ª rodada: Med9 vence por W.O e dispara na liderança, enquanto Santa Casa se isola na lanterna",
+          "titulo": "8ª rodada: Med9 vence por W.O e dispara na liderança, enquanto Santa Casa se isola na lanterna",
+          "resumo": "",
+          "textoCompleto": [
+            "No último sábado, 27 de junho, às 9h, a equipe de Bragança Paulista venceu a de Mogi das Cruzes por 2 a 1. Os gols foram marcados pelo camisa 23, Yuri Rodrigues Almeida (2x). Já do lado de Mogi, o gol foi marcado por Fábio Ferrari Nassar, camisa 70.",
+            "Em simultâneo, ABC e Sorocaba se enfrentaram e a partida terminou em 3 a 2 para o time do ABC. Os gols foram marcados por Lucas Ciaravolo Gaspar, camisa 43; Felipe Aragão da Silva, camisa 90; e por Fauze Camargo Maluf, camisa 10. Cauê Gasparotto, camisa 32; e Marcelo Hun Archer, camisa 31, balançaram as redes para o lado de Sorocaba.",
+            "Mais tarde, às 11h, Santa Casa e MedBolívia ficaram empatados em 1 a 1. Lucas Yuki Otsubo Hayasida, camisa 31, foi o autor do gol da Santa Casa. Já Leandro Josué Uzqueda Burgos, camisa 17, balançou a rede para os bolivianos.",
+            "Já na manhã do domingo, às 9h, Anhembi Morumbi goleou a equipe do Boto Cabano por 5 a 1. Gabriel Vargas Laprovera Boechat, camisa 15; Gabriel Perone G. Monteiro, camisa 25; Bruno Ribeiro, camisa 4; Bruni Sorrentino Parmegiani, camisa 16; e Henrique Guimarães, camisa 13, foram os autores dos gols da Anhembi Morumbi. O gol de honra da equipe do Boto Cabano foi marcado pelo camisa 23, Arthur Licio Rocha Bezerra Junior.",
+            "No mesmo horário, Santos venceu Taubaté por 3 a 1. Os gols santistas foram marcados por João Balla Guedes Frei, camisa 58; e por Rodrigo Reis Donnangelo (2x), camisa 8. O gol de Taubaté foi marcado pelo camisa 52, Guilherme Sartori Stocco.",
+            "Mais tarde, às 11h, Unimes e Santo Amaro se enfrentaram e o jogo terminou com vitória da equipe da Unimes por 2 a 0. Os gols foram marcados por Matheus Vieira Mulero, camisa 54; e por Nicola Jorge Carneiro Neto, camisa 10.",
+            "Para fechar a rodada, a Med9 venceu a equipe de Guarulhos por W.O. O placar estava em 2 a 1 para Guarulhos quando, aos 80 minutos de jogo, a equipe ficou com um número insuficiente de jogadores em campo. Com a vitória decretada pelo regulamento, a Med9 garantiu os 3 pontos."
+          ],
+          "link": "https://www.hotelfazendaapm.com.br/blog/8a-rodada-med9-vence-por-w-o-e-dispara-na-lideranca-enquanto-santa-casa-se-isola-na-lanterna/",
+          "videos": []
+        },
+        {
+          "tag": "Campeonato Hotel Fazenda APM",
+          "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/boto-cabano-x-santa-casa.png",
+          "capaAlt": "6ª rodada do Campeonato traz hat-tricks e partidas vencidas por W.O",
+          "titulo": "6ª rodada do Campeonato traz hat-tricks e partidas vencidas por W.O",
+          "resumo": "",
+          "textoCompleto": [
+            "Na manhã do último sábado, 16 de maio, às 9h, Boto Cabano venceu a equipe da Santa Casa por 3 a 2. Os gols foram marcados por Fernando Souto Dias, camisa 40, e por Fabiano N. Farias Filho, camisa 39. Já do lado do Boto Cabano, Enzo Crispino Calheiros, camisa 10 fez um hat-trick e garantiu os três pontos para a sua equipe.",
+            "Mais tarde, às 11h, Sorocaba goleou a equipe do MedBolívia por 5 a 2. Vinicius Holetti Teixeira (3x), camisa 27; André Luis Bettati Junior, camisa 8; e André Luiz Almeida Antune, camisa 68, balançaram as redes para a equipe sorocabana. Já do lado do MedBolívia, Saul Alexis, camisa 9, foi o autor dos dois gols.",
+            "A partida marcada para às 9h, entre Med9 e Unimes, não aconteceu devida à ausência da equipe da Unimes. Com isso, Med9 venceu mais um confronto por W.O.",
+            "No domingo, 17 de maio, às 9h, Santos e Guarulhos se enfrentaram e a partida terminou com vitória santista por 3 a 1. Os gols foram marcados por Guilherme D’Agosto Bernades, camisa 56; Lorenzo Santana Cação, camisa 59; e por José Matheus Frizzo Lopes Moço, camisa 20. Do lado de Guarulhos, Daniel Bernardes Junior, camisa 20, foi o autor do único gol.",
+            "Em simultâneo, Bragança Paulista venceu a equipe de Taubaté por 1 a 0. O único gol da partida foi marcado por Lucas Soubhia Sanches, camisa 12.",
+            "Às 11h, Mogi das Cruzes e Anhembi Morumbi empataram em 1 a 1. Felipe Mahfuz Correa, camisa 77, marcou para o time de Mogi das Cruzes. Já do lado da Anhembi Morumbi, o gol foi marcado por Leonardo Galvão de Oliveira Oldra, também camisa 77.",
+            "O jogo entre Santo Amaro e ABC, que também aconteceria às 11h, não aconteceu devido à ausência da equipe de Santo Amaro. Com isso, ABC venceu a partida por W.O e acrescentou mais três pontos na tabela."
+          ],
+          "link": "https://www.hotelfazendaapm.com.br/blog/6a-rodada-do-campeonato-traz-hat-tricks-e-partidas-vencidas-por-w-o/",
+          "videos": []
+        },
         {
           "tag": "Campeonato Hotel Fazenda APM",
           "capaUrl": "https://www.hotelfazendaapm.com.br/wordpress/wp-content/uploads/1-3.png",
